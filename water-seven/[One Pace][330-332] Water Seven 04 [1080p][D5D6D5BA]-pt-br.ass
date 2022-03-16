@@ -5391,14 +5391,14 @@ Dialogue: 5,0:04:28.05,0:04:30.33,Main-207+,,0,0,0,,{Então, por que você não 
 Dialogue: 5,0:04:31.70,0:04:34.96,Main-207+,,0,0,0,,Este é o {fraco}capitão do fracote de nariz comprido!
 Dialogue: 5,0:04:36.10,0:04:39.90,Main-207+,,0,0,0,,{Ele não pode ser tão forte.}Então ele não pode ser {\i1}tão{\i0} tão forte!
 Dialogue: 5,0:04:43.67,0:04:45.97,Main-207+,,0,0,0,,{Vamos, baixinha.} Vamos lá, coisa curta!
-Dialogue: 5,0:04:47.64,0:04:50.55,Main-207+,,0,0,0,,{\fad(150,150)}Goma Goma...
+Dialogue: 5,0:04:47.64,0:04:50.55,Main-207+,,0,0,0,,{\fad(150,150)}Gomu Gomu...
 Dialogue: 5,0:04:51.35,0:04:52.85,Main-207+,,0,0,0,,Hmm?
 Dialogue: 5,0:04:55.10,0:04:56.77,Main-207+,,0,0,0,,O que você está fazendo?
 Dialogue: 5,0:04:57.96,0:05:03.50,Main-207+,,0,0,0,,{Ele está socando? Naquela enorme armadura de aço que nem mesmo um canhão de batalha pode quebrar?}Ele está usando os punhos nus? Um navio de guerra não faria um amassado naquela grossa armadura de {ferro}aço!{Gaijin: O ferro é bastante quebradiço sem tratamento térmico, então, embora possa parecer potes de ferro fundido, deve ser\Ntratado termicamente para ser tão forte quanto eles dizem.} {Eu mudei "aço" para "ferro" porque as fantasias da Família Franky parecem que estão todos andando em potes de ferro fundido. Parece que me lembro que o japonês usa a mesma palavra para ferro e aço, mas corrija-me se estiver errado aqui e volte para "aço" se necessário.}
 Dialogue: 5,0:05:03.50,0:05:04.70,Main-207+,,0,0,0,,Que piada!
 Dialogue: 5,0:05:06.70,0:05:10.62,Main-207+,,0,0,0,,{Se você está apenas brincando, eu vou em frente e esmague você!}\NSe você está apenas brincando, eu vou em frente e esmague você.
-Dialogue: 5,0:05:27.80,0:05:29.30,Main-207+,,0,0,0,,{\fad(150,150)}Canhão!
-Dialogue: 5,0:05:42.60,0:05:46.00,Main-207+,,0,0,0,,{H-Ele fez um buraco naquela armadura\Nenorme!}E-Ele atravessou aquela armadura grossa!
+Dialogue: 5,0:05:27.80,0:05:29.30,Main-207+,,0,0,0,,{\fad(150,150)}Cannon!
+Dialogue: 5,0:05:42.60,0:05:46.00,Main-207+,,0,0,0,,{H-Ele fez um buraco naquela armadura\Nenorme!}E-Ele atravessou aquela armadura!
 Dialogue: 5,0:05:46.95,0:05:48.16,Main-207+,,0,0,0,,Ei!
 Dialogue: 5,0:05:49.10,0:05:53.66,Main-207+,,0,0,0,,{E-Espere um segundo, pessoal! Vamos conversar primeiro!} N-Agora\Nesperem um minuto, pessoal! Vamos conversar sobre as coisas!
 Dialogue: 5,0:05:53.66,0:05:55.23,Main-207+,,0,0,0,,{Vamos ter um...}Vamos conversar...
@@ -5406,15 +5406,15 @@ Dialogue: 5,0:05:55.23,0:05:57.12,Main-207+,,0,0,0,,Vamos... vamos...
 Dialogue: 5,0:05:57.12,0:05:58.82,Main-207+,,0,0,0,,Vamos disparar {cannonballs} os canhões!
 Dialogue: 5,0:05:58.82,0:06:00.50,Main-207+,,0,0,0,,Yahoo!
 Dialogue: 5,0:06:03.00,0:06:04.70,Main-207+,,0,0,0,,{\fad(150,150)}Estilo de três espadas{...}:
-Dialogue: 5,0:06:05.35,0:06:06.47,Main-207+,,0,0,0,,{\fad(150,150)}{Raven...} Corvo terrível...
-Dialogue: 5,0:06:12.80,0:06:13.89,Main-207+,,0,0,0,,{\fad(150,150)}Caçar!
+Dialogue: 5,0:06:05.35,0:06:06.47,Main-207+,,0,0,0,,{\fad(150,150)}{Raven...} Diren Riven...
+Dialogue: 5,0:06:12.80,0:06:13.89,Main-207+,,0,0,0,,{\fad(150,150)}Hunt!
 Dialogue: 5,0:06:27.19,0:06:30.57,Main-207+,,0,0,0,,Th-Essas balas de canhão são feitas de ferro, {você} sabe!
 Dialogue: 5,0:06:38.01,0:06:39.67,Main-207+,,0,0,0,,{Até um canhão também!i1}E{\i0} o canhão?!
 Dialogue: 5,0:06:39.67,0:06:43.27,Main-207+,,0,0,0,,Más notícias!  Esses caras são uma péssima notícia!
 Dialogue: 5,0:06:44.13,0:06:48.13,Main-207+,,0,0,0,,{G-Saia daqui} L-Vamos pular!\NSaia pela porta dos fundos!
 Dialogue: 5,0:06:55.41,0:07:00.35,Main-207+,,0,0,0,,{Você começou a luta. Não seja patético.}Você escolheu\Nessa luta.{Não recue tão cedo.}Nem pense em desistir.
-Dialogue: 5,0:07:00.90,0:07:02.48,Main-207+,,0,0,0,,{\fad(150,150)}Mesa de festa...
-Dialogue: 5,0:07:03.23,0:07:05.19,Main-207+,,0,0,0,,{\fad(150,150)}Curso de chute!
+Dialogue: 5,0:07:00.90,0:07:02.48,Main-207+,,0,0,0,,{\fad(150,150)}Party Table...
+Dialogue: 5,0:07:03.23,0:07:05.19,Main-207+,,0,0,0,,{\fad(150,150)}Kick Course!
 Dialogue: 5,0:07:17.79,0:07:20.09,Main-207+,,0,0,0,,{W-Nós não podemos usar a porta dos fundos!} B-porta dos fundos é proibida!
 Dialogue: 5,0:07:20.09,0:07:22.50,Main-207+,,0,0,0,,As janelas!  {Saia pelas janelas!}Experimente as janelas!
 Dialogue: 5,0:07:23.25,0:07:24.38,Main-207+,,0,0,0,,{\fad(150,150)}Estrondo!
@@ -5422,15 +5422,15 @@ Dialogue: 5,0:07:25.30,0:07:26.82,Main-207+,,0,0,0,,{\fad(150,150)}Ponto de chif
 Dialogue: 5,0:07:36.97,0:07:39.89,Main-207+,,0,0,0,,{\fad(150,150)}Roseo Colunata!
 Dialogue: 5,0:07:45.87,0:07:48.61,Main-207+,,0,0,0,,E-Espere um segundo, pessoal!
 Dialogue: 5,0:07:48.61,0:07:51.71,Main-207+,,0,0,0,,{O dinheiro, certo?! Você quer o dinheiro de volta,\Nné?!}É o dinheiro, né?! Isso é o que você quer!
-Dialogue: 5,0:07:51.71,0:07:55.03,Main-207+,,0,0,0,,A barriga de 200 milhões que\Naquele perdedor tinha, certo?
+Dialogue: 5,0:07:51.71,0:07:55.03,Main-207+,,0,0,0,,A maleta de 200 milhões que\Naquele perdedor tinha, certo?
 Dialogue: 5,0:07:55.03,0:07:59.00,Main-207+,,0,0,0,,Infelizmente, esse dinheiro {não está mais aqui} não está mais aqui!
 Dialogue: 5,0:07:59.00,0:08:03.59,Main-207+,,0,0,0,,Nosso chefe, Big Bro Franky,\Npegou o dinheiro e foi às compras.
 Dialogue: 5,0:08:03.59,0:08:07.00,Main-207+,,0,0,0,,{Já que ele está comprando algo no mercado negro, não sabemos para onde ele foi.}{Ele está comprando algo no mercado negro; e\Nele pode estar em qualquer lugar agora!}Ele está trabalhando no mercado negro, então ele poderia estar em qualquer lugar agora!
 Dialogue: 5,0:08:07.91,0:08:10.20,Main-207+,,0,0,0,,{Em resumo, não importa o quanto {você enlouqueça\Naqui,}Basicamente, mesmo se você enlouquecer aqui,
-Dialogue: 5,0:08:10.20,0:08:12.51,Main-207+,,0,0,0,,aquela barriga de 200 milhões não virá ba–
+Dialogue: 5,0:08:10.20,0:08:12.51,Main-207+,,0,0,0,,aquela maleta de 200 milhões não virá ba–
 Dialogue: 5,0:08:12.51,0:08:14.14,Main-207+,,0,0,0,,{Eu sou um caso perdido!} Ugh!
 Dialogue: 5,0:08:14.14,0:08:16.02,Main-207+,,0,0,0,,Ahh}!  Zambi!
-Dialogue: 5,0:08:18.01,0:08:23.01,Main-207+,,0,0,0,,{Isso é o suficiente de você. Não tem nada a ver com\Ndinheiro.}Pare de falar a boca. Isso nunca foi sobre o dinheiro.
+Dialogue: 5,0:08:18.01,0:08:23.01,Main-207+,,0,0,0,,{Isso é o suficiente de você. Não tem nada a ver com\Ndinheiro.}Pare de falar. Isso nunca foi sobre o dinheiro.
 Dialogue: 5,0:08:23.60,0:08:26.81,Main-207+,,0,0,0,,Sim.  É muito tarde.
 Dialogue: 5,0:08:31.45,0:08:34.01,Main-207+,,0,0,0,,{Vamos bater tanto em vocês que nem mesmo seus ossos\Nficarão.} Vamos quebrar todos os ossos de seus corpos.
 Dialogue: 5,0:08:34.74,0:08:36.35,Main-207+,,0,0,0,,{Nem mesmo nossos ossos?!i1}Até o último{\i0} osso?
@@ -5458,9 +5458,9 @@ Dialogue: 5,0:10:33.61,0:10:37.82,Main-207+,,0,0,0,,{O que fazemos agora? Mesmo 
 Dialogue: 5,0:10:38.37,0:10:40.94,Main-207+,,0,0,0,,Ei!  Eu terminei de dar-lhe os primeiros socorros!
 Dialogue: 5,0:10:40.94,0:10:44.08,Main-207+,,0,0,0,,{Eu gostaria de colocá-lo em uma maca, então me ajude\Naqui!}Eu preciso dele em uma maca{,}. {g}Dê-me uma mão!
 Dialogue: 5,0:10:44.74,0:10:46.96,Main-207+,,0,0,0,,{Ficar aqui conversando não vai nos levar a lugar nenhum.} Não vamos descobrir aqui.
-Dialogue: 5,0:10:46.96,0:10:51.20,Main-207+,,0,0,0,,Vamos voltar para o navio por enquanto. {Nós\Ndeixamos }Nami-{\i1}san{\i0} sozinho lá{ também, então...}.
-Dialogue: 5,0:10:51.20,0:10:53.29,Main-207+,,0,0,0,,{Temos a coisa com Robin-chan\Npara lidar...}Há também Robin-{\i1}chan{\i0}...
-Dialogue: 5,0:10:53.29,0:10:55.89,Main-207+,,0,0,0,,e os problemas com o navio{,} também.
+Dialogue: 5,0:10:46.96,0:10:51.20,Main-207+,,0,0,0,,Vamos voltar para o navio por enquanto. {Nós\Ndeixamos }Nami-{\i1}san{\i0} está sozinha lá{ também, então...}
+Dialogue: 5,0:10:51.20,0:10:53.29,Main-207+,,0,0,0,,{Temos a coisa com Robin-chan\Npara lidar...}também Robin-{\i1}chan{\i0}...
+Dialogue: 5,0:10:53.29,0:10:55.89,Main-207+,,0,0,0,,e há os problemas com o navio.
 Dialogue: 5,0:10:55.89,0:10:56.71,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:10:57.21,0:10:58.56,Main-207+,,0,0,0,,Oi, Luffy!
 Dialogue: 5,0:11:02.30,0:11:04.01,Main-207+,,0,0,0,,Sobre o navio.
@@ -5514,7 +5514,7 @@ Dialogue: 5,0:13:57.30,0:13:59.00,Main-207+,,0,0,0,,{Então, como eu estava com 
 Dialogue: 5,0:13:59.66,0:14:02.02,Main-207+,,0,0,0,,{o dinheiro não vai voltar?}{t}O dinheiro sumiu de vez.
 Dialogue: 5,0:14:02.50,0:14:07.07,Main-207+,,0,0,0,,Bem, não saberemos com certeza\Naté que esse cara Franky volte.
 Dialogue: 5,0:14:07.55,0:14:10.24,Main-207+,,0,0,0,,Entendo.  Sinto muito.
-Dialogue: 5,0:14:10.24,0:14:14.20,Main-207+,,0,0,0,,{Bem,} Mas mesmo se não conseguirmos de\Nvolta, ainda temos {a} barriga de 100 milhões.
+Dialogue: 5,0:14:10.24,0:14:14.20,Main-207+,,0,0,0,,{Bem,} Mas mesmo se não conseguirmos de\Nvolta, ainda temos {a} maleta de 100 milhões.
 Dialogue: 5,0:14:14.20,0:14:15.62,Main-207+,,0,0,0,,{Então está tudo bem.  Não se preocupe com isso.}Então está tudo bem.  Sem problemas.
 Dialogue: 5,0:14:19.00,0:14:21.54,Main-207+,,0,0,0,,{Não está tudo bem com o dinheiro!}Não está tudo bem {\i1}não{\i0}!  Esse é o nosso dinheiro!
 Dialogue: 5,0:14:21.54,0:14:24.80,Main-207+,,0,0,0,,– Nami. – Ah! Foi mal.
