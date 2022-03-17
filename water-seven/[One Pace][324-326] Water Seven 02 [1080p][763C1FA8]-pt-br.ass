@@ -5446,9 +5446,9 @@ Dialogue: 5,0:07:49.89,0:07:52.96,Main-207+,,0,0,0,,Então eles usam água para 
 Dialogue: 5,0:07:59.00,0:08:00.58,Main-207+,,0,0,0,,Ei!
 Dialogue: 5,0:08:00.58,0:08:03.54,Main-207+,,0,0,0,,Quem você está chamando de "Moss Head"?
 Dialogue: 5,0:08:04.60,0:08:05.54,Main-207+,,0,0,0,,Oi, Zoro.
-Dialogue: 5,0:08:07.46,0:08:10.53,Main-207+,,0,0,0,,– Hã? – Onde está Robin-{\i1}chan{\fs10}\N{r}? Ela não está no navio.{\fs\i0\i0\i0}
+Dialogue: 5,0:08:07.46,0:08:10.53,Main-207+,,0,0,0,,– Hã? – Onde está Robin-{\i1}chan{\fs10}\N{r}? Ela não está no navio.
 Dialogue: 5,0:08:10.53,0:08:11.67,Main-207+,,0,0,0,,Hmm?
-Dialogue: 5,0:08:12.51,0:08:16.97,Main-207+,,0,0,0,,Certo, ela não é. Ela saiu\Ncom Chopper mais cedo.
+Dialogue: 5,0:08:12.51,0:08:16.97,Main-207+,,0,0,0,,Certo, ela não está. Ela saiu\Ncom Chopper mais cedo.
 Dialogue: 5,0:08:16.97,0:08:20.54,Main-207+,,0,0,0,,– O quê?!– Ela disse\Nque ia fazer compras.
 Dialogue: 5,0:08:20.54,0:08:24.40,Main-207+,,0,0,0,,Que diabos?! Então\N{você} é o único no navio?
 Dialogue: 5,0:08:24.40,0:08:27.59,Main-207+,,0,0,0,,{Que ambiente chato!} Quão chato é isso!?
@@ -5527,7 +5527,7 @@ Dialogue: 5,0:14:28.08,0:14:29.86,Main-207+,,0,0,0,,Robin?!
 Dialogue: 5,0:15:05.51,0:15:08.63,Main-207+,,0,0,0,,{Achei que estávamos atacando você enquanto dormia...}Pensamos em pegar você enquanto dormia.
 Dialogue: 5,0:15:12.59,0:15:14.48,Main-207+,,0,0,0,,Quem são vocês {bastards}creeps?!
 Dialogue: 5,0:15:15.50,0:15:16.93,Main-207+,,0,0,0,,{Identifique-se!}Diga-me!
-Dialogue: 5,0:15:16.93,0:15:20.08,Main-207+,,0,0,0,,O-Cem milhões de barriga?!
+Dialogue: 5,0:15:16.93,0:15:20.08,Main-207+,,0,0,0,,O-Cem milhões de Berrys?!
 Dialogue: 0,0:15:17.47,0:15:23.90,Captions,,0,0,0,,{\pos(1133,296)\c&H000000&\1a&HFF&\blur0.6\fad(400,0)\t(355,400,\1a&H00&)}Câmbio monetário
 Dialogue: 1,0:15:17.47,0:15:23.90,Captions,,0,0,0,,{\pos(1133,296)\bord0\4a&HFF&\blur0.6\fad(400,0)}Câmbio monetário
 Dialogue: 5,0:15:20.08,0:15:23.90,Main-207+,,0,0,0,,I-Idiota!  Você é muito barulhento!  Todos podem ouvir você!
@@ -5551,7 +5551,7 @@ Dialogue: 5,0:16:26.75,0:16:30.09,Main-207+,,0,0,0,,Eu não aceito a avaliação
 Dialogue: 5,0:16:30.09,0:16:36.01,Main-207+,,0,0,0,,{Terceiro... se você mentir para nós novamente, iremos atrás de sua cabeça.}Terceiro.\NSe você mentir para nós novamente, {nós pegamos sua cabeça} sua cabeça é nossa.
 Dialogue: 5,0:16:36.01,0:16:37.22,Main-207+,,0,0,0,,Isso é tudo.
 Dialogue: 5,0:16:37.22,0:16:41.39,Main-207+,,0,0,0,,{Eu... eu sinto muito!} P-Por favor, me perdoe!
-Dialogue: 5,0:16:41.39,0:16:46.40,Main-207+,,0,0,0,,Th-trezentos milhões de barriga?! {Isso não\Né um sonho?} Eu não estou sonhando, estou?
+Dialogue: 5,0:16:41.39,0:16:46.40,Main-207+,,0,0,0,,Th-trezentos milhões de Berrys?! {Isso não\Né um sonho?} Eu não estou sonhando, estou?
 Dialogue: 5,0:16:46.40,0:16:50.32,Main-207+,,0,0,0,,Nossa aventura na Ilha do Céu\Nfinalmente {frutou!} valeu a pena!
 Dialogue: 5,0:16:50.32,0:16:52.53,Main-207+,,0,0,0,,Eu sou super rico!
 Dialogue: 5,0:16:52.53,0:16:53.65,Main-207+,,0,0,0,,{Isso deveria ser} Você quer dizer "nós"!
@@ -5631,7 +5631,7 @@ Dialogue: 5,0:21:16.50,0:21:18.79,Main-207+,,0,0,0,,{Sim.  Ele é quadrado!} Cer
 Dialogue: 5,0:21:18.79,0:21:23.69,Main-207+,,0,0,0,,Oh sim!  Hum.  Gostaríamos de ver Iceburg-{\i1}san{\i0}.
 Dialogue: 5,0:21:23.69,0:21:26.13,Main-207+,,0,0,0,,{Hum? }Iceburg-{\i1}san{\i0}, {}você\N{}diz? Você é um cliente {cliente}?
 Dialogue: 5,0:21:26.96,0:21:28.70,Main-207+,,0,0,0,,{Ah, entendo.}{I}Ora, {está claro.}está claro como o dia.{Gaijin, depois que Kaku diz essa linha, Luffy olha para ele e pergunta a Kaku se ele é velho.  Talvez tenhamos que pensar em como trabalhar as frases de Kaku para fazê-lo soar mais longo no dente.  Caso em questão: qualquer um dizendo “longo no dente” automaticamente soa como um velho idiota.}
-Dialogue: 5,0:21:28.70,0:21:32.06,Main-207+,,0,0,0,,{Esta é uma carta de referência}É{'s} parece ser uma {carta de introdução}referência de {Velha Dama}aquela velha Kokoro\Nna Estação Shift{, }.{huh?}{certo crianças?}{Gaijin, apenas tentando fazer o velho funcionar o melhor que posso.}
+Dialogue: 5,0:21:28.70,0:21:32.06,Main-207+,,0,0,0,,{Esta é uma carta de referência}É{'s} parece ser uma {carta de introdução}referência {Velha Dama}daquela velha Kokoro\Nna Estação Shift{, }.{huh?}{certo crianças?}{Gaijin, apenas tentando fazer o velho funcionar o melhor que posso.}
 Dialogue: 5,0:21:32.06,0:21:35.09,Main-207+,,0,0,0,,Hmm?  Você é um cara velho?
 Dialogue: 5,0:21:35.09,0:21:36.80,Main-207+,,0,0,0,,Eu tenho 23.
 Dialogue: 5,0:21:36.80,0:21:40.95,Main-207+,,0,0,0,,23? Você fala como {um homem\Nvelho.} você é muito mais velho que nós.
