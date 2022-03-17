@@ -16,8 +16,9 @@ Video File: ../../[One Pace][326-329] Water Seven 03 [1080p][01874097].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 1
-Video Position: 2694
+Scroll Position: 572
+Active Line: 575
+Video Position: 52523
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -84,7 +85,7 @@ Dialogue: 5,0:04:11.18,0:04:14.10,Main-207+,,0,0,0,,{Você ainda está dizendo i
 Dialogue: 5,0:04:14.10,0:04:17.79,Main-207+,,0,0,0,,Aconteceu de estar no yagara\Nque eu peguei emprestado!
 Dialogue: 5,0:04:17.79,0:04:19.69,Main-207+,,0,0,0,,Eles estão de volta.
 Dialogue: 5,0:04:20.29,0:04:22.87,Main-207+,,0,0,0,,Bem, estou feliz por você, Usopp!
-Dialogue: 5,0:04:22.87,0:04:27.71,Main-207+,,0,0,0,,{Você fala como se fosse problema de outra pessoa} Não aja como\Nse não tivesse haver com você tambémo! É {\i1}nosso{\i0} os 200 milhões de Berrys!
+Dialogue: 5,0:04:22.87,0:04:27.71,Main-207+,,0,0,0,,{Você fala como se fosse problema de outra pessoa} Não aja como\Nse não tivesse haver com você também! É {\i1}nosso{\i0} os 200 milhões de Berrys!
 Dialogue: 5,0:04:27.71,0:04:32.19,Main-207+,,0,0,0,,Isso está certo! Por que diabos você\Nnão foi o primeiro a pegar de volta?!
 Dialogue: 5,0:04:32.19,0:04:34.87,Main-207+,,0,0,0,,Mas aquele pombo disse que iria.
 Dialogue: 5,0:04:34.87,0:04:37.60,Main-207+,,0,0,0,,{Bem...} Hum, me desculpe.
@@ -94,16 +95,16 @@ Dialogue: 5,0:04:43.90,0:04:48.51,Main-207+,,0,0,0,,{Bem, por favor, desculpe-o.
 Dialogue: 5,0:04:48.51,0:04:50.43,Main-207+,,0,0,0,,Hmm.  Isso é verdade {, mas ..}.
 Dialogue: 5,0:04:50.43,0:04:52.93,Main-207+,,0,0,0,,Sim, isso é verdade, isso é verdade.
 Dialogue: 5,0:04:54.23,0:04:59.07,Main-207+,,0,0,0,,{Diga... quem eram aqueles caras esquisitos de antes?}\NEntão, quem eram aqueles caras esquisitos de antes?
-Dialogue: 5,0:04:59.07,0:05:02.40,Main-207+,,0,0,0,,{A Família Franky é um grupo de trabalhadores de demolição de navios.} A Família\NFranky: um grupo de desmanteladores de {trabalhadores de demolição} de navios.
-Dialogue: 5,0:05:02.40,0:05:07.37,Main-207+,,0,0,0,,{Trabalhadores de demolição} Desmanteladores?{Eles não pareciam artesãos tão\Ndecentes, no entanto.}Eles pareciam mais bandidos do que artesãos {honestos}.
-Dialogue: 5,0:05:07.37,0:05:11.60,Main-207+,,0,0,0,,Certo.  Eles também são caçadores de recompensas ao lado.
+Dialogue: 5,0:04:59.07,0:05:02.40,Main-207+,,0,0,0,,{A Família Franky é um grupo de trabalhadores de demolição de navios.} A Família\NFranky: um grupo de trabalhadores de demolição de navios.
+Dialogue: 5,0:05:02.40,0:05:07.37,Main-207+,,0,0,0,,{Trabalhadores de demolição} Demolidores?{Eles não pareciam artesãos tão\Ndecentes, no entanto.}Eles pareciam mais bandidos do que artesãos {honestos}.
+Dialogue: 5,0:05:07.37,0:05:11.60,Main-207+,,0,0,0,,Certo.  Eles também são caçadores de recompensas.
 Dialogue: 5,0:05:11.60,0:05:16.00,Main-207+,,0,0,0,,{Toda vez que eles encontram piratas passando por esta cidade, eles causam brigas.}\NEles causam bastante agitação toda vez que descobrem que piratas entraram na cidade.
 Dialogue: 5,0:05:16.00,0:05:17.83,Main-207+,,0,0,0,,Eles são um incômodo público.
 Dialogue: 5,0:05:17.83,0:05:23.38,Main-207+,,0,0,0,,{Se eles esmagarem os piratas que vêm para nossa cidade,}Se eles tirarem os piratas que vêm para\Na cidade,{eles podem pegar o navio deles também, certo?}eles também pegam o navio deles, viu?
 Dialogue: 5,0:05:23.38,0:05:26.93,Main-207+,,0,0,0,,Eles {demolim} desmontam o\Nnavio e vendem a madeira utilizável.
 Dialogue: 5,0:05:26.93,0:05:29.89,Main-207+,,0,0,0,,{É assim que o negócio deles funciona.} Esse é apenas o negócio da Família Franky.
-Dialogue: 5,0:05:29.89,0:05:34.06,Main-207+,,0,0,0,,{Que mal-humorado...! Eles estão tentando eliminar completamente os grupos piratas?}O que rastejou até {\i1}suas{\i0} bundas?!{Eles querem erradicar todas as tripulações piratas lá fora?!}Eles estão tentando desmantelar todas as tripulações piratas?!{ Usopp usa a mesma palavra para desmantelar navios, também prenunciando o destino de sua própria tripulação.\N-gaijin}
-Dialogue: 5,0:05:34.06,0:05:37.02,Main-207+,,0,0,0,,{Hum, se você se tornar suas vítimas, nem mesmo seus ossos permanecerão.}{Um}Bem, entre em conflito com eles e {até seus ossos desaparecem}você é tão bom quanto pó.{Aberto a sugestões, mas não precisamos para traduzir isso diretamente. Falar sobre ossos que não restam é mais uma coisa japonesa do que inglesa.\N-gaijin}
+Dialogue: 5,0:05:29.89,0:05:34.06,Main-207+,,0,0,0,,Que mal-humorado...! Eles estão tentando eliminar completamente os grupos piratas?{ Usopp usa a mesma palavra para desmantelar navios, também prenunciando o destino de sua própria tripulação.\N-gaijin}
+Dialogue: 5,0:05:34.06,0:05:37.02,Main-207+,,0,0,0,,{Hum, se você se tornar suas vítimas, nem mesmo seus ossos permanecerão.}{Um}Bem, entre em conflito com eles e até seus ossos desaparecem{Aberto a sugestões, mas não precisamos para traduzir isso diretamente. Falar sobre ossos que não restam é mais uma coisa japonesa do que inglesa.\N-gaijin}
 Dialogue: 5,0:05:37.02,0:05:39.77,Main-207+,,0,0,0,,Mas eles não pareciam tão fortes.
 Dialogue: 5,0:05:40.35,0:05:42.11,Main-207+,,0,0,0,,Eles são apenas {subalternos.}lacaios.
 Dialogue: 5,0:05:42.84,0:05:48.53,Main-207+,,0,0,0,,{Faça o que fizer, não subestime o chefe da família, Franky, que está por trás deles.} Pense o que quiser deles, mas nunca subestime {Franky, seu chefe dedicado}seu chefe, Franky.{Devoted não está em japonês . O "quem está por trás deles" significa algo como "os cérebros por trás da organização". Implícito com o termo "chefe".\N-gaijin}
@@ -111,39 +112,39 @@ Dialogue: 5,0:05:51.45,0:05:54.01,Main-207+,,0,0,0,,{Nós o trouxemos}Nós o peg
 Dialogue: 5,0:05:54.01,0:05:56.00,Main-207+,,0,0,0,,{Você está fazendo isso de novo! Você está machucando\Nminha orelha!} De novo! Você está machucando meu ouvido!
 Dialogue: 5,0:05:56.00,0:05:57.71,Main-207+,,0,0,0,,{Obrigado, Lucci.}{Muito obrigado}Bom trabalho, Lucci.
 Dialogue: 5,0:05:57.71,0:06:01.42,Main-207+,,0,0,0,,{\an8}Lamentamos {que aquele idiota}esse cérebro de pássaro tenha lhe causado problemas.{:joy: Cérebro de pássaro!  -gaijin}
-Dialogue: 0,0:05:57.79,0:06:01.42,Captions,,0,0,0,,{\pos(970.5,756)\fs72\c&H000000&\1a&HFF&\blur0.9\fad(350,0)\t(305,350,\1a&H00&)}Hattori{fs37}Pombo de Lucci
-Dialogue: 1,0:05:57.79,0:06:01.42,Captions,,0,0,0,,{\pos(970.5,756)\fs72\bord0\4a&HFF&\blur0.9\fad(350,0)}Hattori{fs37}Pombo de Lucci
+Dialogue: 0,0:05:57.79,0:06:01.42,Captions,,0,0,0,,{\pos(970.5,756)\fs72\c&H000000&\1a&HFF&\blur0.9\fad(350,0)\t(305,350,\1a&H00&)}Hattori\N{fs37}Pombo de Lucci
+Dialogue: 1,0:05:57.79,0:06:01.42,Captions,,0,0,0,,{\pos(970.5,756)\fs72\bord0\4a&HFF&\blur0.9\fad(350,0)}Hattori\N{fs37}Pombo de Lucci
 Dialogue: 5,0:06:01.42,0:06:03.00,Main-207+,,0,0,0,,Ah!  {Ele} Ele falou de novo!
 Dialogue: 5,0:06:03.00,0:06:04.30,Main-207+,,0,0,0,,{Coo coo!}
 Dialogue: 5,0:06:04.30,0:06:05.55,Main-207+,,0,0,0,,Ai!
 Dialogue: 5,0:06:05.55,0:06:08.51,Main-207+,,0,0,0,,Agora, peça desculpas a eles, Paulie!
 Dialogue: 5,0:06:09.90,0:06:12.50,Main-207+,,0,0,0,,Aquele pombo{ i} está falando tudo!
-Dialogue: 5,0:06:12.50,0:06:14.72,Main-207+,,0,0,0,,É {como se} ele estivesse falando por {aquele homem com um chapéu.}o {homem}com o chapéu.
+Dialogue: 5,0:06:12.50,0:06:14.72,Main-207+,,0,0,0,,É como se ele estivesse falando por aquele homem com um chapéu.
 Dialogue: 5,0:06:14.72,0:06:17.69,Main-207+,,0,0,0,,{De qualquer forma, estou feliz por termos recebido o dinheiro de volta.} De qualquer forma, estou muito feliz que o dinheiro esteja de volta!
 Dialogue: 5,0:06:17.69,0:06:20.48,Main-207+,,0,0,0,,{Ei, você é o dono do dinheiro?} Ei, então o dinheiro pertencia a você?
 Dialogue: 5,0:06:20.48,0:06:22.24,Main-207+,,0,0,0,,Eu {peguei} trouxe de volta para você.
 Dialogue: 5,0:06:22.24,0:06:23.69,Main-207+,,0,0,0,,Ah, obrigado!
-Dialogue: 5,0:06:23.69,0:06:26.11,Main-207+,,0,0,0,,{If you want to thank me, then give me 10%.}A taxa de 10% de um localizador também é um bom agradecimento.
+Dialogue: 5,0:06:23.69,0:06:26.11,Main-207+,,0,0,0,,{If you want to thank me, then give me 10%.}A taxa de 10% de um resgate também é um bom agradecimento.
 Dialogue: 5,0:06:28.69,0:06:30.62,Main-207+,,0,0,0,,{Desculpe, senhor.} Desculpe por isso, senhor.
 Dialogue: 5,0:06:32.10,0:06:35.18,Main-207+,,0,0,0,,{Esse cara acumulou uma dívida de jogo,} A ​​dívida de jogo desse cara é tão alta,
 Dialogue: 5,0:06:35.18,0:06:38.08,Main-207+,,0,0,0,,{então ele é ganancioso e não tem boas maneiras.} ele se tornou ganancioso e sem modos.
 Dialogue: 5,0:06:38.08,0:06:40.63,Main-207+,,0,0,0,,{Então, por que diabos você está falando?!} Ok, mas por que você está falando?!
 Dialogue: 5,0:06:40.63,0:06:43.92,Main-207+,,0,0,0,,{Você bastardo} Seu bastardo cauteloso! {Você está\Nfalando sério, Lucci!} Pare de falar bobagem, Lucci!
 Dialogue: 5,0:06:43.92,0:06:45.55,Main-207+,,0,0,0,,{Eu não vou aguentar mais!}Você passou dos limites!
-Dialogue: 5,0:06:46.21,0:06:48.55,Main-207+,,0,0,0,,{\fad(150,150)}Ação da corda{!}:
+Dialogue: 5,0:06:46.21,0:06:48.55,Main-207+,,0,0,0,,{\fad(150,150)}Rope Action{!}:
 Dialogue: 5,0:06:48.55,0:06:50.72,Main-207+,,0,0,0,,{Coo coo!}
-Dialogue: 5,0:06:51.30,0:06:54.10,Main-207+,,0,0,0,,{\fad(150,150)}Nó Bolina!
-Dialogue: 5,0:06:57.43,0:06:59.39,Main-207+,,0,0,0,,{\fad(150,150)}{Punição}{Isso é um paddlin'!}{...}Disciplina:
+Dialogue: 5,0:06:51.30,0:06:54.10,Main-207+,,0,0,0,,{\fad(150,150)}Bowline Knot!
+Dialogue: 5,0:06:57.43,0:06:59.39,Main-207+,,0,0,0,,{\fad(150,150)}{Punição}{Isso é um paddlin'!}{...}Discipline:
 Dialogue: 5,0:07:02.10,0:07:03.36,Main-207+,,0,0,0,,{Ahh...}
-Dialogue: 5,0:07:03.36,0:07:05.11,Main-207+,,0,0,0,,Esperar!  Ah não!  Ele é sério!
+Dialogue: 5,0:07:03.36,0:07:05.11,Main-207+,,0,0,0,,Espera!  Ah não!  Ele esta sério!
 Dialogue: 5,0:07:07.89,0:07:10.57,Main-207+,,0,0,0,,{\fad(150,150)}{Pesca com vara e linha!}{Anzol, linha e chumbada}Pesca com mosca!{Gaijin, mudei para o nome do movimento de Viz, mas podemos treinar este um pouco mais depois.}
 Dialogue: 5,0:07:13.50,0:07:16.01,Main-207+,,0,0,0,,E-ele está bem?
 Dialogue: 5,0:07:16.01,0:07:18.29,Main-207+,,0,0,0,,{Bem... não é nada novo.} Hum, isso sempre acontece.
-Dialogue: 5,0:07:20.80,0:07:23.67,Main-207+,,0,0,0,,Uau!  L-O-Olha isso!
+Dialogue: 5,0:07:20.80,0:07:23.67,Main-207+,,0,0,0,,Uau!  O-O-Olha isso!
 Dialogue: 5,0:07:23.67,0:07:27.76,Main-207+,,0,0,0,,{Ele aparou aquele impacto com apenas um braço!} Ele absorveu o impacto com apenas {esse }um braço!
 Dialogue: 5,0:07:30.20,0:07:33.28,Main-207+,,0,0,0,,{Seus dedos estão afundando no chão.}{Cada dedo penetrou no chão duro!}Seus dedos cavaram no chão!{O fraseado parecia um pouco duro para Usopp.  Isso também é mais preciso para os japoneses.  -gaijin}
-Dialogue: 5,0:07:33.28,0:07:36.35,Main-207+,,0,0,0,,O que diabos {tipo de dedos ele tem} está com os dedos dele?
-Dialogue: 5,0:07:36.35,0:07:40.60,Main-207+,,0,0,0,,{O que há com os construtores navais trabalhando aqui?}Que\Ntipo de construtores navais eles têm trabalhando aqui?
+Dialogue: 5,0:07:33.28,0:07:36.35,Main-207+,,0,0,0,,Que tipo de dedos ele tem ?
+Dialogue: 5,0:07:36.35,0:07:40.60,Main-207+,,0,0,0,,{O que há com os construtores navais trabalhando aqui?}Que tipo de construtores navais eles têm trabalhando aqui?
 Dialogue: 5,0:07:42.29,0:07:44.15,Main-207+,,0,0,0,,Ei!  Você, com os óculos!
 Dialogue: 5,0:07:44.15,0:07:46.11,Main-207+,,0,0,0,,{Hm} Hein?
 Dialogue: 5,0:07:46.11,0:07:48.61,Main-207+,,0,0,0,,Ei, pense nisso com cuidado.
@@ -155,14 +156,14 @@ Dialogue: 5,0:08:08.63,0:08:10.46,Main-207+,,0,0,0,,Ei, pombo!
 Dialogue: 5,0:08:11.38,0:08:14.59,Main-207+,,0,0,0,,{Se você quer lutar, lute consigo mesmo!} Lute suas próprias batalhas!
 Dialogue: 5,0:08:14.59,0:08:16.18,Main-207+,,0,0,0,,Diga algo!
 Dialogue: 5,0:08:21.70,0:08:22.77,Main-207+,,0,0,0,,{Coo coo!}
-Dialogue: 5,0:08:22.77,0:08:25.89,Main-207+,,0,0,0,,Oh? Queres lutar?\NTraga-o, seu bastardo!
+Dialogue: 5,0:08:22.77,0:08:25.89,Main-207+,,0,0,0,,Oh? Quer lutar?\NVenha seu bastardo!
 Dialogue: 5,0:08:25.89,0:08:27.90,Main-207+,,0,0,0,,Pare com isso, Paulie.
 Dialogue: 5,0:08:27.90,0:08:31.82,Main-207+,,0,0,0,,{Coo co.  } Bem, desculpe pelo barulho.
 Dialogue: 5,0:08:31.82,0:08:35.18,Main-207+,,0,0,0,,Eu sou Rob L... N-Não, quero dizer, Hattori o pombo.
-Dialogue: 5,0:08:35.18,0:08:40.24,Main-207+,,0,0,0,,{E este é Rob Lucci. Ele trabalha aqui. Prazer em conhecê-lo. Coo coo!}\NE este é Rob Lucci, um dos trabalhadores aqui. Prazer em conhecê-lo!
+Dialogue: 5,0:08:35.18,0:08:40.24,Main-207+,,0,0,0,,{E este é Rob Lucci. Ele trabalha aqui. Prazer em conhecê-lo. Coo coo!}\NE este é Rob Lucci, um dos trabalhadores daqui. Prazer em conhecê-los!
 Dialogue: 5,0:08:40.24,0:08:44.67,Main-207+,,0,0,0,,{Oh? Ele quase se apresentou como se fosse humano!}\NAh? Ele quase se apresentou como se {\i1}ele{\i0} fosse o humano!
 Dialogue: 5,0:08:44.67,0:08:48.13,Main-207+,,0,0,0,,Ah! {Sim, entendi} Sim, eu conheço\Nesse truque! Isso é ventriloquismo, não é?!
-Dialogue: 5,0:08:48.13,0:08:51.31,Main-207+,,0,0,0,,Uau! Sério?!{Então era você quem estava reclamando!}Então\Nvocê realmente {\i1}era{\i0} quem estava zombando dele!
+Dialogue: 5,0:08:48.13,0:08:51.31,Main-207+,,0,0,0,,Uau! Sério?!{Então era você quem estava reclamando!}Então você realmente {\i1}era{\i0} quem estava zombando dele!
 Dialogue: 5,0:08:51.31,0:08:54.49,Main-207+,,0,0,0,,Você é muito, muito\Nbom! eu não percebi!
 Dialogue: 5,0:08:54.49,0:08:57.60,Main-207+,,0,0,0,,{Pare com isso.  Não é grande coisa.}Pare.  Não dê importância a isso.{ Coo coo.}
 Dialogue: 5,0:08:59.00,0:09:02.54,Main-207+,,0,0,0,,Ele é um {estranho}doido que não consegue\Nfalar com as pessoas {corretamente}normalmente.
@@ -178,12 +179,12 @@ Dialogue: 5,0:09:33.00,0:09:36.41,Main-207+,,0,0,0,,{Você não aprendeu sua li�
 Dialogue: 5,0:09:36.41,0:09:39.80,Main-207+,,0,0,0,,Quantas vezes eu tenho que te\Ndizer?! Vestir calças! Calças longas!
 Dialogue: 5,0:09:39.80,0:09:42.21,Main-207+,,0,0,0,,– {Que diabos...?} Ele está falando sério, não é?\N- Calças longas{...}?
 Dialogue: 5,0:09:42.21,0:09:44.10,Main-207+,,0,0,0,,Ele é uma aberração {esquisito} também!
-Dialogue: 5,0:09:44.81,0:09:48.81,Main-207+,,0,0,0,,{Bem, é isso. Vamos abrir a porta e entrar já.}{Um}Bem,\Nisso foi divertido.Vamos abrir o portão {porta} e entrar.
-Dialogue: 5,0:09:59.70,0:10:05.89,Main-207+,,0,0,0,,{De qualquer forma, que porta enorme! E isso requer operação manual?} Difícil\Nde acreditar no tamanho deste {porta}portão! E é operado manualmente?!
+Dialogue: 5,0:09:44.81,0:09:48.81,Main-207+,,0,0,0,,{Bem, é isso. Vamos abrir a porta e entrar já.}{Um}Bem, isso foi divertido.Vamos abrir o portão {porta}e entrar.
+Dialogue: 5,0:09:59.70,0:10:05.89,Main-207+,,0,0,0,,{De qualquer forma, que porta enorme! E isso requer operação manual?} Difícil de acreditar no tamanho deste {porta}portão! E é operado manualmente?!
 Dialogue: 5,0:10:05.89,0:10:08.17,Main-207+,,0,0,0,,Esses dois {esquisitos} podem abri-lo sozinhos?
 Dialogue: 5,0:10:11.09,0:10:13.29,Main-207+,,0,0,0,,Uau!  Está se movendo!
 Dialogue: 5,0:10:13.29,0:10:16.28,Main-207+,,0,0,0,,{Bem... } Hum, cada doca tem\Napenas cinco capatazes carpinteiros.
-Dialogue: 5,0:10:16.28,0:10:20.43,Main-207+,,0,0,0,,{Eles podem não parecer, mas suas habilidades os tornaram capatazes na Doca 1.}Estranhos\Ncomo são, suas habilidades lhes renderam {uma vaga}suas vagas como Doca {1}Um capataz.
+Dialogue: 5,0:10:16.28,0:10:20.43,Main-207+,,0,0,0,,Eles podem não parecer, mas suas habilidades os tornaram capatazes na Doca 1.
 Dialogue: 5,0:10:21.51,0:10:23.81,Main-207+,,0,0,0,,{Kaku, de quem falamos anteriormente, é um deles\Ntambém.} Kaku, o homem de antes, é um deles.
 Dialogue: 5,0:10:23.81,0:10:26.64,Main-207+,,0,0,0,,{Este é um mundo onde as habilidades dos artesãos são tudo o que importa.}Nesta\N{world}indústria, o que importa é como cada um exerce seu ofício.
 Dialogue: 5,0:10:27.25,0:10:29.50,Main-207+,,0,0,0,,{Mesmo que suas personalidades sejam estranhas, não se\Npreocupe com isso.}Eles são {estranho}esquisitos, mas e daí?
@@ -197,13 +198,13 @@ Dialogue: 5,0:10:46.48,0:10:48.49,Main-207+,,0,0,0,,Ok, entendi!  Deixe para mim
 Dialogue: 5,0:10:48.49,0:10:49.96,Main-207+,,0,0,0,,Eu estou preocupado.
 Dialogue: 5,0:10:49.29,0:10:49.96,Secondary-207+,,0,0,0,,Deixe para mim!
 Dialogue: 5,0:10:49.96,0:10:54.58,Main-207+,,0,0,0,,{This Dock 1 compreende a força principal da Galley-La Company,}O que você vê aqui\Né o Dock {1}One,{um lugar composto}o {home}core da Galley-La Company{'s mais forte},
-Dialogue: 5,0:10:54.58,0:10:56.96,Main-207+,,0,0,0,,{e realiza o trabalho mais difícil.}onde {as solicitações mais\Ndifíceis são tratadas}nós lidamos com nossos pedidos mais desafiadores.
+Dialogue: 5,0:10:54.58,0:10:56.96,Main-207+,,0,0,0,,{e realiza o trabalho mais difícil.}onde {as solicitações mais\Ndifíceis são tratadas}nós lidamos com os pedidos mais desafiadores.
 Dialogue: 5,0:10:56.96,0:10:59.15,Main-207+,,0,0,0,,Aqui, entre.
 Dialogue: 5,0:10:59.15,0:11:01.99,Main-207+,,0,0,0,,Uau!
 Dialogue: 5,0:11:03.22,0:11:05.26,Main-207+,,0,0,0,,Uau!
 Dialogue: 5,0:11:13.40,0:11:17.78,Main-207+,,0,0,0,,Uau!  {Huge} É tudo enorme!
 Dialogue: 5,0:11:18.49,0:11:22.04,Main-207+,,0,0,0,,{Um estaleiro tem um impacto tremendo quando visto de perto!}Este\Nestaleiro é ainda mais incrível quando visto de perto!
-Dialogue: 5,0:11:22.04,0:11:23.41,Main-207+,,0,0,0,,- Sim! - Verdadeiro!
+Dialogue: 5,0:11:22.04,0:11:23.41,Main-207+,,0,0,0,,- Sim! - Verdade!
 Dialogue: 5,0:11:24.10,0:11:28.70,Main-207+,,0,0,0,,Oh? Eles estão construindo um enorme\Ngaleão! {De quem é isso?} Para quem é?
 Dialogue: 5,0:11:28.70,0:11:30.25,Main-207+,,0,0,0,,{Está cheio de artesãos.}{É muito movimentado.}Há tantos artesãos.
 Dialogue: 5,0:11:30.25,0:11:32.77,Main-207+,,0,0,0,,{Agora, por aqui.} Venha!  Por aqui.
@@ -213,47 +214,47 @@ Dialogue: 5,0:11:40.67,0:11:43.32,Main-207+,,0,0,0,,Bom dia, Iceburg-{\i1}san{\f
 Dialogue: 5,0:11:43.32,0:11:44.68,Main-207+,,0,0,0,,Bom Dia!
 Dialogue: 5,0:11:44.68,0:11:48.20,Main-207+,,0,0,0,,Chefe! Você poderia dar uma olhada em\Ncomo {os painéis externos} o casco ficou?
 Dialogue: 5,0:11:48.20,0:11:49.64,Main-207+,,0,0,0,,Certo!  Eu vou passar mais tarde!
-Dialogue: 5,0:11:49.64,0:11:52.68,Main-207+,,0,0,0,,{Bom dia}Bom dia hoje, Iceburg-{\i1}san{\fs15} {r}!{\fs\i0\i0}
+Dialogue: 5,0:11:49.64,0:11:52.68,Main-207+,,0,0,0,,{Bom dia}Bom dia, Iceburg-{\i1}san{\fs15} {r}!{\fs\i0\i0}
 Dialogue: 5,0:11:52.68,0:11:55.14,Main-207+,,0,0,0,,{Bem... Olá, as coisas estão indo bem?} Hum, olá.  Tudo vai bem?
 Dialogue: 5,0:11:55.14,0:11:57.36,Main-207+,,0,0,0,,Sim senhor!  Eles estão indo muito bem!
 Dialogue: 5,0:11:57.36,0:12:01.46,Main-207+,,0,0,0,,Uau!  {Ice pops is bastante populares.}Todo mundo gosta de Iceboss.
-Dialogue: 5,0:12:01.46,0:12:04.66,Main-207+,,0,0,0,,{Claro que ele é. Nesta cidade, as habilidades são tudo o que importa.}Na\Nverdade, elas importam. Habilidade significa tudo nesta cidade.
-Dialogue: 5,0:12:05.23,0:12:09.70,Main-207+,,0,0,0,,{Nesta ilha, a construção naval foi bem desenvolvida desde o início,}A\Nconstrução naval sempre foi a principal indústria desta ilha,
+Dialogue: 5,0:12:01.46,0:12:04.66,Main-207+,,0,0,0,,Claro que sim. Nesta cidade, as habilidades são tudo o que importa.
+Dialogue: 5,0:12:05.23,0:12:09.70,Main-207+,,0,0,0,,{Nesta ilha, a construção naval foi bem desenvolvida desde o início,}A construção naval sempre foi a principal indústria desta ilha,
 Dialogue: 5,0:12:09.70,0:12:12.59,Main-207+,,0,0,0,,{e sete empresas de construção naval estavam competindo\Nentre si.}e sete estaleiros estavam competindo por contratos.
 Dialogue: 5,0:12:13.22,0:12:17.54,Main-207+,,0,0,0,,{Enquanto isso, ele atraiu artesãos com suas habilidades geniais de construção\Nnaval.} Ele eventualmente encantou os construtores navais com sua habilidade genial.
 Dialogue: 5,0:12:17.54,0:12:22.51,Main-207+,,0,0,0,,{Então ele juntou essas sete empresas para formar uma empresa cinco anos atrás.}\NCinco anos atrás, ele conseguiu fundir todas as sete empresas, e o resto é história.
 Dialogue: 5,0:12:22.51,0:12:24.72,Main-207+,,0,0,0,,{E essa é a Galley-La Company.} Essa é a Galley-La Company.
 Dialogue: 5,0:12:25.40,0:12:28.60,Main-207+,,0,0,0,,{Sua paixão e habilidades na construção naval nunca mudaram,}\NSua paixão e habilidade na construção naval não diminuíram,
-Dialogue: 5,0:12:28.60,0:12:31.85,Main-207+,,0,0,0,,e {os artesãos não esquecerão seu respeito por ele.}\Nele nunca perdeu o respeito dos construtores navais.
-Dialogue: 5,0:12:31.85,0:12:34.90,Main-207+,,0,0,0,,{E, porque os artesãos se orgulham de suas habilidades,}E,\Nporque os artesãos se orgulham de suas habilidades,
-Dialogue: 5,0:12:34.90,0:12:38.44,Main-207+,,0,0,0,,eles {nunca} cedem a piratas {ou} nem a autoridade.
+Dialogue: 5,0:12:28.60,0:12:31.85,Main-207+,,0,0,0,,e {os artesãos não esquecerão seu respeito por ele.}ele nunca perdeu o respeito dos construtores navais.
+Dialogue: 5,0:12:31.85,0:12:34.90,Main-207+,,0,0,0,,{E, porque os artesãos se orgulham de suas habilidades,}E, porque os artesãos se orgulham de suas habilidades,
+Dialogue: 5,0:12:34.90,0:12:38.44,Main-207+,,0,0,0,,eles nunca cedem a piratas e nem a autoridades.
 Dialogue: 5,0:12:39.40,0:12:42.00,Main-207+,,0,0,0,,{Este é esse tipo de lugar.} É assim que as coisas funcionam aqui.
 Dialogue: 5,0:12:42.00,0:12:42.86,Main-207+,,0,0,0,,Hmm?
 Dialogue: 5,0:12:42.86,0:12:46.30,Main-207+,,0,0,0,,Ei, {pops}velho. Ouvi dizer {que\N}você é um carpinteiro de primeira linha.
 Dialogue: 5,0:12:46.30,0:12:48.12,Main-207+,,0,0,0,,{Você quer} Quer ser um pirata comigo?
-Dialogue: 5,0:12:48.12,0:12:50.44,Main-207+,,0,0,0,,{O que diabos você está dizendo, seu filho da\Nputa?!} Quer passar isso por nós de novo, idiota?!
-Dialogue: 5,0:12:50.44,0:12:51.60,Main-207+,,0,0,0,,{H-Que insolente!}H-Que descarado!
+Dialogue: 5,0:12:48.12,0:12:50.44,Main-207+,,0,0,0,,O que diabos você está dizendo, seu filho da puta?!
+Dialogue: 5,0:12:50.44,0:12:51.60,Main-207+,,0,0,0,,{H-Que insolente!}Q-Que descarado!
 Dialogue: 5,0:12:51.60,0:12:53.93,Main-207+,,0,0,0,,{Agora, agora... Ele é sempre assim.} Bem, você sabe{... H}, ele é sempre assim.
 Dialogue: 5,0:12:53.93,0:12:55.00,Main-207+,,0,0,0,,{Desculpe por isso.}Desculpe por isso.
-Dialogue: 5,0:12:55.00,0:12:59.09,Main-207+,,0,0,0,,{Bem... vocês nem sequer têm um único carpinteiro?} Hum, vocês\Nnão têm um único {carpinteiro} carpinteiro a bordo de seu navio?
-Dialogue: 5,0:12:59.09,0:12:59.90,Main-207+,,0,0,0,,Isso está certo.
-Dialogue: 5,0:12:59.90,0:13:04.68,Main-207+,,0,0,0,,{Viemos a esta ilha para consertar nosso navio e encontrar um novo tripulante.}Viemos\Na esta ilha para consertar nosso navio e encontrar um novo tripulante.
+Dialogue: 5,0:12:55.00,0:12:59.09,Main-207+,,0,0,0,,{Bem... vocês nem sequer têm um único carpinteiro?} Hum, vocês não têm um único {carpinteiro} carpinteiro a bordo de seu navio?
+Dialogue: 5,0:12:59.09,0:12:59.90,Main-207+,,0,0,0,,Sim.
+Dialogue: 5,0:12:59.90,0:13:04.68,Main-207+,,0,0,0,,{Viemos a esta ilha para consertar nosso navio e encontrar um novo tripulante.}Viemos para esta ilha para consertar nosso navio e encontrar um novo tripulante.
 Dialogue: 5,0:13:04.68,0:13:07.40,Main-207+,,0,0,0,,É verdade que temos {toneladas}uma enorme quantidade de construtores navais,
 Dialogue: 5,0:13:07.40,0:13:10.47,Main-207+,,0,0,0,,{mas eu me pergunto se alguém gostaria de ir a bordo de um navio\Npirata.} mas eu me pergunto se alguém gosta da vida de um pirata.
 Dialogue: 5,0:13:10.47,0:13:14.23,Main-207+,,0,0,0,,{Se você encontrar alguém que queira ir com você, você pode caçá-lo.}\NSe houver alguém aqui disposto a velejar com você, eles são seus.
 Dialogue: 5,0:13:14.23,0:13:19.19,Main-207+,,0,0,0,,Mesmo?! Você é {}muito generoso! {Posso pedir\Npara você se juntar a nós, pops} E você, velho?
 Dialogue: 5,0:13:19.19,0:13:22.06,Main-207+,,0,0,0,,{Bem... eu não posso.  Eu sou o prefeito.} Hum, eu não posso.  Eu sou o prefeito.
-Dialogue: 5,0:13:22.06,0:13:23.99,Main-207+,,0,0,0,,{Quem se importa?!} Acabe com isso!
+Dialogue: 5,0:13:22.06,0:13:23.99,Main-207+,,0,0,0,,Quem se importa?!
 Dialogue: 5,0:13:25.67,0:13:30.49,Main-207+,,0,0,0,,{A propósito, a mulher chamada Nico Robin está realmente a bordo do\Nseu navio?} A propósito, há uma mulher chamada Nico Robin no seu navio?
-Dialogue: 5,0:13:30.49,0:13:34.29,Main-207+,,0,0,0,,{Sim, ela é.} Existe!  Ela é realmente inteligente.
+Dialogue: 5,0:13:30.49,0:13:34.29,Main-207+,,0,0,0,,{Sim, ela é.} Sim!  Ela é muito inteligente.
 Dialogue: 5,0:13:36.79,0:13:39.34,Main-207+,,0,0,0,,Que?  Há algo de errado com Robin?
-Dialogue: 5,0:13:40.26,0:13:40.96,Main-207+,,0,0,0,,{Não não.
+Dialogue: 5,0:13:40.26,0:13:40.96,Main-207+,,0,0,0,,Não não.
 Dialogue: 5,0:13:44.72,0:13:48.05,Main-207+,,0,0,0,,{De qualquer forma, é realmente incrível!} Eu não posso acreditar o quão incrível isso é!
 Dialogue: 5,0:13:48.05,0:13:51.72,Main-207+,,0,0,0,,Mantenha isso firme!  Não se apresse!  Vá devagar!
 Dialogue: 5,0:13:52.35,0:13:56.19,Main-207+,,0,0,0,,Se pudéssemos instalar um canhão assim, {o Merry\Ntambém seria... Hm?} o Merry seria mais… Hein?
 Dialogue: 5,0:13:56.19,0:13:58.44,Main-207+,,0,0,0,,Uau!  Um demi-culverin{}{cannon}!{Não há necessidade de "canhão", pois "culverin" já se refere a um canhão.  Também não precisamos segurar a mão, pois está na tela.  -gaijin}
 Dialogue: 5,0:13:58.44,0:14:04.40,Main-207+,,0,0,0,,{Que legal!  É tão longo...!  E brilhando!} Tão legal!  É tão comprido... e brilhante!
-Dialogue: 5,0:14:04.40,0:14:07.36,Main-207+,,0,0,0,,{Eu quero disparar algo assim, uma vez!}Eu daria qualquer\Ncoisa para disparar algo assim {uma vez}apenas uma vez.
+Dialogue: 5,0:14:04.40,0:14:07.36,Main-207+,,0,0,0,,{Eu quero disparar algo assim, uma vez!}Eu daria qualquer coisa para disparar algo assim {uma vez}apenas uma vez.
 Dialogue: 5,0:14:07.36,0:14:08.57,Main-207+,,0,0,0,,{Esta é uma boa chance.}Agora é a nossa chance.
 Dialogue: 5,0:14:09.61,0:14:13.60,Main-207+,,0,0,0,,Parece que é feito de\Ncobre. Isso deve ser caro!
 Dialogue: 5,0:14:13.60,0:14:16.08,Main-207+,,0,0,0,,Eu me pergunto se eles me deixariam tentar dispará-lo.
@@ -264,21 +265,21 @@ Dialogue: 5,0:14:32.78,0:14:35.18,Main-207+,,0,0,0,,{Não havia alguém lá?} N�
 Dialogue: 5,0:14:46.78,0:14:47.82,Main-207+,,0,0,0,,Huh?  Kaku!
 Dialogue: 5,0:14:49.20,0:14:51.39,Main-207+,,0,0,0,,- Onde você esteve?\N- Uma avaliação.
 Dialogue: 5,0:14:51.39,0:14:54.49,Main-207+,,0,0,0,,Ah! Você é o cara de antes!\NEntão você verificou nosso navio?
-Dialogue: 5,0:14:54.49,0:14:56.50,Main-207+,,0,0,0,,{Sim, eu fiz.} Certo você está.
+Dialogue: 5,0:14:54.49,0:14:56.50,Main-207+,,0,0,0,,Sim, eu fiz.
 Dialogue: 5,0:14:56.50,0:14:59.08,Main-207+,,0,0,0,,{Então você estava aqui, Iceburg-san.}Oh, Iceburg-{\i1}san{\i0}, você está presente.
-Dialogue: 5,0:14:59.08,0:15:02.25,Main-207+,,0,0,0,,{Eu conheço a situação.  Como foi?} Estou todo preso.  Como foi?
+Dialogue: 5,0:14:59.08,0:15:02.25,Main-207+,,0,0,0,,Eu conheço a situação.  Como foi?
 Dialogue: 5,0:15:02.25,0:15:04.71,Main-207+,,0,0,0,,{Bem...} Com toda a honestidade...
 Dialogue: 5,0:15:05.42,0:15:08.84,Main-207+,,0,0,0,,Luffy!  Venha {descer agora} para baixo!
 Dialogue: 5,0:15:24.19,0:15:26.28,Flashbacks-720p,,0,0,0,,O que?!  Isso é verdade?!
 Dialogue: 5,0:15:26.28,0:15:28.90,Flashbacks-720p,,0,0,0,,{Se você está mentindo, você vai pagar por isso!} Minta para mim, e você está acabado!
 Dialogue: 5,0:15:30.00,0:15:33.57,Flashbacks-720p,,0,0,0,,{Eu nunca minto no trabalho.} Uma mentira não tem pernas na minha linha de trabalho.
 Dialogue: 5,0:15:47.21,0:15:50.05,Main-207+,,0,0,0,,{Hum?  Onde está} Então, onde está o Usopp?
-Dialogue: 5,0:15:50.61,0:15:54.54,Main-207+,,0,0,0,,{Ele estava vagando por lá até um momento\Natrás.}Ele {\i1}estava{\i0} por lá até um momento atrás.
-Dialogue: 5,0:15:56.51,0:16:01.08,Main-207+,,0,0,0,,Ei vocês! Essas {bags}casos\Nnão pertencem a você?
+Dialogue: 5,0:15:50.61,0:15:54.54,Main-207+,,0,0,0,,{Ele estava vagando por lá até um momento\Natrás.}Ele {\i1}estava{\i0} ali até um momento atrás.
+Dialogue: 5,0:15:56.51,0:16:01.08,Main-207+,,0,0,0,,Ei vocês! Essas mochilas \Nnão pertencem a você?
 Dialogue: 5,0:16:03.10,0:16:06.30,Main-207+,,0,0,0,,Ahh!  {São as malas que Usopp estava carregando!}Usopp estava carregando isso!
 Dialogue: 5,0:16:06.30,0:16:07.32,Main-207+,,0,0,0,,Sim, são nossos.
 Dialogue: 5,0:16:07.32,0:16:09.29,Main-207+,,0,0,0,,Obrigado!
-Dialogue: 5,0:16:09.29,0:16:14.74,Main-207+,,0,0,0,,{Nossa... Para onde foi o Usopp... deixando nosso precioso dinheiro em paz?!} Vamos!\NOnde você foi, Usopp, deixando todo o nosso precioso dinheiro sem vigilância?!
+Dialogue: 5,0:16:09.29,0:16:14.74,Main-207+,,0,0,0,,Nossa... Para onde foi o Usopp... deixando nosso precioso dinheiro sem cuidado?!
 Dialogue: 5,0:16:14.74,0:16:15.20,Main-207+,,0,0,0,,Dinheiro?
 Dialogue: 5,0:16:15.20,0:16:18.72,Main-207+,,0,0,0,,Isso!  Esses sacos têm 200 milhões de Berrys.
 Dialogue: 5,0:16:19.62,0:16:21.66,Main-207+,,0,0,0,,200 milhões de Berrys?!
@@ -286,72 +287,72 @@ Dialogue: 5,0:16:21.66,0:16:23.58,Main-207+,,0,0,0,,{De jeito nenhum} Não é po
 Dialogue: 5,0:16:23.58,0:16:26.00,Main-207+,,0,0,0,,Não tem jeito.
 Dialogue: 5,0:16:26.70,0:16:29.00,Main-207+,,0,0,0,,Então, quanto {parece que vai custar} vai custar?
 Dialogue: 5,0:16:29.55,0:16:33.09,Main-207+,,0,0,0,,Podemos pagar o quanto você\Nquiser! Temos toneladas de dinheiro!
-Dialogue: 5,0:16:35.47,0:16:41.93,Main-207+,,0,0,0,,Se possível, gostaria que ela fosse mais forte,\Ntivesse mais canhões e fosse mais rápida!
-Dialogue: 5,0:16:41.93,0:16:45.89,Main-207+,,0,0,0,,{Você também pode adicionar decorações bonitas nos painéis externos?}Você\Ntambém pode estilizar o casco externo com algumas gravuras de bom gosto?
+Dialogue: 5,0:16:35.47,0:16:41.93,Main-207+,,0,0,0,,Se possível, gostaria que ela fosse mais forte, tivesse mais canhões e fosse mais rápida!
+Dialogue: 5,0:16:41.93,0:16:45.89,Main-207+,,0,0,0,,{Você também pode adicionar decorações bonitas nos painéis externos?}Você também pode estilizar o casco externo com algumas gravuras?
 Dialogue: 5,0:16:45.89,0:16:48.27,Main-207+,,0,0,0,,{Você pode reformar o interior também?}{Gostaria que o interior fosse reformado também.}Você poderia reformar o interior também?
 Dialogue: 5,0:16:48.27,0:16:49.95,Main-207+,,0,0,0,,{Bem, espere um segundo...} Apenas segure seus cavalos.
-Dialogue: 5,0:16:50.82,0:16:55.28,Main-207+,,0,0,0,,{Vocês estão tendo algumas jornadas tremendas, não é?} Vocês\Nrealmente têm feito uma incrível cotovia atrás da outra, certo?
-Dialogue: 5,0:16:56.80,0:16:59.60,Main-207+,,0,0,0,,{Oh sim! Voamos no céu e caímos também.} Pode\Napostar que sim! Voamos para o céu e caímos de volta.
+Dialogue: 5,0:16:50.82,0:16:55.28,Main-207+,,0,0,0,,{Vocês estão tendo algumas jornadas tremendas, não é?} Vocês realmente têm feito incriveis viagens uma atrás da outra, certo?
+Dialogue: 5,0:16:56.80,0:16:59.60,Main-207+,,0,0,0,,{Oh sim! Voamos no céu e caímos também.} Pode apostar que sim! Voamos para o céu e caímos de volta.
 Dialogue: 5,0:16:59.60,0:17:01.90,Main-207+,,0,0,0,,{Nós escalamos uma montanha e fomos espetados.} Nós\Nnavegamos até uma montanha e até fomos espetados.
-Dialogue: 5,0:17:01.90,0:17:03.80,Main-207+,,0,0,0,,Já passamos bastante!
+Dialogue: 5,0:17:01.90,0:17:03.80,Main-207+,,0,0,0,,Já passamos por poucas e boas!
 Dialogue: 5,0:17:03.80,0:17:06.46,Main-207+,,0,0,0,,Então, gostaríamos de consertá-la bem!
 Dialogue: 5,0:17:07.39,0:17:09.63,Main-207+,,0,0,0,,Suas cicatrizes da batalha são muito profundas.
-Dialogue: 5,0:17:10.81,0:17:13.47,Main-207+,,0,0,0,,{Você quer dizer que levará muito tempo para consertá-la?} Você\Nquer dizer que levará algum tempo para concluir os reparos?
+Dialogue: 5,0:17:10.81,0:17:13.47,Main-207+,,0,0,0,,{Você quer dizer que levará muito tempo para consertá-la?} Você quer dizer que levará algum tempo para concluir os reparos?
 Dialogue: 5,0:17:14.26,0:17:15.28,Main-207+,,0,0,0,,Não.
-Dialogue: 5,0:17:16.05,0:17:19.54,Main-207+,,0,0,0,,{Francamente falando, seu navio...}\NEu vou te dar direto. Seu navio...
+Dialogue: 5,0:17:16.05,0:17:19.54,Main-207+,,0,0,0,,{Francamente falando, seu navio...}\NEu vou ser direto. Seu navio...
 Dialogue: 5,0:17:20.90,0:17:23.89,Main-207+,,0,0,0,,{não pode mais ser consertado, mesmo com nossas habilidades.}não tem conserto, mesmo com nossa experiência.
 Dialogue: 5,0:17:38.79,0:17:40.78,Main-207+,,0,0,0,,{A quilha dela está danificada ou algo assim?} Suponho que seja a quilha.
 Dialogue: 5,0:17:40.78,0:17:44.66,Main-207+,,0,0,0,,Sim.  É {tomado muito dano} mais ou menos kaput.
 Dialogue: 5,0:17:44.66,0:17:46.69,Main-207+,,0,0,0,,{Oh, não...} De jeito nenhum.
 Dialogue: 5,0:17:46.69,0:17:49.92,Main-207+,,0,0,0,,Mas estamos viajando\Nmuito bem até hoje!
-Dialogue: 5,0:17:49.92,0:17:54.38,Main-207+,,0,0,0,,Vamos supor que nós {fizemos o que pudemos de\Nqualquer maneira.} tentamos a velha faculdade.
-Dialogue: 5,0:17:54.38,0:17:58.34,Main-207+,,0,0,0,,A probabilidade {de ela alcançar a próxima ilha é...} de ela alcançar a próxima ilha é...
+Dialogue: 5,0:17:49.92,0:17:54.38,Main-207+,,0,0,0,,Vamos supor que nós fizemos o que pudemos de qualquer maneira.
+Dialogue: 5,0:17:54.38,0:17:58.34,Main-207+,,0,0,0,,A probabilidade{de ela alcançar a próxima ilha é...} de ele alcançar a próxima ilha é...
 Dialogue: 5,0:18:01.40,0:18:02.65,Main-207+,,0,0,0,,zero.
 Dialogue: 5,0:18:14.21,0:18:18.03,Main-207+,,0,0,0,,{Merry... Você pode realmente não...}Merry, você está realmente...
-Dialogue: 5,0:18:18.78,0:18:20.28,Main-207+,,0,0,0,,{vela mais?} já velejou?
-Dialogue: 5,0:18:24.10,0:18:25.66,Main-207+,,0,0,0,,{Droga...} Bem, merda.
-Dialogue: 5,0:18:26.99,0:18:31.75,Main-207+,,0,0,0,,{Sinto muito, Sanji. Eu estava tão focado em livros que...}Desculpe,\NSanji. Eu fiquei um pouco {preocupado com}perdido nos livros.
-Dialogue: 5,0:18:31.75,0:18:34.50,Main-207+,,0,0,0,,{Não é nada que você deva se desculpar.} Não há necessidade de se desculpar.
-Dialogue: 5,0:18:34.50,0:18:39.64,Main-207+,,0,0,0,,{Eu apenas assumi que aquele que estava com Robin-chan era você em sua forma\Nhumana.} Eu poderia jurar que aquele com Robin-chan era você em forma humana.
+Dialogue: 5,0:18:18.78,0:18:20.28,Main-207+,,0,0,0,,{vela mais?} morrendo?
+Dialogue: 5,0:18:24.10,0:18:25.66,Main-207+,,0,0,0,,Droga...
+Dialogue: 5,0:18:26.99,0:18:31.75,Main-207+,,0,0,0,,{Sinto muito, Sanji. Eu estava tão focado em livros que...}Desculpe, Sanji. Eu fiquei um pouco {preocupado com}perdido nos livros.
+Dialogue: 5,0:18:31.75,0:18:34.50,Main-207+,,0,0,0,,Não é nada que você deva se desculpar.
+Dialogue: 5,0:18:34.50,0:18:39.64,Main-207+,,0,0,0,,{Eu apenas assumi que aquele que estava com Robin-chan era você em sua forma\Nhumana.} Eu poderia jurar que aquele com Robin-chan era você em sua forma humana.
 Dialogue: 5,0:18:40.49,0:18:44.18,Main-207+,,0,0,0,,Então, quem {na terra} no mundo era aquele homem mascarado?
 Dialogue: 5,0:18:44.18,0:18:46.80,Main-207+,,0,0,0,,{Além disso, é estranho que eles tenham desaparecido de\Nrepente.} Mais estranho ainda, eles desapareceram de repente.
-Dialogue: 5,0:18:46.80,0:18:51.10,Main-207+,,0,0,0,,{Sim... O cheiro de Robin desapareceu lá também.} Sim.  O cheiro de Robin desapareceu ali também.
+Dialogue: 5,0:18:46.80,0:18:51.10,Main-207+,,0,0,0,,Sim... O cheiro de Robin desapareceu lá também.
 Dialogue: 5,0:18:52.19,0:18:55.82,Main-207+,,0,0,0,,{Espero que nada de ruim aconteça... Meu estômago está com um nó...}\NProvavelmente não é nada, mas meu estômago está com um nó por causa disso.
 Dialogue: 5,0:18:55.82,0:18:56.90,Main-207+,,0,0,0,,{O que} Hein?
 Dialogue: 5,0:18:56.90,0:18:58.80,Main-207+,,0,0,0,,{Você quer que eu dê uma olhada em você?} Você precisa que eu faça um check-up?
 Dialogue: 5,0:18:58.80,0:19:00.36,Main-207+,,0,0,0,,Eu não estou doente!
-Dialogue: 5,0:19:01.05,0:19:04.41,Main-207+,,0,0,0,,{Isso me lembra o que Aokiji disse.} Mas eu sinto\Nque aquele cara Aokiji disse algo sobre isso.
+Dialogue: 5,0:19:01.05,0:19:04.41,Main-207+,,0,0,0,,{Isso me lembra o que Aokiji disse.} Mas eu sinto que aquele cara Aokiji disse algo sobre isso.
 Dialogue: 5,0:19:05.20,0:19:07.00,Main-207+,,0,0,0,,{Ele disse algo preocupante?} Então o que ele disse?
-Dialogue: 5,0:19:07.00,0:19:10.20,Main-207+,,0,0,0,,{Ele disse coisas sobre o passado de Robin-chan, certo?}Ele continuou aludindo ao passado de Robin-{\i1}chan{\i0}.
-Dialogue: 5,0:19:10.20,0:19:13.54,Main-207+,,0,0,0,,{E ele nos disse que um dia nos arrependeríamos de contratá-la.}\NEle também mencionou que um dia nos arrependeríamos de contratá-la.
-Dialogue: 5,0:19:13.54,0:19:15.49,Main-207+,,0,0,0,,{Agora que você mencionou...} Isso soa um sino.
+Dialogue: 5,0:19:07.00,0:19:10.20,Main-207+,,0,0,0,,Ele disse coisas sobre o passado de Robin-chan, certo?
+Dialogue: 5,0:19:10.20,0:19:13.54,Main-207+,,0,0,0,,{E ele nos disse que um dia nos arrependeríamos de contratá-la.}\NEle também mencionou que um dia nos arrependeríamos de a termos no barco.
+Dialogue: 5,0:19:13.54,0:19:15.49,Main-207+,,0,0,0,,Agora que você mencionou...
 Dialogue: 5,0:19:15.49,0:19:18.76,Main-207+,,0,0,0,,{Mas isso tem algo a ver com o desaparecimento de Robin?!}\NMas como isso se relaciona com o desaparecimento de Robin?
 Dialogue: 5,0:19:19.33,0:19:21.00,Main-207+,,0,0,0,,Não sei.
-Dialogue: 5,0:19:21.00,0:19:25.01,Main-207+,,0,0,0,,{Em qualquer caso} De qualquer forma, não estamos chegando a\Nlugar nenhum assim. Vamos voltar para o Merry por enquanto.
+Dialogue: 5,0:19:21.00,0:19:25.01,Main-207+,,0,0,0,,{Em qualquer caso} De qualquer forma, não estamos chegando a lugar nenhum assim. Vamos voltar para o Merry por enquanto.
 Dialogue: 5,0:19:26.11,0:19:28.79,Main-207+,,0,0,0,,Se não houver problema, ela estará de volta em breve.
-Dialogue: 5,0:19:28.79,0:19:30.31,Main-207+,,0,0,0,,{Sim.} Bom ponto.
+Dialogue: 5,0:19:28.79,0:19:30.31,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:19:49.04,0:19:52.21,Main-207+,,0,0,0,,Você não pode consertar o Merry?!  Por que não?!
 Dialogue: 5,0:19:52.21,0:19:55.34,Main-207+,,0,0,0,,Vocês não são carpinteiros incríveis?!
 Dialogue: 5,0:19:57.38,0:20:00.29,Main-207+,,0,0,0,,{Se você está preocupado com dinheiro, olhe! Temos toneladas!}Se {dinheiro é\No problema}você precisa de dinheiro, basta olhar!Temos mais do que suficiente!
 Dialogue: 5,0:20:00.29,0:20:02.59,Main-207+,,0,0,0,,{Não tem nada a ver com dinheiro.} Dinheiro não é o problema.
-Dialogue: 5,0:20:02.59,0:20:07.10,Main-207+,,0,0,0,,{Não importa quanto você pague, esse navio não pode ser restaurado ao que era.}\NNem todo o dinheiro do mundo pode devolver seu navio ao seu estado original.
-Dialogue: 5,0:20:08.31,0:20:15.27,Main-207+,,0,0,0,,{Estou bastante impressionado que vocês chegaram tão longe no estado em que ela está.} Estou bastante\Nsurpreso que sua tripulação tenha chegado tão longe em um navio que está pior para o desgaste.
+Dialogue: 5,0:20:02.59,0:20:07.10,Main-207+,,0,0,0,,Não importa quanto você pague, esse navio não pode ser restaurado ao que era.
+Dialogue: 5,0:20:08.31,0:20:15.27,Main-207+,,0,0,0,,Estou bastante impressionado que vocês chegaram tão longe no estado em que ele está.
 Dialogue: 5,0:20:15.27,0:20:18.69,Main-207+,,0,0,0,,O que você quer dizer?! O que está\N{acontecendo} de errado com {o }Merry?!
-Dialogue: 5,0:20:18.69,0:20:21.82,Main-207+,,0,0,0,,Você sabe o que {a}é a quilha, {garota sem vergonha} sua vadia?
-Dialogue: 5,0:20:21.82,0:20:23.49,Main-207+,,0,0,0,,{Aquele no fundo do navio?}No fundo do navio?
+Dialogue: 5,0:20:18.69,0:20:21.82,Main-207+,,0,0,0,,Você sabe o que {a}é a quilha, garota sem vergonha?
+Dialogue: 5,0:20:21.82,0:20:23.49,Main-207+,,0,0,0,,Aquele no fundo do navio?
 Dialogue: 5,0:20:23.49,0:20:27.79,Main-207+,,0,0,0,,Isso mesmo.{É a viga de madeira mais importante de um\Nnavio.}É a peça de madeira mais importante do navio.
-Dialogue: 5,0:20:27.79,0:20:31.04,Main-207+,,0,0,0,,{Atravessa de proa a popa e suporta o navio.}Suporta o navio de proa a popa.
+Dialogue: 5,0:20:27.79,0:20:31.04,Main-207+,,0,0,0,,Atravessa de proa a popa e suporta o navio.
 Dialogue: 5,0:20:31.04,0:20:35.00,Main-207+,,0,0,0,,Quando você constrói um navio,\Nvocê começa colocando a quilha.
-Dialogue: 5,0:20:35.00,0:20:40.80,Main-207+,,0,0,0,,Então{,} a haste{ madeira}, {madeira de popa}a popa, e a estrutura de {madeira}—{suportes\Nde armação e vigas do convés...}que seriam os {suportes}pisos, futtocks e vigas do convés —
+Dialogue: 5,0:20:35.00,0:20:40.80,Main-207+,,0,0,0,,Então, a haste, {madeira de popa}a popa, a estrutura de suportes\Nde armação e vigas do convés...
 Dialogue: 5,0:20:40.80,0:20:45.30,Main-207+,,0,0,0,,{Colocamos com precisão todos esses pedaços de madeira ao redor da quilha.}\Ne você posiciona cuidadosamente cada pedaço de madeira ao redor da quilha.
-Dialogue: 5,0:20:45.30,0:20:47.49,Main-207+,,0,0,0,,{É assim que um navio é construído.}Construção naval em poucas palavras.
+Dialogue: 5,0:20:45.30,0:20:47.49,Main-207+,,0,0,0,,É assim que um navio é construído.
 Dialogue: 5,0:20:47.49,0:20:51.15,Main-207+,,0,0,0,,{A quilha é a base da estrutura de um navio. É a essência do navio.} A\Nquilha é a própria fundação - a própria essência - da estrutura de um navio.
 Dialogue: 5,0:20:51.15,0:20:56.81,Main-207+,,0,0,0,,{Não é algo que você pode simplesmente substituir se sofrer muitos\Ndanos...} Uma vez danificado além do reparo, ele não pode ser substituído.
 Dialogue: 5,0:20:56.81,0:21:01.03,Main-207+,,0,0,0,,{Substituir a quilha é o mesmo que construir um navio do zero.}Em outras\Npalavras, substituir a quilha é essencialmente construir um navio do zero.
 Dialogue: 5,0:21:01.03,0:21:04.09,Main-207+,,0,0,0,,Então, ninguém pode consertá-la mais.
 Dialogue: 5,0:21:04.09,0:21:08.03,Main-207+,,0,0,0,,{Seu navio é apenas uma coleção de madeira que só pode esperar o fim dela.}{Seu navio é basicamente uma pilha de madeira à espera de seu fim esperando o eterno estaleiro.}Seu navio é pouco mais que sucata de madeira aguardando seu destino.{Não sei, como vai esta?\N-gaijin}{Gaijin, não sei como reformular isso. Talvez a tradução esteja ruim.}
 Dialogue: 5,0:21:08.03,0:21:10.45,Main-207+,,0,0,0,,Ei!  Não diga assim!
-Dialogue: 5,0:21:11.87,0:21:14.00,Main-207+,,0,0,0,,{Não é problema meu.  Essa é a verdade.}{E daí?}Tanto faz.  É a verdade.
+Dialogue: 5,0:21:11.87,0:21:14.00,Main-207+,,0,0,0,,Não é problema meu.  Essa é a verdade.{E daí?}
 Dialogue: 5,0:21:16.35,0:21:20.30,Main-207+,,0,0,0,,{Então... Então construa um navio do zero para nós!}Ok, então!  Você tem que construir um navio do zero para nós!
 Dialogue: 5,0:21:20.30,0:21:22.89,Main-207+,,0,0,0,,Construa o Going Merry!
 Dialogue: 5,0:21:22.89,0:21:25.19,Main-207+,,0,0,0,,{Coo!  } Isso também não é possível.
@@ -362,52 +363,52 @@ Dialogue: 5,0:21:32.29,0:21:36.23,Main-207+,,0,0,0,,{Neste mundo, não existem d
 Dialogue: 5,0:21:36.23,0:21:37.40,Main-207+,,0,0,0,,{O que isso significa?!} Significando o quê?!
 Dialogue: 5,0:21:37.40,0:21:41.36,Main-207+,,0,0,0,,{Existem árvores no mundo que crescem exatamente da mesma\Nmaneira?} Duas árvores crescem exatamente da mesma maneira?
 Dialogue: 5,0:21:42.69,0:21:45.49,Main-207+,,0,0,0,,{Navios à vela são feitos principalmente de madeira,}Um\Nnavio marítimo é construído quase inteiramente de madeira,
-Dialogue: 5,0:21:45.49,0:21:49.24,Main-207+,,0,0,0,,então o tamanho e as curvas do navio são {todos afetados}\Ndeterminados pela {forma das árvores.}forma da madeira.
+Dialogue: 5,0:21:45.49,0:21:49.24,Main-207+,,0,0,0,,então o tamanho e as curvas do navio são todos afetados pela {forma das árvores.}forma da madeira.
 Dialogue: 5,0:21:50.04,0:21:55.29,Main-207+,,0,0,0,,É por isso que uma duplicata exata do navio não\Npode ser construída, mesmo usando o mesmo projeto.
 Dialogue: 5,0:21:55.29,0:21:58.50,Main-207+,,0,0,0,,{Por exemplo, e}Mesmo que{} tentássemos usar um projeto para construir {tal navio}uma cópia de um navio,{Os japoneses deixam muito por dizer para o meu gosto.  Quero deixar claro o que ele quer dizer aqui.  -gaijin}
-Dialogue: 5,0:21:58.50,0:22:03.39,Main-207+,,0,0,0,,{sem dúvida, aqueles que sentiriam que é um navio totalmente diferente...} sem dúvida,\Na tripulação que conhecesse melhor o antigo navio sentiria instantaneamente a diferença.
-Dialogue: 5,0:22:03.39,0:22:05.92,Main-207+,,0,0,0,,{seria vocês!  Coo coo!}Essa equipe seria {\i1}vocês{\i0}!
+Dialogue: 5,0:21:58.50,0:22:03.39,Main-207+,,0,0,0,,{sem dúvida, aqueles que sentiriam que é um navio totalmente diferente...} sem dúvida, a tripulação que conhecesse melhor o antigo navio sentiria instantaneamente a diferença.
+Dialogue: 5,0:22:03.39,0:22:05.92,Main-207+,,0,0,0,,{seria vocês!  Coo coo!}Essa equipe seriam {\i1}vocês{\i0}!
 Dialogue: 5,0:22:06.59,0:22:08.47,Main-207+,,0,0,0,,{Oh, não...} Então, isso...
-Dialogue: 5,0:22:08.47,0:22:13.18,Main-207+,,0,0,0,,{Então nós realmente não podemos mais viajar no Going Merry?} Isso significa\Nque realmente não podemos navegar a bordo do Going Merry nunca mais?
-Dialogue: 5,0:22:13.18,0:22:15.21,Main-207+,,0,0,0,,{Isso mesmo.} Você entendeu a essência.
-Dialogue: 5,0:22:15.21,0:22:17.39,Main-207+,,0,0,0,,{Ou você não faz nada e espera até que ela afunde...} Ou a leva para um túmulo aquático,
-Dialogue: 5,0:22:18.07,0:22:20.85,Main-207+,,0,0,0,,ou {você }destrua ela {rapidamente}uma divisão rápida.
+Dialogue: 5,0:22:08.47,0:22:13.18,Main-207+,,0,0,0,,{Então nós realmente não podemos mais viajar no Going Merry?} Isso significa que realmente não podemos navegar a bordo do Going Merry nunca mais?
+Dialogue: 5,0:22:13.18,0:22:15.21,Main-207+,,0,0,0,,Isso mesmo.
+Dialogue: 5,0:22:15.21,0:22:17.39,Main-207+,,0,0,0,,Ou você não faz nada e espera até que ele afunde...
+Dialogue: 5,0:22:18.07,0:22:20.85,Main-207+,,0,0,0,,ou você destrói ele
 Dialogue: 5,0:22:23.20,0:22:24.27,Flashbacks-720p,,0,0,0,,Uma caravela!
-Dialogue: 5,0:22:24.27,0:22:27.36,Flashbacks-720p,,0,0,0,,{Que navio bom!}Oo{o}h!  Ela é uma grande nave!
+Dialogue: 5,0:22:24.27,0:22:27.36,Flashbacks-720p,,0,0,0,,{Que navio bom!}Oo{o}h!  Ele é um grande navio!
 Dialogue: 5,0:22:28.70,0:22:34.17,Flashbacks-720p,,0,0,0,,Tudo bem! Tudo feito! {Agora o navio pirata Going Merry está\Npronto!} Nosso navio pirata, o Going Merry, está finalmente pronto!
-Dialogue: 5,0:22:37.40,0:22:40.29,Main-207+,,0,0,0,,{Bem... seu navio está em suas últimas pernas.} Hum, seu navio chegou ao fim dela.
+Dialogue: 5,0:22:37.40,0:22:40.29,Main-207+,,0,0,0,,{Bem... seu navio está em suas últimas pernas.} Hum, seu navio chegou ao fim da viagem.
 Dialogue: 5,0:22:40.29,0:22:42.18,Main-207+,,0,0,0,,Esta é uma boa oportunidade.
 Dialogue: 5,0:22:42.18,0:22:44.49,Main-207+,,0,0,0,,{Apenas desista e compre um novo navio aqui.}Você precisa encarar os fatos e comprar um novo navio.
 Dialogue: 5,0:22:44.49,0:22:48.80,Main-207+,,0,0,0,,Você tem dinheiro, certo?{Ouvi dizer que seu navio é uma\Ncaravela.}E ouvi corretamente que seu navio{ i}é uma caravela?
-Dialogue: 5,0:22:49.37,0:22:54.34,Main-207+,,0,0,0,,{Para começar, suas futuras jornadas serão difíceis em um navio tão antigo.}{O fato é} Verdade\Nseja dita, ele é um navio de estilo antigo e não aguentaria a jornada adiante de qualquer maneira.
+Dialogue: 5,0:22:49.37,0:22:54.34,Main-207+,,0,0,0,,{Para começar, suas futuras jornadas serão difíceis em um navio tão antigo.}O fato é, ele é um navio de estilo antigo e não aguentaria a jornada adiante de qualquer maneira.
 Dialogue: 5,0:22:54.34,0:22:56.80,Main-207+,,0,0,0,,Não. Não pretendo comprar um novo navio.
 Dialogue: 5,0:22:56.80,0:22:58.30,Main-207+,,0,0,0,,Luffy.
 Dialogue: 5,0:22:58.30,0:23:00.27,Main-207+,,0,0,0,,Nosso...
 Dialogue: 5,0:23:00.27,0:23:03.24,Main-207+,,0,0,0,,Nosso navio é o Going Merry!
-Dialogue: 5,0:23:03.24,0:23:05.69,Main-207+,,0,0,0,,Se ela for consertada, {ela pode}ela {ainda }velará!
-Dialogue: 5,0:23:05.69,0:23:09.32,Main-207+,,0,0,0,,{Vai ficar tudo bem! Hoje, também, ela navegou aqui confortavelmente!}\NEla vai ficar bem! Até hoje, ela navegou sem problemas!
-Dialogue: 5,0:23:09.32,0:23:12.49,Main-207+,,0,0,0,,{E, no entanto, de repente nos dizem que ela não pode mais velejar...?}\NE, no entanto, do nada, você diz que ela terminou de velejar?!
+Dialogue: 5,0:23:03.24,0:23:05.69,Main-207+,,0,0,0,,Se ele for consertada, {ela pode}ele ainda pode viajar!
+Dialogue: 5,0:23:05.69,0:23:09.32,Main-207+,,0,0,0,,{Vai ficar tudo bem! Hoje, também, ela navegou aqui confortavelmente!}\NEle vai ficar bem! Até hoje, eea navegou sem problemas!
+Dialogue: 5,0:23:09.32,0:23:12.49,Main-207+,,0,0,0,,E, no entanto, de repente nos dizem que ela não pode mais velejar...?
 Dialogue: 5,0:23:12.49,0:23:14.39,Main-207+,,0,0,0,,{Como podemos acreditar nisso?!} Quem acreditaria nisso?!
-Dialogue: 5,0:23:14.39,0:23:20.00,Main-207+,,0,0,0,,{Vocês estão dizendo isso porque não sabem o quão forte ela é!} A única razão\Npela qual você nos diz isso é porque você não sabe o quão determinada ela é!
-Dialogue: 5,0:23:21.28,0:23:23.50,Main-207+,,0,0,0,,{Você ficará satisfeito se continuar navegando nela até\Nela afundar?} Então você a navegaria até ela afundar.
+Dialogue: 5,0:23:14.39,0:23:20.00,Main-207+,,0,0,0,,{Vocês estão dizendo isso porque não sabem o quão forte ela é!} A única razão\Npela qual você nos diz isso é porque você não sabe o quão determinado ele é!
+Dialogue: 5,0:23:21.28,0:23:23.50,Main-207+,,0,0,0,,Você ficará satisfeito se continuar navegando nela até\Nela afundar?
 Dialogue: 5,0:23:23.50,0:23:25.84,Main-207+,,0,0,0,,Minha nossa.
-Dialogue: 5,0:23:26.50,0:23:30.01,Main-207+,,0,0,0,,E você se chama capitão de navio?!
+Dialogue: 5,0:23:26.50,0:23:30.01,Main-207+,,0,0,0,,E você se chama capitão?!
 Dialogue: 5,0:23:32.48,0:23:34.38,Main-207+,,0,0,0,,{Nossa discussão está encerrada por enquanto.}Esta discussão está encerrada.
-Dialogue: 5,0:23:34.38,0:23:38.02,Main-207+,,0,0,0,,{Pense nisso com cuidado. Se você decidir comprar um navio, volte. Eu vou te ajudar.}{Pense bem nisso. Quando você\Ndecidir comprar um novo navio, eu dou uma mão.}Pense bem e volte quando estiver pronto para comprar um novo navio.
-Dialogue: 5,0:23:38.02,0:23:39.50,Main-207+,,0,0,0,,Eu vou cuidar de você.
-Dialogue: 5,0:23:39.50,0:23:43.28,Main-207+,,0,0,0,,{If you give us your 300 milhões, we can even build a state of the art ship for you.}Se\Nvocê gastasse os 300 milhões aqui, construiríamos um navio de última geração para você.
+Dialogue: 5,0:23:34.38,0:23:38.02,Main-207+,,0,0,0,,Pense nisso com cuidado. Se você decidir comprar um navio, volte. 
+Dialogue: 5,0:23:38.02,0:23:39.50,Main-207+,,0,0,0,,Eu vou te ajudar.
+Dialogue: 5,0:23:39.50,0:23:43.28,Main-207+,,0,0,0,,{If you give us your 300 milhões, we can even build a state of the art ship for you.}Se você gastasse os 300 milhões aqui, construiríamos um navio de última geração para você.
 Dialogue: 5,0:23:43.28,0:23:45.07,Main-207+,,0,0,0,,Kalifa!
 Dialogue: 5,0:23:45.07,0:23:47.80,Main-207+,,0,0,0,,{Sim.  Por favor, pense nisso.}Aqui.  Por favor, olhe isso.
 Dialogue: 5,0:23:47.80,0:23:50.00,Main-207+,,0,0,0,,{Este é um catálogo que contém modelos novos e\Nusados.}Este catálogo lista modelos novos e usados.
 Dialogue: 5,0:23:50.00,0:23:51.24,Main-207+,,0,0,0,,{Use-o como referência de preço.}Veja também os preços.
 Dialogue: 5,0:23:51.84,0:23:53.31,Main-207+,,0,0,0,,Iceburg-{\i1}san{\fs15} {r}!{\fs\i0\i0}
 Dialogue: 5,0:23:54.32,0:23:57.08,Main-207+,,0,0,0,,{Há alguém no portão que quer\Nvê-lo.}Você tem um visitante no portão.
-Dialogue: 5,0:23:57.08,0:24:00.40,Main-207+,,0,0,0,,{\pos(1024.5,1053)}{Parece que aquele funcionário do governo mundial está aqui novamente.}Esse\Nfuncionário do governo mundial {O}está aqui de novo, parece.
-Dialogue: 0,0:23:57.16,0:24:01.79,Captions,,0,0,0,,{\pos(294,442.5)\fs72\c&H000000&\1a&HFF&\blur0.9\fad(360,0)\t(315,360,\1a&H00&)}Peepley Lulu{fs37}Pitch, Blacksmithing e\NBlock-and-Tackle ForemanDock {1}OneGalley-La Company
-Dialogue: 1,0:23:57.16,0:24:01.79,Captions,,0,0,0,,{\pos(294,442.5)\fs72\bord0\4a&HFF&\blur0.9\fad(360,0)}Peepley Lulu{fs37}Pitch, Blacksmithing e\NBlock-and-Tackle ForemanDock {1}OneGalley-La Company
+Dialogue: 5,0:23:57.08,0:24:00.40,Main-207+,,0,0,0,,{\pos(1024.5,1053)}Parece que aquele funcionário do governo mundial está aqui novamente.
+Dialogue: 0,0:23:57.16,0:24:01.79,Captions,,0,0,0,,{\pos(294,442.5)\fs72\c&H000000&\1a&HFF&\blur0.9\fad(360,0)\t(315,360,\1a&H00&)}Peepley Lulu\N{fs37}Pitch, \NBlacksmithing e\NBlock-and-Tackle \NForemanDock {1}OneGalley-La Company
+Dialogue: 1,0:23:57.16,0:24:01.79,Captions,,0,0,0,,{\pos(294,442.5)\fs72\bord0\4a&HFF&\blur0.9\fad(360,0)}Peepley Lulu\N{fs37}Pitch, \NBlacksmithing e\NBlock-and-Tackle \NForemanDock {1}OneGalley-La Company
 Dialogue: 5,0:24:00.40,0:24:01.79,Main-207+,,0,0,0,,Devo mandá-lo embora?
-Dialogue: 5,0:24:02.26,0:24:05.49,Main-207+,,0,0,0,,{Bem... sim... Diga a ele que estou fora.} Hum, com certeza!  Diga a ele que não estou aqui.
-Dialogue: 5,0:24:05.49,0:24:09.30,Main-207+,,0,0,0,,De qualquer forma, você tem {muito\Ncaso} um caso ruim de cabeça de cama, Lulu.
+Dialogue: 5,0:24:02.26,0:24:05.49,Main-207+,,0,0,0,,Bem... sim... Diga a ele que não estou aqui.
+Dialogue: 5,0:24:05.49,0:24:09.30,Main-207+,,0,0,0,,De qualquer forma, você tem {muito\Ncaso} arrumar o cabelo quando levanta da cama, Lulu.
 Dialogue: 5,0:24:09.30,0:24:11.51,Main-207+,,0,0,0,,{Opa.  Perdoe-me.} Droga!  Perdão!
 Dialogue: 5,0:24:12.13,0:24:14.00,Main-207+,,0,0,0,,Bem, então, vou pedir-lhe para sair.
 Dialogue: 5,0:24:14.00,0:24:15.61,Main-207+,,0,0,0,,S-Sim, você faria?
@@ -416,15 +417,15 @@ Dialogue: 5,0:24:20.90,0:24:22.85,Main-207+,,0,0,0,,{Então você está por pert
 Dialogue: 5,0:24:22.85,0:24:26.00,Main-207+,,0,0,0,,Ei, pessoal, se escondam! {É um funcionário\Ndo governo} Eles são funcionários do governo!
 Dialogue: 5,0:24:26.00,0:24:26.94,Main-207+,,0,0,0,,Que?  O-Ok.
 Dialogue: 5,0:24:32.83,0:24:36.80,Main-207+,,0,0,0,,{Bem... Oi, Corgi. Eu não estou aqui hoje.}\NHum, olá, Corgi. Eu não estou aqui hoje.
-Dialogue: 5,0:24:36.80,0:24:38.28,Main-207+,,0,0,0,,Sim você é!
+Dialogue: 5,0:24:36.80,0:24:38.28,Main-207+,,0,0,0,,Sim você está!
 Dialogue: 5,0:24:38.28,0:24:41.85,Main-207+,,0,0,0,,{\an8}{Sério, eu vim até aqui de trem marítimo.}{E pensar}Olha, eu vim até aqui de trem marítimo.
-Dialogue: 0,0:24:38.37,0:24:45.04,Captions,,0,0,0,,{\pos(967.5,657)\fs72\c&H000000&\1a&HFF&\blur0.9\fad(400,0)\t(355,400,\1a&H00&)}Corg{y}i{fs37}Oficial do Governo Mundial
-Dialogue: 1,0:24:38.37,0:24:45.04,Captions,,0,0,0,,{\pos(967.5,657)\fs72\bord0\4a&HFF&\blur0.9\fad(400,0)}Corg{y}i{fs37}Oficial do Governo Mundial
+Dialogue: 0,0:24:38.37,0:24:45.04,Captions,,0,0,0,,{\pos(967.5,657)\fs72\c&H000000&\1a&HFF&\blur0.9\fad(400,0)\t(355,400,\1a&H00&)}Corgi\N{y}{fs37}Oficial do Governo Mundial
+Dialogue: 1,0:24:38.37,0:24:45.04,Captions,,0,0,0,,{\pos(967.5,657)\fs72\bord0\4a&HFF&\blur0.9\fad(400,0)}Corgi\N{y}{fs37}Oficial do Governo Mundial
 Dialogue: 5,0:24:41.85,0:24:43.99,Main-207+,,0,0,0,,{\an8}Por favor, não {refuse} me evite.
 Dialogue: 5,0:24:43.99,0:24:45.04,Main-207+,,0,0,0,,{\an8}Hmm?
-Dialogue: 5,0:24:51.80,0:24:55.39,Main-207+,,0,0,0,,{Eu de alguma forma detecto o cheiro de piratas.} O que eu sinto, mas o cheiro de piratas?
-Dialogue: 5,0:24:55.39,0:24:58.43,Main-207+,,0,0,0,,{Bem, tudo bem. De qualquer forma, quero falar com\Nvocê.}Claro que é. Mas estou aqui apenas para conversar.
-Dialogue: 5,0:24:58.43,0:25:01.10,Main-207+,,0,0,0,,Te odeio!  Ir para casa!
+Dialogue: 5,0:24:51.80,0:24:55.39,Main-207+,,0,0,0,,{Eu de alguma forma detecto o cheiro de piratas.} O que estou sentindo, cheiro de piratas?
+Dialogue: 5,0:24:55.39,0:24:58.43,Main-207+,,0,0,0,,Bem, tudo bem. De qualquer forma, quero falar com você.
+Dialogue: 5,0:24:58.43,0:25:01.10,Main-207+,,0,0,0,,Te odeio!  Quero ir para casa!
 Dialogue: 5,0:25:01.10,0:25:02.27,Main-207+,,0,0,0,,{Você é uma criança?}Agindo como uma criança?
 Dialogue: 5,0:25:02.27,0:25:04.27,Main-207+,,0,0,0,,Eu sou um homem totalmente crescido.
 Dialogue: 5,0:25:06.90,0:25:09.08,Main-207+,,0,0,0,,{Bem, por favor, não seja tão obstinado.} Bem, então pare de enrolar.
@@ -433,33 +434,33 @@ Dialogue: 5,0:25:15.53,0:25:18.45,Main-207+,,0,0,0,,Agora, vamos para algum luga
 Dialogue: 5,0:25:20.29,0:25:23.89,Main-207+,,0,0,0,,Eles continuam voltando.\NQue persistência.
 Dialogue: 5,0:25:23.89,0:25:26.19,Main-207+,,0,0,0,,{Que negócios eles têm com Iceburg-san?}O que eles podem querer com Iceburg-{\i1}san{\fs18} {r}?{\fs\i0\i0}
 Dialogue: 5,0:25:26.19,0:25:30.26,Main-207+,,0,0,0,,Não tem nada a ver conosco. Deve\Nter algo a ver com poder.{ Coo coo.}
-Dialogue: 5,0:25:30.26,0:25:31.90,Main-207+,,0,0,0,,{Devo bater neles?}Devo bater neles bobo?
+Dialogue: 5,0:25:30.26,0:25:31.90,Main-207+,,0,0,0,,{Devo bater neles?}Devo bater neles?
 Dialogue: 5,0:25:31.90,0:25:34.97,Main-207+,,0,0,0,,{Não} Pereça o pensamento.\NEles são do Governo Mundial.
 Dialogue: 5,0:25:39.01,0:25:41.60,Main-207+,,0,0,0,,- Hmm?\N- O que? O que está {o assunto} errado?
-Dialogue: 5,0:25:42.60,0:25:46.60,Main-207+,,0,0,0,,{Isso é algo que notei quando carreguei essas malas e me escondi mais cedo...} Então, notei algo\Nsobre as {bags} casos quando {eu as carreguei para nosso esconderijo} estávamos nos escondendo.
-Dialogue: 5,0:25:48.40,0:25:50.10,Main-207+,,0,0,0,,{Eles são leves, afinal.} Eles são bem leves.
+Dialogue: 5,0:25:42.60,0:25:46.60,Main-207+,,0,0,0,,Isso é algo que notei quando carreguei essas malas e me escondi mais cedo...
+Dialogue: 5,0:25:48.40,0:25:50.10,Main-207+,,0,0,0,,{Eles são leves, afinal.} Elas estão bem leves.
 Dialogue: 5,0:25:50.10,0:25:52.32,Main-207+,,0,0,0,,O que...?  Por quê?
-Dialogue: 5,0:25:52.85,0:25:58.03,Main-207+,,0,0,0,,Oh, não brinque assim.{Por que eles}Eles não\Npoderiam ser leves com todo aquele dinheiro neles{?}.
+Dialogue: 5,0:25:52.85,0:25:58.03,Main-207+,,0,0,0,,Oh, não brinque assim.{Por que eles}Elas não\Npoderiam estar leves com todo aquele dinheiro{?}.
 Dialogue: 5,0:26:03.66,0:26:05.87,Main-207+,,0,0,0,,{O que são essas vozes?!} Quem era agora?!
 Dialogue: 5,0:26:08.00,0:26:10.29,Main-207+,,0,0,0,,Seus idiotas!  Qual é a grande confusão?!
-Dialogue: 5,0:26:11.05,0:26:14.71,Main-207+,,0,0,0,,Ei, mulher!  {Se você sentar assim...!} Sentar assim me deixa ver...!
+Dialogue: 5,0:26:11.05,0:26:14.71,Main-207+,,0,0,0,,Ei, mulher!  Se você sentar assim...!
 Dialogue: 5,0:26:15.28,0:26:18.55,Main-207+,,0,0,0,,Não me diga... Há...
 Dialogue: 5,0:26:20.20,0:26:22.85,Main-207+,,0,0,0,,{n}De jeito nenhum...
-Dialogue: 5,0:26:24.85,0:26:26.85,Main-207+,,0,0,0,,Nossa 200 milhões de Berrys!
-Dialogue: 5,0:26:26.85,0:26:28.81,Main-207+,,0,0,0,,Já se foi!  Realmente se foi!
+Dialogue: 5,0:26:24.85,0:26:26.85,Main-207+,,0,0,0,,Nossos 200 milhões de Berrys!
+Dialogue: 5,0:26:26.85,0:26:28.81,Main-207+,,0,0,0,,Cadê!  Onde estão?!
 Dialogue: 5,0:26:28.81,0:26:32.34,Main-207+,,0,0,0,,{Em uma inspeção mais detalhada, eles não são nossas\Nmalas!}Agora que eu as vejo, essas nem são nossas {bags}malas!
 Dialogue: 5,0:26:33.23,0:26:34.37,Main-207+,,0,0,0,,O-O-O-O que vamos fazer?!
 Dialogue: 5,0:26:34.37,0:26:37.32,Main-207+,,0,0,0,,{Ei, por que vocês estão gritando tão\Nalto?} Ei, vocês! O que há com os gritos?
-Dialogue: 5,0:26:37.32,0:26:40.40,Main-207+,,0,0,0,,Nosso dinheiro... acabou.
+Dialogue: 5,0:26:37.32,0:26:40.40,Main-207+,,0,0,0,,Nosso dinheiro... sumiu.
 Dialogue: 5,0:26:40.40,0:26:43.29,Main-207+,,0,0,0,,É... totalmente... desaparecido.
 Dialogue: 5,0:26:43.29,0:26:45.64,Main-207+,,0,0,0,,- O que?! – Paulie!\N{Você...} Você de novo?
 Dialogue: 5,0:26:45.64,0:26:46.50,Main-207+,,0,0,0,,{Não sou eu!} Não fui eu!
 Dialogue: 5,0:26:46.50,0:26:49.10,Main-207+,,0,0,0,,{– Você está dizendo a verdade?! – Por que eu\Nmentiria?!}– Sinceramente?– Eu não estou mentindo!
 Dialogue: 5,0:26:49.10,0:26:52.71,Main-207+,,0,0,0,,– Isso é mesmo verdade?! – {Que barulhento... Mais importante,\NKaku.} Eles são tão barulhentos. De qualquer forma, Kaku,
 Dialogue: 5,0:26:52.71,0:26:55.79,Main-207+,,0,0,0,,{Você não estava com a Família Franky antes?} não te vi com a Família Franky antes?
-Dialogue: 5,0:26:55.79,0:26:57.70,Main-207+,,0,0,0,,Hmm?  {Do que você está falando?} Como você quer dizer?
-Dialogue: 5,0:26:57.70,0:27:00.51,Main-207+,,0,0,0,,{Eu não vi a Família Franky hoje.} Eu não\Nbati os olhos na Família Franky o dia todo.
-Dialogue: 5,0:27:00.51,0:27:05.80,Main-207+,,0,0,0,,{Isso é estranho. Tenho certeza de que vi seu nariz comprido.}Isso\Ncom certeza é estranho. Juro que vi seu nariz comprido entre eles.
+Dialogue: 5,0:26:55.79,0:26:57.70,Main-207+,,0,0,0,,Hmm?  {Do que você está falando?} O você quer dizer?
+Dialogue: 5,0:26:57.70,0:27:00.51,Main-207+,,0,0,0,,{Eu não vi a Família Franky hoje.} Eu não bati os olhos na Família Franky o dia todo.
+Dialogue: 5,0:27:00.51,0:27:05.80,Main-207+,,0,0,0,,{Isso é estranho. Tenho certeza de que vi seu nariz comprido.}Isso é estranho. Juro que vi seu nariz comprido entre eles.
 Dialogue: 5,0:27:05.80,0:27:07.48,Main-207+,,0,0,0,,Espere um segundo, pessoal!
 Dialogue: 5,0:27:07.48,0:27:09.39,Main-207+,,0,0,0,,Esse é o Usopp!
 Dialogue: 5,0:27:09.39,0:27:11.48,Main-207+,,0,0,0,,Ele estava com a Família Franky?!
@@ -471,19 +472,19 @@ Dialogue: 5,0:27:20.53,0:27:24.16,Main-207+,,0,0,0,,Ei! {Espere um segundo}\NEsp
 Dialogue: 5,0:27:26.62,0:27:29.58,Main-207+,,0,0,0,,Espere, Usopp!  Dinheiro!
 Dialogue: 5,0:27:33.20,0:27:34.41,Main-207+,,0,0,0,,{Nossa...} Urgh!
 Dialogue: 5,0:27:34.41,0:27:37.01,Main-207+,,0,0,0,,Ei, onde fica o esconderijo da Família Franky?
-Dialogue: 5,0:27:37.01,0:27:41.18,Main-207+,,0,0,0,,{É mais como uma oficina do que um esconderijo,}Não\Né realmente um esconderijo. O lugar é sua oficina,
+Dialogue: 5,0:27:37.01,0:27:41.18,Main-207+,,0,0,0,,{É mais como uma oficina do que um esconderijo,}Não é realmente um esconderijo. O lugar é sua oficina,
 Dialogue: 5,0:27:41.18,0:27:44.09,Main-207+,,0,0,0,,{mas fica à beira-mar a noroeste do cabo rochoso}\Nlocalizado perto de onde seu navio está ancorado.
 Dialogue: 5,0:27:44.09,0:27:47.10,Main-207+,,0,0,0,,{onde seu navio está ancorado.}Basta seguir a\Ncosta noroeste de {Rocky Cape}o cabo rochoso.
 Dialogue: 5,0:27:47.10,0:27:49.35,Main-207+,,0,0,0,,Chama-se Casa Franky.
 Dialogue: 5,0:27:52.71,0:27:54.61,Main-207+,,0,0,0,,Luffy!
 Dialogue: 5,0:27:55.59,0:27:57.76,Main-207+,,0,0,0,,Luffy!
-Dialogue: 5,0:27:58.47,0:28:03.16,Main-207+,,0,0,0,,{Sério, quando não tem como ele achar o Usopp sozinho...!}O\Nque dá? Como se ele pudesse fugir e encontrar o Usopp sozinho!
-Dialogue: 5,0:28:03.84,0:28:06.01,Main-207+,,0,0,0,,{Não tenho tempo para procurar Luffy.} Encontrar Luffy terá que esperar.
-Dialogue: 5,0:28:06.01,0:28:08.79,Main-207+,,0,0,0,,{É melhor deixar esse dinheiro no navio por\Nenquanto.}Enquanto isso, devolverei o dinheiro ao navio.
-Dialogue: 5,0:28:09.36,0:28:12.13,Main-207+,,0,0,0,,{Se eu marchar dizendo: "Devolva nossos 200 milhões" com 100 milhões\Nem mim,} Trazendo 100 milhões comigo enquanto peço 200 milhões...
-Dialogue: 5,0:28:12.13,0:28:14.67,Main-207+,,0,0,0,,{Eu estaria pedindo a eles para roubá-lo também.} está apenas implorando para que eles peguem o resto.
+Dialogue: 5,0:27:58.47,0:28:03.16,Main-207+,,0,0,0,,{Sério, quando não tem como ele achar o Usopp sozinho...!}Como se ele pudesse correr e encontrar o Usopp sozinho!
+Dialogue: 5,0:28:03.84,0:28:06.01,Main-207+,,0,0,0,,Não tenho tempo para procurar Luffy.
+Dialogue: 5,0:28:06.01,0:28:08.79,Main-207+,,0,0,0,,É melhor deixar esse dinheiro no navio por\Nenquanto.
+Dialogue: 5,0:28:09.36,0:28:12.13,Main-207+,,0,0,0,,Se eu gritar: "Devolva nossos 200 milhões" com 100 milhões,
+Dialogue: 5,0:28:12.13,0:28:14.67,Main-207+,,0,0,0,,{Eu estaria pedindo a eles para roubá-lo também.} estarei apenas implorando para que eles roubem o resto.
 Dialogue: 5,0:28:15.35,0:28:19.23,Main-207+,,0,0,0,,De qualquer forma, yagara-{\i1}chan{\i0}, {por favor, vá para a loja de touros usando o caminho\Nmais curto!} por favor, pegue o caminho mais rápido de volta para a loja de touros!
-Dialogue: 5,0:28:25.60,0:28:28.56,Main-207+,,0,0,0,,{Vou levar Zoro e os outros comigo e ensinar uma lição a\Neles!} Zoro, eu e os outros precisaremos ensiná-los uma lição!
+Dialogue: 5,0:28:25.60,0:28:28.56,Main-207+,,0,0,0,,Vou levar Zoro e os outros comigo e ensinar uma lição a eles!
 Dialogue: 5,0:28:28.56,0:28:33.21,Main-207+,,0,0,0,,Família Franky!{Roubando de piratas?! Você é o\Nmais baixo!} Roubar de piratas foi uma má decisão!
 Dialogue: 5,0:28:39.52,0:28:43.81,Main-207+,,0,0,0,,{Este é o primeiro andar, o distrito comercial de rua.}Bem-vindo ao {primeiro nível}nível um, o distrito comercial de rua.{Gaijin, qual\Né uma boa tradução aqui? "Primeiro Andar" "Primeiro Nível" "Nível Um" "Nível do Térreo" "Nível do Mar" ou algo totalmente diferente?}
 Dialogue: 5,0:28:43.81,0:28:46.13,Main-207+,,0,0,0,,Cuide-se e tenha um bom dia!
@@ -512,27 +513,27 @@ Dialogue: 5,0:30:12.50,0:30:14.01,Main-207+,,0,0,0,,Nami...
 Dialogue: 5,0:30:14.01,0:30:15.00,Main-207+,,0,0,0,,Sim?
 Dialogue: 5,0:30:16.41,0:30:20.79,Main-207+,,0,0,0,,A tripulação... não posso enfrentá-los.
 Dialogue: 5,0:30:24.60,0:30:29.27,Main-207+,,0,0,0,,{Estávamos finalmente prestes a consertar o Merry...} E... estávamos tão perto de consertar o Merry.
-Dialogue: 5,0:30:31.99,0:30:35.51,Main-207+,,0,0,0,,Eu me sinto... tão envergonhada.
+Dialogue: 5,0:30:31.99,0:30:35.51,Main-207+,,0,0,0,,Eu me sinto... tão envergonhado.
 Dialogue: 5,0:30:37.71,0:30:40.36,Main-207+,,0,0,0,,Droga!
 Dialogue: 5,0:30:41.05,0:30:43.90,Main-207+,,0,0,0,,Usopp, entendi.
-Dialogue: 5,0:30:43.90,0:30:48.32,Main-207+,,0,0,0,,Não se preocupe com o dinheiro. {Nós todos iremos e o recuperaremos\Ncom certeza.}Você pode contar conosco para recuperá-lo.
-Dialogue: 5,0:30:48.32,0:30:53.08,Thoughts-207+,,0,0,0,,Ele está ferido {muito mal} muito mal.\NEu provavelmente não deveria movê-lo.
+Dialogue: 5,0:30:43.90,0:30:48.32,Main-207+,,0,0,0,,Não se preocupe com o dinheiro. Nós todos iremos recupera-lo com certeza.
+Dialogue: 5,0:30:48.32,0:30:53.08,Thoughts-207+,,0,0,0,,Ele está ferido, {muito mal} muito mal.\NEu provavelmente não deveria movê-lo.
 Dialogue: 5,0:30:53.70,0:30:56.50,Main-207+,,0,0,0,,{Usopp, fique aqui um pouco.}Usopp, fique aqui um pouco.
 Dialogue: 5,0:30:56.50,0:31:00.30,Main-207+,,0,0,0,,Vou correr de volta para o navio e trazer ajuda.
 Dialogue: 5,0:31:00.30,0:31:02.88,Main-207+,,0,0,0,,Vou trazer Chopper também,\Npara que ele possa te tratar!
 Dialogue: 5,0:31:02.88,0:31:05.39,Main-207+,,0,0,0,,{Não se preocupe com o dinheiro roubado.}Por favor, não se preocupe com o dinheiro!
-Dialogue: 5,0:31:05.39,0:31:08.37,Main-207+,,0,0,0,,Ouvi dizer {que }o esconderijo deles fica {à frente daqui.}bem à frente.
+Dialogue: 5,0:31:05.39,0:31:08.37,Main-207+,,0,0,0,,Ouvi dizer que o esconderijo deles fica {à frente daqui.}bem à frente.
 Dialogue: 5,0:31:08.37,0:31:10.56,Main-207+,,0,0,0,,{Então, vamos esmagá-los e isso será o fim\Ndeles!} Vamos esmagá-los e acabar com isso!
-Dialogue: 5,0:31:12.05,0:31:16.06,Main-207+,,0,0,0,,{Ei!  Isso não é um show!}Ei, isso não é um show, seus bocas{-} respiradores!
+Dialogue: 5,0:31:12.05,0:31:16.06,Main-207+,,0,0,0,,Ei!  Isso não é um show!
 Dialogue: 5,0:31:16.90,0:31:19.52,Main-207+,,0,0,0,,{Listen}Você vai ficar bem,\NUsopp. Fique quieto{ aqui}, ok?
 Dialogue: 5,0:31:20.40,0:31:22.14,Main-207+,,0,0,0,,Estarei {de volta imediatamente} de volta!
-Dialogue: 5,0:31:26.94,0:31:30.24,Main-207+,,0,0,0,,{Vá mais rápidoTake}Saia da liderança, yagara-{\i1}chan{\fs15} {r}!{\fs\i0\i0}
+Dialogue: 5,0:31:26.94,0:31:30.24,Main-207+,,0,0,0,,Vá mais rápido Yagara-chan!
 Dialogue: 5,0:31:32.99,0:31:35.58,Main-207+,,0,0,0,,Ahh!  Um touro fugitivo!
 Dialogue: 5,0:31:34.89,0:31:35.58,Secondary-207+,,0,0,0,,Ei!
 Dialogue: 5,0:31:37.62,0:31:42.29,Flashbacks-720p,,0,0,0,,{Estávamos finalmente prestes a consertar o Merry...}E... estávamos tão perto de consertar o Merry.{Flashback para: mesmo episódio, timestamp 30:24}
 Dialogue: 5,0:31:44.04,0:31:48.71,Flashbacks-720p,,0,0,0,,{Não importa quanto você pague, esse navio não pode ser restaurado para como era.}Nem todo o dinheiro\Ndo mundo pode devolver seu navio ao seu estado original.{Flashback to: same episode, timestamp 20: 02}
 Dialogue: 5,0:31:49.80,0:31:53.47,Thoughts-207+,,0,0,0,,Se decidirmos comprar um novo navio...
-Dialogue: 5,0:31:53.47,0:31:57.39,Thoughts-207+,,0,0,0,,{ou faça com que outra pessoa conserte e melhore o Merry,}ou encontre\Nalguém que esteja disposto a consertar e melhorar o Merry{–},
+Dialogue: 5,0:31:53.47,0:31:57.39,Thoughts-207+,,0,0,0,,{ou faça com que outra pessoa conserte e melhore o Merry,}ou encontre alguém que esteja disposto a consertar e melhorar o Merry{–},
 Dialogue: 5,0:31:57.39,0:32:01.89,Thoughts-207+,,0,0,0,,{a menos que gastemos todos os 300 milhões no navio para atualizá-lo,}{a menos que gastemos todos os 300 milhões\Npara atualizar ou obter um novo navio–}temos que gastar todos os 300 milhões para atualizar ou obter um novo navio.
 Dialogue: 5,0:32:01.89,0:32:04.23,Thoughts-207+,,0,0,0,,{nossa jornada futura certamente será difícil.}{nossa próxima jornada termina antes de começar.}Os mares só ficarão mais agitados daqui.
 Dialogue: 5,0:32:05.34,0:32:07.99,Thoughts-207+,,0,0,0,,Nós definitivamente precisamos desse dinheiro.
@@ -543,9 +544,9 @@ Dialogue: 5,0:32:19.29,0:32:20.58,Main-207+,,0,0,0,,Este navio...
 Dialogue: 5,0:32:20.58,0:32:23.50,Main-207+,,0,0,0,,...não pode mais ser consertado? Mesmo\Nse {pagarmos muito} tivermos o dinheiro?!
 Dialogue: 5,0:32:23.50,0:32:26.46,Main-207+,,0,0,0,,Então{...}, {O que vai} o que vai acontecer com {o }Merry?!
 Dialogue: 5,0:32:26.46,0:32:27.91,Main-207+,,0,0,0,,Me bate.
-Dialogue: 5,0:32:27.91,0:32:32.72,Main-207+,,0,0,0,,{No final, depende de como Luffy e os outros decidem depois de ouvir o resultado da avaliação.}\NNo final, tudo depende de como Luffy e os outros dois reagem ao {resultado } da avaliação.
+Dialogue: 5,0:32:27.91,0:32:32.72,Main-207+,,0,0,0,,{No final, depende de como Luffy e os outros decidem depois de ouvir o resultado da avaliação.}\NNo final, tudo depende de como Luffy e os outros dois reagem ao  resultado da avaliação.
 Dialogue: 5,0:32:33.60,0:32:37.60,Main-207+,,0,0,0,,Aqueles três no estaleiro provavelmente {tomarão\Nalguma decisão.}encontrarão uma solução.
-Dialogue: 5,0:32:37.60,0:32:40.89,Main-207+,,0,0,0,,{Isso não soa bem. É muito radical.} Eu não\Nacredito nisso. Parece realmente repentino.
+Dialogue: 5,0:32:37.60,0:32:40.89,Main-207+,,0,0,0,,{Isso não soa bem. É muito radical.} Eu não acredito nisso. Parece realmente repentino.
 Dialogue: 5,0:32:40.89,0:32:44.10,Main-207+,,0,0,0,,Olhe para o navio! Ela\Né a mesma velha Merry.
 Dialogue: 5,0:32:44.10,0:32:48.65,Main-207+,,0,0,0,,{Nós e Merry viajamos juntos desde o East Blue até aqui!}Do East Blue até\Naqui,nós {navegamos juntos a bordo}estamos com {the }Merry por todo o {todo}!
 Dialogue: 5,0:32:48.65,0:32:51.49,Main-207+,,0,0,0,,{É exatamente por isso, certo?} Mas essa é exatamente a razão.
@@ -563,8 +564,8 @@ Dialogue: 5,0:33:30.25,0:33:32.36,Main-207+,,0,0,0,,Oh?  Nami {}voltou!
 Dialogue: 5,0:33:32.36,0:33:35.10,Main-207+,,0,0,0,,Hmm?  Parece que ela está sozinha.
 Dialogue: 5,0:33:35.10,0:33:37.03,Main-207+,,0,0,0,,O que aconteceu com Luffy e Usopp?
 Dialogue: 5,0:33:37.81,0:33:41.54,Main-207+,,0,0,0,,Nami-{\i1}san{\fs15} {r}!\NAconteceu alguma coisa?{\fs\i0\i0}
-Dialogue: 0,0:33:42.87,0:33:45.75,Captions,,0,0,0,,{\pos(1671,666)\fs61.5\c&H000000&\1a&HFF&\blur0.9\fad(400,0)\t(355,400,\1a&H00&)}Water SevenArredoresCosta\NNordeste
-Dialogue: 1,0:33:42.87,0:33:45.75,Captions,,0,0,0,,{\pos(1671,666)\fs61.5\bord0\4a&HFF&\blur0.9\fad(400,0)}Water SevenArredoresCosta\NNordeste
+Dialogue: 0,0:33:42.87,0:33:45.75,Captions,,0,0,0,,{\pos(1671,666)\fs61.5\c&H000000&\1a&HFF&\blur0.9\fad(400,0)\t(355,400,\1a&H00&)}Water Seven\NArredores Costa\NNordeste
+Dialogue: 1,0:33:42.87,0:33:45.75,Captions,,0,0,0,,{\pos(1671,666)\fs61.5\bord0\4a&HFF&\blur0.9\fad(400,0)}Water Seven\NArredores Costa\NNordeste
 Dialogue: 0,0:33:42.87,0:33:45.75,Captions,,0,0,0,,{\pos(213,579)\fs61.5\c&H000000&\1a&HFF&\blur0.9\fad(400,0)\t(355,400,\1a&H00&)}Desmontadores
 Dialogue: 1,0:33:42.87,0:33:45.75,Captions,,0,0,0,,{\pos(213,579)\fs61.5\bord0\4a&HFF&\blur0.9\fad(400,0)}Desmontadores
 Dialogue: 5,0:33:45.75,0:33:49.69,Main-207+,,0,0,0,,Uau! Yow, yow! Você\Ndisse 200 milhões?!
@@ -605,11 +606,11 @@ Dialogue: 5,0:35:51.61,0:35:53.04,Main-207+,,0,0,0,,{O que ele está fazendo} El
 Dialogue: 5,0:35:53.04,0:35:56.81,Main-207+,,0,0,0,,Admito que você teve coragem de\Nvir buscar o dinheiro de volta sozinho,
 Dialogue: 5,0:35:56.81,0:35:59.63,Main-207+,,0,0,0,,mas não posso {deixar você tê-lo de volta.}deixar você tê-lo.
 Dialogue: 5,0:36:02.91,0:36:04.89,Main-207+,,0,0,0,,Me devolva}!
-Dialogue: 5,0:36:04.89,0:36:11.20,Main-207+,,0,0,0,,Temos que... consertar nossa nave.
+Dialogue: 5,0:36:04.89,0:36:11.20,Main-207+,,0,0,0,,Temos que... consertar nosso navio.
 Dialogue: 5,0:36:14.48,0:36:17.02,Main-207+,,0,0,0,,{Esse dinheiro é crucial para nós!} Precisamos desesperadamente desse dinheiro!
 Dialogue: 5,0:36:21.49,0:36:25.08,Main-207+,,0,0,0,,Com esse dinheiro, podemos finalmente...
 Dialogue: 5,0:36:25.08,0:36:30.62,Main-207+,,0,0,0,,{Nós podemos finalmente reparar as cicatrizes do Going Merry!}Nós\Npodemos finalmente consertar as feridas do Going Merry!
-Dialogue: 5,0:36:30.62,0:36:35.87,Main-207+,,0,0,0,,{Eu não posso deixar vocês idiotas ficarem com isso!} Esse dinheiro... eu não vou deixar vocês seus idiotas pegarem isso!
+Dialogue: 5,0:36:30.62,0:36:35.87,Main-207+,,0,0,0,,Eu não posso deixar vocês idiotas ficarem com isso!
 Dialogue: 5,0:36:41.68,0:36:43.63,Main-207+,,0,0,0,,{Com o que você está tão preocupado?}O que está te deixando nervoso?
 Dialogue: 5,0:36:44.50,0:36:48.19,Main-207+,,0,0,0,,{Parece que você ama bastante seu navio.} Vejo que você realmente ama seu navio, estou certo?
 Dialogue: 5,0:36:48.19,0:36:52.64,Main-207+,,0,0,0,,{Bem, não importa o que aconteça com seu navio,} Que pena!  Aconteça o que acontecer com seu navio,
@@ -642,7 +643,7 @@ Dialogue: 5,0:39:10.87,0:39:15.07,Main-207+,,0,0,0,,Devolveaaaaa!
 Dialogue: 5,0:39:24.73,0:39:27.09,Main-207+,,0,0,0,,Eu só tenho que aguentar até Robin voltar.
 Dialogue: 5,0:39:30.43,0:39:33.64,Main-207+,,0,0,0,,{Só me tornarei um fardo para eles se marchar com\Neles.} Eu só atrapalharia se marchasse com os outros.
 Dialogue: 5,0:39:34.51,0:39:35.60,Main-207+,,0,0,0,,{Vai ser assustador também.} E eu estou com medo.
-Dialogue: 5,0:39:37.59,0:39:42.10,Main-207+,,0,0,0,,De qualquer forma, {Eu protegerei esta nave e a Berrys de 100 milhões até o\Nfim.} Farei qualquer coisa para proteger este navio e os 100 milhões de Berrys.
+Dialogue: 5,0:39:37.59,0:39:42.10,Main-207+,,0,0,0,,De qualquer forma, {Eu protegerei este navio e a Berrys de 100 milhões até o\Nfim.} Farei qualquer coisa para proteger este navio e os 100 milhões de Berrys.
 Dialogue: 5,0:39:42.10,0:39:45.93,Main-207+,,0,0,0,,{Estou contando com vocês... pessoal!} O resto está em suas mãos... vocês!
 Dialogue: 5,0:39:47.04,0:39:49.10,Main-207+,,0,0,0,,Pare.  Pare!
 Dialogue: 5,0:39:52.71,0:39:57.51,Main-207+,,0,0,0,,Se bem me lembro, este deve ser o\Nlugar sobre o qual Nami-{\i1}san{\i0} estava falando.
