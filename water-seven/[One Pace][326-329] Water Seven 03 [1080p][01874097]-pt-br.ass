@@ -16,7 +16,7 @@ Video File: ../../[One Pace][326-329] Water Seven 03 [1080p][01874097].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 572
+Scroll Position: 539
 Active Line: 575
 Video Position: 52523
 
@@ -616,8 +616,8 @@ Dialogue: 5,0:36:44.50,0:36:48.19,Main-207+,,0,0,0,,{Parece que você ama bastan
 Dialogue: 5,0:36:48.19,0:36:52.64,Main-207+,,0,0,0,,{Bem, não importa o que aconteça com seu navio,} Que pena!  Aconteça o que acontecer com seu navio,
 Dialogue: 5,0:36:52.64,0:36:56.56,Main-207+,,0,0,0,,{este dinheiro já é nosso.}este dinheiro pertence a {\i1}nós{\i0} agora.
 Dialogue: 5,0:36:58.52,0:37:04.09,Main-207+,,0,0,0,,Infelizmente para você, {não importa o que roubemos de piratas, }ninguém considera roubar\Nde piratas{não seremos acusados ​​de cometer um crime.}{ninguém considerará isso} um crime.
-Dialogue: 5,0:37:04.09,0:37:07.78,Main-207+,,0,0,0,,{Isso é dinheiro sujo que você roubou de algum lugar, certo?}Deixe-me\Nadivinhar! É dinheiro sujo que você roubou{ em primeiro lugar}, certo?
-Dialogue: 5,0:37:09.00,0:37:11.20,Main-207+,,0,0,0,,{Bem, vamos tê-lo.} Então, deixe-nos mantê-lo.
+Dialogue: 5,0:37:04.09,0:37:07.78,Main-207+,,0,0,0,,{Isso é dinheiro sujo que você roubou de algum lugar, certo?}Deixe-me adivinhar! É dinheiro sujo que você roubou em primeiro lugar, certo?
+Dialogue: 5,0:37:09.00,0:37:11.20,Main-207+,,0,0,0,,Bem, vamos tê-lo.
 Dialogue: 5,0:37:13.21,0:37:16.67,Main-207+,,0,0,0,,{Se quiser, tente implorar ajuda à Marinha.} Você sempre pode implorar por ajuda à Marinha.
 Dialogue: 5,0:37:16.67,0:37:19.39,Main-207+,,0,0,0,,{Vocês são os que serão capturados.} Mas vocês provavelmente serão os presos.
 Dialogue: 5,0:37:20.81,0:37:23.61,Main-207+,,0,0,0,,{Muito ruim para o Luffy do Chapéu de Palha...}É uma pena que o Luffy do Chapéu de Palha...
@@ -667,7 +667,7 @@ Dialogue: 5,0:40:54.30,0:40:55.56,Main-207+,,0,0,0,,Me ajude!
 Dialogue: 5,0:40:55.56,0:40:57.01,Main-207+,,0,0,0,,Luffy?!
 Dialogue: 5,0:41:03.82,0:41:07.72,Main-207+,,0,0,0,,O que você está fazendo?!\NDe onde você veio caindo?
 Dialogue: 5,0:41:08.85,0:41:10.20,Main-207+,,0,0,0,,O estaleiro...
-Dialogue: 5,0:41:10.20,0:41:14.28,Main-207+,,0,0,0,,{Eu estava pulando imitando esse carpinteiro para procurar o Usopp.}Eu\Nestava copiando aquele {cara do estaleiro}, pulando para procurar o Usopp.
+Dialogue: 5,0:41:10.20,0:41:14.28,Main-207+,,0,0,0,,Eu estava pulando imitando esse carpinteiro para procurar o Usopp.
 Dialogue: 5,0:41:14.28,0:41:15.45,Main-207+,,0,0,0,,Você está bem?
 Dialogue: 5,0:41:15.45,0:41:16.82,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:41:16.82,0:41:19.56,Main-207+,,0,0,0,,Ah, isso mesmo, pessoal!\NTemos um problema!
