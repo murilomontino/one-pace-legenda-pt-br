@@ -1,0 +1,414 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main-207+,Impress BT,83,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.75,3.75,2,180,180,27,1
+Style: Flashbacks-720p,Impress BT,83,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,4.125,3.75,2,180,180,27,1
+Style: Thoughts-207+,Impress BT,83,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,4.125,3.75,2,180,180,27,1
+Style: Secondary-207+,Impress BT,83,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.75,3.75,2,180,180,27,1
+Style: Title,Agency FB,95,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120,100,0.75,0,1,2.7,0,2,15,15,360,1
+Style: Captions,Impress BT,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,15,15,30,1
+Style: Credits-207+,FOT-Greco Std DB Strp,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1.5,0,1,3.8,0,7,15,15,15,1
+Style: Lyrics-OP5,FOT-Greco Std DB Strp,57,&H00FFFFFF,&H00FFFFFF,&H00060606,&H00000000,-1,0,0,0,100,100,1,0,1,4,0,2,33,33,27,1
+Style: Karaoke-OP5,Duality,90,&H000090FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:50.17,0:01:53.22,Title,,0,0,0,,{\pos(960,740)\fad(650,0)\blur0.8\bord2.8\fscx150\fscy130\c&H020202&\3c&H020202&\1a&HFF&\t(605,650,\1a&H00&)}diabo
+Dialogue: 1,0:01:50.17,0:01:53.22,Title,,0,0,0,,{\pos(960,740)\fad(650,0)\blur0.8\bord0\fscx150\fscy130\c&HE5E6E6&\4a&HFF&}diabo
+Dialogue: 5,0:01:51.63,0:01:54.97,Main-207+,,0,0,0,,{N... Nãooo!!} Nãooo!
+Dialogue: 5,0:01:54.97,0:01:57.93,Main-207+,,0,0,0,,Eu estou caindo!  Eu estou caindo!
+Dialogue: 5,0:01:57.93,0:02:00.73,Main-207+,,0,0,0,,Eu estou caindo!
+Dialogue: 5,0:02:13.11,0:02:14.91,Main-207+,,0,0,0,,Tudo bem!  Aterrissamos!
+Dialogue: 5,0:02:14.91,0:02:17.49,Main-207+,,0,0,0,,Rapaz, estou exausta.
+Dialogue: 5,0:02:18.87,0:02:21.75,Main-207+,,0,0,0,,Não "Nós pousamos" em mim!  Achei que ia morrer!
+Dialogue: 5,0:02:21.75,0:02:23.62,Main-207+,,0,0,0,,O que mais poderíamos ter feito?!
+Dialogue: 5,0:02:23.62,0:02:27.92,Main-207+,,0,0,0,,{Foi você quem disse que não podíamos usar o elevador} Foi você quem disse que não podíamos usar o\Nelevador {para que eles não nos encontrassem!}ou então eles nos encontrariam!{Juntaram duas linhas - JT }
+Dialogue: 5,0:02:27.92,0:02:30.21,Main-207+,,0,0,0,,{Mesmo assim, você não teve que pular!} Isso não significa que você teve que pular!
+Dialogue: 5,0:02:30.21,0:02:32.67,Main-207+,,0,0,0,,{Nós não somos aquele carpinteiro de nariz quadrado!} Você não é aquele carpinteiro de nariz quadrado!
+Dialogue: 5,0:02:32.67,0:02:35.30,Main-207+,,0,0,0,,Eu... eu sinto muito.
+Dialogue: 5,0:02:35.30,0:02:38.18,Main-207+,,0,0,0,,{Bem, tudo bem.  Pelo menos nos derrubou.} Bem, tudo bem.  Pelo menos nos derrubou.
+Dialogue: 5,0:02:38.18,0:02:39.51,Main-207+,,0,0,0,,{Se estava tudo bem, então não me bata!} Se estiver tudo bem, {então }não me bata!
+Dialogue: 5,0:02:43.10,0:02:46.15,Main-207+,,0,0,0,,{Mas... isso pode ser meio ruim.} Podemos estar com alguns problemas.
+Dialogue: 5,0:02:46.69,0:02:49.23,Main-207+,,0,0,0,,{Mau?  O que é ruim?} Problemas?  Qual problema?
+Dialogue: 5,0:02:49.90,0:02:52.57,Main-207+,,0,0,0,,A {geografia e o clima.}topografia e clima desta ilha.
+Dialogue: 5,0:02:52.57,0:02:55.91,Main-207+,,0,0,0,,Com tanto vento soprando,\Nse a pressão atmosférica cair,
+Dialogue: 5,0:02:55.91,0:02:58.03,Main-207+,,0,0,0,,{um tufão pode passar por aqui esta noite.} um tufão pode passar esta noite.
+Dialogue: 5,0:02:58.70,0:03:01.16,Main-207+,,0,0,0,,Esta cidade é chamada de Cidade da Água.
+Dialogue: 5,0:03:01.16,0:03:04.58,Main-207+,,0,0,0,,{Em outras palavras, pode ser um ponto fraco que pode facilmente levar a danos causados ​​por inundações.}Em\Noutras palavras, é {uma ameaça que pode levar}propenso a sofrer {to }danos causados ​​por inundações.
+Dialogue: 5,0:03:04.58,0:03:06.67,Main-207+,,0,0,0,,Assim?  O que dizer disso?
+Dialogue: 5,0:03:06.67,0:03:10.75,Main-207+,,0,0,0,,{Bem... Isso me incomoda um pouco, então eu vou verificar isso mais tarde.}\NBem{... Isso}, isso me incomoda um pouco, então eu vou investigar isso mais tarde.
+Dialogue: 5,0:03:10.75,0:03:13.59,Main-207+,,0,0,0,,De qualquer forma, vamos {ir}voltar para a pousada.
+Dialogue: 5,0:03:16.30,0:03:21.97,Main-207+,,0,0,0,,{\i1}Após o aviso do Aqua Laguna\Nemitido para toda a ilha,{\i0}
+Dialogue: 5,0:03:21.97,0:03:24.89,Main-207+,,0,0,0,,{\i1}todas as {factory}fábricas e docas\Nde construção naval em Shipyard Island{\i0}
+Dialogue: 5,0:03:24.89,0:03:27.15,Main-207+,,0,0,0,,{\i1}serão abertos como centros de evacuação.{\i0}
+Dialogue: 5,0:03:27.94,0:03:32.40,Main-207+,,0,0,0,,{Grandes multidões são esperadas, portanto, evacue com antecedência.i1}Esperamos\Ngrandes multidões, portanto, evacue o mais rápido possível.
+Dialogue: 5,0:03:33.32,0:03:38.07,Main-207+,,0,0,0,,{\i1Além disso}Além disso, como o Dock One\Nestá atualmente em um estado perigoso...{\i0}
+Dialogue: 5,0:03:38.07,0:03:40.49,Main-207+,,0,0,0,,{Ok, vou colocar a placa de ferro.} Ok, vou colocar a placa de ferro.
+Dialogue: 5,0:03:42.41,0:03:44.04,Main-207+,,0,0,0,,{Vocês têm tudo o que precisam?} Vocês têm tudo o que precisam?
+Dialogue: 5,0:03:44.04,0:03:47.42,Main-207+,,0,0,0,,Sim nós fazemos.  Vamos evacuar para o estaleiro.
+Dialogue: 5,0:03:47.42,0:03:50.75,Main-207+,,0,0,0,,{Bem, espere um pouco. É melhor eu preencher a lacuna com cânhamo.}\NBem, espere um pouco. É melhor eu preencher bem a lacuna com corda.
+Dialogue: 5,0:03:51.67,0:03:54.96,Main-207+,,0,0,0,,{Se o interior de nossa casa for inundado, tudo será\Narruinado.} Se nossa casa for inundada, tudo será arruinado.
+Dialogue: 5,0:03:54.96,0:04:00.51,Main-207+,,0,0,0,,Ei, o vento está começando a ficar\Nforte! Prepare-se para as ondas em breve!
+Dialogue: 5,0:04:00.51,0:04:04.72,Main-207+,,0,0,0,,{Rapazes! Se estivermos sem pressa, piratas assassinos também aparecerão desta\Nvez!}Gente! Se{estivermos} sem pressa, piratas assassinos aparecerão{ desta vez,} também!
+Dialogue: 5,0:04:04.72,0:04:05.77,Main-207+,,0,0,0,,Isso é assustador!
+Dialogue: 5,0:04:05.77,0:04:07.27,Main-207+,,0,0,0,,Para onde ele desapareceu?!
+Dialogue: 5,0:04:07.27,0:04:09.06,Main-207+,,0,0,0,,Tenho certeza que ele veio por aqui.
+Dialogue: 5,0:04:09.06,0:04:10.94,Main-207+,,0,0,0,,Ele ainda deve estar por perto!
+Dialogue: 5,0:04:10.94,0:04:12.77,Main-207+,,0,0,0,,Ok, vocês vão {pesquisar}olhar ali.
+Dialogue: 5,0:04:12.77,0:04:14.23,Main-207+,,0,0,0,,Entendi!
+Dialogue: 5,0:04:20.62,0:04:22.78,Thoughts-207+,,0,0,0,,O que diabos está acontecendo?
+Dialogue: 5,0:04:22.78,0:04:25.95,Thoughts-207+,,0,0,0,,{Por que estou sendo perseguido?  Eu não entendo!} Por que eles estão me perseguindo?  Eu não entendi!
+Dialogue: 5,0:04:35.25,0:04:36.96,Main-207+,,0,0,0,,{Então esta é a razão pela qual eles\Nestão me perseguindo!}Então {\i1}esta{\i0} é a razão!
+Dialogue: 5,0:04:37.63,0:04:40.05,Main-207+,,0,0,0,,{Culpados de assassinato?} Somos uma equipe de assassinos?
+Dialogue: 5,0:04:40.05,0:04:43.22,Main-207+,,0,0,0,,{Isso morde. Eu não posso nem voltar para a pousada assim.}{Isso\Nmorde. } Que dor. Agora eu não posso nem voltar para a pousada.
+Dialogue: 5,0:04:43.22,0:04:45.26,Main-207+,,0,0,0,,{Ah... Quem é aí?!} Ah... Quem é aí?!
+Dialogue: 5,0:04:45.77,0:04:47.77,Main-207+,,0,0,0,,{Por aqui!  Encontrei um cara suspeito aqui!}{Por aqui!  Um cara obscuro está aqui!}Aqui!  Achei alguém suspeito!
+Dialogue: 0,0:04:48.73,0:04:55.32,Captions,,0,0,0,,{\pos(960,736)\fad(400,400)\blur0.6\bord2.5\fscx150\fscy150\fnFOT-Greco Std DB Strp\c&H000000&\1a&HFF&\b1\t(355,400,\1a&H00&)\t(6190,6235,\1a&HFF&)}Estalajadeiro
+Dialogue: 1,0:04:48.73,0:04:55.32,Captions,,0,0,0,,{\pos(960,736)\fad(400,400)\blur0.6\bord0\fscx150\fscy150\fnFOT-Greco Std DB Strp\4a&HFF&\b1}Estalajadeiro
+Dialogue: 5,0:04:49.73,0:04:51.02,Main-207+,,0,0,0,,{Tem certeza, senhorio?} Tem certeza, estalajadeiro?
+Dialogue: 5,0:04:51.02,0:04:55.65,Main-207+,,0,0,0,,sim. Esses piratas estão hospedados em\N{esta}minha pousada desde ontem à noite.
+Dialogue: 5,0:04:55.65,0:04:57.40,Main-207+,,0,0,0,,Eles estavam {lá} aqui até pouco tempo atrás.
+Dialogue: 5,0:04:57.40,0:04:58.95,Main-207+,,0,0,0,,Eles estavam aqui?!
+Dialogue: 5,0:04:58.95,0:05:02.49,Main-207+,,0,0,0,,sim. Como eles ainda têm\Nmuita bagagem no quarto,
+Dialogue: 5,0:05:02.49,0:05:05.24,Main-207+,,0,0,0,,eles podem voltar.
+Dialogue: 5,0:05:06.08,0:05:08.12,Main-207+,,0,0,0,,Está bem então!  Vocês, fiquem aqui.
+Dialogue: 5,0:05:08.91,0:05:11.37,Main-207+,,0,0,0,,O resto de vocês, vamos {pesquisar\Nnesta área}dar uma olhada aqui juntos!
+Dialogue: 5,0:05:11.37,0:05:14.42,Main-207+,,0,0,0,,Ouça, certifique-se de não deixar\Npedra sobre pedra para encontrá-los!
+Dialogue: 5,0:05:14.42,0:05:15.80,Main-207+,,0,0,0,,{Sim, tudo bem!
+Dialogue: 5,0:05:26.56,0:05:28.43,Main-207+,,0,0,0,,Ei, não há ninguém aqui!
+Dialogue: 5,0:05:30.23,0:05:32.56,Main-207+,,0,0,0,,Este é realmente o navio deles?
+Dialogue: 5,0:05:32.56,0:05:35.15,Main-207+,,0,0,0,,Não há erro nisso!  Veja!
+Dialogue: 5,0:05:35.15,0:05:37.28,Main-207+,,0,0,0,,Essa é a bandeira pirata dos Chapéus de Palha.
+Dialogue: 5,0:05:37.28,0:05:40.86,Main-207+,,0,0,0,,Aposto que já o abandonaram.
+Dialogue: 5,0:05:40.86,0:05:42.15,Main-207+,,0,0,0,,Este navio está todo batido.
+Dialogue: 5,0:05:46.83,0:05:48.49,Main-207+,,0,0,0,,{Como foi?} Então?  Você os encontrou?
+Dialogue: 5,0:05:48.49,0:05:49.70,Main-207+,,0,0,0,,Não, eles não estão aqui!
+Dialogue: 5,0:05:49.70,0:05:53.96,Main-207+,,0,0,0,,Não há muito {coisas} dentro do navio. Este navio\N{definitivamente é} definitivamente abandonado.
+Dialogue: 5,0:05:53.96,0:05:55.54,Main-207+,,0,0,0,,Vamos procurar em outro lugar.
+Dialogue: 5,0:06:07.60,0:06:10.31,Thoughts-207+,,0,0,0,,Quem eram eles?
+Dialogue: 5,0:06:13.39,0:06:17.15,Thoughts-207+,,0,0,0,,Está acontecendo alguma coisa na cidade?
+Dialogue: 5,0:06:17.15,0:06:18.08,Main-207+,,0,0,0,,Você os encontrou?
+Dialogue: 5,0:06:18.08,0:06:19.61,Main-207+,,0,0,0,,Não.
+Dialogue: 5,0:06:19.61,0:06:21.90,Main-207+,,0,0,0,,Droga!  Onde eles estão?!
+Dialogue: 5,0:06:26.99,0:06:29.20,Main-207+,,0,0,0,,Oi, Luffy.
+Dialogue: 5,0:06:29.20,0:06:30.83,Main-207+,,0,0,0,,Hum?  O que é isso, Nami?
+Dialogue: 5,0:06:30.83,0:06:32.71,Main-207+,,0,0,0,,Você acha que todos estão bem?
+Dialogue: 5,0:06:32.71,0:06:35.04,Main-207+,,0,0,0,,Os artesãos estão por toda parte na cidade.
+Dialogue: 5,0:06:35.04,0:06:40.09,Main-207+,,0,0,0,,Eu acho que Chopper e Sanji-{\i1}kun{\i0} {are}deveriam ficar bem,\Njá que seus rostos ainda são desconhecidos{, mas..}.
+Dialogue: 5,0:06:40.09,0:06:41.17,Main-207+,,0,0,0,,{De qualquer forma, vamos nos apressar!} De qualquer forma, vamos nos apressar!
+Dialogue: 5,0:06:41.17,0:06:42.51,Main-207+,,0,0,0,,Sim.
+Dialogue: 5,0:06:46.39,0:06:49.35,Main-207+,,0,0,0,,O trem marítimo ainda está em serviço.{..}
+Dialogue: 5,0:06:49.35,0:06:52.02,Main-207+,,0,0,0,,Parece que o trem da tarde já partiu,
+Dialogue: 5,0:06:52.02,0:06:55.65,Main-207+,,0,0,0,,{mas tem outro que sai à noite com este mau tempo?}mas parece que\Nainda está programada uma partida nocturna com este mau tempo?
+Dialogue: 5,0:06:55.65,0:07:01.07,Main-207+,,0,0,0,,{23h, partindo para Enies Lobby...}Com destino a Enies Lobby às\N23h00 desta noite. O trem marítimo é bastante impressionante.
+Dialogue: 5,0:07:01.07,0:07:03.07,Main-207+,,0,0,0,,Ei!  Alguma informação sobre os piratas?!
+Dialogue: 5,0:07:03.07,0:07:05.03,Main-207+,,0,0,0,,Não. Não temos nada.
+Dialogue: 5,0:07:05.03,0:07:09.66,Main-207+,,0,0,0,,{Se capturarmos um daqueles três cujos rostos são conhecidos e espremê-lo, {o resto da gangue será\Nidentificado.} Se pudermos apenas capturar um e espremê-lo, eles vão derramar o feijão sobre o resto.
+Dialogue: 5,0:07:09.66,0:07:12.24,Main-207+,,0,0,0,,{Se apresse!  Antes que as ondas subam!} Depressa!  Antes que as ondas fiquem muito altas!
+Dialogue: 5,0:07:13.16,0:07:16.58,Main-207+,,0,0,0,,Eu me pergunto se Robin pegou o trem marítimo.
+Dialogue: 5,0:07:16.58,0:07:20.17,Main-207+,,0,0,0,,Se ela o fez, as coisas não podem ficar piores.
+Dialogue: 5,0:07:20.88,0:07:24.55,Main-207+,,0,0,0,,{Quando a Água Sete já é grande demais para ser manuseada...}\NA Água Sete já é grande demais para ser manuseada.{..}
+Dialogue: 5,0:07:24.55,0:07:28.09,Main-207+,,0,0,0,,{Eu me pergunto se... eu fiz algo para aborrecê-la na livraria.}\NEu me pergunto se eu fiz algo para aborrecê-la na livraria.
+Dialogue: 5,0:07:28.09,0:07:30.60,Main-207+,,0,0,0,,Seu bobo{...}.  Não há nenhuma maneira que é o caso.
+Dialogue: 5,0:07:30.60,0:07:31.39,Main-207+,,0,0,0,,{Oh, ei, com licença.} Ah, ei você.
+Dialogue: 5,0:07:31.97,0:07:33.93,Main-207+,,0,0,0,,Você já viu uma mulher bonita como ela?
+Dialogue: 5,0:07:33.93,0:07:37.31,Main-207+,,0,0,0,,{Oh, isso... A mulher bonita que é 20 anos mais velha do que na foto, certo?}{Oh, isso... Ela está 20 anos mais velha agora, certo?}{Oh, isso...\Nela se tornou uma beleza nos 20 anos desde que aquela foto foi tirada.} Ah, isso... você quer dizer a mulher bonita que parecia assim 20 anos atrás?
+Dialogue: 5,0:07:37.31,0:07:41.36,Main-207+,,0,0,0,,{Se tivesse, teria contado imediatamente à empresa de papel ou à Galley-La.}\NSe tivesse, teria contado imediatamente à empresa de papel ou à Galley-La.
+Dialogue: 5,0:07:41.36,0:07:45.78,Main-207+,,0,0,0,,{Mas pensar que ela é uma assassina... Que surpresa, hein?}\NMas pensar que ela é uma assassina... Que surpresa, hein?
+Dialogue: 5,0:07:45.78,0:07:50.16,Main-207+,,0,0,0,,Bem, tudo bem se você quiser procurar os\Nculpados, mas você deve evacuar em breve.
+Dialogue: 5,0:07:50.16,0:07:52.45,Main-207+,,0,0,0,,Ou você será engolido pelo Aqua Laguna.
+Dialogue: 5,0:07:53.49,0:07:55.00,Main-207+,,0,0,0,,{Bem, então, até mais.} Até mais.
+Dialogue: 5,0:08:00.75,0:08:02.84,Main-207+,,0,0,0,,{As coisas estão dando errado para todos nós também...}As coisas estão dando errado para todos nós.{..}
+Dialogue: 5,0:08:02.84,0:08:05.42,Main-207+,,0,0,0,,Eu me pergunto se Luffy e os outros estão bem.
+Dialogue: 5,0:08:05.42,0:08:09.89,Main-207+,,0,0,0,,Luffy está bem. O que\Nme preocupa é Nami-{\i1}san{\i0}.
+Dialogue: 5,0:08:11.43,0:08:14.89,Main-207+,,0,0,0,,{De qualquer forma, a cidade está ficando\Nbem vazia.} A cidade está ficando bem vazia.
+Dialogue: 5,0:08:15.52,0:08:20.56,Main-207+,,0,0,0,,O vento está gradualmente ficando mais forte\Ntambém. As pessoas começaram a evacuar.
+Dialogue: 5,0:08:21.52,0:08:23.40,Main-207+,,0,0,0,,Droga.{..}
+Dialogue: 5,0:08:23.40,0:08:27.65,Main-207+,,0,0,0,,Ei, Robin-{\i1}chan{\fs15} {r}!  Onde você foi?{\fs\i0}
+Dialogue: 5,0:08:29.45,0:08:32.45,Thoughts-207+,,0,0,0,,Este perfume... {C}poderia ser{...}?
+Dialogue: 5,0:08:34.87,0:08:36.00,Main-207+,,0,0,0,,{Chopper, qual é o problema?!}Chopper, o que está acontecendo?!
+Dialogue: 5,0:08:37.04,0:08:38.04,Main-207+,,0,0,0,,Ei, Chopp?!
+Dialogue: 5,0:08:40.00,0:08:42.08,Main-207+,,0,0,0,,Ei!  Esperar!
+Dialogue: 5,0:08:44.21,0:08:45.13,Thoughts-207+,,0,0,0,,Ela está aqui.
+Dialogue: 5,0:08:47.05,0:08:49.68,Main-207+,,0,0,0,,Oi, Chopp!  Helicóptero!
+Dialogue: 5,0:08:50.51,0:08:53.93,Main-207+,,0,0,0,,Uau!  Ops!
+Dialogue: 5,0:08:56.31,0:08:57.68,Main-207+,,0,0,0,,E-Ei, você está bem?!
+Dialogue: 5,0:08:59.14,0:09:00.56,Main-207+,,0,0,0,,Helicóptero!  Você está bem?!
+Dialogue: 5,0:09:01.44,0:09:02.56,Main-207+,,0,0,0,,Você está machucado?
+Dialogue: 5,0:09:02.56,0:09:06.48,Main-207+,,0,0,0,,{Nossa, não seja imprudente! O que diabos está acontecendo...}{Geez}Vamos,\Nnão seja tão imprudente! O que {na terra} está acontecendo{...}?
+Dialogue: 5,0:09:06.48,0:09:10.32,Main-207+,,0,0,0,,{Começando a correr tão de repente... ly...} Começando a correr tão... de repente...
+Dialogue: 5,0:09:13.03,0:09:14.37,Main-207+,,0,0,0,,-Robin! – Robin-{\i1}chan{\fs15} {r}!{\fs\i0}
+Dialogue: 5,0:09:16.37,0:09:19.33,Main-207+,,0,0,0,,{O-Onde você esteve?! Nós procuramos por você!}Onde\Nvocê esteve?! Nós olhamos tudo para você!
+Dialogue: 5,0:09:19.33,0:09:23.08,Main-207+,,0,0,0,,Todos estão preocupados com você! Agora,\Nvamos voltar para a pousada{ juntos}.
+Dialogue: 5,0:09:23.08,0:09:26.71,Main-207+,,0,0,0,,{Bem, muita coisa aconteceu enquanto você esteve fora. Vou explicar em detalhes.}Bem,\Nmuita coisa aconteceu enquanto você estava fora. Vou explicar em detalhes.
+Dialogue: 5,0:09:26.71,0:09:29.34,Main-207+,,0,0,0,,Mas essa distância é irritante.
+Dialogue: 5,0:09:29.34,0:09:32.38,Main-207+,,0,0,0,,Aguentar!  Estarei logo ali!
+Dialogue: 5,0:09:33.55,0:09:36.31,Main-207+,,0,0,0,,Não, tudo bem.  Fique lá.
+Dialogue: 5,0:09:37.01,0:09:38.02,Main-207+,,0,0,0,,Que?
+Dialogue: 5,0:09:38.60,0:09:39.77,Main-207+,,0,0,0,,{Eu não vou... voltar para vocês.} Eu não vou ser...
+Dialogue: 5,0:09:39.77,0:09:43.02,Main-207+,,0,0,0,,{Eu não vou... voltar para vocês.}voltando para a equipe.{Dividir esta e a linha anterior}
+Dialogue: 5,0:09:43.94,0:09:47.40,Main-207+,,0,0,0,,Estamos nos separando aqui... nesta cidade.{..}
+Dialogue: 5,0:09:47.98,0:09:51.65,Main-207+,,0,0,0,,O-O que você está dizendo, Robin-{\i1}chan{\fs18} {r}?{\fs\i0}
+Dialogue: 5,0:09:51.65,0:09:53.78,Main-207+,,0,0,0,,{Oh, entendi.  Você está pensando no jornal, certo?} Ah, entendi.  É sobre o jornal, certo?
+Dialogue: 5,0:09:53.78,0:09:55.53,Main-207+,,0,0,0,,{Não se preocupe com isso!}Não se preocupe com isso!
+Dialogue: 5,0:09:56.41,0:09:58.79,Main-207+,,0,0,0,,{Nenhum de nós acredita,} Nenhum de nós acredita.
+Dialogue: 5,0:09:58.79,0:10:02.41,Main-207+,,0,0,0,,{e ser falsamente acusado de um crime muitas vezes acontece\Ncom piratas!}Piratas são falsamente acusados ​​o tempo todo!
+Dialogue: 5,0:10:02.41,0:10:03.42,Main-207+,,0,0,0,,Sim...
+Dialogue: 5,0:10:03.42,0:10:07.96,Main-207+,,0,0,0,,{Sinto muito por atribuir um crime irracional a vocês.}{Lamento por atribuir um crime\Ntão irracional a vocês.}Sinto muito por incriminá-los por um crime que não cometeram.
+Dialogue: 5,0:10:07.96,0:10:12.01,Main-207+,,0,0,0,,Mas o artigo está dizendo a verdade.
+Dialogue: 5,0:10:12.01,0:10:16.55,Main-207+,,0,0,0,,{Realmente fui eu quem se infiltrou na residência do prefeito ontem à noite.}\NEu realmente fui quem se infiltrou na residência do prefeito ontem à noite.
+Dialogue: 5,0:10:16.55,0:10:17.47,Main-207+,,0,0,0,,Que?
+Dialogue: 5,0:10:18.14,0:10:19.47,Main-207+,,0,0,0,,Não{...}!
+Dialogue: 5,0:10:19.47,0:10:23.44,Main-207+,,0,0,0,,Eu carrego uma escuridão dentro de\Nmim que vocês {caras} não conhecem.
+Dialogue: 5,0:10:24.10,0:10:27.27,Main-207+,,0,0,0,,Esta escuridão irá destruí-lo algum dia.
+Dialogue: 5,0:10:29.28,0:10:32.95,Flashbacks-720p,,0,0,0,,{As organizações com as quais Nico Robin teve algo a ver até hoje}Até hoje, {qualquer organização associada\Na Nico Robin}{as organizações que trouxeram Nico Robin}todas as organizações que trouxeram Nico Robin
+Dialogue: 5,0:10:32.95,0:10:37.62,Flashbacks-720p,,0,0,0,,{todos foram aniquilados... exceto ela.}{deixou de existir}{were all}foi exterminado.{Ela é a única a sobreviver}Ela\Né a única sobrevivente.{Eu teria reescrito estes linhas, mas é assim que elas aparecem no original (LRLL Ep.6 16:38)}
+Dialogue: 5,0:10:38.62,0:10:44.33,Main-207+,,0,0,0,,Na verdade, estou atribuindo este\Ncrime a você e planejando fugir.
+Dialogue: 5,0:10:44.33,0:10:46.58,Main-207+,,0,0,0,,{A situação vai piorar.}A situação só vai piorar.
+Dialogue: 5,0:10:46.58,0:10:49.00,Main-207+,,0,0,0,,O que você quer dizer?!  Por que você é-
+Dialogue: 5,0:10:49.00,0:10:53.13,Main-207+,,0,0,0,,{Por que estou fazendo isso... É algo que você não precisa saber.}Por que\Nestou fazendo isso{...}? {Não é algo que você} Você não precisa saber.
+Dialogue: 5,0:10:55.22,0:10:59.56,Main-207+,,0,0,0,,Robin-{\i1}chan{\fs15} {r}! Eu não entendo o que você\Nestá dizendo! O que aconteceu com você?{\fs\i0}
+Dialogue: 5,0:10:59.56,0:11:02.27,Main-207+,,0,0,0,,Robin!  Vamos voltar juntos!
+Dialogue: 5,0:11:04.35,0:11:08.23,Main-207+,,0,0,0,,{Embora eu tenha passado pouco tempo com você, depois de\Nhoje...}Passei pouco tempo com você, mas depois de hoje,{...}
+Dialogue: 5,0:11:08.90,0:11:11.94,Main-207+,,0,0,0,,Eu nunca vou te ver novamente.
+Dialogue: 5,0:11:12.61,0:11:16.91,Main-207+,,0,0,0,,Obrigado por ser {legal com uma pessoa como eu}tão gentil com alguém como eu.
+Dialogue: 5,0:11:18.32,0:11:19.45,Main-207+,,0,0,0,,{Adeus.} Adeus.
+Dialogue: 5,0:11:33.88,0:11:35.51,Main-207+,,0,0,0,,Esperar...
+Dialogue: 5,0:11:36.05,0:11:38.55,Main-207+,,0,0,0,,Ei... espere...
+Dialogue: 5,0:11:39.64,0:11:41.51,Main-207+,,0,0,0,,eu não posso...
+Dialogue: 5,0:11:41.51,0:11:43.93,Main-207+,,0,0,0,,aceite isso.
+Dialogue: 5,0:11:44.77,0:11:45.85,Main-207+,,0,0,0,,Ei...
+Dialogue: 5,0:11:47.56,0:11:49.31,Main-207+,,0,0,0,,Esperar!
+Dialogue: 5,0:11:51.94,0:11:54.11,Main-207+,,0,0,0,,Pare de brincar!
+Dialogue: 5,0:11:54.11,0:11:55.95,Main-207+,,0,0,0,,Esperar!  Robin-{\i1}chan{\fs15} {r}!{\fs\i0}
+Dialogue: 5,0:11:55.95,0:11:56.99,Main-207+,,0,0,0,,Robin-{\i1}chan{\fs15} {r}!{\fs\i0}
+Dialogue: 5,0:11:57.70,0:12:00.41,Main-207+,,0,0,0,,Esperar!  Robin-{\i1}chan{\fs15} {r}!  Robin-{\i1}chan{\fs15} {r}!{\fs\i0}
+Dialogue: 5,0:12:08.37,0:12:11.13,Main-207+,,0,0,0,,Robin!
+Dialogue: 5,0:12:18.05,0:12:19.55,Main-207+,,0,0,0,,Eu a perdi de vista.
+Dialogue: 5,0:12:19.55,0:12:20.59,Main-207+,,0,0,0,,Sim.
+Dialogue: 5,0:12:23.89,0:12:26.06,Main-207+,,0,0,0,,– Helicóptero... – Hm?
+Dialogue: 5,0:12:26.06,0:12:31.06,Main-207+,,0,0,0,,{Você vai se juntar ao Luffy e aos outros e contar a eles tudo o que aconteceu...}Vá\Nse juntar ao Luffy e os outros e conte a eles tudo o que acabou de acontecer.
+Dialogue: 5,0:12:31.06,0:12:34.28,Main-207+,,0,0,0,,{sem deixar uma única palavra de fora.} Não deixe de fora uma única palavra.
+Dialogue: 5,0:12:34.28,0:12:35.31,Main-207+,,0,0,0,,O que você vai fazer?
+Dialogue: 5,0:12:35.31,0:12:38.03,Main-207+,,0,0,0,,Vamos nos separar um pouco aqui.
+Dialogue: 5,0:12:39.11,0:12:42.66,Main-207+,,0,0,0,,Bem, não se preocupe. Eu\Nnão vou fazer nada imprudente.
+Dialogue: 5,0:12:43.95,0:12:44.95,Main-207+,,0,0,0,,Onde eles foram?
+Dialogue: 5,0:12:44.95,0:12:46.50,Main-207+,,0,0,0,,Olhe em todos os cantos e recantos! {Juntaram duas linhas}
+Dialogue: 5,0:12:46.50,0:12:48.50,Main-207+,,0,0,0,,E os becos?!
+Dialogue: 5,0:12:48.50,0:12:50.62,Main-207+,,0,0,0,,{Eles não poderiam ter subido em algum telhado?!}\NEles poderiam ter subido em um telhado?!
+Dialogue: 5,0:12:51.25,0:12:52.79,Main-207+,,0,0,0,,Droga!  {Eles nos sacudiram?!} Nós os perdemos!
+Dialogue: 5,0:12:53.34,0:12:55.55,Main-207+,,0,0,0,,Mas eles definitivamente correram nessa direção!
+Dialogue: 5,0:12:55.55,0:12:57.42,Main-207+,,0,0,0,,{Vamos verificar lá?!}Devemos verificar lá?!
+Dialogue: 5,0:12:57.42,0:12:59.63,Main-207+,,0,0,0,,{Então, vamos procurar dentro dos prédios!}Então vamos procurar dentro dos prédios!
+Dialogue: 5,0:12:59.63,0:13:02.18,Main-207+,,0,0,0,,{Tudo bem então! Vamos dividir em dois grupos e pesquisar!}Tudo bem!\NVamos nos dividir {em dois grupos e pesquisar!} para cima e sair!
+Dialogue: 5,0:13:02.18,0:13:03.60,Main-207+,,0,0,0,,Isso!
+Dialogue: 5,0:13:05.72,0:13:06.52,Main-207+,,0,0,0,,Está tudo bem agora?
+Dialogue: 5,0:13:07.02,0:13:08.23,Main-207+,,0,0,0,,Ainda não.
+Dialogue: 5,0:13:10.06,0:13:11.77,Main-207+,,0,0,0,,Onde você os perdeu?!
+Dialogue: 5,0:13:14.36,0:13:16.40,Main-207+,,0,0,0,,Um pouco mais.
+Dialogue: 5,0:13:33.33,0:13:34.42,Main-207+,,0,0,0,,Ah...
+Dialogue: 5,0:13:39.47,0:13:40.80,Main-207+,,0,0,0,,Por favor...
+Dialogue: 5,0:13:41.55,0:13:45.85,Main-207+,,0,0,0,,{Volte outra hora! Estou evacuando agora. Pare de me importunar!}Volte\Noutra hora! Estou evacuando agora. Pare de me importunar!
+Dialogue: 5,0:13:46.31,0:13:49.10,Main-207+,,0,0,0,,Por favor... eu tenho dinheiro.
+Dialogue: 5,0:13:50.02,0:13:54.81,Main-207+,,0,0,0,,Tanta madeira, alcatrão e corda quanto esta {quantidade} vai comprar...
+Dialogue: 5,0:13:54.81,0:13:58.32,Main-207+,,0,0,0,,Além disso, alguns pregos, trincos e folhas de flandres.{..}
+Dialogue: 5,0:13:58.32,0:14:00.53,Main-207+,,0,0,0,,Estou fechando a loja.
+Dialogue: 5,0:14:00.53,0:14:02.95,Main-207+,,0,0,0,,Ah... desculpe, mas...
+Dialogue: 5,0:14:08.67,0:14:10.29,Main-207+,,0,0,0,,{Tsk...} Ok, então.
+Dialogue: 5,0:14:10.29,0:14:12.12,Main-207+,,0,0,0,,{Mas você não pode comprar tanto com este pouco\Ndinheiro.} Mas isso não é suficiente para tudo isso.
+Dialogue: 5,0:14:12.75,0:14:17.46,Main-207+,,0,0,0,,E-então, para compensar o resto,\Ngostaria de trocar minhas ferramentas.
+Dialogue: 5,0:14:17.46,0:14:19.71,Main-207+,,0,0,0,,Ei, ei, não seja ridículo!  Pare!
+Dialogue: 5,0:14:19.71,0:14:24.47,Main-207+,,0,0,0,,Eu só vendo. {Para pensar que você está tentando negociar...}Você\Nnão pode negociar aqui. O que você é, {a}algum tipo de caipira?
+Dialogue: 5,0:14:28.35,0:14:30.43,Main-207+,,0,0,0,,{Nossa... Você venceu.} Bem, eu serei a sela de um yagara.
+Dialogue: 5,0:14:38.44,0:14:42.19,Main-207+,,0,0,0,,{E-Ei! Você está bem carregando essas coisas quando está tão machucado assim?} E-Ei! Você\Ndeveria estar carregando todas essas coisas {quando você está tão ferido} com tal lesão?
+Dialogue: 5,0:14:42.86,0:14:45.91,Main-207+,,0,0,0,,{Certamente você tem amigos, certo?!  Ei!}Com certeza você tem amigos para ajudar, certo?!  Ei!
+Dialogue: 5,0:14:47.53,0:14:49.03,Main-207+,,0,0,0,,Veja, o que eu te disse?
+Dialogue: 5,0:15:06.64,0:15:08.64,Main-207+,,0,0,0,,Ei, espere um segundo, rapaz!
+Dialogue: 5,0:15:10.60,0:15:12.98,Main-207+,,0,0,0,,Eu estou bem.  Isso não é nada.
+Dialogue: 5,0:15:12.35,0:15:12.98,Secondary-207+,,0,0,0,,Ei!
+Dialogue: 5,0:15:12.98,0:15:15.60,Main-207+,,0,0,0,,{O que é isso?  Você vai...} O que é isso?  Você vai ajudar-
+Dialogue: 5,0:15:15.60,0:15:16.35,Main-207+,,0,0,0,,{Não não.
+Dialogue: 5,0:15:16.85,0:15:20.27,Main-207+,,0,0,0,,Aqui.  Leve estes.  Você está com fome, certo?
+Dialogue: 5,0:15:25.45,0:15:26.45,Main-207+,,0,0,0,,Obrigada.
+Dialogue: 5,0:15:26.45,0:15:29.03,Main-207+,,0,0,0,,{Claro... Tenha cuidado ao voltar.}Claro.{..}\N{Cuidado no caminho de volta.}Tenha cuidado lá fora.
+Dialogue: 5,0:15:36.12,0:15:37.88,Main-207+,,0,0,0,,{Tenha cuidado ao voltar!}{Tenha cuidado ao voltar!}Tenha cuidado lá fora!
+Dialogue: 5,0:15:48.68,0:15:50.22,Main-207+,,0,0,0,,Estes são bons.
+Dialogue: 5,0:15:50.22,0:15:53.18,Main-207+,,0,0,0,,Estes são muito bons.
+Dialogue: 5,0:15:53.18,0:15:56.14,Main-207+,,0,0,0,,{Que homem atencioso ele era.} Que homem atencioso ele era.
+Dialogue: 5,0:16:08.91,0:16:11.91,Main-207+,,0,0,0,,{As ondas estão ficando muito altas.}As ondas estão ficando muito altas.
+Dialogue: 5,0:16:17.83,0:16:20.50,Main-207+,,0,0,0,,Não se preocupe.  Ficará tudo bem.
+Dialogue: 5,0:16:28.93,0:16:33.10,Main-207+,,0,0,0,,Você é um { navio... que voou no céu!}... navio que voou!
+Dialogue: 5,0:16:34.68,0:16:36.14,Main-207+,,0,0,0,,Não se preocupe!
+Dialogue: 5,0:16:47.69,0:16:49.74,Main-207+,,0,0,0,,{Qual é o problema, de repente?} O que está dando uma reviravolta no seu biquíni?
+Dialogue: 5,0:16:58.08,0:17:00.33,Main-207+,,0,0,0,,O que há de errado, Franky?
+Dialogue: 5,0:17:07.71,0:17:08.84,Main-207+,,0,0,0,,Mano?
+Dialogue: 5,0:17:10.43,0:17:12.05,Main-207+,,0,0,0,,Estou ficando marcado!
+Dialogue: 5,0:17:12.05,0:17:14.56,Main-207+,,0,0,0,,Talvez seja hora de\Nir em outra agitação!
+Dialogue: 5,0:17:15.60,0:17:18.06,Main-207+,,0,0,0,,Mano!  Espere por nós!
+Dialogue: 5,0:17:19.39,0:17:22.02,Main-207+,,0,0,0,,Obrigado pela bebida, Blueno!
+Dialogue: 5,0:17:26.32,0:17:29.74,Main-207+,,0,0,0,,O que aconteceu com Franky\Nde repente, Kokoro-{\i1}san{\fs18} {r}?{\fs\i0}
+Dialogue: 5,0:17:33.32,0:17:40.16,Main-207+,,0,0,0,,Me bate.{..} {Como eu deveria saber... como os idiotas\Npensam?} Não há como dizer como os idiotas pensam.
+Dialogue: 5,0:17:52.76,0:17:54.09,Main-207+,,0,0,0,,{Acho que as coisas finalmente se acalmaram.} Finalmente se acalmou.
+Dialogue: 5,0:17:54.60,0:17:56.35,Main-207+,,0,0,0,,"Finalmente se acalmou"?!
+Dialogue: 5,0:17:56.35,0:17:59.52,Main-207+,,0,0,0,,Você tinha todos aqueles\Nconstrutores de navios atrás de você!
+Dialogue: 5,0:17:59.52,0:18:02.23,Main-207+,,0,0,0,,{É por isso que acabamos sendo arrastados para isso\Ntambém!} Você é quem nos arrastou para isso também!
+Dialogue: 5,0:18:02.23,0:18:05.77,Main-207+,,0,0,0,,Eu disse que era inevitável, não disse?
+Dialogue: 5,0:18:05.77,0:18:09.69,Main-207+,,0,0,0,,{De qualquer forma, Chopper, estou surpreso que você descobriu onde estávamos.}\NEstou surpreso que você {conseguiu descobrir}descobriu onde estávamos, Chopper.
+Dialogue: 5,0:18:09.69,0:18:10.56,Main-207+,,0,0,0,,Seu cheiro.
+Dialogue: 5,0:18:10.56,0:18:12.49,Main-207+,,0,0,0,,Oh sim.
+Dialogue: 5,0:18:12.49,0:18:15.20,Main-207+,,0,0,0,,{Hm} Ah?  Venha para pensar sobre isso, onde está Sanji?
+Dialogue: 5,0:18:15.20,0:18:16.07,Main-207+,,0,0,0,,Nós vamos...
+Dialogue: 5,0:18:30.83,0:18:33.97,Main-207+,,0,0,0,,Robin realmente disse isso?!
+Dialogue: 5,0:18:34.84,0:18:35.93,Main-207+,,0,0,0,,Sim.
+Dialogue: 5,0:18:42.64,0:18:45.31,Main-207+,,0,0,0,,{Todos nós... estávamos preparados para isso, certo?}{Todos nós... estávamos preparados para isso, certo?}Todos nós sabíamos que algo tinha que acontecer, certo?
+Dialogue: 5,0:18:47.86,0:18:52.40,Main-207+,,0,0,0,,{Mesmo que tenha sido por pouco tempo, deixamos a Robin, que apareceu como inimiga, subir a bordo.}{deixamos a Robin, que apareceu como inimiga, subir a bordo.}{Nós\Na conhecemos como uma inimiga, mesmo que tenha sido por pouco tempo, antes de embarcar.}Mesmo que tenha sido por pouco tempo, Robin era um inimigo antes de embarcar.
+Dialogue: 5,0:18:53.07,0:18:57.32,Main-207+,,0,0,0,,Se ela de repente ficasse com medo\Ne fugisse, não ficaria bem para mim.
+Dialogue: 5,0:18:59.03,0:19:02.83,Main-207+,,0,0,0,,{Não está na hora de resolvermos esse assunto...}Não\Nestá na hora de resolvermos o assunto{...}?
+Dialogue: 5,0:19:03.66,0:19:07.96,Main-207+,,0,0,0,,{se essa mulher é... inimiga ou amiga?}{of se}Essa mulher{ é...} amiga ou inimiga?
+Dialogue: 5,0:19:10.42,0:19:17.18,Flashbacks-720p,,0,0,0,,{\c&H000000&\3c&H000000&\t(0,2000,0.5\c&HFFFFFF&\3c&H525252&)}{A situação vai piorar. Depois de hoje... nunca mais te verei.} A situação só vai\Npiorar. Depois de hoje{...}, nunca mais te verei.{Não parece ser um flashback direto}
+Dialogue: 5,0:19:20.89,0:19:24.94,Main-207+,,0,0,0,,{Então você tem certeza que Robin disse isso, Chopper?} Você tem certeza {que } Robin disse isso, Chopper?
+Dialogue: 5,0:19:26.19,0:19:26.94,Main-207+,,0,0,0,,Sim.
+Dialogue: 5,0:19:28.36,0:19:31.82,Main-207+,,0,0,0,,Ela disse que não nos veria depois de hoje.
+Dialogue: 5,0:19:31.82,0:19:35.07,Main-207+,,0,0,0,,{Também parece que ela está declarando que ela vai fazer\Nalguma coisa} Também parece que ela está planejando fazer algo
+Dialogue: 5,0:19:35.07,0:19:37.20,Main-207+,,0,0,0,,{isso pode piorar a situação antes do\Nfim do dia.} isso pode piorar a situação.
+Dialogue: 5,0:19:41.95,0:19:43.75,Main-207+,,0,0,0,,Veja o quão grande é um alarido
+Dialogue: 5,0:19:43.75,0:19:46.87,Main-207+,,0,0,0,,{a tentativa de assassinato do prefeito causada nesta cidade.}a\Ntentativa de assassinato do prefeito {do prefeito} despertou.
+Dialogue: 5,0:19:46.87,0:19:49.92,Main-207+,,0,0,0,,Se for possível piorar a situação,
+Dialogue: 5,0:19:49.92,0:19:52.17,Main-207+,,0,0,0,,só há uma coisa que ela pode fazer.
+Dialogue: 5,0:19:52.71,0:19:55.63,Main-207+,,0,0,0,,{Desta vez com certeza... Assassinar o\Nprefeito...}Assassine o prefeito com certeza desta vez.
+Dialogue: 5,0:19:58.47,0:20:00.85,Main-207+,,0,0,0,,{É natural pensar assim.} Essa é a conclusão natural.
+Dialogue: 5,0:20:02.76,0:20:06.98,Main-207+,,0,0,0,,{Mas sabemos que ela está imputando seu crime em nós de\Npropósito,} Mas sabemos que ela pretende culpar o crime em nós,
+Dialogue: 5,0:20:06.98,0:20:11.36,Main-207+,,0,0,0,,{então é possível que isso seja uma armadilha para nos atrair para a cena do\Ncrime.}assim é possível que seja uma armadilha para nos atrair para a cena do crime.
+Dialogue: 5,0:20:11.36,0:20:12.86,Main-207+,,0,0,0,,{Armadilha...} Uma armadilha?
+Dialogue: 5,0:20:12.86,0:20:16.49,Main-207+,,0,0,0,,{Se estivermos no local do assassinato realizado esta noite,}\NSe estivermos no local {local do }assassinato esta noite,
+Dialogue: 5,0:20:16.49,0:20:18.36,Main-207+,,0,0,0,,{o crime será facilmente atribuído a nós.} a culpa recairá sobre nós.
+Dialogue: 5,0:20:18.99,0:20:23.49,Main-207+,,0,0,0,,{Ei! Você já parece que Robin é realmente nosso inimigo!}Ei!\NVocê faz parecer que Robin realmente é nosso {foe}inimigo!
+Dialogue: 5,0:20:24.24,0:20:26.66,Main-207+,,0,0,0,,Estou falando da possibilidade.
+Dialogue: 5,0:20:26.66,0:20:28.83,Main-207+,,0,0,0,,{Não é que eu tenha decidido.} Não é que eu tenha decidido de qualquer maneira.
+Dialogue: 5,0:20:29.79,0:20:33.59,Main-207+,,0,0,0,,{Se eu já decidir acreditar nela ou não,}Se\Neu decidir agora acreditar nela ou não,
+Dialogue: 5,0:20:33.59,0:20:35.80,Main-207+,,0,0,0,,{se a verdade for o oposto\Ndisso...}e a verdade for o oposto,{...}
+Dialogue: 5,0:20:37.26,0:20:40.76,Main-207+,,0,0,0,,{vai retardar minha reação.} retardaria minha reação.
+Dialogue: 5,0:20:45.14,0:20:48.89,Main-207+,,0,0,0,,{Se algo acontecer, será esta noite. Vamos?} Se\Nalgo vai acontecer, será hoje à noite. Nós vamos?
+Dialogue: 5,0:20:48.89,0:20:50.10,Main-207+,,0,0,0,,Nós somos.
+Dialogue: 5,0:20:51.19,0:20:56.23,Main-207+,,0,0,0,,Não me importo de ir{...}, mas há um problema.
+Dialogue: 5,0:20:56.23,0:21:00.24,Main-207+,,0,0,0,,Sanji-{\i1}kun{\i0} viu Robin\Nandando com alguém, certo?
+Dialogue: 5,0:21:00.78,0:21:03.49,Main-207+,,0,0,0,,Iceburg-{\i1}san{\i0} disse a mesma coisa.
+Dialogue: 5,0:21:03.49,0:21:06.50,Main-207+,,0,0,0,,{Ela estava com alguém com uma máscara.} Ela estava com alguém usando uma máscara.
+Dialogue: 5,0:21:06.50,0:21:09.33,Main-207+,,0,0,0,,Mas não era nenhum de nós.
+Dialogue: 5,0:21:10.21,0:21:13.00,Main-207+,,0,0,0,,Ele deve ser a razão pela\Nqual Robin mudou de repente.
+Dialogue: 5,0:21:13.63,0:21:17.59,Main-207+,,0,0,0,,Ele não está fazendo Robin fazer coisas ruins?!
+Dialogue: 5,0:21:17.59,0:21:19.93,Main-207+,,0,0,0,,{Isso seria fortuna.} Esse seria o melhor caso.
+Dialogue: 5,0:21:19.93,0:21:23.18,Main-207+,,0,0,0,,{Se esse cara for o verdadeiro amigo de Robin, então isso seria um infortúnio.}{Se esse cara for o\Nverdadeiro amigo de Robin, seria o pior caso.}O pior caso seria se esse cara fosse realmente amigo de Robin.
+Dialogue: 5,0:21:24.10,0:21:29.52,Main-207+,,0,0,0,,{Mas "alguém com uma máscara" não pode ser uma pista. Esse é o problema.}\NMas "alguém usando uma máscara" não pode ser uma pista. Esse é o problema.
+Dialogue: 5,0:21:29.52,0:21:31.35,Main-207+,,0,0,0,,Qual é o nosso objetivo?
+Dialogue: 5,0:21:31.35,0:21:33.73,Main-207+,,0,0,0,,Vamos capturar Robin.
+Dialogue: 5,0:21:34.82,0:21:37.61,Main-207+,,0,0,0,,Caso contrário, não {sabemos nada.}temos a menor ideia.
+Dialogue: 5,0:21:38.90,0:21:42.16,Main-207+,,0,0,0,,Verdadeiro.  Pensar nisso é perda de tempo.
+Dialogue: 5,0:21:42.16,0:21:43.16,Main-207+,,0,0,0,,{Mas, pensando bem...}Pensando nisso{...},
+Dialogue: 5,0:21:43.16,0:21:48.04,Main-207+,,0,0,0,,o Governo Mundial vem tentando\Ncapturar aquela mulher há {vinte} 20 anos,
+Dialogue: 5,0:21:48.04,0:21:50.83,Main-207+,,0,0,0,,e ainda, {ainda não aconteceu} eles falharam em cada turno.
+Dialogue: 5,0:21:51.25,0:21:53.83,Main-207+,,0,0,0,,{Mas se queremos saber a verdade, esse é o único caminho.}\NMas se queremos saber a verdade, esse é o único caminho.
+Dialogue: 5,0:21:56.13,0:21:58.38,Main-207+,,0,0,0,,Ok, farei o meu melhor também!
+Dialogue: 5,0:21:58.38,0:22:00.26,Main-207+,,0,0,0,,Pois então vamos...
+Dialogue: 5,0:22:00.26,0:22:02.38,Main-207+,,0,0,0,,para a Companhia Galley-La!
+Dialogue: 5,0:22:07.93,0:22:11.94,Main-207+,,0,0,0,,{Droga! A noite está chegando\Nfinalmente.}Droga! Está ficando escuro.
+Dialogue: 5,0:22:11.94,0:22:16.57,Main-207+,,0,0,0,,{Paulie-san! É isso! As ruelas se tornarão perigosas em breve.}Paulie-{\i1}san{\fs15} {r}!\NIsso é o suficiente! As ruelas logo serão perigosas demais para serem pesquisadas.{\fs\i0}
+Dialogue: 5,0:22:17.27,0:22:19.69,Main-207+,,0,0,0,,Sim.  Vamos voltar.
+Dialogue: 5,0:22:19.69,0:22:20.82,Main-207+,,0,0,0,,{Vou para o escritório principal.} Estou indo para o escritório.
+Dialogue: 5,0:22:20.82,0:22:22.53,Main-207+,,0,0,0,,OK!
+Dialogue: 5,0:22:22.53,0:22:25.91,Main-207+,,0,0,0,,Ei pessoal!  Nós vamos voltar!
+Dialogue: 5,0:22:25.91,0:22:30.58,Main-207+,,0,0,0,,Chapéu de palha!  Mostre-se!
+Dialogue: 5,0:22:30.58,0:22:33.08,Main-207+,,0,0,0,,Onde você está se escondendo?!
+Dialogue: 5,0:22:33.67,0:22:37.46,Main-207+,,0,0,0,,Chapéu de palha!  Aquele bastardo{...}!
+Dialogue: 5,0:22:37.46,0:22:40.96,Main-207+,,0,0,0,,Achei que o cara tinha pelo menos um pouco de coragem.
+Dialogue: 5,0:22:41.72,0:22:44.13,Main-207+,,0,0,0,,Mas ele nem se mostra.
+Dialogue: 5,0:22:44.13,0:22:47.89,Main-207+,,0,0,0,,{Mas mano, a ilha inteira guarda rancor contra eles agora.}\NMas mano, a ilha inteira está atrás de suas cabeças.
+Dialogue: 5,0:22:48.47,0:22:51.31,Main-207+,,0,0,0,,Ela está certa. {Eles devem estar correndo de um lugar\Npara outro.} Aposto que estão correndo como ratos.
+Dialogue: 5,0:22:52.89,0:22:56.06,Main-207+,,0,0,0,,Aliás, qual é o problema?\NO que vocês estão fazendo?
+Dialogue: 5,0:22:56.06,0:23:00.61,Main-207+,,0,0,0,,Estamos vulneráveis ​​a\Nventos fortes de frente.
+Dialogue: 5,0:23:01.48,0:23:05.57,Main-207+,,0,0,0,,Mais importante, mano, a maneira como você\Nestá furioso hoje é diferente do habitual.
+Dialogue: 5,0:23:05.57,0:23:09.16,Main-207+,,0,0,0,,{Deixar as coisas se acumularem dentro de você não é como você.} Deixar as coisas se acumularem dentro de você não é como você.
+Dialogue: 5,0:23:09.16,0:23:13.20,Main-207+,,0,0,0,,Cale-se!  {Eu sou assim esta semana!}É exatamente esse tipo de semana!
+Dialogue: 5,0:23:13.20,0:23:15.33,Main-207+,,0,0,0,,Mano!
+Dialogue: 5,0:23:13.20,0:23:15.33,Secondary-207+,,0,0,0,,Hum?
+Dialogue: 5,0:23:15.33,0:23:17.71,Main-207+,,0,0,0,,- Mano! Mano! – É\NZambai e os outros.
+Dialogue: 5,0:23:19.21,0:23:22.76,Main-207+,,0,0,0,,Mano!  Você bateu naqueles bastardos?
+Dialogue: 5,0:23:22.76,0:23:24.13,Main-207+,,0,0,0,,Não, ainda não.
+Dialogue: 5,0:23:24.13,0:23:26.93,Main-207+,,0,0,0,,Houve alguma interferência\Nmaluca. Eles fugiram.
+Dialogue: 5,0:23:26.93,0:23:27.97,Main-207+,,0,0,0,,O que?!
+Dialogue: 5,0:23:27.97,0:23:30.68,Main-207+,,0,0,0,,Eles fugiram de você quando\Nvocê estava com raiva?!
+Dialogue: 5,0:23:30.68,0:23:33.22,Main-207+,,0,0,0,,{Que sorte eles têm!}Que sorte eles devem ter!
+Dialogue: 5,0:23:33.22,0:23:39.61,Main-207+,,0,0,0,,Entendo.{..} Já que aquele cara fraco e de nariz\Ncomprido estava consertando a nave deles sozinho,
+Dialogue: 5,0:23:39.61,0:23:43.03,Main-207+,,0,0,0,,Eu apenas assumi que você bateu nos outros.
+Dialogue: 5,0:23:43.03,0:23:45.49,Main-207+,,0,0,0,,Huh?  Você encontrou um deles?!
+Dialogue: 5,0:23:45.49,0:23:47.45,Main-207+,,0,0,0,,Y{... }-Sim, no navio deles.
+Dialogue: 5,0:23:51.83,0:23:54.91,Main-207+,,0,0,0,,Se você encontrou\Num deles, isso facilita.
+Dialogue: 5,0:23:54.91,0:23:59.38,Main-207+,,0,0,0,,{Podemos usá-lo para arrastá-los todos!} Podemos usá-lo para fazê-los se revelarem!
+Dialogue: 5,0:23:59.79,0:24:02.67,Main-207+,,0,0,0,,B-Bro{ está mostrando sua cara de vilão.} está com sua cara de vilão.
+Dialogue: 5,0:24:04.46,0:24:08.47,Main-207+,,0,0,0,,Pois então, pessoal! {Começando agora, marchando pela\Ncidade...}Eu quero que você comece a marchar pela cidade,
+Dialogue: 5,0:24:09.47,0:24:11.51,Main-207+,,0,0,0,,{gritando, "Nós temos o nariz comprido!} gritando, "Nós temos o nariz comprido!
+Dialogue: 5,0:24:11.51,0:24:13.35,Main-207+,,0,0,0,,{Se você não quer que ele afunde no fundo do mar,}Para evitar que ele durma com os peixes,
+Dialogue: 5,0:24:13.35,0:24:15.89,Main-207+,,0,0,0,,venha para o armazém debaixo da ponte!
+Dialogue: 5,0:24:15.89,0:24:19.31,Main-207+,,0,0,0,,Franky manda lembranças!"
+Dialogue: 5,0:24:21.73,0:24:26.65,Main-207+,,0,0,0,,{Para torná-lo verdade, eu vou sequestrar nariz comprido.}\NEu vou sequestrar esse nariz comprido e torná-lo a verdade.
+Dialogue: 5,0:24:26.65,0:24:30.62,Main-207+,,0,0,0,,Ok, irmão!  Deixe com a gente!
+Dialogue: 0,0:24:44.59,0:24:48.51,Captions,,0,0,0,,{\pos(960,650.967)\fad(450,0)\blur0.6\bord2.6\fscx150\fscy150\fnFOT-Greco Std DB Strp\c&H0A0506&\3c&H0A0506&\1a&HFF&\b1\t(405,450,\1a&H00&)}Depósito do Porão do\NEstaleiro (Centro de Evacuação)
+Dialogue: 1,0:24:44.59,0:24:48.51,Captions,,0,0,0,,{\pos(960,650.967)\blur0.6\bord0\fscx150\fscy150\fnFOT-Greco Std DB Strp\c&HE6E5E6&\alpha&HFF&\b1\t(0,450,1.5,\alpha&H00&)}Depósito do Porão do\NEstaleiro (Centro de Evacuação)
+Dialogue: 2,0:24:44.59,0:24:48.51,Captions,,0,0,0,,{\pos(960,650.967)\blur0.6\bord0\fscx150\fscy150\fnFOT-Greco Std DB Strp\c&HE6E5E6&\alpha&HFF&\b1\t(0,450,1.5,\alpha&H00&)}Depósito do Porão do\NEstaleiro (Centro de Evacuação)
+Dialogue: 5,0:24:48.51,0:24:52.60,Main-207+,,0,0,0,,Aqua Lagoa está chegando!
+Dialogue: 5,0:24:52.60,0:24:56.22,Main-207+,,0,0,0,,Nós somos o Aqua Lagoa!
+Dialogue: 5,0:24:56.68,0:24:59.52,Main-207+,,0,0,0,,{Então, o que está acontecendo com esses culpados?} Então, o que está acontecendo com esses assassinos?
+Dialogue: 5,0:24:59.52,0:25:02.11,Main-207+,,0,0,0,,{Ouvi dizer que eles não foram pegos afinal.} Ouvi dizer que eles ainda não foram pegos.
+Dialogue: 5,0:25:02.11,0:25:06.15,Main-207+,,0,0,0,,Que perturbador.  Ahh, que dor.{..}
+Dialogue: 5,0:25:06.15,0:25:10.53,Main-207+,,0,0,0,,{Diz-se que} Ouvi dizer que eles podem atacar\Nnovamente esta noite na confusão da tempestade.
+Dialogue: 5,0:25:10.53,0:25:13.20,Main-207+,,0,0,0,,Aqua Lagoa está aqui!
+Dialogue: 5,0:25:13.70,0:25:15.83,Main-207+,,0,0,0,,Mas vai ser uma loucura esta noite.
+Dialogue: 5,0:25:15.83,0:25:20.04,Main-207+,,0,0,0,,{Ouvi dizer que todos os artesãos estarão guardando o escritório principal.}\NOuvi dizer que todos os artesãos estarão guardando o escritório principal.
+Dialogue: 5,0:25:20.04,0:25:22.50,Main-207+,,0,0,0,,Uau!  Isso é muito sério!
+Dialogue: 5,0:25:22.50,0:25:26.05,Main-207+,,0,0,0,,Quantos existem nos Piratas do Chapéu de Palha?
+Dialogue: 5,0:25:26.50,0:25:31.09,Main-207+,,0,0,0,,Algumas pessoas disseram 50. Outras disseram 100.
+Dialogue: 5,0:25:31.09,0:25:33.80,Main-207+,,0,0,0,,{O capitão tem uma recompensa de 100 milhões por sua cabeça,\Nafinal.} O capitão tem uma recompensa de 100 milhões afinal.
+Dialogue: 5,0:25:33.80,0:25:38.14,Main-207+,,0,0,0,,Alguns disseram que 3.000 de\Nseus homens avançariam do mar!
+Dialogue: 5,0:25:38.14,0:25:40.10,Main-207+,,0,0,0,,Isso soa totalmente perigoso!
+Dialogue: 5,0:25:46.57,0:25:50.61,Main-207+,,0,0,0,,Companhia Galley-La! Forme uma\Nlinha e não deixe nenhuma abertura!
+Dialogue: 5,0:25:50.61,0:25:52.11,Main-207+,,0,0,0,,Isso!
+Dialogue: 5,0:25:52.61,0:25:55.24,Main-207+,,0,0,0,,Não permita nem mesmo um único rato dentro!
+Dialogue: 5,0:25:55.24,0:25:57.37,Main-207+,,0,0,0,,Isso!
+Dialogue: 0,0:26:06.71,0:26:12.59,Captions,,0,0,0,,{\pos(960,728)\fad(400,0)\blur0.6\fscx160\fscy160\fnFOT-Greco Std DB Strp\c&H0D0608&\3c&H0D0608&\1a&HFF&\b1\t(355,400,\1a&H00&)}Fora do quarto de Iceburg
+Dialogue: 1,0:26:06.71,0:26:12.59,Captions,,0,0,0,,{\pos(960,728)\fad(400,0)\blur0.6\bord0\fscx160\fscy160\fnFOT-Greco Std DB Strp\c&HECEBEC&\4a&HFF&\b1}Fora do quarto de Iceburg
+Dialogue: 2,0:26:06.71,0:26:12.59,Captions,,0,0,0,,{\pos(960,728)\fad(400,0)\blur0.6\bord0\fscx160\fscy160\fnFOT-Greco Std DB Strp\c&HECEBEC&\4a&HFF&\b1}Fora do quarto de Iceburg
+Dialogue: 5,0:26:13.43,0:26:15.14,Main-207+,,0,0,0,,Pode vir!
+Dialogue: 5,0:26:16.97,0:26:21.27,Main-207+,,0,0,0,,{Cala a boca, coo coo! Fique quieto,\NTilestone!} Cale a boca! Fique quieto, Telha!
+Dialogue: 5,0:26:22.06,0:26:24.90,Main-207+,,0,0,0,,{Disseram-me que eles não estavam no trem marítimo.} Foi-me dito que eles não estavam no trem marítimo.
+Dialogue: 5,0:26:25.40,0:26:28.98,Main-207+,,0,0,0,,{Então eles ainda estão em algum lugar desta ilha, hein?}\NEntão eles ainda estão em algum lugar da ilha, hein?
+Dialogue: 5,0:26:28.98,0:26:32.82,Main-207+,,0,0,0,,Mas eles são tolos se realmente aparecerem\Ncom todos esses guardas por perto.
+Dialogue: 5,0:26:33.36,0:26:37.78,Main-207+,,0,0,0,,Ouvi dizer que um idiota\Nmergulhou aqui no meio do dia hoje.
+Dialogue: 5,0:26:38.54,0:26:40.58,Main-207+,,0,0,0,,{Não pense usando seu bom senso.}O bom senso não se aplica a eles.
+Dialogue: 5,0:26:41.45,0:26:43.04,Main-207+,,0,0,0,,{Bem...} Hum,
+Dialogue: 0,0:26:43.08,0:26:48.92,Captions,,0,0,0,,{\pos(954,725)\fad(450,450)\blur0.6\fscx160\fscy160\fnFOT-Greco Std DB Strp\c&H000000&\1a&HFF&\4a&HFF&\b1\t(405,450,\1a&H00&)\t(5390,5435,\1a&HFF&)}Quarto
+Dialogue: 1,0:26:43.08,0:26:48.92,Captions,,0,0,0,,{\pos(954,725)\fad(450,450)\blur0.6\bord0\fscx160\fscy160\fnFOT-Greco Std DB Strp\c&HE4E6E6&\4a&HFF&\b1}Quarto
+Dialogue: 2,0:26:43.08,0:26:48.92,Captions,,0,0,0,,{\pos(954,725)\fad(450,450)\blur0.6\bord0\fscx160\fscy160\fnFOT-Greco Std DB Strp\c&HE4E6E6&\4a&HFF&\b1}Quarto
+Dialogue: 5,0:26:43.83,0:26:46.58,Main-207+,,0,0,0,,{Eles} eles não precisam ir tão longe.
+Dialogue: 5,0:26:46.58,0:26:48.67,Main-207+,,0,0,0,,Eles estão fazendo isso voluntariamente.
+Dialogue: 5,0:26:49.55,0:26:50.67,Main-207+,,0,0,0,,{Eles estão me tratando como um rei.} É como se eu fosse um rei.
+Dialogue: 5,0:26:51.38,0:26:55.89,Main-207+,,0,0,0,,A propósito, por que você colocou o pôster\Nde procurado de Nico Robin no seu quarto?
+Dialogue: 5,0:26:56.80,0:26:57.97,Main-207+,,0,0,0,,{Você está curioso?} Isso te incomoda?
+Dialogue: 5,0:27:00.39,0:27:00.89,Main-207+,,0,0,0,,Um pouco.
+Dialogue: 5,0:27:05.44,0:27:07.19,Main-207+,,0,0,0,,É melhor se você não souber.
+Dialogue: 5,0:27:10.94,0:27:13.40,Main-207+,,0,0,0,,Ela é... um demônio.
+Dialogue: 5,0:27:40.93,0:27:43.18,Main-207+,,0,0,0,,{Toneladas de pessoas estão guardando o local.} Toneladas de pessoas estão guardando a entrada.
+Dialogue: 5,0:27:43.47,0:27:45.35,Main-207+,,0,0,0,,É um pouco longe.
+Dialogue: 5,0:27:45.35,0:27:47.52,Main-207+,,0,0,0,,{Você pode apenas esticar o braço e voar para lá,\Ncerto?} Você não pode apenas esticar o braço e voar?
+Dialogue: 5,0:27:47.52,0:27:49.36,Main-207+,,0,0,0,,{Mas depois que a comoção começar, ok?}Depois que a comoção começar, entendeu?
+Dialogue: 5,0:27:49.36,0:27:55.07,Main-207+,,0,0,0,,Sim. Se nós {causarmos uma comoção antes deles}\Ncomeçarmos a comoção, eles vão tirar vantagem disso.
+Dialogue: 5,0:27:55.07,0:27:56.95,Main-207+,,0,0,0,,Ouça!
+Dialogue: 5,0:27:56.95,0:27:59.03,Main-207+,,0,0,0,,Não perca nem o menor movimento!
+Dialogue: 5,0:27:59.66,0:28:04.00,Main-207+,,0,0,0,,Isso!
