@@ -16,3 +16,6 @@
 ### Programas Utilizados:
   - O Subtitle Edit - https://nikse.dk/SubtitleEdit/
   - Aegisub - https://aegisub.br.uptodown.com/windows
+
+### Contribuições
+  - Murilo Montino
