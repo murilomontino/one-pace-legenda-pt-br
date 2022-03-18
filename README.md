@@ -10,6 +10,7 @@
   > <p align="justify"> Primeiramente há algumas formas de ajudar e acelerar o projeto, o Subtitle Edit limita as traduções a uma quantidade diária com isso, você pode buscar epis que ainda não se encontram aqui extrair a legenda e traduzi-las(usando o google translator do próprio subtitle edit, poupando tempo) e então mandá-las pra cá. Ou você pode revisar alguma legenda que já se encontra aqui e mandar as correções </p>
   - <p align="justify"> Video Tutorial de Tradução com o Subtitle Edit: https://www.youtube.com/watch?v=nz2eeLS9OS4</p>
   - Caso o arquivo gerado possuia mais de um 1mb, remova a tradução da abertura para que não fique pesado para o projeto
+  - Se houver legendas em espanhol busque traduzir do espanhol pro português, pois a tradução sairá mais próxima da gente
 
 
 ### Programas Utilizados:
