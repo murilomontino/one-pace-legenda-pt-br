@@ -16,9 +16,9 @@ Video File: ../../[One Pace][332-333] Water Seven 05 [1080p][593FF591].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 2049
-Active Line: 179
-Video Position: 27227
+Scroll Position: 179
+Active Line: 50
+Video Position: 5236
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +57,7 @@ Dialogue: 5,0:00:14.60,0:00:18.16,Main-207+,,0,0,0,,{Se você der um pouco de te
 Dialogue: 5,0:00:18.57,0:00:22.12,Main-207+,,0,0,0,,Usopp também. Ele só se irritou porque as coisas estavam indo rápido.
 Comment: 0,0:00:19.59,0:00:29.02,Kanji,,0,0,0,template furi,!retime("start2syl",-400+syl.i*40,0)!{an5pos($center,$middle)fad(300,0)c&HF8C979&3c&HFFFFFF&}
 Comment: 1,0:00:19.59,0:00:29.02,Kanji,,0,0,0,template furi,!retime("syl",0,700)!{an5pos($center,$middle)fad(0,300)c&HFBE4BC&3c&HD7FDFE&t(0,100,fscx115fscy115)t(100,!$dur+  100!,fscx100fscy100blur10bord8)}
-Dialogue: 5,0:00:23.01,0:00:25.38,Main-207+,,0,0,0,,{Agora que chegamos até aqui, não podemos\Nvoltar atrás.} É tarde demais para recuar agora.
+Dialogue: 5,0:00:23.01,0:00:25.38,Main-207+,,0,0,0,,{Agora que chegamos até aqui, não podemos\Nvoltar atrás.} É tarde demais para voltar atrás agora.
 Dialogue: 5,0:00:26.30,0:00:27.57,Main-207+,,0,0,0,,Isso não é verdade!
 Dialogue: 5,0:00:27.57,0:00:31.09,Main-207+,,0,0,0,,Você pode se desculpar{ com\Nele} e conversar {de novo} com ele!
 Dialogue: 5,0:00:32.90,0:00:36.97,Main-207+,,0,0,0,,Como eu disse... {não é mais possível.}é tarde demais.
@@ -85,7 +85,7 @@ Dialogue: 5,0:01:51.95,0:01:53.76,Main-207+,,0,0,0,,Ele disse...
 Dialogue: 5,0:01:54.33,0:01:59.76,Main-207+,,0,0,0,,Ele disse: "Você e eu não somos mais amigos, então volte para o navio!"
 Dialogue: 5,0:02:04.21,0:02:07.64,Main-207+,,0,0,0,,{Todo aquele tempo divertido até esta manhã parece um sonho.}{Todos os grandes momentos até esta manhã\Nparecem um sonho.}É como se todos os grandes momentos que tivemos antes de hoje fossem uma ilusão.
 Dialogue: 5,0:02:11.10,0:02:15.07,Main-207+,,0,0,0,,{Se algo está acontecendo com Robin em cima disso...} Para completar,{se\Nalgo aconteceu com Robin...}algo pode ter acontecido com Robin.
-Dialogue: 5,0:02:15.55,0:02:18.03,Main-207+,,0,0,0,,Eu sinto que... {a gangue está desmoronando.}a nossa tripulação...
+Dialogue: 5,0:02:15.55,0:02:18.03,Main-207+,,0,0,0,,Eu sinto que... {a gangue está desmoronando.}o nosso bando...
 Dialogue: 5,0:02:18.03,0:02:20.69,Main-207+,,0,0,0,,está desmoronando.
 Dialogue: 5,0:02:27.11,0:02:29.30,Main-207+,,0,0,0,,São 10 horas, a hora prometida.
 Dialogue: 5,0:02:29.30,0:02:31.08,Main-207+,,0,0,0,,Usopp está chegando.
@@ -181,7 +181,7 @@ Dialogue: 5,0:12:01.49,0:12:03.70,Main-207+,,0,0,0,,{\fad(150,150)}Bursting Cact
 Dialogue: 5,0:12:10.41,0:12:12.12,Main-207+,,0,0,0,,Ai!
 Dialogue: 5,0:12:14.30,0:12:16.09,Main-207+,,0,0,0,,{\fad(150,150)}Triple Exploding Stars!
 Dialogue: 5,0:12:30.56,0:12:33.69,Main-207+,,0,0,0,,{\fad(150,150)}{Borracha de borracha...}Gomu Gomu no Pistol!
-Dialogue: 5,0:12:45.99,0:12:51.08,Main-207+,,0,0,0,,{\fad(150,150)}{Borracha de borracha...}Gomu Gomu no Bazooka! 
+Dialogue: 5,0:12:45.99,0:12:51.08,Main-207+,,0,0,0,,{\fad(150,150)}{Borracha de borracha...}Gomu Gomu no Bazooka!
 Dialogue: 5,0:12:56.21,0:12:58.50,Main-207+,,0,0,0,,Eu tenho um dial aqui.
 Dialogue: 5,0:12:58.50,0:13:02.09,Main-207+,,0,0,0,,{Eu tenho... seu impacto!} Eu absorvi... o impacto do seu ataque!
 Dialogue: 5,0:13:03.76,0:13:05.09,Main-207+,,0,0,0,,{\fad(150,150)}Impact!
@@ -213,15 +213,15 @@ Dialogue: 5,0:16:50.36,0:16:52.99,Flashbacks-720p,,0,0,0,,Para a aldeia dos guer
 Dialogue: 5,0:16:52.99,0:16:56.99,Flashbacks-720p,,0,0,0,,Tudo bem, Usopp! Vamos lá com certeza!
 Dialogue: 5,0:16:57.42,0:17:02.47,Flashbacks-720p,,0,0,0,,Vamos começar essa festa {goin'}! {É o festival noturno antes\Nda caça ao ouro!} É o festival da véspera da caça ao ouro!
 Dialogue: 5,0:17:12.41,0:17:14.30,Main-207+,,0,0,0,,{Bem, então, tchau} Até mais, Usopp.
-Dialogue: 5,0:17:15.16,0:17:18.04,Main-207+,,0,0,0,,Tem sido divertido.
+Dialogue: 5,0:17:15.16,0:17:18.04,Main-207+,,0,0,0,,Foi divertido.
 Dialogue: 5,0:17:22.85,0:17:24.77,Main-207+,,0,0,0,,Ei, não vá, Chopper!
-Dialogue: 5,0:17:26.06,0:17:29.69,Main-207+,,0,0,0,,{Por que não?! Ele já estava tão ferido para começar,}Por que eu não?! Seus ferimentos já eram bastante graves{ para começar},
+Dialogue: 5,0:17:26.06,0:17:29.69,Main-207+,,0,0,0,,{Por que não?! Ele já estava tão ferido para começar,}Por que não?! Seus ferimentos já eram graves{ para começar},
 Dialogue: 5,0:17:29.69,0:17:31.48,Main-207+,,0,0,0,,{e agora ele apanhou ainda mais!} e agora ele está ainda pior!
 Dialogue: 5,0:17:32.66,0:17:34.41,Main-207+,,0,0,0,,Isso {não} não foi uma briga ou um jogo.
-Dialogue: 5,0:17:34.41,0:17:39.03,Main-207+,,0,0,0,,{E daí} Qual é o seu ponto?! Sou um\Nmédico! Deixe-me pelo menos tratá-lo!
+Dialogue: 5,0:17:34.41,0:17:39.03,Main-207+,,0,0,0,,E daí! Sou um médico! Deixe-me pelo menos tratá-lo!
 Dialogue: 5,0:17:43.66,0:17:47.39,Main-207+,,0,0,0,,Ele perdeu o duelo. {Além disso, ele fica com\Npena.} A última coisa que ele quer é nossa pena.
 Dialogue: 5,0:17:47.39,0:17:49.67,Main-207+,,0,0,0,,{Imagine o quão miserável isso deve fazê-lo\Nse sentir!} Pense como isso o faria se sentir!
-Dialogue: 5,0:17:52.24,0:17:57.39,Main-207+,,0,0,0,,{Imagine quanta bondade descuidada pode causar ao perdedor!} Mostrar bondade ao perdedor descuidadamente apenas o insultará.
+Dialogue: 5,0:17:52.24,0:17:57.39,Main-207+,,0,0,0,,{Imagine quanta bondade descuidada pode causar ao perdedor!} Mostrar bondade ao perdedor apenas o insultará.
 Dialogue: 5,0:17:58.20,0:18:02.81,Main-207+,,0,0,0,,Ele lutou {a}nesse duelo sabendo muito bem como {é assim que pode acabar!}poderia acabar!
 Dialogue: 5,0:18:15.30,0:18:16.90,Main-207+,,0,0,0,,Isso é muito difícil...!
 Dialogue: 5,0:18:18.30,0:18:20.45,Main-207+,,0,0,0,,{Isso é o que significa ser um capitão, não\Né?} Esse é apenas o fardo do capitão, sabe?
