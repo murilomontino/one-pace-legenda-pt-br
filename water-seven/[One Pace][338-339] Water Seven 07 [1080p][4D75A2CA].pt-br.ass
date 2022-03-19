@@ -15,9 +15,9 @@ Video File: ../../[One Pace][338-339] Water Seven 07 [1080p][4D75A2CA].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 115
-Active Line: 122
-Video Position: 16940
+Scroll Position: 235
+Active Line: 244
+Video Position: 28012
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -153,8 +153,8 @@ Dialogue: 5,0:11:25.19,0:11:27.68,Main-207+,,0,0,0,,Reuniremos informações.
 Dialogue: 5,0:11:27.68,0:11:31.70,Main-207+,,0,0,0,,{Tenha todos os artesãos Galley-La espalhados pela\Nilha.}Espalhe {todos}todos os artesãos Galley-La pela ilha.
 Dialogue: 5,0:11:31.70,0:11:34.11,Main-207+,,0,0,0,,{\t(1460,2410,0.3,\alpha&HFF&)}Vamos resolver isso antes do pôr do sol!
 Dialogue: 5,0:11:46.52,0:11:49.44,Main-207+,,0,0,0,,Avó!  Avó!  É Water Seven!
-Dialogue: 5,0:11:51.70,0:11:55.48,Main-207+,,0,0,0,,{Tenha cuidado para não ficar muito animado e cair no\Nmar.}Não fique {muito}tão animado {and}que você caia no mar.
-Dialogue: 5,0:12:07.52,0:12:10.71,Main-207+,,0,0,0,,Esse deve ser o escritório principal da }Galley-La Company.
+Dialogue: 5,0:11:51.70,0:11:55.48,Main-207+,,0,0,0,,{Tenha cuidado para não ficar muito animado e cair no\Nmar.}Não fique {muito}tão animada {and}e caia no mar.
+Dialogue: 5,0:12:07.52,0:12:10.71,Main-207+,,0,0,0,,Esse deve ser o escritório principal da Galley-La Company.
 Dialogue: 5,0:12:10.71,0:12:13.28,Main-207+,,0,0,0,,Ele está conectado ao Dock One.
 Dialogue: 5,0:12:13.28,0:12:14.45,Main-207+,,0,0,0,,Veja.
 Dialogue: 5,0:12:15.17,0:12:18.13,Main-207+,,0,0,0,,{As pessoas que parecem repórteres estão por toda parte.}Parece que há repórteres
@@ -162,15 +162,15 @@ Dialogue: 5,0:12:18.13,0:12:22.10,Main-207+,,0,0,0,,{Pessoas com aparência de c
 Dialogue: 5,0:12:22.61,0:12:25.72,Main-207+,,0,0,0,,Iceburg-{\i1}san{\i0} deve estar naquele prédio.
 Dialogue: 5,0:12:28.38,0:12:29.44,Main-207+,,0,0,0,,{Você está falando sério sobre ir?} Você tem certeza disso?
 Dialogue: 5,0:12:30.27,0:12:31.73,Main-207+,,0,0,0,,Claro.
-Dialogue: 5,0:12:31.73,0:12:36.94,Main-207+,,0,0,0,,{Vou perguntar ao Iceboss pessoalmente por que ele disse que Robin era um dos culpados.}Vou\Nperguntar ao Iceboss pessoalmente por que ele disse que Robin era um dos culpados.
+Dialogue: 5,0:12:31.73,0:12:36.94,Main-207+,,0,0,0,,{Vou perguntar ao Iceboss pessoalmente por que ele disse que Robin era um dos culpados.}Vou perguntar ao Iceboss pessoalmente por que ele disse que Robin era um dos culpados.
 Dialogue: 5,0:12:36.94,0:12:42.57,Main-207+,,0,0,0,,{Deixe-me avisá-lo.}Só para você saber, {Lembre-se de que também estamos sendo perseguidos por toda a ilha!}{Lembre-se\Nde que também estamos sendo perseguidos por toda a ilha!}toda a ilha está atrás de nós! não faça nada estúpido.
-Dialogue: 5,0:12:42.57,0:12:46.46,Main-207+,,0,0,0,,Certifique-se de ter uma ideia de\Nonde fica o quarto dele de antemão,
+Dialogue: 5,0:12:42.57,0:12:46.46,Main-207+,,0,0,0,,Certifique-se de ter uma ideia de\Nonde fica o quarto dele antes,
 Dialogue: 5,0:12:46.46,0:12:48.79,Main-207+,,0,0,0,,{e aproveite a oportunidade para se infiltrar cuidadosamente.}e encontre uma oportunidade de se infiltrar.
 Dialogue: 5,0:12:49.79,0:12:51.13,Main-207+,,0,0,0,,Bem, então, estou fora.
 Dialogue: 5,0:12:52.76,0:12:53.65,Main-207+,,0,0,0,,Huh?
 Dialogue: 5,0:12:56.64,0:12:57.38,Main-207+,,0,0,0,,Ei!
-Dialogue: 5,0:12:57.38,0:12:58.99,Main-207+,,0,0,0,,{- Ei!  - Eles disseram que não conseguiram encontrá-los.}Eles não conseguiram encontrá-los.{Divida isso em duas linhas}
-Dialogue: 5,0:13:05.58,0:13:06.89,Main-207+,,0,0,0,,Que é aquele?!
+Dialogue: 5,0:12:57.38,0:12:58.99,Main-207+,,0,0,0,,- Ei!  \N- Eles disseram que não conseguiram encontrá-los.
+Dialogue: 5,0:13:05.58,0:13:06.89,Main-207+,,0,0,0,,Quem é aquele?!
 Dialogue: 5,0:13:06.89,0:13:08.64,Main-207+,,0,0,0,,Ah... {Ele é} Isso é...!  {alterado para Isso é para corresponder à linha anterior}
 Dialogue: 5,0:13:14.69,0:13:16.44,Main-207+,,0,0,0,,A janela {quebrou}quebrou!
 Dialogue: 5,0:13:16.44,0:13:17.74,Main-207+,,0,0,0,,O que aconteceu?!
@@ -181,13 +181,13 @@ Dialogue: 5,0:13:27.70,0:13:29.96,Main-207+,,0,0,0,,{Pensar que ele ataca o escr
 Dialogue: 5,0:13:30.62,0:13:31.67,Main-207+,,0,0,0,,Onde ele está?!
 Dialogue: 5,0:13:32.17,0:13:34.13,Main-207+,,0,0,0,,{Ele foi para as escadas do mezanino para o terceiro andar!}Ele está perto das escadas para o terceiro andar!
 Dialogue: 5,0:13:34.13,0:13:35.42,Main-207+,,0,0,0,,Onde estão os capatazes?!
-Dialogue: 5,0:13:35.42,0:13:39.09,Main-207+,,0,0,0,,{Eles estão estacionando artesãos por toda a ilha, então todos se\Nforam!}Eles estão estacionando artesãos ao redor da ilha!Somos só nós!
+Dialogue: 5,0:13:35.42,0:13:39.09,Main-207+,,0,0,0,,{Eles estão estacionando artesãos por toda a ilha, então todos se\Nforam!}Eles estão colocando os artesãos ao redor da ilha!Somos só nós!
 Dialogue: 5,0:13:40.02,0:13:43.21,Main-207+,,0,0,0,,Ele está vestindo um colete vermelho e um chapéu de palha!
 Dialogue: 5,0:13:43.21,0:13:46.60,Main-207+,,0,0,0,,Proteja Iceburg-{\i1}san{\fs15} {r}!{\fs\i0}
 Dialogue: 5,0:13:47.21,0:13:49.64,Main-207+,,0,0,0,,É o Chapéu de Palha!
 Dialogue: 5,0:13:51.89,0:13:53.02,Main-207+,,0,0,0,,{Onde ele foi?!}Onde ele foi?!
 Dialogue: 5,0:13:54.73,0:13:56.36,Main-207+,,0,0,0,,Onde ele está?  Onde ele está}?
-Dialogue: 5,0:14:05.41,0:14:08.14,Main-207+,,0,0,0,,{Idiota! Não atire uma pistola! Estamos dentro,\Nlembra?}Idiota! Não atire sua pistola aqui!
+Dialogue: 5,0:14:05.41,0:14:08.14,Main-207+,,0,0,0,,Idiota! Não atire uma pistola! Estamos dentro, lembra?
 Dialogue: 5,0:14:08.14,0:14:10.66,Main-207+,,0,0,0,,Não é bom para Iceburg-{\i1}san{\fs15} {r}!{\fs\i0}
 Dialogue: 5,0:14:13.10,0:14:16.71,Main-207+,,0,0,0,,{Sinto muito pela comoção do lado de fora da\Nsala.} Lamento pela comoção do lado de fora.
 Dialogue: 5,0:14:16.71,0:14:19.13,Main-207+,,0,0,0,,Hum{...}, o que está acontecendo?
@@ -200,15 +200,15 @@ Dialogue: 5,0:14:38.44,0:14:41.40,Main-207+,,0,0,0,,Ele vai para o Edifício\N{#
 Dialogue: 5,0:14:47.95,0:14:49.79,Main-207+,,0,0,0,,Chapéu de palha!
 Dialogue: 5,0:14:53.58,0:14:54.75,Main-207+,,0,0,0,,{Ela é...} É ela!
 Dialogue: 5,0:14:56.03,0:14:59.21,Main-207+,,0,0,0,,{Kalifa-san, um pirata não veio aqui?}Kalifa-{\i1}san{\i0}, um pirata veio por aqui?
-Dialogue: 5,0:14:59.21,0:15:03.82,Main-207+,,0,0,0,,Não, ele não fez. Mais importante,\Npersiga-o mais silenciosamente.
+Dialogue: 5,0:14:59.21,0:15:03.82,Main-207+,,0,0,0,,Não, ele não passou por aqui e mais importante, persiga-o em silêncio.
 Dialogue: 5,0:15:03.82,0:15:06.37,Main-207+,,0,0,0,,{Iceburg-san ainda precisa descansar em silêncio.}Iceburg-{\i1}san{\i0} {precisa de silêncio para descansar}ainda está se recuperando.
 Dialogue: 5,0:15:06.37,0:15:07.59,Main-207+,,0,0,0,,Sinto muito.
 Dialogue: 5,0:15:07.59,0:15:10.57,Main-207+,,0,0,0,,{Parece que o Chapéu de Palha ainda não chegou tão longe.}{Parece que o Chapéu de Palha\Nainda não chegou até aqui.} Parece que o Chapéu de Palha ainda não chegou tão longe.
 Dialogue: 5,0:15:10.57,0:15:11.72,Main-207+,,0,0,0,,{Vamos ficar de guarda aqui.}Vamos ficar de guarda aqui.
 Dialogue: 5,0:15:11.72,0:15:14.54,Main-207+,,0,0,0,,Seu alvo é definitivamente esta sala!
-Dialogue: 5,0:15:25.30,0:15:29.91,Main-207+,,0,0,0,,{Bem...}Hum, você queria me ver{...}, certo, pirata {lad}garoto?
-Dialogue: 5,0:15:29.91,0:15:33.69,Main-207+,,0,0,0,,Isso está certo.  Obrigado por me ligar. Isso me salvou.
-Dialogue: 5,0:15:33.69,0:15:38.19,Main-207+,,0,0,0,,Duvido que tenha vindo até aqui\Nsozinho para me matar nesta comoção.
+Dialogue: 5,0:15:25.30,0:15:29.91,Main-207+,,0,0,0,,{Bem...}Hum, você queria me ver{...}, certo, {lad}garoto?
+Dialogue: 5,0:15:29.91,0:15:33.69,Main-207+,,0,0,0,,Sim.  Obrigado por me ver. Isso me salvou.
+Dialogue: 5,0:15:33.69,0:15:38.19,Main-207+,,0,0,0,,Duvido que tenha vindo até aqui\Nsozinho para me matar nesta situação.
 Dialogue: 5,0:15:38.19,0:15:40.59,Main-207+,,0,0,0,,Eu vim para ouvir a verdade!
 Dialogue: 5,0:15:42.04,0:15:45.38,Main-207+,,0,0,0,,Ontem à noite, vi Nico Robin com meus próprios olhos.
 Dialogue: 5,0:15:47.55,0:15:51.15,Main-207+,,0,0,0,,E{...} ela é uma de vocês.
@@ -226,14 +226,14 @@ Dialogue: 5,0:16:18.58,0:16:20.75,Main-207+,,0,0,0,,Não se deixe levar.
 Dialogue: 5,0:16:24.17,0:16:27.72,Main-207+,,0,0,0,,Water Seven.{..} Já faz um tempo.{..}
 Dialogue: 5,0:16:27.72,0:16:30.09,Main-207+,,0,0,0,,Avó!  Pressa!  Pressa!
 Dialogue: 5,0:16:30.09,0:16:31.09,Main-207+,,0,0,0,,Está bem, está bem.
-Dialogue: 5,0:16:32.14,0:16:36.27,Main-207+,,0,0,0,,{O uso de máscara é proibido hoje ao embarcar no trem marítimo.}Hoje,\No uso de máscara é proibido{ hoje }ao embarcar no trem marítimo.
+Dialogue: 5,0:16:32.14,0:16:36.27,Main-207+,,0,0,0,,{O uso de máscara é proibido hoje ao embarcar no trem marítimo.}Hoje, o uso de máscara é proibido{ hoje }ao embarcar no trem marítimo.
 Dialogue: 5,0:16:36.98,0:16:39.14,Main-207+,,0,0,0,,Por favor, mostre-me seu bilhete e seu rosto.
 Dialogue: 5,0:16:39.14,0:16:41.19,Main-207+,,0,0,0,,{Este é o meu próprio rosto!  Minha própria cara!}Esta {\i1}é{\i0} minha cara!
 Dialogue: 5,0:16:42.40,0:16:43.32,Main-207+,,0,0,0,,{Hm?} Hã?
 Dialogue: 5,0:16:43.90,0:16:45.19,Main-207+,,0,0,0,,Ei você.{..}
 Dialogue: 5,0:16:45.19,0:16:48.20,Main-207+,,0,0,0,,Oh!  Kokoro-{\i1}san{\fs15} {r}!  Olá!{\fs\i0}
 Dialogue: 5,0:16:48.20,0:16:50.74,Main-207+,,0,0,0,,Sobre o que é toda esta algazarra?
-Dialogue: 5,0:16:50.74,0:16:56.16,Main-207+,,0,0,0,,{Sim... Estamos atrás dos Chapéus de Palha que são os culpados} {na tentativa de assassinato de Iceburg-san.} Oh, estamos caçando\Nos Chapéus de Palha. Parece que eles são responsáveis ​​pela tentativa de assassinato de Iceburg-{\i1}san{\i0}. {Juntaram duas linhas - JT}
+Dialogue: 5,0:16:50.74,0:16:56.16,Main-207+,,0,0,0,,{Sim... Estamos atrás dos Chapéus de Palha que são os culpados} {na tentativa de assassinato de Iceburg-san.} Oh, estamos caçando os Chapéus de Palha. Parece que eles são responsáveis ​​pela tentativa de assassinato de Iceburg-{\i1}san{\i0}. {Juntaram duas linhas - JT}
 Dialogue: 5,0:16:56.16,0:16:59.96,Main-207+,,0,0,0,,{Assassinato de Iceburg?  Hm?} Iceburg?  Assassinato?  Hum?
 Dialogue: 5,0:16:59.96,0:17:02.13,Main-207+,,0,0,0,,Qual é o problema?  Ah...
 Dialogue: 5,0:17:02.79,0:17:04.17,Main-207+,,0,0,0,,Essas pessoas{...}?
@@ -245,13 +245,13 @@ Dialogue: 5,0:17:27.94,0:17:29.44,Main-207+,,0,0,0,,Veio do quarto!{Um pouco rep
 Dialogue: 5,0:17:34.07,0:17:36.33,Main-207+,,0,0,0,,Iceburg-{\i1}san{\fs15} {r}!{\fs\i0}
 Dialogue: 5,0:17:42.58,0:17:45.04,Main-207+,,0,0,0,,V-você está bem...
 Dialogue: 5,0:17:45.63,0:17:47.13,Main-207+,,0,0,0,,Sim...
-Dialogue: 5,0:17:47.80,0:17:51.63,Main-207+,,0,0,0,,Aposto em uma tola esperança de que eu possa{\Nser capaz de} chegar mais perto da verdade.
+Dialogue: 5,0:17:47.80,0:17:51.63,Main-207+,,0,0,0,,Aposto em uma tola esperança de que eu possa ser capaz de chegar mais perto da verdade.
 Dialogue: 5,0:17:52.42,0:17:55.41,Main-207+,,0,0,0,,Capture{...} todos os Chapéus de Palha!
 Dialogue: 5,0:17:56.10,0:17:57.64,Main-207+,,0,0,0,,Claro!
 Dialogue: 5,0:18:01.52,0:18:02.89,Main-207+,,0,0,0,,Ei Luffy{...},
 Dialogue: 5,0:18:02.89,0:18:06.48,Main-207+,,0,0,0,,{Wvocê conseguiu falar com}você teve a chance\Nde falar com Iceburg-{\i1}san{\fs18} {r por acaso}?{\fs\i0}
 Dialogue: 5,0:18:06.48,0:18:09.65,Main-207+,,0,0,0,,Sim.  Ele disse que realmente viu Robin.
-Dialogue: 5,0:18:09.65,0:18:13.24,Main-207+,,0,0,0,,{Não pode ser...! Por que Robin faria algo assim?}Não\Npode ser{...}! Por que Robin faria algo assim?
+Dialogue: 5,0:18:09.65,0:18:13.24,Main-207+,,0,0,0,,{Não pode ser...! Por que Robin faria algo assim?}Não pode ser{...}! Por que Robin faria algo assim?
 Dialogue: 5,0:18:13.24,0:18:14.95,Main-207+,,0,0,0,,Eu me recuso a acreditar!
 Dialogue: 0,0:18:16.37,0:18:18.70,Captions-207+,,0,0,0,,{\pos(960,694)\fad(400,0)\blur0.8\bord2.6\fscx165\fscy165\c&H1C1B1E&\3c&H1C1B1E&\1a&HFF&\t(355,400,\1a&H00&)}Rua Principal Water Seven
 Dialogue: 1,0:18:16.37,0:18:18.70,Captions-207+,,0,0,0,,{\pos(960,694)\fad(400,0)\blur0.8\bord0\fscx165\fscy165\c&HEBECEA&\4a&HFF&}Rua Principal Water Seven
@@ -259,14 +259,14 @@ Dialogue: 5,0:18:36.22,0:18:37.80,Main-207+,,0,0,0,,Ah, bem-vindo.
 Dialogue: 5,0:18:37.80,0:18:40.89,Main-207+,,0,0,0,,{Uau!  } Como vai, Blueno?!
 Dialogue: 5,0:18:40.89,0:18:44.60,Main-207+,,0,0,0,,Vai super?!
 Dialogue: 5,0:18:46.86,0:18:48.61,Main-207+,,0,0,0,,Acho que estamos indo bem.
-Dialogue: 5,0:18:48.61,0:18:52.03,Main-207+,,0,0,0,,{O que você quer dizer, "eu acho"?! Você com certeza é um cara indeciso!}O\Nque você quer dizer com "eu acho"?! Você é um cara tão indeciso!
+Dialogue: 5,0:18:48.61,0:18:52.03,Main-207+,,0,0,0,,{O que você quer dizer, "eu acho"?! Você com certeza é um cara indeciso!}O que você quer dizer com "eu acho"?! Você é um cara tão indeciso!
 Dialogue: 5,0:18:52.69,0:18:55.53,Main-207+,,0,0,0,,{Dê-me o de sempre!  Encha-os!} Dê-me o de sempre!  Encha-os!
 Dialogue: 5,0:18:56.16,0:18:58.12,Main-207+,,0,0,0,,Você tem dinheiro?
 Dialogue: 5,0:18:58.12,0:19:00.79,Main-207+,,0,0,0,,Basta recarregá-los!  Cola!
-Dialogue: 5,0:19:00.79,0:19:03.37,Main-207+,,0,0,0,,{Pensar que você administra um bar com uma noção tão mesquinha} Por que você administra seu bar com tanta avidez
-Dialogue: 5,0:19:03.37,0:19:06.29,Main-207+,,0,0,0,,{que você tira dinheiro de seus clientes...!}como tirar dinheiro de seus clientes?!
+Dialogue: 5,0:19:00.79,0:19:03.37,Main-207+,,0,0,0,,{Pensar que você administra um bar com uma noção tão mesquinha} Por que você administra seu bar com tanta mesquinharia
+Dialogue: 5,0:19:03.37,0:19:06.29,Main-207+,,0,0,0,,{que você tira dinheiro de seus clientes...!}como você tira dinheiro de seus clientes?!
 Dialogue: 5,0:19:06.29,0:19:07.92,Main-207+,,0,0,0,,Temos dinheiro.
-Dialogue: 5,0:19:07.92,0:19:10.34,Main-207+,,0,0,0,,{Temos um milhão de barrigas sobrando das compras.} Temos um milhão de barrigas sobrando.
+Dialogue: 5,0:19:07.92,0:19:10.34,Main-207+,,0,0,0,,{Temos um milhão de barrigas sobrando das compras.} Temos um milhão de berrys sobrando.
 Dialogue: 5,0:19:10.34,0:19:11.55,Main-207+,,0,0,0,,O que?!
 Dialogue: 5,0:19:11.55,0:19:14.01,Main-207+,,0,0,0,,{Temos tanto dinheiro de ontem?!} Temos tanto dinheiro de ontem?!
 Dialogue: 5,0:19:14.01,0:19:16.47,Main-207+,,0,0,0,,Que vergonhoso!  Como não é legal!
@@ -274,7 +274,7 @@ Dialogue: 5,0:19:16.47,0:19:19.39,Main-207+,,0,0,0,,{Pensar que não gastei tudo
 Dialogue: 5,0:19:19.39,0:19:20.93,Main-207+,,0,0,0,,{Agora, dê para mim!} Dê aqui!
 Dialogue: 5,0:19:21.52,0:19:24.64,Main-207+,,0,0,0,,{Uau!  Vocês caras!  Você tem sorte!}{Yow!  } Vocês têm sorte!
 Dialogue: 5,0:19:24.64,0:19:28.31,Main-207+,,0,0,0,,{Todo o seu álcool é por minha conta!}Todas as suas bebidas são por minha conta!
-Dialogue: 5,0:19:28.31,0:19:31.15,Main-207+,,0,0,0,,{Beba o quanto quiser!}Beba o quanto quiser!
+Dialogue: 5,0:19:28.31,0:19:31.15,Main-207+,,0,0,0,,{Beba o quanto quiser!}Beba o quanto quiserem!
 Dialogue: 5,0:19:31.15,0:19:35.20,Main-207+,,0,0,0,,{Uau!  Esse é o nosso Franky!  Você é generoso!} Uau!  Esse é o nosso Franky!  Tão generoso!
 Dialogue: 5,0:19:35.20,0:19:39.37,Main-207+,,0,0,0,,Você é o cara! A face do\Nsubmundo Water Seven! Obrigado!
 Dialogue: 5,0:19:39.37,0:19:41.58,Main-207+,,0,0,0,,Uau!  Impressionante!
