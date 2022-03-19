@@ -15,9 +15,9 @@ Video File: ../../[One Pace][338-339] Water Seven 07 [1080p][4D75A2CA].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 235
-Active Line: 244
-Video Position: 28012
+Scroll Position: 247
+Active Line: 310
+Video Position: 34119
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -274,9 +274,9 @@ Dialogue: 5,0:19:16.47,0:19:19.39,Main-207+,,0,0,0,,{Pensar que não gastei tudo
 Dialogue: 5,0:19:19.39,0:19:20.93,Main-207+,,0,0,0,,{Agora, dê para mim!} Dê aqui!
 Dialogue: 5,0:19:21.52,0:19:24.64,Main-207+,,0,0,0,,{Uau!  Vocês caras!  Você tem sorte!}{Yow!  } Vocês têm sorte!
 Dialogue: 5,0:19:24.64,0:19:28.31,Main-207+,,0,0,0,,{Todo o seu álcool é por minha conta!}Todas as suas bebidas são por minha conta!
-Dialogue: 5,0:19:28.31,0:19:31.15,Main-207+,,0,0,0,,{Beba o quanto quiser!}Beba o quanto quiserem!
+Dialogue: 5,0:19:28.31,0:19:31.15,Main-207+,,0,0,0,,{Beba o quanto quiser!}Bebam o quanto quiserem!
 Dialogue: 5,0:19:31.15,0:19:35.20,Main-207+,,0,0,0,,{Uau!  Esse é o nosso Franky!  Você é generoso!} Uau!  Esse é o nosso Franky!  Tão generoso!
-Dialogue: 5,0:19:35.20,0:19:39.37,Main-207+,,0,0,0,,Você é o cara! A face do\Nsubmundo Water Seven! Obrigado!
+Dialogue: 5,0:19:35.20,0:19:39.37,Main-207+,,0,0,0,,Você é o cara! A face do\Nsubmundo de Water Seven! Obrigado!
 Dialogue: 5,0:19:39.37,0:19:41.58,Main-207+,,0,0,0,,Uau!  Impressionante!
 Dialogue: 5,0:19:41.58,0:19:43.29,Main-207+,,0,0,0,,{Ei, tem mais no chão ali!} Ei, tem mais ali!
 Dialogue: 5,0:19:43.29,0:19:45.54,Main-207+,,0,0,0,,Oi, Blueno!  Cadê minha cola?!
@@ -284,37 +284,37 @@ Dialogue: 5,0:19:45.54,0:19:47.83,Main-207+,,0,0,0,,Apresse-se, já!
 Dialogue: 5,0:19:47.83,0:19:50.79,Main-207+,,0,0,0,,Parece que você está se saindo bem, Franky.
 Dialogue: 5,0:19:50.79,0:19:52.59,Main-207+,,0,0,0,,{Hm} Hein?
 Dialogue: 5,0:19:53.59,0:19:56.47,Main-207+,,0,0,0,,{Velha bruxa Kokoro!  Era você?!} Kokoro, sua velha!  Era você?!
-Dialogue: 5,0:19:57.05,0:20:00.01,Main-207+,,0,0,0,,{Eu pensei que era uma estátua de um monstro!}{Eu pensei que você fosse uma estátua de um monstro!}Eu pensei que você fosse uma espécie de '{bestial}estátua de monstro!
+Dialogue: 5,0:19:57.05,0:20:00.01,Main-207+,,0,0,0,,{Eu pensei que era uma estátua de um monstro!}{Eu pensei que você fosse uma estátua de um monstro!}Eu pensei que você fosse uma espécie de '{bestial}estátua de um monstro!
 Dialogue: 5,0:20:02.76,0:20:06.52,Main-207+,,0,0,0,,Ei, tudo bem pegar um refil para o meu suco, Franky?!
 Dialogue: 5,0:20:06.52,0:20:10.40,Main-207+,,0,0,0,,{Este é um bar.  Não é um lugar para crianças!}Este é um bar.  Não é lugar para crianças!
 Dialogue: 5,0:20:10.40,0:20:12.07,Main-207+,,0,0,0,,Você está indo bem, {certo} não está?
 Dialogue: 5,0:20:12.07,0:20:15.32,Main-207+,,0,0,0,,Huh?!  Está bem então.  Adeque você mesmo.
 Dialogue: 5,0:20:15.32,0:20:17.82,Main-207+,,0,0,0,,Tudo bem!  Sumo!
-Dialogue: 5,0:20:17.82,0:20:21.95,Main-207+,,0,0,0,,{Bem, estou indo bem, mas estou me sentindo triste. Eu me sinto\Npéssimo.}Claro, estou indo bem, mas estou de mau humor. Eu me sinto mal.
+Dialogue: 5,0:20:17.82,0:20:21.95,Main-207+,,0,0,0,,Bem, estou indo bem, mas estou me sentindo triste. Eu me sinto péssimo.
 Dialogue: 5,0:20:21.95,0:20:26.50,Main-207+,,0,0,0,,Estou me sentindo terrível esta\Nsemana, graças a esse maldito pirata!
 Dialogue: 5,0:20:26.50,0:20:28.33,Main-207+,,0,0,0,,{Aqui está a cola recarregada!  Obrigado por esperar!}{Aqui está sua cola}Tudo cheio!  Obrigado por esperar!
 Dialogue: 5,0:20:28.33,0:20:29.92,Main-207+,,0,0,0,,Sim, demorou bastante!
 Dialogue: 5,0:20:29.92,0:20:33.63,Main-207+,,0,0,0,,Combustível!  Combustível!
 Dialogue: 5,0:20:36.34,0:20:40.26,Main-207+,,0,0,0,,{Aqui vem! Aqui vem! Ah, sim!}\NAqui vem. Aqui vem. Aqui vem!
 Dialogue: 5,0:20:46.52,0:20:49.27,Main-207+,,0,0,0,,Super!
-Dialogue: 5,0:20:50.60,0:20:55.57,Main-207+,,0,0,0,,{Eu revivi! Aquele idiota! Da próxima vez que eu o vir, vou espancá-lo!} Estou\Nreenergizado! Da próxima vez que eu ver aquele idiota, ele está acabado{eu vou bater nele}!
+Dialogue: 5,0:20:50.60,0:20:55.57,Main-207+,,0,0,0,,{Eu revivi! Aquele idiota! Da próxima vez que eu o vir, vou espancá-lo!} Estou reenergizado! Da próxima vez que eu ver aquele idiota, ele estará acabado{eu vou bater nele}!
 Dialogue: 5,0:20:55.57,0:20:57.78,Main-207+,,0,0,0,,A propósito, velha bruxa, por que você está aqui?
 Dialogue: 5,0:20:57.78,0:21:00.41,Main-207+,,0,0,0,,Aqua Laguna está chegando.
-Dialogue: 5,0:21:00.41,0:21:05.04,Main-207+,,0,0,0,,Oh? Isso está certo? Não\Né à toa que o vento é forte.
+Dialogue: 5,0:21:00.41,0:21:05.04,Main-207+,,0,0,0,,Oh? Isso está certo? Não\Né à toa que o vento está forte.
 Dialogue: 5,0:21:05.04,0:21:07.91,Main-207+,,0,0,0,,Já terminou de preparar sua casa?
 Dialogue: 5,0:21:07.91,0:21:10.50,Main-207+,,0,0,0,,Bem, minha casa se foi.
 Dialogue: 5,0:21:10.50,0:21:13.92,Main-207+,,0,0,0,,Não tenho nada que possa afundar,\Nentão não tenho preocupações.
 Dialogue: 5,0:21:19.13,0:21:23.55,Main-207+,,0,0,0,,Eu ia tomar uma bebida com Iceburg,\Nmas ouvi dizer que ele levou um tiro.
 Dialogue: 5,0:21:23.55,0:21:25.47,Main-207+,,0,0,0,,Sim, {parece que} isso é o que eu ouvi também.
 Dialogue: 5,0:21:25.47,0:21:27.18,Main-207+,,0,0,0,,{Eles dizem que foi obra dos piratas.} Eles estão dizendo que os piratas fizeram isso.
-Dialogue: 5,0:21:27.18,0:21:29.89,Main-207+,,0,0,0,,{Galley-La e os habitantes da cidade estão furiosos agora.}\NGalley-La e os habitantes da cidade estão lívidos agora.
+Dialogue: 5,0:21:27.18,0:21:29.89,Main-207+,,0,0,0,,{Galley-La e os habitantes da cidade estão furiosos agora.}\NGalley-La e os habitantes da cidade estão furiosos.
 Dialogue: 5,0:21:29.89,0:21:33.48,Main-207+,,0,0,0,,{Piratas fazendo?} Piratas fizeram isso?
-Dialogue: 5,0:21:33.48,0:21:36.32,Main-207+,,0,0,0,,Você pensa seriamente que é assim?
+Dialogue: 5,0:21:33.48,0:21:36.32,Main-207+,,0,0,0,,Você pensa seriamente que foi assim?
 Dialogue: 5,0:21:36.32,0:21:38.24,Main-207+,,0,0,0,,Parece que você sabe alguma coisa.
 Dialogue: 5,0:21:38.24,0:21:40.57,Main-207+,,0,0,0,,{Não diga o que vier à mente, velha bruxa.} Não diga o que vier à sua cabeça, velha bruxa.
 Dialogue: 5,0:21:40.57,0:21:45.28,Main-207+,,0,0,0,,{Iceburg tem sido incomodado todo esse tempo pelo Governo Mundial,\Ncerto?}O Governo Mundial tem incomodado Iceburg há muito tempo.
 Dialogue: 5,0:21:45.28,0:21:50.62,Main-207+,,0,0,0,,Huh? Então, o quê? Você está dizendo\Nque aquele oficial, Corgi, fez isso?
-Dialogue: 5,0:21:50.62,0:21:53.63,Main-207+,,0,0,0,,{Aquele gordinho não é do tipo assassino!}Esse gorducho blob {não}é do tipo assassino{ating}!
+Dialogue: 5,0:21:50.62,0:21:53.63,Main-207+,,0,0,0,,{Aquele gordinho não é do tipo assassino!}Esse gorducho blob não é do tipo assassino{ating}!
 Dialogue: 5,0:21:53.63,0:21:58.71,Main-207+,,0,0,0,,{Não... Incidentes sombrios são o trabalho do CP9.}Não{...}, {essas coisas}operações secretas são o trabalho do CP9.
 Dialogue: 5,0:21:58.71,0:22:00.59,Main-207+,,0,0,0,,Você sabe disso, Blueno?
 Dialogue: 5,0:22:01.17,0:22:02.63,Main-207+,,0,0,0,,Acabei de ouvir alguns rumores.
@@ -329,13 +329,13 @@ Dialogue: 5,0:22:39.13,0:22:42.51,Main-207+,,0,0,0,,Eles eliminam as pessoas sem
 Dialogue: 5,0:22:42.51,0:22:45.68,Main-207+,,0,0,0,,Se você se intrometer com eles, você é carne morta.
 Dialogue: 5,0:22:52.48,0:22:57.11,Main-207+,,0,0,0,,Obrigado.  O trabalho que tivemos que fazer ontem correu bem.
 Dialogue: 5,0:22:57.11,0:22:59.65,Main-207+,,0,0,0,,Muito bem, Nico Robin.{..}
-Dialogue: 5,0:23:03.82,0:23:05.53,Main-207+,,0,0,0,,Isso foi um pedaço de bolo.
+Dialogue: 5,0:23:03.82,0:23:05.53,Main-207+,,0,0,0,,Isso foi fácil.
 Dialogue: 5,0:23:05.53,0:23:10.49,Main-207+,,0,0,0,,{Embora, naturalmente, você esteja sendo perseguido por toda a cidade.}\NNaturalmente. Embora, agora você esteja sendo perseguido por toda a cidade.
 Dialogue: 5,0:23:10.49,0:23:12.25,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:23:12.25,0:23:15.00,Main-207+,,0,0,0,,Mas isso é apenas temporário.
 Dialogue: 5,0:23:15.00,0:23:18.67,Main-207+,,0,0,0,,O importante é... esta noite.
 Dialogue: 5,0:23:19.54,0:23:22.26,Main-207+,,0,0,0,,Vamos nos infiltrar na residência de Iceburg mais uma vez.
-Dialogue: 5,0:23:22.26,0:23:27.55,Main-207+,,0,0,0,,Se o pior acontecer, {não há problema em eliminar}\Nnão me importo de eliminar todas as evidências.
+Dialogue: 5,0:23:22.26,0:23:27.55,Main-207+,,0,0,0,,Se o pior acontecer, {não há problema em eliminar} não me importo de eliminar todas as evidências.
 Dialogue: 5,0:23:28.05,0:23:31.64,Main-207+,,0,0,0,,{Entre os discípulos desse cara Tom que originalmente\Ntinha,} Tom tinha originalmente, e de seus discípulos,
 Dialogue: 5,0:23:31.64,0:23:35.44,Main-207+,,0,0,0,,{Iceburg é o único vivo atualmente.} Iceburg é o único vivo hoje.
 Dialogue: 5,0:23:35.44,0:23:38.27,Main-207+,,0,0,0,,Não importa o quanto ele se faça de inocente,
