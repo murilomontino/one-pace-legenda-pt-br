@@ -16,9 +16,9 @@ Video File: ../../[One Pace][330-332] Water Seven 04 [1080p][D5D6D5BA].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 310
-Active Line: 318
-Video Position: 36261
+Scroll Position: 301
+Active Line: 302
+Video Position: 34353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -317,14 +317,14 @@ Dialogue: 5,0:21:51.40,0:21:53.29,Main-207+,,0,0,0,,{por que você não faz isso
 Dialogue: 5,0:21:53.29,0:21:56.71,Main-207+,,0,0,0,,Oi, Usopp.  {Não diga coisas estúpidas assim.} Pare de falar assim.
 Dialogue: 5,0:21:56.71,0:21:58.90,Main-207+,,0,0,0,,Não, estou falando sério.
 Dialogue: 5,0:21:58.90,0:22:01.17,Main-207+,,0,0,0,,{Tenho pensado nisso por um tempo.} Está na minha mente há algum tempo.
-Dialogue: 5,0:22:02.74,0:22:04.10,Main-207+,,0,0,0,,Para ser honesto,
-Dialogue: 5,0:22:04.10,0:22:08.50,Main-207+,,0,0,0,,Tenho pensado que não consigo acompanhar {sua força\Nmonstruosa.} como todos vocês são monstruosos.
+Dialogue: 5,0:22:02.74,0:22:04.10,Main-207+,,0,0,0,,Para ser honesto, Tenho pensado que não consigo...
+Dialogue: 5,0:22:04.10,0:22:08.50,Main-207+,,0,0,0,, acompanhar como todos vocês são monstruosos.
 Dialogue: 5,0:22:09.13,0:22:12.47,Main-207+,,0,0,0,,{Como hoje.  Eu não posso nem vigiar o dinheiro.}Como hoje{.}, eu não podia nem vigiar o dinheiro.
 Dialogue: 5,0:22:14.47,0:22:19.35,Main-207+,,0,0,0,,{Vou continuar causando problemas a vocês.}Vou continuar a ser um fardo para vocês.
-Dialogue: 5,0:22:23.39,0:22:26.40,Main-207+,,0,0,0,,Você não precisa de membros fracos na tripulação {friends}, certo?
+Dialogue: 5,0:22:23.39,0:22:26.40,Main-207+,,0,0,0,,Você não precisa de membros fracos na tripulação{friends}, certo?
 Dialogue: 5,0:22:26.40,0:22:31.14,Main-207+,,0,0,0,,Luffy, você é o homem\Nque será o rei dos piratas.
 Dialogue: 5,0:22:31.89,0:22:35.95,Main-207+,,0,0,0,,{Mas eu não tenho que ir tão alto.} Mas eu não tenho ambições tão altas.
-Dialogue: 5,0:22:36.71,0:22:43.67,Main-207+,,0,0,0,,{Pensando no passado, quando eu estava prestes a zarpar, vocês me pediram para acompanhá-los.}Pensando\Nnisso, eu estava prestes a zarpar sozinho{,} quando você me convidou para acompanhá-lo{ por capricho}.
+Dialogue: 5,0:22:36.71,0:22:43.67,Main-207+,,0,0,0,,{Pensando no passado, quando eu estava prestes a zarpar, vocês me pediram para acompanhá-los.}Pensando nisso, eu estava prestes a zarpar sozinho{,} quando você me convidou para acompanhá-lo{ por capricho}.
 Dialogue: 5,0:22:44.14,0:22:46.63,Flashbacks-720p,,0,0,0,,Do que você está falando?  Entre já.{Flashback: Último episódio de Syrup Village}
 Dialogue: 5,0:22:47.02,0:22:49.34,Flashbacks-720p,,0,0,0,,Você é um de nós agora, não é?
 Dialogue: 5,0:22:53.19,0:22:54.89,Main-207+,,0,0,0,,{Isso é tudo o que nos une.} Isso é tudo o que nos une.
@@ -337,13 +337,13 @@ Dialogue: 5,0:23:18.08,0:23:21.12,Main-207+,,0,0,0,,deixando a tripulação.
 Dialogue: 5,0:23:41.50,0:23:44.06,Main-207+,,0,0,0,,Por que... Por que você não está dizendo nada?
 Dialogue: 5,0:23:47.15,0:23:48.98,Main-207+,,0,0,0,,Usopp!
 Dialogue: 5,0:23:49.86,0:23:52.78,Main-207+,,0,0,0,,{Esperar!  Não deveria ser assim!}Espere!  Isso está tudo errado!
-Dialogue: 5,0:23:52.78,0:23:54.57,Main-207+,,0,0,0,,Ei!  Inversão de marcha!
+Dialogue: 5,0:23:52.78,0:23:54.57,Main-207+,,0,0,0,,Ei!  Dê a Volta!
 Dialogue: 5,0:23:54.57,0:23:56.20,Main-207+,,0,0,0,,Ei{!}, {C}volte!
 Dialogue: 5,0:23:56.20,0:23:59.41,Main-207+,,0,0,0,,Não vá{!}, Usopp!
-Dialogue: 5,0:24:02.84,0:24:06.09,Main-207+,,0,0,0,,Voltar!
+Dialogue: 5,0:24:02.84,0:24:06.09,Main-207+,,0,0,0,,Volte!
 Dialogue: 5,0:24:06.09,0:24:07.38,Main-207+,,0,0,0,,Luffy.
-Dialogue: 5,0:24:16.40,0:24:20.39,Main-207+,,0,0,0,,Luffy!  Não posso mais acompanha} você.
-Dialogue: 5,0:24:21.60,0:24:24.40,Main-207+,,0,0,0,,{Desculpe causar-lhe problemas até o fim.}Desculpe por ter arrastado você {'til}até o fim.
+Dialogue: 5,0:24:16.40,0:24:20.39,Main-207+,,0,0,0,,Luffy!  Não posso mais acompanhar você.
+Dialogue: 5,0:24:21.60,0:24:24.40,Main-207+,,0,0,0,,Desculpe causar problemas até o fim.
 Dialogue: 5,0:24:26.69,0:24:30.53,Main-207+,,0,0,0,,{É verdade que o navio} Eu percebo\N{que } o navio pertence a você, o capitão.
 Dialogue: 5,0:24:32.50,0:24:34.24,Main-207+,,0,0,0,,{Então lute comigo.} Então lute comigo por ela.
 Dialogue: 5,0:24:34.90,0:24:36.87,Main-207+,,0,0,0,,Monkey D. Luffy!
