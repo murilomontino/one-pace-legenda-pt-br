@@ -73,7 +73,7 @@ Dialogue: 5,0:01:00.66,0:01:03.24,Main-207+,,0,0,0,,Huh?  E daí?
 Dialogue: 5,0:01:03.24,0:01:07.33,Main-207+,,0,0,0,,{Por que você não espancou todos eles além da recuperação então?!}\NPor que você não aproveitou a oportunidade para espancá-los então?!
 Dialogue: 5,0:01:07.33,0:01:11.90,Main-207+,,0,0,0,,Se tivesse, Usopp não teria sido atacado e se sentiria culpado!
 Dialogue: 5,0:01:11.90,0:01:16.84,Main-207+,,0,0,0,,{Então, em vez de ir às compras, você deveria ter ficado e lutado contra eles!} Ok, então, em vez de ir às compras, você deveria ter ficado e chutado os dentes deles!
-Dialogue: 5,0:01:16.84,0:01:19.25,Main-207+,,0,0,0,,{Fui buscar a comida necessária como seu cozinheiro!}\NÉ o trabalho do cozinheiro obter o essencial!
+Dialogue: 5,0:01:16.84,0:01:19.25,Main-207+,,0,0,0,,{Fui buscar a comida necessária como seu cozinheiro!}\N É o trabalho do cozinheiro obter o essencial!
 Dialogue: 5,0:01:19.25,0:01:21.81,Main-207+,,0,0,0,,{Pare de lutar em um momento como este!}Não é hora de lutar!
 Dialogue: 5,0:01:21.81,0:01:24.14,Main-207+,,0,0,0,,{Houve luta suficiente.} Já tivemos o suficiente disso.
 Dialogue: 5,0:01:25.69,0:01:28.00,Main-207+,,0,0,0,,Não {brigar}discutir sobre {o que está feito}o que não pode ser desfeito.
@@ -89,7 +89,7 @@ Dialogue: 5,0:02:15.55,0:02:18.03,Main-207+,,0,0,0,,Eu sinto que... {a gangue es
 Dialogue: 5,0:02:18.03,0:02:20.69,Main-207+,,0,0,0,,está desmoronando.
 Dialogue: 5,0:02:27.11,0:02:29.30,Main-207+,,0,0,0,,São 10 horas, a hora prometida.
 Dialogue: 5,0:02:29.30,0:02:31.08,Main-207+,,0,0,0,,Usopp está chegando.
-Dialogue: 5,0:02:40.65,0:02:43.76,Main-207+,,0,0,0,,{Vocês, não saiam do navio.}\NVocês! Fiquem a bordo e não desçam aqui!
+Dialogue: 5,0:02:40.65,0:02:43.76,Main-207+,,0,0,0,,{Vocês, não saiam do navio.}\N Vocês! Fiquem a bordo e não desçam aqui!
 Dialogue: 5,0:02:43.76,0:02:45.03,Main-207+,,0,0,0,,Entenderam?!
 Dialogue: 5,0:02:51.83,0:02:54.60,Main-207+,,0,0,0,,- Ali está ele! – Usopp!
 Dialogue: 5,0:03:17.70,0:03:20.02,Main-207+,,0,0,0,,Então você não recuou, hein?
@@ -116,7 +116,7 @@ Dialogue: 5,0:06:02.59,0:06:05.13,Main-207+,,0,0,0,,{\fad(150,150)}Feitiço de U
 Dialogue: 5,0:06:05.13,0:06:08.72,Main-207+,,0,0,0,,{Você tem lâminas presas entre todos os dentes!} Você tem lâminas de barbear correndo entre seus dentes!
 Dialogue: 5,0:06:09.69,0:06:12.00,Main-207+,,0,0,0,,Dói só de imaginar isso!
 Dialogue: 5,0:06:12.00,0:06:13.51,Main-207+,,0,0,0,,Vá pra dentro.
-Dialogue: 5,0:06:13.51,0:06:16.64,Main-207+,,0,0,0,,{Você tem espinhos de cacto dentro de suas unhas!}\NVocê tem espinhos de cacto presos sob suas unhas!
+Dialogue: 5,0:06:13.51,0:06:16.64,Main-207+,,0,0,0,,{Você tem espinhos de cacto dentro de suas unhas!}\N Você tem espinhos de cacto presos sob suas unhas!
 Dialogue: 5,0:06:18.06,0:06:21.52,Main-207+,,0,0,0,,{\fad(150,150)}{Borracha de borracha...}Gomu Gomu no Pistol!
 Dialogue: 5,0:06:26.90,0:06:28.24,Main-207+,,0,0,0,,Usopp!
 Dialogue: 5,0:06:29.69,0:06:32.20,Main-207+,,0,0,0,,Vê?!  Seu corpo já está mal!
@@ -202,7 +202,7 @@ Dialogue: 5,0:15:23.61,0:15:25.18,Main-207+,,0,0,0,,Seu {tolo}idiota{...}!
 Dialogue: 5,0:15:27.40,0:15:32.21,Main-207+,,0,0,0,,{Não tem como você me derrotar, não\Né?!} Não tem como você me derrotar!
 Dialogue: 5,0:15:58.86,0:16:01.21,Main-207+,,0,0,0,,{Eu não aguento isso...} Não... não pode ser...
 Dialogue: 5,0:16:10.81,0:16:13.78,Main-207+,,0,0,0,,Faça o que quiser com o Merry.
-Dialogue: 5,0:16:17.30,0:16:22.93,Main-207+,,0,0,0,,{Vamos pegar um novo navio e seguir em frente para os mares!}\NQuanto a nós, vamos pegar um novo navio e continuar navegando!
+Dialogue: 5,0:16:17.30,0:16:22.93,Main-207+,,0,0,0,,{Vamos pegar um novo navio e seguir em frente para os mares!}\N Quanto a nós, vamos pegar um novo navio e continuar navegando!
 Dialogue: 5,0:16:24.21,0:16:26.20,Flashbacks-720p,,0,0,0,,Ei!  Deixe-me sentar lá também, Luffy!
 Dialogue: 5,0:16:26.20,0:16:29.17,Flashbacks-720p,,0,0,0,,Não!  Este é o meu lugar especial!
 Dialogue: 5,0:16:29.17,0:16:31.10,Flashbacks-720p,,0,0,0,,Oh?  O que é aquilo?!

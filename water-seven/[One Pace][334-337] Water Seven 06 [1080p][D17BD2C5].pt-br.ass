@@ -144,7 +144,7 @@ Dialogue: 5,0:09:09.13,0:09:10.95,Main-207+,,0,0,0,,{O que lhe disseram antes de
 Dialogue: 5,0:09:10.95,0:09:14.24,Main-207+,,0,0,0,,Calem a boca  Saiam do meu caminho.
 Dialogue: 5,0:09:14.24,0:09:16.91,Main-207+,,0,0,0,,Que explicação {seu}a empresa lhe deu?
 Dialogue: 5,0:09:16.91,0:09:18.15,Main-207+,,0,0,0,,{Por favor, dê-nos uma declaração!}Por favor, diga alguma coisa!
-Dialogue: 5,0:09:18.15,0:09:20.75,Main-207+,,0,0,0,,{Você é surdo? Eu disse para você sair do meu caminho!}\NVocê é surdo? Eu disse para sair do meu caminho!
+Dialogue: 5,0:09:18.15,0:09:20.75,Main-207+,,0,0,0,,{Você é surdo? Eu disse para você sair do meu caminho!}\N Você é surdo? Eu disse para sair do meu caminho!
 Dialogue: 5,0:09:20.75,0:09:25.17,Main-207+,,0,0,0,,{Não houve nenhum problema que poderia ter causado alguém mirar a vida do Sr. Iceburg?!}{Houve algum problema que} Aconteceu alguma coisa que poderia ter feito alguém mirar no Sr. Iceburg?!{gaijin - ibfinity está no local.\N"-shi" é o honorífico aqui, e "Sr." é uma tradução justa.}{Para Gaijin: há um -san aqui?}{Zenef: Eu gosto dessa mudança.} {ibfinity: não, não há -san, aqui. O repórter diz "Iceburg-shi", que é onde o "Sr." veio de. Provavelmente é seguro dizer "problema" aqui, mas 因縁 in'en não tem implicitamente a conotação de algo negativo}
 Dialogue: 5,0:09:25.17,0:09:26.53,Main-207+,,0,0,0,,{Qualquer coisa que vem à sua mente!} Alguma coisa vem à mente?!
 Dialogue: 5,0:09:26.53,0:09:27.95,Main-207+,,0,0,0,,Algum problema com piratas?!
@@ -295,7 +295,7 @@ Dialogue: 5,0:17:59.39,0:18:02.85,Main-207+,,0,0,0,,{Er} Uh... eles ainda estão
 Dialogue: 5,0:18:02.85,0:18:04.43,Main-207+,,0,0,0,,{Bem, eu me lembro.} Sim, mas eu me lembro. {Para Gaijin: Iceburg diz "não" aqui, mas é mais uma maneira de impedir Paulie de continuar, parece.}{ibfinity: sim, um pouco  mais detalhes: eu diria que o iya é dizer a Paulie que não é isso que ele quis dizer ao mencionar o arrombamento}
 Dialogue: 5,0:18:04.43,0:18:05.41,Main-207+,,0,0,0,,{O quê?}O que...?{Zenef: separando os "o quês" variando-os ligeiramente.}
 Dialogue: 5,0:18:05.41,0:18:06.77,Main-207+,,0,0,0,,Que?
-Dialogue: 5,0:18:09.90,0:18:14.03,Main-207+,,0,0,0,,{Haviam dois. Um era um homem grande com uma máscara.}\NHavia dois. Um era um homem grande usando uma máscara.
+Dialogue: 5,0:18:09.90,0:18:14.03,Main-207+,,0,0,0,,{Haviam dois. Um era um homem grande com uma máscara.}\N Havia dois. Um era um homem grande usando uma máscara.
 Dialogue: 5,0:18:14.03,0:18:15.74,Main-207+,,0,0,0,,A outra foi...
 Dialogue: 5,0:18:16.95,0:18:19.39,Main-207+,,0,0,0,,uma mulher alta com longos cabelos negros.
 Dialogue: 5,0:18:22.95,0:18:27.54,Main-207+,,0,0,0,,Não há como confundir. Aqueles olhos negros pertencem a...{Zenef: ligeira mudança}
@@ -303,7 +303,7 @@ Dialogue: 1,0:18:31.75,0:18:34.71,Sign-Reporters,,0,0,0,,{\pos(1051.5,411)\fscx1
 Dialogue: 5,0:18:36.21,0:18:38.47,Main-207+,,0,0,0,,Iceburg-{\i1}san{\i0}...
 Dialogue: 5,0:18:39.09,0:18:43.56,Main-207+,,0,0,0,,Iceburg-{\i1}san{\i0} recuperou a consciência!
 Dialogue: 5,0:18:43.56,0:18:44.97,Main-207+,,0,0,0,,{–Isso é verdade?!–Tudo\Nbem!}– É verdade?!– Tudo bem!
-Dialogue: 5,0:18:44.97,0:18:47.80,Main-207+,,0,0,0,,{–Bom!–Tudo bem!}–\NÓtimo!– Tudo bem!
+Dialogue: 5,0:18:44.97,0:18:47.80,Main-207+,,0,0,0,,{–Bom!–Tudo bem!}\N -Ótimo!– Tudo bem!
 Dialogue: 5,0:18:52.44,0:18:57.57,Main-207+,,0,0,0,,{Então você é... Luffy do Chapéu de Palha?}Então você é aquele que eles chamam de... Luffy do Chapéu de Palha?!{Zenef: pequena mudança}
 Dialogue: 5,0:19:00.32,0:19:06.29,Main-207+,,0,0,0,,Você fez uma grande agitação\Nenquanto eu estava fora, não é?
 Dialogue: 5,0:19:06.29,0:19:09.08,Main-207+,,0,0,15,,Quando voltei, não podia acreditar nos meus olhos.
@@ -315,14 +315,14 @@ Dialogue: 5,0:19:19.05,0:19:21.39,Main-207+,,0,0,0,,Eu não aguento mais.
 Dialogue: 5,0:19:21.39,0:19:24.68,Main-207+,,0,0,0,,{Ninguém pode me parar esta semana!}Ninguém vai me impedir esta semana!{Zenef: reescreveu.}
 Dialogue: 5,0:19:25.20,0:19:26.93,Main-207+,,0,0,0,,{Não importa o que você diga,} Nada do que você disser importa.
 Dialogue: 5,0:19:26.93,0:19:32.40,Main-207+,,0,0,0,,{até que eu te rasgue como trapos, minha raiva não vai diminuir!}Eu não vou me acalmar até te quebrar {como\Num trapo velho} em pedaços!{Zenef: estrutura estranha.}{Para Gaijin: faz "trapos" precisa estar nesta linha?}
-Dialogue: 5,0:19:32.40,0:19:34.27,Main-207+,,0,0,0,,{–Ei, você!–Hm?}–\NEi, você!– {Hm}Hmm?
+Dialogue: 5,0:19:32.40,0:19:34.27,Main-207+,,0,0,0,,{–Ei, você!–Hm?}\N -Ei, você!– {Hm}Hmm?
 Dialogue: 5,0:19:34.27,0:19:38.03,Main-207+,,0,0,0,,{O que você fez com o nosso dinheiro?! A berrys de 200 milhões?!} Sim, você! O que\Nvocê fez com nossos 200 milhões de berrys?!{Zenef: alinhado à cadência VA melhor}
 Dialogue: 5,0:19:38.03,0:19:39.61,Main-207+,,0,0,0,,Devolva!
 Dialogue: 5,0:19:39.61,0:19:43.16,Main-207+,,0,0,0,,Huh?!  200 milhões de berrys?!
 Dialogue: 5,0:19:43.91,0:19:47.62,Main-207+,,0,0,0,,{Já gastei! Acabou completamente!}Já\Ngastei! Acabou completamente!
 Dialogue: 5,0:19:48.45,0:19:51.26,Main-207+,,0,0,0,,{Não fique todo arrogante e tente proteger}{Não fique todo arrogante tentando proteger o dinheiro que você roubou de algum lugar!  Vocês são apenas piratas!} Você obviamente roubou esse dinheiro de algum lugar.
 Dialogue: 5,0:19:51.26,0:19:55.46,Main-207+,,0,0,0,,Vocês não têm espaço para serem arrogantes comigo, piratas! {Zenef: acabou.}
-Dialogue: 5,0:19:55.46,0:19:56.59,Main-207+,,0,0,0,,{–Não importa.–Hm?}–\NNão importa.– {Hm}Hmm?
+Dialogue: 5,0:19:55.46,0:19:56.59,Main-207+,,0,0,0,,{–Não importa.–Hm?}\N -Não importa.– {Hm}Hmm?
 Dialogue: 5,0:19:56.59,0:19:58.96,Main-207+,,0,0,0,,Não é verdade!  Dinheiro {\i1}não{\i0} importa!
 Dialogue: 5,0:19:58.96,0:20:01.47,Main-207+,,0,0,0,,De qualquer forma, não ficarei satisfeito...{De qualquer forma, não ficarei satisfeito...}{Zenef: hmm... vou reverter isso.  "feliz" é definitivamente mais uma palavra do Luffy do que "satisfeito"}
 Dialogue: 5,0:20:01.47,0:20:04.30,Main-207+,,0,0,0,,{até eu bater em você!}até eu chutar sua bunda!{Zenef: ele está com raiva, então os palavrões podem aumentar um pouco.}
@@ -415,12 +415,12 @@ Dialogue: 5,0:28:13.46,0:28:15.34,Main-207+,,0,0,0,,Você quer se machucar?
 Dialogue: 5,0:28:15.34,0:28:17.71,Main-207+,,0,0,0,,{É incrível você dizer isso.} É incrível você dizer isso.
 Dialogue: 5,0:28:17.71,0:28:20.17,Main-207+,,0,0,0,,{Depois que você estragou tanto nossa fábrica,}Você nivelou nossa fábrica,
 Dialogue: 5,0:28:20.17,0:28:23.34,Main-207+,,0,0,0,,{nós nem precisamos de um motivo para te parar!}nós não precisamos de mais nenhum motivo para te parar!
-Dialogue: 5,0:28:23.34,0:28:28.11,Main-207+,,0,0,0,,{Ele está certo, Franky! Como você vai resolver isso?!}\NEle está certo, Franky! Como você vai resolver isso?!
+Dialogue: 5,0:28:23.34,0:28:28.11,Main-207+,,0,0,0,,{Ele está certo, Franky! Como você vai resolver isso?!}\N Ele está certo, Franky! Como você vai resolver isso?!
 Dialogue: 5,0:28:28.11,0:28:32.69,Main-207+,,0,0,0,,Espere um segundo, Tilestone. Falaremos sobre isso mais tarde. {gaijin - "It"\Né uma boa tradução para "その"}{ibfinity - alt: Falaremos sobre isso mais tarde.}
 Dialogue: 5,0:28:32.69,0:28:36.02,Main-207+,,0,0,0,,Temos negócios mais importantes agora.
 Dialogue: 5,0:28:37.61,0:28:40.53,Main-207+,,0,0,0,,Certo, Luffy do Chapéu de Palha?
 Dialogue: 5,0:28:40.53,0:28:42.40,Main-207+,,0,0,0,,{Você sabe do que estou falando, certo?}Você sabe do que estou falando.
-Dialogue: 5,0:28:42.40,0:28:45.24,Main-207+,,0,0,0,,{Estou surpreso que você possa mostrar seu rosto novamente.}\NEstou surpreso que você mostre seu rosto aqui novamente.
+Dialogue: 5,0:28:42.40,0:28:45.24,Main-207+,,0,0,0,,{Estou surpreso que você possa mostrar seu rosto novamente.}\N Estou surpreso que você mostre seu rosto aqui novamente.
 Dialogue: 5,0:28:45.24,0:28:49.49,Main-207+,,0,0,0,,Que? Por quê? Viemos aqui porque\Nouvimos as notícias sobre {pops}Iceboss.
 Dialogue: 5,0:28:51.00,0:28:56.46,Main-207+,,0,0,0,,{Nossa... Nossa família não era suficiente, então você mexeu com Galley-La também?}Honestamente{... Nossa}, minha família não foi suficiente, então você mexeu com Galley-La{,} também? {Zenef pequenas mudanças aqui}
 Dialogue: 5,0:28:56.46,0:29:00.96,Main-207+,,200,200,0,,{Vocês estão passando pela puberdade, machucando todos que encontram?}{Vocês estão passando pela puberdade, machucando todos que encontram?}{O que, vocês estão naquela idade estranha em que derrubam\Ntudo que tocam?! }O que, vocês são apenas alguns punks que irritam e irritam todo mundo que encontram?!{Para Gaijin: a localização parece estar ausente, então vou anotar o Viz aqui.}
@@ -456,7 +456,7 @@ Dialogue: 5,0:31:53.01,0:31:54.64,Main-207+,,0,0,0,,{eram da sua gangue, não er
 Dialogue: 5,0:31:54.64,0:31:58.06,Main-207+,,0,0,0,,Não pode ser... Isso não pode ser...
 Dialogue: 5,0:31:58.06,0:32:00.77,Thoughts-207+,,0,0,0,,Eles se intrometeram na minha luta.
 Dialogue: 5,0:32:23.42,0:32:28.34,Thoughts-207+,,0,0,0,,Isso foi... sem dúvida, Nico Robin.
-Dialogue: 5,0:32:28.34,0:32:32.63,Thoughts-207+,,0,0,0,,{Esse grandalhão ao lado dela também é um dos Chapéus de Palha?}\NAquele grandalhão com ela também era um dos Chapéus de Palha?
+Dialogue: 5,0:32:28.34,0:32:32.63,Thoughts-207+,,0,0,0,,{Esse grandalhão ao lado dela também é um dos Chapéus de Palha?}\N Aquele grandalhão com ela também era um dos Chapéus de Palha?
 Dialogue: 5,0:32:32.63,0:32:36.69,Thoughts-207+,,0,0,0,,Por que eles me atacaram\Nem primeiro lugar?
 Dialogue: 5,0:32:36.69,0:32:40.06,Thoughts-207+,,0,0,0,,{É difícil pensar que eles fizeram isso como vingança por ontem.}É difícil imaginar que eles fizeram isso como vingança por ontem.
 Dialogue: 5,0:32:40.06,0:32:43.27,Thoughts-207+,,0,0,0,,Eles devem {realmente }estar atrás de {uma das minhas\Nposses}algo meu.{Zenef: escolha de tradução estranha?}
@@ -481,7 +481,7 @@ Dialogue: 5,0:33:57.18,0:34:03.10,Main-207+,,0,0,0,,Quando perguntamos ao govern
 Dialogue: 5,0:34:03.93,0:34:06.96,Main-207+,,0,0,0,,Nico Robin, a mulher com uma recompensa pela cabeça!{Para\NGaijin: você consegue pensar em algo melhor para esta linha?}
 Dialogue: 5,0:34:08.06,0:34:09.49,Main-207+,,0,0,0,,Robin?!
 Dialogue: 5,0:34:13.82,0:34:19.28,Main-207+,,0,0,0,,Você estava planejando mata-lo desde o início? Isso tudo foi apenas um plano pra matar Iceburg-san
-Dialogue: 5,0:34:19.28,0:34:24.70,Main-207+,,0,0,0,,{Ou você decidiu fazer isso depois que vocês o conheceram ontem?}\NOu você decidiu fazer isso depois que vocês o conheceram ontem?
+Dialogue: 5,0:34:19.28,0:34:24.70,Main-207+,,0,0,0,,{Ou você decidiu fazer isso depois que vocês o conheceram ontem?}\N Ou você decidiu fazer isso depois que vocês o conheceram ontem?
 Dialogue: 5,0:34:24.70,0:34:28.25,Main-207+,,0,0,0,,{Eu não sei o que vocês piratas pensam...}Eu não sei como vocês piratas pensam...{Zenef: boa mudança}
 Dialogue: 5,0:34:29.04,0:34:33.59,Main-207+,,0,0,0,,mas agora que sabemos que vocês são os culpados, não vamos deixar vocês continuarem soltos.
 Dialogue: 5,0:34:33.59,0:34:36.01,Main-207+,,0,0,0,,Então ele é um dos culpados?
@@ -493,7 +493,7 @@ Dialogue: 5,0:34:47.64,0:34:53.61,Main-207+,,0,0,0,,{Precisamente porque ele ain
 Dialogue: 5,0:34:53.61,0:34:56.11,Main-207+,,0,0,0,,Então vamos cuidar dele\Naqui mesmo, agora mesmo.
 Dialogue: 5,0:34:59.91,0:35:02.24,Main-207+,,0,0,0,,{Morto ou vivo...} Diz "vivo ou morto".
 Dialogue: 5,0:35:02.24,0:35:04.91,Main-207+,,0,0,0,,{Eles não se importam se você for capturado vivo ou não.}{Nós não temos que mantê-lo vivo.}Eles querem você de qualquer maneira.{Para Gaijin: não tenho certeza sobre esta tradução} {ibfinity: não tenho certeza se isso ajuda,\Nmas o japonês está literalmente dizendo "Morto ou vivo". Anime tem esse tropo de dizer algo em inglês porque soa legal/estrangeiro, e depois dizer em japonês. Mais ou menos como um inglês diria Carpe Diem! Aproveite o dia.}
-Dialogue: 5,0:35:04.91,0:35:07.20,Main-207+,,0,0,0,,{Você sabe o que significa estar na lista de procurados?}\NVocê sabe o que significa ser um homem procurado?
+Dialogue: 5,0:35:04.91,0:35:07.20,Main-207+,,0,0,0,,{Você sabe o que significa estar na lista de procurados?}\N Você sabe o que significa ser um homem procurado?
 Dialogue: 5,0:35:07.79,0:35:12.63,Main-207+,,0,0,0,,Vocês piratas não podem reclamar, não importa quem faça o que com vocês.{Vocês piratas não podem reclamar, não importa o que aconteça com vocês.}{Zenef: Não é o maior fã de nenhuma das versões, mas eu gosto\Num pouco mais da original . também, deixe-me saber se encontrar algumas alternativas inteligentes para as falas de Kaku aqui, mas elas provavelmente estão bem, já que ele está ficando muito sério aqui.}
 Dialogue: 5,0:35:12.63,0:35:16.42,Main-207+,,0,0,0,,Em outras palavras, as leis do\Nmundo não protegerão vocês.
 Dialogue: 5,0:35:17.13,0:35:18.63,Main-207+,,0,0,0,,Isso está certo.
@@ -502,7 +502,7 @@ Dialogue: 5,0:35:22.89,0:35:25.68,Main-207+,,0,0,0,,Eu sei que.  Mas...
 Dialogue: 5,0:35:25.68,0:35:31.15,Main-207+,,0,0,0,,não {diga coisas assim}fale porcarias sobre Robin quando você não sabe nada sobre {Robin}ela!
 Dialogue: 5,0:35:31.15,0:35:32.86,Main-207+,,0,0,0,,Luffy...
 Dialogue: 5,0:35:32.86,0:35:34.77,Main-207+,,0,0,0,,Deixe-me ver Iceboss!
-Dialogue: 5,0:35:34.77,0:35:37.82,Main-207+,,0,0,0,,{Tenho certeza que ele estava enganado! Não tem como ser Robin!}\NTenho certeza que ele está enganado! De jeito nenhum foi Robin!
+Dialogue: 5,0:35:34.77,0:35:37.82,Main-207+,,0,0,0,,{Tenho certeza que ele estava enganado! Não tem como ser Robin!}\N Tenho certeza que ele está enganado! De jeito nenhum foi Robin!
 Dialogue: 5,0:35:37.82,0:35:42.49,Main-207+,,0,0,0,,Por que deixaríamos você se aproximar quando {não sabemos o que você\Nfaria}não podemos verificar suas intenções?!{Zenef: fez isso mais parecido com Lulu}
 Dialogue: 5,0:35:43.49,0:35:46.49,Main-207+,,0,0,0,,{Ele está certo!  Amarre os culpados!} Ele está certo!  Amarre-os!
 Dialogue: 5,0:35:46.49,0:35:49.37,Main-207+,,0,0,0,,Eles tentaram matar o herói da nossa cidade!

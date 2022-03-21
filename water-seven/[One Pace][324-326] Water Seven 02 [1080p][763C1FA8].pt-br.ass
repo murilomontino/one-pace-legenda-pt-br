@@ -142,7 +142,7 @@ Dialogue: 5,0:08:39.54,0:08:42.30,Main-207+,,0,0,0,,Nossa, ele já está dormind
 Dialogue: 5,0:08:42.30,0:08:44.91,Main-207+,,0,0,0,,{Bem, tudo bem.  Vou deixar o navio para você.} Tanto faz.  {Vejo você mais tarde.}Ela é toda sua.
 Dialogue: 5,0:09:13.82,0:09:16.74,Main-207+,,0,0,0,,Estamos aqui!
 Dialogue: 5,0:09:20.20,0:09:25.46,Main-207+,,0,0,0,,Então este é o centro }Water Seven do mundo {e}com o {No. 1}{número um}maior estaleiro?!{Downtown Water Seven!}{Difícil dizer dos japoneses.\NAcho que é mais seguro separá-los}{Gaijin, o estaleiro fica em Downtown Water Seven, ou o centro e o estaleiro são a mesma coisa?}
-Dialogue: 5,0:09:31.61,0:09:34.80,Main-207+,,0,0,0,,{Como esperado, vejo mais terreno por aqui.}\NParece que há mais terra do que água por aqui.
+Dialogue: 5,0:09:31.61,0:09:34.80,Main-207+,,0,0,0,,{Como esperado, vejo mais terreno por aqui.}\N Parece que há mais terra do que água por aqui.
 Dialogue: 5,0:09:38.68,0:09:41.43,Main-207+,,0,0,0,,{As coisas são enormes por toda parte!} Tudo é tão grande!
 Dialogue: 5,0:09:43.18,0:09:46.14,Main-207+,,0,0,0,,{Eu nunca vi uma cidade enorme como esta!}Eu nunca vi uma cidade tão grande {town}!
 Dialogue: 5,0:09:54.57,0:09:55.51,Main-207+,,0,0,0,,Hmm?
@@ -151,7 +151,7 @@ Dialogue: 5,0:09:57.60,0:09:59.60,Main-207+,,0,0,0,,{Eles não estão vigiando o
 Dialogue: 5,0:09:59.60,0:10:03.04,Main-207+,,0,0,0,,{Vamos ver!  Vá, yagara!}Vamos dar uma olhada!  Vai, yagara!
 Dialogue: 5,0:10:10.00,0:10:14.00,Main-207+,,0,0,0,,Ei, olhe ali! É Lucci-{\i1}san{\fs10}\N{r}! Ele é tão bonito!{\fs\i0\i0\i0}
 Dialogue: 5,0:10:14.80,0:10:16.49,Main-207+,,0,0,0,,Paulie não está aqui?
-Dialogue: 5,0:10:16.49,0:10:22.14,Main-207+,,0,0,0,,{Lulu está aqui! Como ele é refinado! Ele é realmente um homem de homem.} Lulu\Nestá aqui! Então {refinado}suave! Ele é verdadeiramente um homem entre os homens.
+Dialogue: 5,0:10:16.49,0:10:22.14,Main-207+,,0,0,0,,{Lulu está aqui! Como ele é refinado! Ele é realmente um homem de homem.} \NLulu está aqui! Então {refinado}suave! Ele é verdadeiramente um homem entre os homens.
 Dialogue: 5,0:10:22.14,0:10:25.60,Main-207+,,0,0,0,,{Quem é mais viril que Tilestone?} Mas ninguém é mais viril que Tilestone!
 Dialogue: 5,0:10:26.78,0:10:28.56,Main-207+,,0,0,0,,– Ei, {pops} velho. – Hmm?
 Dialogue: 5,0:10:28.56,0:10:30.15,Main-207+,,0,0,0,,Aconteceu alguma coisa?
@@ -276,7 +276,7 @@ Dialogue: 5,0:19:32.25,0:19:35.45,Main-207+,,0,0,0,,{provavelmente precisaremos 
 Dialogue: 5,0:19:35.45,0:19:37.32,Main-207+,,0,0,0,,{para que ele possa avaliar a taxa de reparo...}e faça com que ele dê uma estimativa de reparo.
 Dialogue: 5,0:19:37.78,0:19:39.32,Main-207+,,0,0,0,,Entendo.
 Dialogue: 5,0:19:39.32,0:19:40.78,Main-207+,,0,0,0,,{Isso é verdade.} Esse parece ser o caso.
-Dialogue: 5,0:19:40.78,0:19:44.90,Main-207+,,0,0,0,,{Eu realmente não sei o que fazer, já que eu nunca carreguei tanto dinheiro.}\NEu realmente não tenho certeza de como agir. Eu nunca carreguei tanto dinheiro.
+Dialogue: 5,0:19:40.78,0:19:44.90,Main-207+,,0,0,0,,{Eu realmente não sei o que fazer, já que eu nunca carreguei tanto dinheiro.}\N Eu realmente não tenho certeza de como agir. Eu nunca carreguei tanto dinheiro.
 Dialogue: 5,0:19:44.90,0:19:47.30,Main-207+,,0,0,0,,Bem, isso é natural.
 Dialogue: 5,0:19:47.30,0:19:49.86,Main-207+,,0,0,0,,Não consigo entender por que {aperson}alguém\Niria simplesmente mexer nele.
 Dialogue: 5,0:19:49.86,0:19:52.54,Main-207+,,0,0,0,,Ah! Ei, olha aí! Eles estão\Nvendendo pãezinhos de água {água}!
@@ -303,7 +303,7 @@ Dialogue: 5,0:20:48.04,0:20:49.06,Secondary-207+,,0,0,0,,Hmm?
 Dialogue: 5,0:20:49.06,0:20:50.60,Main-207+,,0,0,0,,{Espere.}{Isso é o suficiente.}Segure seus cavalos.
 Dialogue: 5,0:20:50.60,0:20:52.10,Main-207+,,0,0,0,,Você é um estranho, certo?
 Dialogue: 5,0:20:52.10,0:20:56.10,Main-207+,,0,0,0,,{Vamos conversar lá fora por enquanto.} Nesse caso, vamos conversar lá fora.
-Dialogue: 5,0:20:57.37,0:21:01.32,Main-207+,,0,0,0,,{Somente pessoas autorizadas podem entrar na planta.}Somente\Npessoas autorizadas podem passear pelo estaleiro.
+Dialogue: 5,0:20:57.37,0:21:01.32,Main-207+,,0,0,0,,{Somente pessoas autorizadas podem entrar na planta.}\NSomente pessoas autorizadas podem passear pelo estaleiro.
 Dialogue: 5,0:21:04.36,0:21:06.62,Main-207+,,0,0,0,,{Heave-ho.}
 Dialogue: 0,0:21:06.74,0:21:11.83,Captions,,0,0,0,,{\pos(640,405)\fs43\c&H000000&\1a&HFF&\blur0.6\fad(500,0)\t(455,500,\1a&H00&)}Kaku{Ship Carpenter}ShipwrightGalley-La Company{Um capataz é um tipo de gerente, que não parece se aplicar a Kaku}{Não é um grande fã das infoboxes deste. "Kaku Ship Carpenter Galley-La Company." Nesse contexto, um título mais apropriado seria "Foreman"?}
 Dialogue: 1,0:21:06.74,0:21:11.83,Captions,,0,0,0,,{\pos(640,405)\fs43\bord0\4a&HFF&\blur0.6\fad(500,0)}Kaku{Ship Carpenter}ShipwrightGalley-La Company{Um capataz é um tipo de gerente, que não parece se aplicar a Kaku}{Não é um grande fã das infoboxes deste. "Kaku Ship Carpenter Galley-La Company." Nesse contexto, um título mais apropriado seria "Foreman"?}
@@ -384,7 +384,7 @@ Dialogue: 5,0:25:23.50,0:25:25.59,Main-207+,,0,0,0,,Quando não há portas ou ru
 Dialogue: 5,0:25:26.88,0:25:29.29,Main-207+,,0,0,0,,Ela voou ou algo assim?
 Dialogue: 5,0:25:29.29,0:25:29.88,Main-207+,,0,0,0,,Huh?
 Dialogue: 5,0:25:33.08,0:25:34.38,Main-207+,,0,0,0,,Usopp?
-Dialogue: 5,0:25:35.40,0:25:40.14,Main-207+,,0,0,0,,{O que há com esta cidade? Sou eu que estou aqui?} Esta\Ncidade está um pouco fora. Ou sou eu que estou fora daqui?
+Dialogue: 5,0:25:35.40,0:25:40.14,Main-207+,,0,0,0,,{O que há com esta cidade? Sou eu que estou aqui?} \NEsta cidade está um pouco fora. Ou sou eu que estou fora daqui?
 Dialogue: 5,0:25:52.69,0:25:56.23,Main-207+,,0,0,0,,{Oh.  That}Ora, esse deve ser o navio{ deve ser o único}.
 Dialogue: 5,0:25:59.71,0:26:00.91,Main-207+,,0,0,0,,Perdão.
 Dialogue: 5,0:26:04.34,0:26:06.87,Thoughts-207+,,0,0,0,,Ah, é apenas o Usopp.
@@ -406,7 +406,7 @@ Dialogue: 5,0:26:50.81,0:26:55.46,Main-207+,,0,0,0,,Luffy do Chapéu de Palha, C
 Dialogue: 5,0:26:56.42,0:26:59.09,Main-207+,,0,0,0,,{O grupo deles tem esses três membros com recompensas em suas cabeças.}\NHá três membros da tripulação com recompensas em suas cabeças.
 Dialogue: 5,0:26:59.09,0:27:01.99,Main-207+,,0,0,0,,Sua recompensa total é de 239 milhões de Berrys.
 Dialogue: 5,0:27:01.99,0:27:03.43,Main-207+,,0,0,0,,{Foi formado no East Blue.} Fundado no East Blue.
-Dialogue: 5,0:27:03.43,0:27:07.09,Main-207+,,0,0,0,,{Eles são os Chapéus de Palha, e eles atualmente têm sete tripulantes.}\NConhecidos como os Chapéus de Palha, sete tripulantes fortes.
+Dialogue: 5,0:27:03.43,0:27:07.09,Main-207+,,0,0,0,,{Eles são os Chapéus de Palha, e eles atualmente têm sete tripulantes.}\N Conhecidos como os Chapéus de Palha, sete tripulantes fortes.
 Dialogue: 5,0:27:07.09,0:27:09.39,Thoughts-207+,,0,0,0,,{Th-Eles sabem muito sobre nós.}Th-{t}Eles nos fizeram.
 Dialogue: 5,0:27:09.39,0:27:11.45,Main-207+,,0,0,0,,Entendo.  Estou feliz que você veio.
 Dialogue: 0,0:27:09.48,0:27:14.40,Captions,,0,0,0,,{\pos(286,472)\fs45\c&H000000&\1a&HFF&\blur0.6\fad(600,600)\t(555,600,\1a&H00&)\t(4320,4365,\1a&HFF&)}IceburgWater Seven\NMayorGalley-La Company President
@@ -428,7 +428,7 @@ Dialogue: 5,0:27:44.76,0:27:49.48,Main-207+,,0,0,0,,{Depois disso, volte ao escr
 Dialogue: 5,0:27:50.12,0:27:51.50,Main-207+,,0,0,0,,{Eu não quero!} Não quero!
 Dialogue: 5,0:27:52.44,0:27:54.73,Main-207+,,0,0,0,,{Bem, então} Muito bem.  Vou cancelar todos.
 Dialogue: 5,0:27:54.73,0:27:56.65,Main-207+,,0,0,0,,Ei!  Tudo bem?!
-Dialogue: 5,0:27:56.65,0:28:00.23,Main-207+,,0,0,0,,{Sou alguém poderoso o suficiente para fazer coisas assim.} Com\Ntoda essa influência, posso ocasionalmente fazer algo assim.
+Dialogue: 5,0:27:56.65,0:28:00.23,Main-207+,,0,0,0,,{Sou alguém poderoso o suficiente para fazer coisas assim.} \NCom toda essa influência, posso ocasionalmente fazer algo assim.
 Dialogue: 5,0:28:00.23,0:28:03.30,Main-207+,,0,0,0,,Você é completamente incapaz de ser prefeito.
 Dialogue: 5,0:28:03.30,0:28:05.51,Main-207+,,0,0,0,,{Que cara egoísta você é!} Isso é muito egoísta da sua parte!
 Dialogue: 5,0:28:05.51,0:28:08.80,Main-207+,,0,0,0,,{Mas não é esse cara que a vovó estava falando?} Então\Nesse cara é aquele de quem aquela velhinha estava falando?
@@ -584,7 +584,7 @@ Dialogue: 0,0:29:10.18,0:29:10.31,Sign-Letter,,0,0,0,,{\pos(762.99,579.71)\fscx9
 Dialogue: 5,0:29:11.00,0:29:12.31,Main-207+,,0,0,0,,{Ahhh!}
 Dialogue: 5,0:29:12.31,0:29:16.49,Main-207+,,0,0,0,,O que?! Você não vai?! Por favor!\NPor favor, conserte nosso navio!
 Dialogue: 5,0:29:16.49,0:29:18.20,Main-207+,,0,0,0,,Nós temos dinheiro!
-Dialogue: 5,0:29:18.20,0:29:22.69,Main-207+,,0,0,0,,{O Merry foi derrotado depois de nossas viagens! Por favor, estoura!}O\NMerry está todo surrado depois de nossas viagens! Vamos, velho!
+Dialogue: 5,0:29:18.20,0:29:22.69,Main-207+,,0,0,0,,{O Merry foi derrotado depois de nossas viagens! Por favor, estoura!}\NO Merry está todo surrado depois de nossas viagens! Vamos, velho!
 Dialogue: 5,0:29:22.69,0:29:25.70,Main-207+,,0,0,0,,{Que frívola!  Então está tudo bem?!}Só assim!  Então está tudo bem?!
 Dialogue: 5,0:29:22.69,0:29:23.89,Secondary-207+,,0,0,0,,OK.
 Dialogue: 5,0:29:24.79,0:29:25.70,Secondary-207+,,0,0,0,,Sim.
@@ -597,7 +597,7 @@ Dialogue: 5,0:29:40.48,0:29:43.01,Main-207+,,0,0,0,,{É um dia chato hoje de qua
 Dialogue: 5,0:29:43.01,0:29:44.69,Main-207+,,0,0,0,,{Devo te mostrar a fábrica?} Quer um tour pelo estaleiro?
 Dialogue: 5,0:29:44.69,0:29:46.28,Main-207+,,0,0,0,,Uau!  A sério?
 Dialogue: 5,0:29:46.28,0:29:47.39,Main-207+,,0,0,0,,Pois bem, {assim, por favor.} siga-me.
-Dialogue: 5,0:29:47.39,0:29:50.35,Main-207+,,0,0,0,,{É essa a atitude que um homem que cancelou seus compromissos deve ter?} Terrivelmente\N{cavaleiro} aleatório para um homem que acabou de cancelar seus compromissos.
+Dialogue: 5,0:29:47.39,0:29:50.35,Main-207+,,0,0,0,,{É essa a atitude que um homem que cancelou seus compromissos deve ter?} \NTerrivelmente {cavaleiro} aleatório para um homem que acabou de cancelar seus compromissos.
 Dialogue: 5,0:29:50.35,0:29:52.60,Main-207+,,0,0,0,,{Tudo bem! Nós vamos para a fábrica de construção\Nnaval!}Tudo bem! Vamos ver o estaleiro!
 Dialogue: 5,0:29:53.79,0:29:55.56,Main-207+,,0,0,0,,{Ah, isso é certo.  O dinheiro...} Ah, certo.  O dinheiro.
 Dialogue: 5,0:29:56.40,0:29:58.50,Main-207+,,0,0,0,,O dinheiro?  Que?

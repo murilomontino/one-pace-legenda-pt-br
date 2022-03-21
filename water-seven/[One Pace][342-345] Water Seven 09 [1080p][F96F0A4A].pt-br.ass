@@ -80,7 +80,7 @@ Dialogue: 5,0:04:22.81,0:04:25.70,Main-207+,,0,0,0,,{Devemos ficar um pouco long
 Dialogue: 5,0:04:25.70,0:04:27.50,Main-207+,,0,0,0,,{Sim.} Acho que sim.
 Dialogue: 5,0:04:32.30,0:04:35.60,Main-207+,,0,0,0,,Eu me pergunto sobre o que\Nele precisa falar com Paulie!
 Dialogue: 5,0:04:35.60,0:04:39.41,Main-207+,,0,0,0,,É de Iceburg-{\i1}san{\i0} que estamos\Nfalando. Deve ser muito importante.
-Dialogue: 5,0:04:39.41,0:04:42.20,Main-207+,,0,0,0,,{Mais importante, nosso problema atual são esses piratas.}\NMais importante, temos que lidar com esses piratas.
+Dialogue: 5,0:04:39.41,0:04:42.20,Main-207+,,0,0,0,,{Mais importante, nosso problema atual são esses piratas.}\N Mais importante, temos que lidar com esses piratas.
 Dialogue: 5,0:04:42.20,0:04:43.01,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:04:43.50,0:04:47.43,Main-207+,,0,0,0,,De acordo com a investigação\Nde Kalifa, há sete deles.
 Dialogue: 5,0:04:47.99,0:04:52.70,Main-207+,,0,0,0,,O capitão, Luffy do Chapéu de Palha. O caçador de piratas Zoro e Nico Robin.{..}
@@ -193,7 +193,7 @@ Dialogue: 5,0:11:56.22,0:11:58.57,Main-207+,,0,0,0,,Correu {no} pelo ar?
 Dialogue: 5,0:11:59.60,0:12:03.29,Main-207+,,0,0,0,,Sério, vocês nunca ouvem, não é?
 Dialogue: 5,0:12:07.05,0:12:08.50,Main-207+,,0,0,0,,Ela pulou!
 Dialogue: 5,0:12:09.14,0:12:10.92,Main-207+,,0,0,0,,{\fad(150,150)}Caminhada da Lua!
-Dialogue: 5,0:12:13.51,0:12:16.34,Main-207+,,0,0,0,,{Ele está fazendo isso de novo! Ele pulou, no ar vazio!}\NLá vai ela de novo! Ela deu um salto duplo no ar!
+Dialogue: 5,0:12:13.51,0:12:16.34,Main-207+,,0,0,0,,{Ele está fazendo isso de novo! Ele pulou, no ar vazio!}\N Lá vai ela de novo! Ela deu um salto duplo no ar!
 Dialogue: 5,0:12:19.18,0:12:20.77,Main-207+,,0,0,0,,{\fad(150,150)}{Thorny} Briar Road!
 Dialogue: 5,0:12:30.08,0:12:33.32,Main-207+,,0,0,0,,{Eu te disse para não fazer isso, não disse?} Eu te disse para não fazer isso.
 Dialogue: 5,0:12:33.92,0:12:35.43,Main-207+,,0,0,0,,Ah!  Ela está vindo!
@@ -227,7 +227,7 @@ Dialogue: 5,0:14:16.06,0:14:18.52,Main-207+,,0,0,0,,Não!  Não podemos encontr�
 Dialogue: 5,0:14:18.52,0:14:20.25,Main-207+,,0,0,0,,E dentro da residência?!
 Dialogue: 5,0:14:20.25,0:14:22.55,Main-207+,,0,0,0,,Há guardas em todas as janelas e portas!
 Dialogue: 5,0:14:22.55,0:14:23.80,Main-207+,,0,0,0,,{Não há como eles se infiltrarem!} De jeito nenhum eles entrariam!
-Dialogue: 5,0:14:24.24,0:14:27.12,Main-207+,,0,0,0,,{Droga,} Malditos\Npiratas! Onde eles foram?!
+Dialogue: 5,0:14:24.24,0:14:27.12,Main-207+,,0,0,0,,{Droga,} \NMalditos piratas! Onde eles foram?!
 Dialogue: 5,0:14:27.12,0:14:29.15,Main-207+,,0,0,0,,{Eles definitivamente devem estar escondidos por perto!} Eles devem estar à espreita por perto!
 Dialogue: 5,0:14:29.15,0:14:32.60,Main-207+,,0,0,0,,{Olhe com atenção mais uma vez! Capturá-los com certeza!\NEntendeu?!}Continue procurando! Temos que encontrá-los! Entendeu?!
 Dialogue: 5,0:14:32.60,0:14:34.23,Main-207+,,0,0,0,,Isso!
@@ -392,7 +392,7 @@ Dialogue: 5,0:25:12.66,0:25:15.62,Main-207+,,0,0,0,,O mundo vai afundar com cert
 Dialogue: 5,0:25:16.37,0:25:20.50,Main-207+,,0,0,0,,Não devemos invocar uma relíquia do passado!
 Dialogue: 5,0:25:23.42,0:25:26.45,Main-207+,,0,0,0,,Você está certo.  Concordo com você.
 Dialogue: 5,0:25:26.45,0:25:31.80,Main-207+,,0,0,0,,Mas não é da sua conta. O que quer que eu faça para pesquisar a história,
-Dialogue: 5,0:25:31.80,0:25:35.49,Main-207+,,0,0,0,,{você, um estranho, não tem o direito de me dizer nada.}\Num estranho como você não tem o direito de me repreender.
+Dialogue: 5,0:25:31.80,0:25:35.49,Main-207+,,0,0,0,,{você, um estranho, não tem o direito de me dizer nada.}\N um estranho como você não tem o direito de me repreender.
 Dialogue: 5,0:25:37.28,0:25:40.31,Main-207+,,0,0,0,,Bem... não exatamente...
 Dialogue: 5,0:25:40.31,0:25:43.94,Main-207+,,0,0,0,,já que você e eu estamos no\Nmesmo barco, em certo sentido.
 Dialogue: 5,0:25:45.19,0:25:46.40,Main-207+,,0,0,0,,EU...
@@ -407,7 +407,7 @@ Dialogue: 5,0:26:15.04,0:26:16.56,Main-207+,,0,0,0,,{Para pegá-los...} O govern
 Dialogue: 5,0:26:16.56,0:26:20.27,Main-207+,,0,0,0,,finalmente recorreu ao uso da força para adquirir esses projetos.
 Dialogue: 5,0:26:22.29,0:26:25.81,Main-207+,,0,0,0,,{Pensar que você os está ajudando sem saber\Ndisso...}Imagine ajudá-los sem conhecer a história.
 Dialogue: 5,0:26:25.81,0:26:27.73,Main-207+,,0,0,0,,Estou chocado demais para falar.
-Dialogue: 5,0:26:28.36,0:26:31.45,Main-207+,,0,0,0,,{O homem chamado Tom, que me confiou as plantas,}\NO homem que me confiou as plantas se chamava Tom.
+Dialogue: 5,0:26:28.36,0:26:31.45,Main-207+,,0,0,0,,{O homem chamado Tom, que me confiou as plantas,}\N O homem que me confiou as plantas se chamava Tom.
 Dialogue: 5,0:26:31.45,0:26:33.28,Main-207+,,0,0,0,,Ele estava preocupado com uma garota
 Dialogue: 5,0:26:33.89,0:26:37.56,Main-207+,,0,0,0,,{quem foi o único capaz de escapar} que foi o único\Nsobrevivente do incidente de Ohara há 20 anos.
 Dialogue: 5,0:26:37.56,0:26:39.61,Main-207+,,0,0,0,,Ele disse que embora ela fosse pequena,
@@ -419,7 +419,7 @@ Dialogue: 5,0:26:55.36,0:26:58.01,Main-207+,,0,0,0,,Mas eu não posso fazer isso
 Dialogue: 5,0:26:58.01,0:27:00.47,Main-207+,,0,0,0,,e assim ainda há a possibilidade de que a arma possa ser restaurada!
 Dialogue: 5,0:27:14.50,0:27:17.52,Main-207+,,0,0,0,,Isso é tudo que você quer dizer antes de morrer?
 Dialogue: 5,0:27:18.57,0:27:24.20,Main-207+,,0,0,0,,Com todo o respeito, mesmo que você me matasse e impedisse seu {restauração}retorno,
-Dialogue: 5,0:27:24.20,0:27:28.78,Main-207+,,0,0,0,,{se as plantas forem roubadas de você, não seria a mesma coisa?}\Nnão seria a mesma coisa permitir que as plantas fossem roubadas?
+Dialogue: 5,0:27:24.20,0:27:28.78,Main-207+,,0,0,0,,{se as plantas forem roubadas de você, não seria a mesma coisa?}\N não seria a mesma coisa permitir que as plantas fossem roubadas?
 Dialogue: 5,0:27:34.26,0:27:35.38,Main-207+,,0,0,0,,{Bem...} Hum...
 Dialogue: 5,0:27:36.53,0:27:39.35,Main-207+,,0,0,0,,deixe-me dizer-lhe mais uma coisa.
 Dialogue: 5,0:27:41.78,0:27:44.27,Main-207+,,0,0,0,,Vocês são aqueles que {foi enganados por um plano.}caíram no meu plano.
@@ -448,7 +448,7 @@ Dialogue: 5,0:29:44.50,0:29:50.18,Main-207+,,0,0,0,,Eu nem sei o que você está
 Dialogue: 5,0:29:50.85,0:29:56.36,Main-207+,,0,0,0,,Que arrogante... Você\Nacha que enganou o CP9?
 Dialogue: 5,0:29:58.11,0:30:00.07,Main-207+,,0,0,0,,De qualquer forma, {mesmo que você seja} você pode ser apenas um chamariz,
 Dialogue: 5,0:30:00.07,0:30:03.53,Main-207+,,0,0,0,,mas não podemos {manter você vivo} deixar você viver agora que você está envolvido.
-Dialogue: 5,0:30:17.95,0:30:22.55,Main-207+,,0,0,0,,{Eu fiquei preso! Droga! Fiquei preso novamente!}\NEstou preso! Droga! Estou preso de novo!
+Dialogue: 5,0:30:17.95,0:30:22.55,Main-207+,,0,0,0,,{Eu fiquei preso! Droga! Fiquei preso novamente!}\N Estou preso! Droga! Estou preso de novo!
 Dialogue: 5,0:30:22.55,0:30:24.18,Main-207+,,0,0,0,,Por que isso sempre acontece?!
 Dialogue: 5,0:30:24.18,0:30:25.47,Main-207+,,0,0,0,,Chapéu de palha{...}!
 Dialogue: 5,0:30:25.47,0:30:26.71,Main-207+,,0,0,0,,Huh?
@@ -533,7 +533,7 @@ Dialogue: 0,0:35:47.50,0:35:52.38,Captions,,0,0,0,,{\pos(960,653)\fad(650,650)\b
 Dialogue: 1,0:35:47.50,0:35:52.38,Captions,,0,0,0,,{\pos(960,653)\fad(650,650)\blur0.9\bord0\fscx160\fscy160\fsp1\c&HE6E6E6&\4a&HFF&}Serviço de Inteligência Secreta\Ndo Governo MundialCipher Pol No. 9
 Dialogue: 2,0:35:47.50,0:35:52.38,Captions,,0,0,0,,{\pos(960,653)\fad(650,650)\blur0.9\bord0\fscx160\fscy160\fsp1\c&HE6E6E6&\4a&HFF&}Serviço de Inteligência Secreta\Ndo Governo MundialCipher Pol No. 9
 Dialogue: 5,0:35:49.10,0:35:51.29,Main-207+,,0,0,0,,foi uma missão muito fácil para nós.
-Dialogue: 5,0:35:52.56,0:35:57.39,Main-207+,,0,0,0,,{De qualquer forma, sua prudência me deixa sem palavras.}\NDevo dizer que sua astúcia me deixa sem palavras.
+Dialogue: 5,0:35:52.56,0:35:57.39,Main-207+,,0,0,0,,{De qualquer forma, sua prudência me deixa sem palavras.}\N Devo dizer que sua astúcia me deixa sem palavras.
 Dialogue: 5,0:35:59.23,0:36:01.56,Main-207+,,0,0,0,,Agora, Iceburg-{\i1}san{\i0}...
 Dialogue: 5,0:36:02.07,0:36:06.52,Main-207+,,0,0,0,,Onde estão os projetos\Nda antiga arma Pluton?
 Dialogue: 5,0:36:07.00,0:36:11.07,Main-207+,,0,0,0,,{Por favor, conte-nos, antes que muitas pessoas se machuquem.} Por favor, conte-nos antes de sacrificar muitas outras vidas.

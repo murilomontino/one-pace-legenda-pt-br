@@ -86,8 +86,8 @@ Dialogue: 5,0:04:46.51,0:04:50.97,Main-207+,,0,0,0,,Estou me sentindo muito melh
 Dialogue: 5,0:04:50.97,0:04:56.60,Main-207+,,0,0,0,,Oh{...}, {B}ser chamado de {excelente}médico incrível {não me\Nfaria sentir feliz} não me faria sentir feliz nem nada, seu idiota.
 Dialogue: 5,0:04:56.60,0:04:58.44,Main-207+,,0,0,0,,- Ele com certeza parece feliz.\N- Sim.
 Dialogue: 5,0:04:58.44,0:05:00.27,Main-207+,,0,0,0,,Calma, Robin.
-Dialogue: 5,0:05:00.27,0:05:03.33,Main-207+,,0,0,0,,{Você pode se sentir desconfortável ao ver Luffy como novo}\NNão se sinta pressionado apenas porque Luffy está de pé,
-Dialogue: 5,0:05:03.33,0:05:05.17,Main-207+,,0,0,0,,{depois de ter a mesma experiência que você,}apesar\Nde ter experimentado a mesma coisa que você.
+Dialogue: 5,0:05:00.27,0:05:03.33,Main-207+,,0,0,0,,{Você pode se sentir desconfortável ao ver Luffy como novo}\N Não se sinta pressionado apenas porque Luffy está de pé,
+Dialogue: 5,0:05:03.33,0:05:05.17,Main-207+,,0,0,0,,{depois de ter a mesma experiência que você,}\Napesar de ter experimentado a mesma coisa que você.
 Dialogue: 5,0:05:05.17,0:05:07.16,Main-207+,,0,0,0,,{mas você pode ter seu tempo e descansar, você\Nsabe.}Você pode ter seu tempo e descansar, você sabe.
 Dialogue: 5,0:05:07.16,0:05:09.16,Main-207+,,0,0,0,,- Yay! – {Isso não foi}\NIsso não é um elogio!
 Dialogue: 5,0:05:09.73,0:05:13.23,Main-207+,,0,0,0,,Robin-{\i1}chan{\fs10} {r}! Devo fazer\Nalgo {que possa}aquecê-lo?{\fsfsi0\i0}
@@ -309,7 +309,7 @@ Dialogue: 5,0:14:40.13,0:14:42.90,Main-207+,,0,0,0,,{Kokoro-san!  Tu tens um gra
 Dialogue: 5,0:14:47.39,0:14:50.91,Main-207+,,0,0,0,,{Nós vamos voltar para Water 7 em breve também.} Daqui a pouco, vamos voltar para Water {7}Seven também.
 Dialogue: 5,0:14:50.91,0:14:56.81,Main-207+,,0,0,0,,{Sim.} Ah, é verdade! Se {eu vejo vocês} nos encontrarmos novamente, {eu vou\Ntratá-los com uma bebida} a primeira rodada é por minha conta no meu bar favorito.
 Dialogue: 5,0:14:57.58,0:15:00.17,Main-207+,,0,0,0,,OK{.}!  Espero que{veremos} vocês novamente!
-Dialogue: 5,0:15:00.17,0:15:05.09,Main-207+,,0,0,0,,{Levará cerca de uma semana para que o registro seja armazenado no Water 7. Vá com calma.} No\NWater Seven, levará cerca de uma semana para o registro ser registrado. Retroceda e relaxe.
+Dialogue: 5,0:15:00.17,0:15:05.09,Main-207+,,0,0,0,,{Levará cerca de uma semana para que o registro seja armazenado no Water 7. Vá com calma.} \NNo Water Seven, levará cerca de uma semana para o registro ser registrado. Retroceda e relaxe.
 Dialogue: 5,0:15:06.26,0:15:08.51,Main-207+,,0,0,0,,Isso!  Obrigado!
 Dialogue: 5,0:15:09.80,0:15:13.40,Main-207+,,0,0,0,,Tudo bem, pessoal!\NPrepare-se para zarpar!
 Dialogue: 5,0:15:13.40,0:15:15.20,Main-207+,,0,0,0,,- Sim! – Pois então, {vamos\Nindo} vamos embora!
@@ -636,7 +636,7 @@ Dialogue: 5,0:17:15.78,0:17:17.60,Main-207+,,0,0,0,,{Qual é o problema} Você e
 Dialogue: 5,0:17:17.60,0:17:22.89,Main-207+,,0,0,0,,Esta colcha de retalhos de folha de flandres\Ntraz de volta memórias de batalhas e aventuras.
 Dialogue: 5,0:17:22.89,0:17:27.81,Main-207+,,0,0,0,,{Estou cheio de emoções profundas quando penso que ela será consertada em\Nbreve.} Não posso deixar de me emocionar ao pensar em seus próximos reparos.
 Dialogue: 5,0:17:27.81,0:17:29.65,Main-207+,,0,0,0,,– Eu {eu entendo isso}\Nentendi, mas... – Hm{...}?
-Dialogue: 5,0:17:29.65,0:17:32.06,Main-207+,,0,0,0,,{especialmente desde que entramos na Grand Line,}nossa\Njornada, especialmente desde que entramos na Grand Line,
+Dialogue: 5,0:17:29.65,0:17:32.06,Main-207+,,0,0,0,,{especialmente desde que entramos na Grand Line,}\Nnossa jornada, especialmente desde que entramos na Grand Line,
 Dialogue: 5,0:17:32.06,0:17:34.86,Main-207+,,0,0,0,,{nossa jornada cobrou um grande preço\Nno Merry.} cobrou um grande preço no Merry.
 Dialogue: 5,0:17:34.86,0:17:38.41,Main-207+,,0,0,0,,{O convés range e o vazamento no fundo do navio também\Né ruim.} O convés estala, e o casco está bem vazado.
 Dialogue: 5,0:17:38.41,0:17:41.95,Main-207+,,0,0,0,,{Se não fizermos nada, tanto nós quanto a nave estaremos em\Nperigo.}Se nada for feito, isso será para a nave {\i1}e{\i0} para nós.
@@ -787,14 +787,14 @@ Dialogue: 5,0:25:59.70,0:26:03.29,Main-207+,,0,0,0,,- Certo. – Bem, para encur
 Dialogue: 5,0:26:03.29,0:26:05.96,Main-207+,,0,0,0,,São touros yagara. Eles\Nestão por toda parte na cidade.
 Dialogue: 5,0:26:05.96,0:26:10.24,Main-207+,,0,0,0,,Nesta área, há um peixe chamado\Nyagara que nada com a cabeça para fora.
 Dialogue: 5,0:26:10.24,0:26:13.96,Main-207+,,0,0,0,,Esta é a Cidade da Água. Há\Nmais canais do que passarelas.
-Dialogue: 5,0:26:13.96,0:26:17.59,Main-207+,,0,0,0,,{Então os touros são um meio de transporte necessário para os moradores daqui.}\NEntão os moradores daqui acham que os touros são um meio de transporte necessário.
+Dialogue: 5,0:26:13.96,0:26:17.59,Main-207+,,0,0,0,,{Então os touros são um meio de transporte necessário para os moradores daqui.}\N Então os moradores daqui acham que os touros são um meio de transporte necessário.
 Dialogue: 5,0:26:18.30,0:26:20.76,Main-207+,,0,0,0,,É o mesmo quando você\Nvai passear nesta ilha.
 Dialogue: 5,0:26:20.76,0:26:22.82,Main-207+,,0,0,0,,Aquele peixe está puxando um barco?
 Dialogue: 5,0:26:22.82,0:26:25.43,Main-207+,,0,0,0,,{Em vez de puxar} Na verdade, em vez de puxar,\Neles estão deixando as pessoas andarem de costas.
 Dialogue: 5,0:26:25.43,0:26:29.65,Main-207+,,0,0,0,,Bem, é como andar a cavalo ou\Nandar de carruagem em terra{...}.
 Dialogue: 5,0:26:29.65,0:26:31.61,Main-207+,,0,0,0,,{Oof.} {Gaijin: Este som não precisa ser traduzido}
 Dialogue: 5,0:26:31.61,0:26:35.65,Main-207+,,0,0,0,,Você vê o viveiro de peixes lá? Bem,\Ntente andar em {it}um. É confortável.
-Dialogue: 5,0:26:36.40,0:26:40.26,Main-207+,,0,0,0,,{Serão 2.000 barrigas para dois touros yagara de dois passageiros.} Para\Ndois dos touros yagara de dois passageiros, são 2.000 barrigas, ao todo.
+Dialogue: 5,0:26:36.40,0:26:40.26,Main-207+,,0,0,0,,{Serão 2.000 barrigas para dois touros yagara de dois passageiros.} \NPara dois dos touros yagara de dois passageiros, são 2.000 barrigas, ao todo.
 Dialogue: 5,0:26:40.26,0:26:41.74,Main-207+,,0,0,0,,Nossa, eles são fofos!
 Dialogue: 5,0:26:41.74,0:26:44.41,Main-207+,,0,0,0,,É um peixe que parece um cavalo.
 Dialogue: 5,0:26:45.66,0:26:49.50,Main-207+,,0,0,0,,Seu otário!  Por que você fez isso?!

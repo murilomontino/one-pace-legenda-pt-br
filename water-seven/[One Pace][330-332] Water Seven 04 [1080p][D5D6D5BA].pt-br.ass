@@ -69,7 +69,7 @@ Dialogue: 5,0:04:51.35,0:04:52.85,Main-207+,,0,0,0,,Hmm?
 Dialogue: 5,0:04:55.10,0:04:56.77,Main-207+,,0,0,0,,O que você está fazendo?
 Dialogue: 5,0:04:57.96,0:05:03.50,Main-207+,,0,0,0,,{Ele está socando? Naquela enorme armadura de aço que nem mesmo um canhão de batalha pode quebrar?}Ele está usando os punhos nus? Um navio de guerra não faria um amassado naquela armadura de {ferro}aço!{Gaijin: O ferro é bastante quebradiço sem tratamento térmico, então, embora possa parecer potes de ferro fundido, deve ser\Ntratado termicamente para ser tão forte quanto eles dizem.} {Eu mudei "aço" para "ferro" porque as fantasias da Família Franky parecem que estão todos andando em potes de ferro fundido. Parece que me lembro que o japonês usa a mesma palavra para ferro e aço, mas corrija-me se estiver errado aqui e volte para "aço" se necessário.}
 Dialogue: 5,0:05:03.50,0:05:04.70,Main-207+,,0,0,0,,Que piada!
-Dialogue: 5,0:05:06.70,0:05:10.62,Main-207+,,0,0,0,,{Se você está apenas brincando, eu vou em frente e esmague você!}\NSe você está apenas brincando, eu vou em frente esmagar você.
+Dialogue: 5,0:05:06.70,0:05:10.62,Main-207+,,0,0,0,,{Se você está apenas brincando, eu vou em frente e esmague você!}\N Se você está apenas brincando, eu vou em frente esmagar você.
 Dialogue: 5,0:05:27.80,0:05:29.30,Main-207+,,0,0,0,,{\fad(150,150)}Cannon!
 Dialogue: 5,0:05:42.60,0:05:46.00,Main-207+,,0,0,0,,{H-Ele fez um buraco naquela armadura\Nenorme!}E-Ele atravessou aquela armadura!
 Dialogue: 5,0:05:46.95,0:05:48.16,Main-207+,,0,0,0,,Ei!
@@ -212,13 +212,13 @@ Dialogue: 5,0:15:28.01,0:15:29.11,Main-207+,,0,0,0,,Certo?
 Dialogue: 5,0:15:29.80,0:15:33.89,Main-207+,,0,0,0,,{Ver? Chopper levou a sério.}Quero dizer, olhe! Chopper está levando a sério.
 Dialogue: 5,0:15:33.89,0:15:37.59,Main-207+,,0,0,0,,{Sério, o que vamos fazer com o nosso capitão?} Realmente, porém, alguém diz ao nosso capitão para parar com isso já.
 Dialogue: 5,0:15:37.59,0:15:40.09,Main-207+,,0,0,0,,Diga alguma coisa para ele, Nami.
-Dialogue: 5,0:15:43.70,0:15:48.42,Main-207+,,0,0,0,,{Então, isso significa que não temos dinheiro suficiente para o conserto?}\NEntão... nós realmente não... temos dinheiro suficiente para repará-la?
+Dialogue: 5,0:15:43.70,0:15:48.42,Main-207+,,0,0,0,,{Então, isso significa que não temos dinheiro suficiente para o conserto?}\N Então... nós realmente não... temos dinheiro suficiente para repará-la?
 Dialogue: 5,0:15:48.42,0:15:53.00,Main-207+,,0,0,0,,{Porque eu tenho aqueles 200 milhões roubados por eles, w-nós agora estamos com\Npouco dinheiro, certo?} É porque eu deixei eles roubarem os 200 milhões, não é?!
 Dialogue: 5,0:15:53.00,0:15:55.23,Main-207+,,0,0,0,,Ei, é isso que está acontecendo, certo, Luffy?
 Dialogue: 5,0:15:55.23,0:15:58.50,Main-207+,,0,0,0,,{O custo de um estaleiro de primeira classe também seria de primeira classe,\Nentão...}Afinal, um estaleiro de classe mundial cobraria preços premium, então...
 Dialogue: 5,0:15:58.50,0:16:00.18,Main-207+,,0,0,0,,Não!  Não é isso!
 Dialogue: 5,0:16:00.18,0:16:04.73,Main-207+,,0,0,0,,Então {por que} o que {\i1}é{\i0}?! Desembucha! Você está tentando amenizar comigo?!
-Dialogue: 5,0:16:04.73,0:16:08.82,Main-207+,,0,0,0,,{Eu não sou! Não tem nada a ver com esse dinheiro sendo roubado!}\NNão! Isso não tem nada a ver com o dinheiro sendo roubado!
+Dialogue: 5,0:16:04.73,0:16:08.82,Main-207+,,0,0,0,,{Eu não sou! Não tem nada a ver com esse dinheiro sendo roubado!}\N Não! Isso não tem nada a ver com o dinheiro sendo roubado!
 Dialogue: 5,0:16:08.82,0:16:11.82,Main-207+,,0,0,0,,Então por que você está dizendo coisas estúpidas como essa que vamos conseguir um novo navio?!
 Dialogue: 5,0:16:11.82,0:16:13.24,Main-207+,,0,0,0,,Ei, parem com isso, {ambos} vocês dois!
 Dialogue: 5,0:16:13.24,0:16:16.98,Main-207+,,0,0,0,,De que servirá {combater} brigar? Acalmem-se{ e},{\i1}depois{\i0} fale!
@@ -229,7 +229,7 @@ Dialogue: 5,0:16:29.20,0:16:30.99,Main-207+,,0,0,0,,Quem se importa com meu corp
 Dialogue: 5,0:16:30.99,0:16:34.26,Main-207+,,0,0,0,,{Como posso ficar quieto quando nosso capitão diz casualmente que vamos comprar um novo\Nnavio?!} Como posso relaxar quando o Capitão quer comprar um novo navio?!
 Dialogue: 5,0:16:34.61,0:16:38.20,Main-207+,,0,0,0,,{Não é casual! Tomei a decisão depois de\Nagonizar!}Você entendeu errado! Eu pensei nisso!
 Dialogue: 5,0:16:38.20,0:16:40.89,Main-207+,,0,0,0,,{O que e como você agonizou para tomar esse tipo de decisão?!}E{\i1}isso {r} é o que você pensou?!{\fs0}?!{fsi0\i0}
-Dialogue: 5,0:16:41.28,0:16:44.44,Main-207+,,0,0,0,,{Para que você fez isso?!}\NPor que você fez isso?!
+Dialogue: 5,0:16:41.28,0:16:44.44,Main-207+,,0,0,0,,{Para que você fez isso?!}\N Por que você fez isso?!
 Dialogue: 5,0:16:45.15,0:16:46.36,Main-207+,,0,0,0,,{É uma monstruosidade.} Isso me irritou.  {não tenho certeza disso}
 Dialogue: 5,0:16:46.85,0:16:48.50,Main-207+,,0,0,0,,{Ei, Luffy, se não foi porque nosso dinheiro foi roubado, então por quê?!} Diga-me Luffy, se não é sobre o dinheiro roubado, então do que se trata?!
 Dialogue: 5,0:16:48.50,0:16:52.50,Main-207+,,0,0,0,,
@@ -248,7 +248,7 @@ Dialogue: 5,0:17:46.46,0:17:48.80,Main-207+,,0,0,0,,{Do que você está falando,
 Dialogue: 5,0:17:48.80,0:17:52.76,Main-207+,,0,0,0,,É a verdade.\NDisseram-nos no estaleiro.
 Dialogue: 5,0:17:53.89,0:17:57.00,Main-207+,,0,0,0,,Eles disseram que ela\Nnem chegará à próxima ilha.
 Dialogue: 5,0:17:57.00,0:18:00.28,Main-207+,,0,0,0,,É assim mesmo?  Ela {\i1}não vai{\i0}, hein?
-Dialogue: 5,0:18:00.28,0:18:04.41,Main-207+,,0,0,0,,{Então você foi persuadido por estranhos que conheceu hoje e desistiu assim?}\NVocê acabou de conhecer esses caras hoje, e eles já o convenceram disso?
+Dialogue: 5,0:18:00.28,0:18:04.41,Main-207+,,0,0,0,,{Então você foi persuadido por estranhos que conheceu hoje e desistiu assim?}\N Você acabou de conhecer esses caras hoje, e eles já o convenceram disso?
 Dialogue: 5,0:18:04.41,0:18:06.00,Main-207+,,0,0,0,,O que você disse?
 Dialogue: 5,0:18:06.00,0:18:09.90,Main-207+,,0,0,0,,{Só porque os construtores navais de primeira classe lhe disseram que é isso...}\NEntendo que esses construtores de primeira classe lhe deram sua avaliação, mas...
 Dialogue: 5,0:18:10.90,0:18:13.89,Main-207+,,0,0,0,,você desistiu assim?!
@@ -282,7 +282,7 @@ Dialogue: 5,0:19:48.84,0:19:50.60,Main-207+,,0,0,0,,{Vocês são estúpidos ou o
 Dialogue: 5,0:19:50.60,0:19:54.80,Main-207+,,0,0,0,,{Você provavelmente foi enganado pelo argumento convincente dos construtores de navios, não foi?!} Vocês\Ntodos foram enganados por {os carpinteiros de fala mansa} aqueles construtores de fala mansa, não é?!
 Dialogue: 5,0:19:54.80,0:19:58.92,Main-207+,,0,0,0,,O Luffy que eu conheço teria acreditado na força do Merry primeiro
 Dialogue: 5,0:19:58.92,0:20:02.72,Main-207+,,0,0,0,,em vez de comprar a conversa de vendas desses caras!
-Dialogue: 5,0:20:02.72,0:20:06.81,Main-207+,,0,0,0,,{Uma resposta tão clara que soa como uma feita por um velho que entende tudo.}\NMas você não hesitou. Como se você fosse um velho sábio com todas as respostas.
+Dialogue: 5,0:20:02.72,0:20:06.81,Main-207+,,0,0,0,,{Uma resposta tão clara que soa como uma feita por um velho que entende tudo.}\N Mas você não hesitou. Como se você fosse um velho sábio com todas as respostas.
 Dialogue: 5,0:20:06.81,0:20:09.79,Main-207+,,0,0,0,,{Como você pode tomar uma decisão assim, de repente agindo como um\Ncapitão?!} Que tipo de capitão toma decisões precipitadas como essa?!
 Dialogue: 5,0:20:09.79,0:20:12.02,Main-207+,,0,0,0,,Eu estava errado sobre você, Luffy!
 Dialogue: 5,0:20:12.36,0:20:14.80,Main-207+,,0,0,0,,{Espere um segundo, Usopp!  Luffy também, primeiro–}Espere um segundo, Usopp!  Luffy pensou o mesmo-
