@@ -224,8 +224,8 @@ Dialogue: 5,0:12:07.49,0:12:08.54,OP Normal2,,0,0,0,,Lucci...
 Dialogue: 5,0:12:08.54,0:12:10.41,OP Normal2,,0,0,0,,Onde está Lucci?
 Dialogue: 5,0:12:11.55,0:12:13.21,OP Normal2,,0,0,0,,Ligue para Lucci e os outros!
 Dialogue: 5,0:12:13.21,0:12:14.33,OP Normal2,,0,0,0,,Reúna-os aqui!
-Dialogue: 5,0:12:14.33,0:12:16.84,OP Normal2,,0,0,0,,Ordene a CP9 para imediatamento,,,
-Dialogue: 5,0:12:16.84,0:12:20.42,OP Normal2,,0,0,0,,...para eliminar o Chapéu de Palha e toda a sua tripulação!
+Dialogue: 5,0:12:14.33,0:12:16.84,OP Normal2,,0,0,0,,Avise a CP9 imediatamento para,,,
+Dialogue: 5,0:12:16.84,0:12:20.42,OP Normal2,,0,0,0,,...eliminar o Chapéu de Palha e toda a sua tripulação!
 Dialogue: 5,0:12:20.42,0:12:21.67,OP Normal2,,0,0,0,,S-Sim, Senhor!
 Dialogue: 5,0:12:21.67,0:12:22.38,OP Normal2,,0,0,0,,Agora mesmo!
 Dialogue: 5,0:12:22.38,0:12:24.23,OP Normal2,,0,0,0,,Diga também a Baskerville o seguinte:
@@ -242,7 +242,7 @@ Dialogue: 5,0:12:52.20,0:12:54.21,OP Normal2,,0,0,0,,Mas esse negócio foi...
 Dialogue: 5,0:12:54.21,0:12:57.67,OP Normal2,,0,0,0,,Você ouviu como o chefe idiota dele quebrou.
 Dialogue: 5,0:12:58.25,0:13:00.80,OP Normal2,,0,0,0,,Mesmo se você se render pacificamente,
 Dialogue: 5,0:13:00.80,0:13:03.64,OP Normal2,,0,0,0,,ninguém terá pena de você.
-Dialogue: 5,0:13:03.64,0:13:09.01,OP Normal2,,0,0,0,,A única esperança seria esperar que eles o resgatassem e o tirassem daqui.
+Dialogue: 5,0:13:03.64,0:13:09.01,OP Normal2,,0,0,0,,A única esperança seria esperar que eles a resgatassem e a tirassem daqui.
 Dialogue: 5,0:13:09.01,0:13:10.68,OP Normal2,,0,0,0,,Ainda assim...
 Dialogue: 5,0:13:10.68,0:13:13.27,OP Normal2,,0,0,0,,Por que você está com uma cara tão triste?
 Dialogue: 5,0:13:13.27,0:13:17.94,OP Normal2,,0,0,0,,É como se você ainda estivesse fugindo de algo por conta própria...
@@ -255,7 +255,7 @@ Dialogue: 5,0:13:40.63,0:13:42.34,OP Normal2,,0,0,0,,Escutem, bando de incompete
 Dialogue: 5,0:13:42.34,0:13:45.59,OP Normal2,,0,0,0,,Temos que nos apressar e tirar Nico Robin do Chapéu de Palha!
 Dialogue: 5,0:13:45.59,0:13:47.69,OP Normal2,,0,0,0,,Nós iremos para o Portão da Justiça imediatamente!
 Dialogue: 5,0:13:47.69,0:13:49.39,OP Normal2,,0,0,0,,Tragam aqueles dois!
-Dialogue: 5,0:13:49.39,0:13:50.89,OP Normal2,,0,0,0,,J-Chefe!
+Dialogue: 5,0:13:49.39,0:13:50.89,OP Normal2,,0,0,0,,C-Chefe!
 Dialogue: 5,0:13:50.89,0:13:52.85,OP Normal2,,0,0,0,,O que está acontecendo?!  Se apresse!
 Dialogue: 5,0:13:53.49,0:13:55.14,OP Normal2,,0,0,0,,Mas...
 Dialogue: 5,0:13:55.14,0:13:58.10,OP Normal2,,0,0,0,,A bunda do Franky está inchando!
@@ -266,7 +266,7 @@ Dialogue: 5,0:14:08.24,0:14:09.20,OP Normal2,,0,0,0,,O que?!
 Dialogue: 5,0:14:09.20,0:14:12.86,OP Normal2,,0,0,0,,Será um prazer levar todos vocês comigo.
 Dialogue: 5,0:14:12.86,0:14:13.79,OP Normal2,,0,0,0,,Idiota!
 Dialogue: 5,0:14:13.79,0:14:14.95,OP Normal2,,0,0,0,,Seu idiota, espere!
-Dialogue: 5,0:14:14.95,0:14:18.17,OP Normal2,,0,0,0,,Será uma explosão gigantesca de três quilômetros de diâmetro.
+Dialogue: 5,0:14:14.95,0:14:18.17,OP Normal2,,0,0,0,,Será uma explosão gigantesca de três quilômetros.
 Dialogue: 5,0:14:18.17,0:14:20.08,OP Normal2,,0,0,0,,Vou encurtar minha existência...!
 Dialogue: 5,0:14:20.08,0:14:22.92,OP Normal2,,0,0,0,,Não tente me impedir!
 Dialogue: 5,0:14:22.92,0:14:23.92,OP Normal2,,0,0,0,,Pare!
@@ -294,13 +294,13 @@ Dialogue: 5,0:15:24.06,0:15:26.31,OP Normal2,,0,0,0,,Se eu tivesse outra garrafa
 Dialogue: 5,0:15:26.31,0:15:30.24,OP Normal2,,0,0,0,,poderia nos impulsionar para o outro lado com um Coup de Vent.
 Dialogue: 5,0:15:30.24,0:15:31.78,OP Normal2,,0,0,0,,Bem, tudo bem.
 Dialogue: 5,0:15:31.78,0:15:33.71,OP Normal2,,0,0,0,,O Chapéu de Palha está aqui.
-Dialogue: 5,0:15:33.71,0:15:36.37,OP Normal2,,0,0,0,,Agora responda ele.
+Dialogue: 5,0:15:33.71,0:15:36.37,OP Normal2,,0,0,0,,Agora responda a ele.
 Dialogue: 5,0:15:36.37,0:15:38.15,OP Normal2,,0,0,0,,Fomos enganados!
 Dialogue: 5,0:15:38.15,0:15:39.04,OP Normal2,,0,0,0,,Chefe!
 Dialogue: 5,0:15:39.04,0:15:43.07,OP Normal2,,0,0,0,,Franky e Nico Robin quebraram as correntes e fugiram para a varanda!
 Dialogue: 5,0:15:43.07,0:15:44.75,OP Normal2,,0,0,0,,Idiotas, o que estão fazendo?!
 Dialogue: 5,0:15:44.75,0:15:46.06,OP Normal2,,0,0,0,,Capture-os imediatamente!
-Dialogue: 5,0:15:46.06,0:15:49.55,OP Normal2,,0,0,0,,Se eles deixarem vocês escaparem, eu farei com que todos vocês sejam enforcados!
+Dialogue: 5,0:15:46.06,0:15:49.55,OP Normal2,,0,0,0,,Se deixarem eles escaparem, eu farei com que todos vocês sejam enforcados!
 Dialogue: 5,0:15:58.34,0:16:00.65,OP Normal2,,0,0,0,,Robin!
 Dialogue: 5,0:16:00.65,0:16:01.69,OP Normal2,,0,0,0,,Que alivio!
 Dialogue: 5,0:16:01.69,0:16:02.94,OP Normal2,,0,0,0,,Então você ainda estava lá em cima!
@@ -314,17 +314,17 @@ Dialogue: 5,0:16:18.18,0:16:18.99,OP Normal2,,0,0,0,,Certo!
 Dialogue: 5,0:16:18.99,0:16:20.45,OP Normal2,,0,0,0,,Espere aí mesmo.
 Dialogue: 5,0:16:21.88,0:16:23.92,OP Normal2,,0,0,0,,É um pouco longe, mas eu vou alcançá-la.
 Dialogue: 5,0:16:40.31,0:16:43.27,OP Normal2,,0,0,0,,Gomu gomu no...
-Dialogue: 5,0:16:43.27,0:16:45.23,OP Normal2,,0,0,0,,{\fad(0,800)}Espera!
+Dialogue: 5,0:16:43.27,0:16:45.23,OP Normal2,,0,0,0,,{\fad(0,800)}Espere!
 Dialogue: 5,0:16:50.23,0:16:52.57,OP Normal2,,0,0,0,,Quantas vezes eu tenho que te dizer?
 Dialogue: 5,0:16:52.57,0:16:54.07,OP Normal2,,0,0,0,,Eu...
-Dialogue: 5,0:16:54.07,0:16:56.66,OP Normal2,,0,0,0,,... Eu nunca vou voltar para você!
+Dialogue: 5,0:16:54.07,0:16:56.66,OP Normal2,,0,0,0,,... Eu nunca vou voltar para vocês!
 Dialogue: 5,0:16:56.66,0:16:57.93,OP Normal2,,0,0,0,,Saiam!
 Dialogue: 5,0:16:57.93,0:17:00.83,OP Normal2,,0,0,0,,Não quero vê-los novamente!
 Dialogue: 5,0:17:00.83,0:17:03.16,OP Normal2,,0,0,0,,Por que vocês vieram me resgatar?!
 Dialogue: 5,0:17:03.16,0:17:06.17,Pensante,,0,0,0,,Por que vocês vieram me resgatar?!
 Dialogue: 5,0:17:06.17,0:17:09.80,Pensante,,0,0,0,,Eu nunca pedi uma coisa dessas a vocês!
 Dialogue: 5,0:17:11.30,0:17:14.71,OP Normal2,,0,0,0,,Quando eu pedi para vocês me salvarem?!
-Dialogue: 5,0:17:21.72,0:17:23.60,OP Normal2,,0,0,0,,{\fad(0,300)}Só eu...
+Dialogue: 5,0:17:21.72,0:17:23.60,OP Normal2,,0,0,0,,{\fad(0,300)}Eu só...
 Dialogue: 5,0:17:23.60,0:17:24.98,OP Normal2,,0,0,0,,Eu só quero morrer!
 Dialogue: 5,0:17:24.98,0:17:27.27,OP Normal2,,0,0,0,,{\fad(0,2300)}Eu só quero morrer!
 Dialogue: 5,0:17:31.23,0:17:32.61,OP Normal2,,0,0,0,,Hilário!
@@ -441,13 +441,13 @@ Dialogue: 5,0:24:08.03,0:24:09.80,OP Normal2,,0,0,0,,{\fad(0,300)}Você quer mor
 Dialogue: 5,0:24:11.98,0:24:13.59,OP Normal2,,0,0,0,,Ouça seus gritos patéticos!
 Dialogue: 5,0:24:13.59,0:24:15.59,OP Normal2,,0,0,0,,Eu me pergunto que cara ele fez!
 Dialogue: 5,0:24:17.40,0:24:19.81,OP Normal2,,0,0,0,,Do que você esta falando?
-Dialogue: 5,0:24:19.81,0:24:23.65,OP Normal2,,0,0,0,,Y-Ele está cutucando o nariz!
+Dialogue: 5,0:24:19.81,0:24:23.65,OP Normal2,,0,0,0,,E-Ele está cutucando o nariz!
 Dialogue: 5,0:24:26.00,0:24:27.66,OP Normal2,,0,0,0,,Ouça, Robin...
 Dialogue: 5,0:24:27.66,0:24:30.32,OP Normal2,,0,0,0,,Já chegamos até aqui.
 Dialogue: 5,0:24:41.54,0:24:43.29,OP Normal2,,0,0,0,,Então vamos te salvar!
-Dialogue: 5,0:24:43.29,0:24:44.60,OP Normal2,,0,0,0,,Pousar.
+Dialogue: 5,0:24:43.29,0:24:44.60,OP Normal2,,0,0,0,,Pouso.
 Dialogue: 5,0:24:47.39,0:24:50.71,OP Normal2,,0,0,0,,E se depois você ainda quiser morrer...
-Dialogue: 5,0:24:50.71,0:24:53.16,OP Normal2,,0,0,0,,... então, você pode fazê-lo.
+Dialogue: 5,0:24:50.71,0:24:53.16,OP Normal2,,0,0,0,,... então, você pode fazer.
 Dialogue: 5,0:24:56.91,0:24:59.01,OP Normal2,,0,0,0,,dói, dói, dói...
 Dialogue: 5,0:24:59.01,0:25:01.17,OP Normal2,,0,0,0,,Você está bem Chopper?
 Dialogue: 5,0:25:01.17,0:25:03.21,OP Normal2,,0,0,0,,Sim, estou bem.
