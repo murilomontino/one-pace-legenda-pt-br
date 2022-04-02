@@ -122,9 +122,9 @@ Dialogue: 5,0:05:50.40,0:05:51.70,OP Normal2,,0,0,0,,Esta vivo?!
 Dialogue: 5,0:05:52.99,0:05:55.58,OP Normal2,,0,0,0,,De verdade?  É verdade?
 Dialogue: 5,0:05:56.06,0:05:59.04,OP Normal2,,0,0,0,,Sim, foi o que eles disseram.
 Dialogue: 5,0:06:01.21,0:06:04.76,OP Normal2,,0,0,0,,Aquele cretino Bakaberg! Eu tinha\Ncerteza de que havia sido assassinado!
-Dialogue: 5,0:06:04.76,0:06:07.16,OP Normal2,,0,0,0,,Eu vejo.  É um verdadeiro alívio...
-Dialogue: 5,0:06:07.16,0:06:11.15,OP Normal2,,0,0,0,,CP9... Você não deveria querer matá-lo?
-Dialogue: 5,0:06:11.15,0:06:13.72,OP Normal2,,0,0,0,,É melhor você não divulgar.
+Dialogue: 5,0:06:04.76,0:06:07.16,OP Normal2,,0,0,0,,Entendo.  É um verdadeiro alívio...
+Dialogue: 5,0:06:07.16,0:06:11.15,OP Normal2,,0,0,0,,CP9... vai querer matá-lo!
+Dialogue: 5,0:06:11.15,0:06:13.72,OP Normal2,,0,0,0,,É melhor você não falar sobre.
 Dialogue: 5,0:06:16.58,0:06:20.61,OP Normal2,,0,0,0,,Então... Não é isso que chamam de gentileza?
 Dialogue: 5,0:06:25.55,0:06:26.91,OP Normal2,,0,0,0,,De todas as formas...
 Dialogue: 5,0:06:27.65,0:06:35.75,OP Normal2,,0,0,0,,...o governo me capturou, o que tem os planos para uma das armas antigas.
@@ -133,7 +133,7 @@ Dialogue: 5,0:06:42.54,0:06:47.47,OP Normal2,,0,0,0,,E então, quando este poder
 Dialogue: 5,0:06:47.93,0:06:51.37,OP Normal2,,0,0,0,,...temos certeza de que o governo o usará para acabar com a Grande Era dos Piratas.
 Dialogue: 5,0:06:51.37,0:06:57.00,OP Normal2,,0,0,0,,Depois que fizerem isso, o enorme poder militar desestabilizará o mundo e acabará por destruí-lo.
 Dialogue: 5,0:06:57.00,0:06:58.64,OP Normal2,,0,0,0,,Armas antigas...
-Dialogue: 5,0:06:58.64,0:07:00.85,OP Normal2,,0,0,0,,... eles são tão assustadoras.
+Dialogue: 5,0:06:58.64,0:07:00.85,OP Normal2,,0,0,0,,... elas são tão assustadoras.
 Dialogue: 5,0:07:01.41,0:07:05.65,OP Normal2,,0,0,0,,Meu mestre não deu a vida protegendo as plantas,
 Dialogue: 5,0:07:06.16,0:07:09.61,OP Normal2,,0,0,0,,para um futuro tão absurdo!
 Dialogue: 5,0:07:11.82,0:07:16.03,OP Normal2,,0,0,0,,Isso significa que não adianta fugir sozinho.
@@ -145,7 +145,7 @@ Dialogue: 5,0:07:38.53,0:07:41.60,OP Normal2,,0,0,0,,Você não é a única que 
 Dialogue: 5,0:07:43.56,0:07:47.98,OP Normal2,,0,0,0,,As pessoas no governo podem\Nchamar sua existência de crime.
 Dialogue: 5,0:07:47.98,0:07:50.57,OP Normal2,,0,0,0,,Qualquer que seja o desastre que você possa trazer ao mundo...
 Dialogue: 5,0:07:50.57,0:07:53.99,OP Normal2,,0,0,0,,Sua própria existência não pode ser considerada um crime...
-Dialogue: 5,0:07:55.75,0:08:00.64,Recuerdo,,0,0,0,,Não importa que tipo de navios você construa...
+Dialogue: 5,0:07:55.75,0:08:00.64,Recuerdo,,0,0,0,,Não importão que tipo de navios você construa...
 Dialogue: 5,0:08:00.64,0:08:03.29,Recuerdo,,0,0,0,,{\fad(0,200)}Não há "bom", nem "mal" neles!
 Dialogue: 5,0:08:04.28,0:08:06.25,OP Normal2,,0,0,0,,É por isso que...
 Dialogue: 5,0:08:07.10,0:08:09.71,Recuerdo,,0,0,0,,Ela pecou por sua própria existência.
@@ -192,7 +192,7 @@ Dialogue: 5,0:10:57.34,0:10:59.88,OP Normal2,,0,0,0,,{\alpha&30}Deve ser Cutty F
 Dialogue: 5,0:10:59.88,0:11:02.34,OP Normal2,,0,0,0,,{\alpha&30}Então... aquela mulher é...
 Dialogue: 5,0:11:02.80,0:11:04.14,OP Normal2,,0,0,0,,{\alpha&30}Nick Robin!
 Dialogue: 5,0:11:04.14,0:11:06.02,OP Normal2,,0,0,0,,{\alpha&30}Porra, é tão bom!
-Dialogue: 5,0:11:06.62,0:11:08.50,OP Normal2,,0,0,0,,Abra as Portas da Justiça!
+Dialogue: 5,0:11:06.62,0:11:08.50,OP Normal2,,0,0,0,,Abra os Portões da Justiça!
 Dialogue: 5,0:11:29.74,0:11:31.87,OP Normal2,,0,0,0,,O que diabos é isso?!
 Dialogue: 5,0:11:41.36,0:11:43.72,OP Normal2,,0,0,0,,Isso é... uma cachoeira?
 Dialogue: 5,0:11:51.90,0:11:55.01,OP Normal2,33,0,0,0,,{\fad(0,300)}Não consigo ver o fundo!
@@ -248,7 +248,7 @@ Dialogue: 5,0:14:05.19,0:14:08.41,EnmedioArriba,113,0,0,0,,{\alpha&H30}Eu aciden
 Dialogue: 5,0:14:09.23,0:14:11.20,OP Normal2,115,0,0,0,,Chega, entendi...
 Dialogue: 5,0:14:08.41,0:14:11.20,EnmedioArriba,114,0,0,0,,{\alpha&H30}Cale a boca, eu já ouvi você pela primeira vez!
 Dialogue: 5,0:14:12.08,0:14:13.49,OP Normal2,116,0,0,0,,Queima!
-Dialogue: 5,0:14:13.49,0:14:15.73,OP Normal2,,0,0,0,,Meu café derramou!  Xingamento!
+Dialogue: 5,0:14:13.49,0:14:15.73,OP Normal2,,0,0,0,,Meu café derramou!  Maldição!
 Dialogue: 5,0:14:15.73,0:14:18.47,OP Normal2,117,0,0,0,,E ouvi dizer que o Nero não ajudou!
 Dialogue: 5,0:14:19.14,0:14:19.83,OP Normal2,118,0,0,0,,Bom, já chega...
 Dialogue: 5,0:14:25.71,0:14:27.30,OP Normal2,39,0,0,0,,se apresse!
@@ -278,9 +278,9 @@ Dialogue: 5,0:15:39.66,0:15:42.67,OP Normal2,59,0,0,0,,Quem é esse?
 Dialogue: 5,0:15:40.60,0:15:42.67,Enmedio2,60,0,0,0,,{\alpha&H20}Nos encontramos novamente...
 Dialogue: 5,0:15:42.67,0:15:46.40,OP Normal2,61,0,0,0,,{\fad(0,200)}É o Chapéu de Palha-san!
 Dialogue: 5,0:15:49.26,0:15:51.68,OP Normal2,62,0,0,0,,Voltamos com segurança aos trilhos!
-Dialogue: 5,0:15:51.68,0:15:55.64,OP Normal2,63,0,0,0,,Parece que eles já estão preparados para arrombar as portas do Governo Mundial!
+Dialogue: 5,0:15:51.68,0:15:55.64,OP Normal2,63,0,0,0,,Parece que eles já estão preparados para arrombar os portões do Governo Mundial!
 Dialogue: 5,0:15:55.64,0:15:57.81,EnmedioArriba,64,0,0,0,,Será muito divertido!
-Dialogue: 5,0:16:02.81,0:16:06.17,OP Normal2,65,0,0,0,,Nós vamos!  Enies Lobby está à vista!
+Dialogue: 5,0:16:02.81,0:16:06.17,OP Normal2,65,0,0,0,,Certo!  Enies Lobby está à vista!
 Dialogue: 5,0:16:06.86,0:16:09.40,OP Normal2,66,0,0,0,,Todas as unidades, preparem-se para a batalha!
 Dialogue: 5,0:16:20.00,0:16:23.25,OP Normal2,121,0,0,0,,Sogeking da Ilha dos Atiradores?
 Dialogue: 5,0:16:20.00,0:16:23.25,Enmedio2,121,0,0,0,,Sogeking da Ilha dos Atiradores?
@@ -352,7 +352,7 @@ Dialogue: 5,0:19:18.21,0:19:20.26,OP Normal2,194,0,0,0,,Eu quero que todos dêem
 Dialogue: 5,0:19:20.64,0:19:24.43,OP Normal2,195,0,0,0,,Já estive aqui uma vez para consertar os trilhos.
 Dialogue: 5,0:19:24.43,0:19:27.27,OP Normal2,196,0,0,0,,Fiz um desenho pobre com o pouco que me lembrava.
 Dialogue: 5,0:19:27.95,0:19:30.51,OP Normal2,197,0,0,0,,Este é um mapa geral do terreno do Enies Lobby.
-Dialogue: 5,0:19:36.19,0:19:39.21,OP Normal2,198,0,0,0,,A "Porta da Justiça" fica na parte inferior da ilha.
+Dialogue: 5,0:19:36.19,0:19:39.21,OP Normal2,198,0,0,0,,O "Portão da Justiça" fica na parte inferior da ilha.
 Dialogue: 5,0:19:39.21,0:19:41.64,OP Normal2,199,0,0,0,,Ele só pode ser alcançado através do "Palácio da Justiça".
 Dialogue: 5,0:19:41.64,0:19:43.95,OP Normal2,200,0,0,0,,E isso o que é?  O que é aquela coisa preta?
 Dialogue: 5,0:19:43.95,0:19:45.80,OP Normal2,201,0,0,0,,A parte preta é a cachoeira.
@@ -383,17 +383,17 @@ Dialogue: 5,0:21:20.00,0:21:23.06,OP Normal2,231,0,0,0,,{\fad(0,300)}É enorme!
 Dialogue: 5,0:21:20.00,0:21:23.06,Enmedio2,231,0,0,0,,{\fad(0,300)}É enorme!
 Dialogue: 5,0:21:26.66,0:21:29.63,OP Normal2,232,0,0,0,,Não vai abrir tudo...
 Dialogue: 5,0:21:29.63,0:21:34.56,OP Normal2,233,0,0,0,,Apenas uma pequena parte, enquanto os criminosos passam.
-Dialogue: 5,0:21:35.00,0:21:42.90,OP Normal2,234,0,0,0,,E atrás dessa porta, as águas são como as do Calm Belt que circunda a Grand Line.
+Dialogue: 5,0:21:35.00,0:21:42.90,OP Normal2,234,0,0,0,,E atrás desso Portão, as águas são como as do Calm Belt que circunda a Grand Line.
 Dialogue: 5,0:21:43.27,0:21:45.61,OP Normal2,235,0,0,0,,Um navio normal não pode navegar lá.
 Dialogue: 5,0:21:46.20,0:21:48.49,OP Normal2,236,0,0,0,,Eu não sei como eles vão fazer isso
 Dialogue: 5,0:21:48.49,0:21:52.56,OP Normal2,237,0,0,0,,mas os fuzileiros navais têm uma maneira de passar por lá com segurança.
 Dialogue: 5,0:21:52.56,0:21:56.33,OP Normal2,238,0,0,0,,Em outras palavras, é como o que a garota pirata disse.
 Dialogue: 5,0:21:56.33,0:21:59.44,OP Normal2,239,0,0,0,,Eles não podem recuperar um criminoso que foi capturado e levado para lá.
 Dialogue: 5,0:21:59.44,0:22:03.13,OP Normal2,240,0,0,0,,Isso significa que o caminho para o portão é o limite!
-Dialogue: 5,0:22:03.13,0:22:06.17,OP Normal2,241,0,0,0,,Nós vamos!  Não há tempo a perder!
+Dialogue: 5,0:22:03.13,0:22:06.17,OP Normal2,241,0,0,0,,Certo!  Não há tempo a perder!
 Dialogue: 5,0:22:08.81,0:22:12.11,OP Normal2,242,0,0,0,,Então vamos nos infiltrar na ilha de acordo com o plano!
-Dialogue: 5,0:22:12.11,0:22:14.19,OP Normal2,243,0,0,0,,Nós vamos abrir caminho para eles!
-Dialogue: 5,0:22:14.19,0:22:17.44,OP Normal2,244,0,0,0,,Ouve!  Esses dois não estão conosco?
+Dialogue: 5,0:22:12.11,0:22:14.19,OP Normal2,243,0,0,0,,Nós vamos abrir o caminho!
+Dialogue: 5,0:22:14.19,0:22:17.44,OP Normal2,244,0,0,0,,Eei!  Esses dois não estão conosco?
 Dialogue: 5,0:22:22.96,0:22:24.68,OP Normal2,245,0,0,0,,Ei, onde está Luffy?
 Dialogue: 5,0:22:24.68,0:22:27.24,OP Normal2,246,0,0,0,,Um momento atrás ele estava aqui...
 Dialogue: 5,0:22:35.29,0:22:37.13,OP Normal2,247,0,0,0,,Ei!  É o Chapéu de Palha-san!
@@ -418,12 +418,12 @@ Dialogue: 5,0:23:42.97,0:23:44.77,OP Normal2,262,0,0,0,,Há um buraco incrível!
 Dialogue: 5,0:23:44.77,0:23:46.69,OP Normal2,,0,0,0,,É como se a ilha estivesse flutuando!
 Dialogue: 5,0:23:48.23,0:23:49.76,OP Normal2,265,0,0,0,,Tem alguém lá em cima!
 Dialogue: 5,0:23:49.76,0:23:51.93,OP Normal2,265,0,0,0,,Atire nele e derrube-o!
-Dialogue: 5,0:23:52.99,0:23:55.49,OP Normal2,266,0,0,0,,Eu descobri!
-Dialogue: 5,0:23:58.47,0:24:00.37,OP Normal2,267,0,0,0,,Ele cruzou a porta!
-Dialogue: 5,0:24:05.77,0:24:06.84,Denden,268,0,0,0,,Aqui a Porta Principal!
-Dialogue: 5,0:24:06.84,0:24:08.05,Denden,,0,0,0,,Aqui a Porta Principal!
+Dialogue: 5,0:23:52.99,0:23:55.49,OP Normal2,266,0,0,0,,Fui descoberto!
+Dialogue: 5,0:23:58.47,0:24:00.37,OP Normal2,267,0,0,0,,Cruzou o Portão!
+Dialogue: 5,0:24:05.77,0:24:06.84,Denden,268,0,0,0,,Aqui do Portão Principal!
+Dialogue: 5,0:24:06.84,0:24:08.05,Denden,,0,0,0,,Aqui o Portão Principal!
 Dialogue: 5,0:24:08.05,0:24:10.34,Denden,269,0,0,0,,Esta é uma mensagem para o comandante chefe e para o Portão da Ilha!
-Dialogue: 5,0:24:10.97,0:24:13.60,Denden,270,0,0,0,,Esta é a Porta da Frente, esperando por uma resposta!
+Dialogue: 5,0:24:10.97,0:24:13.60,Denden,270,0,0,0,,Esta é o Portão da Frente, esperando por uma resposta!
 Dialogue: 5,0:24:14.91,0:24:17.10,OP Normal2,271,0,0,0,,Oque Quer?  O que está acontecendo?
 Dialogue: 5,0:24:17.10,0:24:21.77,Denden,272,0,0,0,,Um intruso acabou de atravessar o Portão Principal e está a caminho do Portão da Ilha!
 Dialogue: 5,0:24:21.77,0:24:26.32,OP Normal2,273,0,0,0,,Que? Não me diga que eles não\Npodem cuidar de um único intruso.
@@ -576,38 +576,38 @@ Dialogue: 0,0:19:53.29,0:19:53.33,Captions,,0,0,0,,{\an7\pos(1522.5,1053.675)\bl
 Dialogue: 0,0:19:53.33,0:19:53.38,Captions,,0,0,0,,{\an7\pos(1522.5,1086.78)\blur1\bord0\c&HFEFEFE&\p1}m -222 -97,5 l 204 -97,5 204 34,5 -222 34,5
 Dialogue: 0,0:19:53.38,0:19:53.42,Captions,,0,0,0,,{\an7\pos(1522.5,1116.975)\blur1\bord0\c&HFEFEFE&\p1}m -222 -97,5 l 204 -97,5 204 34,5 -222 34,5
 Dialogue: 0,0:19:53.42,0:19:53.46,Captions,,0,0,0,,{\an7\pos(1523.67,1145.865)\blur1\bord0\c&HFEFEFE&\p1}m -222 -97,5 l 204 -97,5 204 34,5 -222 34,5
-Dialogue: 0,0:19:49.66,0:19:52.12,OPLetreros,,0,0,0,,{\pos(1522.5,534.5)\fad(900,0)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.12,0:19:52.17,OPLetreros,,0,0,0,,{\pos(1522.5,534.5)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.17,0:19:52.21,OPLetreros,,0,0,0,,{\pos(1522.5,535.52)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.21,0:19:52.25,OPLetreros,,0,0,0,,{\pos(1522.5,538.1)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.25,0:19:52.29,OPLetreros,,0,0,0,,{\pos(1522.5,543.13)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.29,0:19:52.33,OPLetreros,,0,0,0,,{\pos(1522.5,549.14)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.33,0:19:52.37,OPLetreros,,0,0,0,,{\pos(1522.5,557.11)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.37,0:19:52.42,OPLetreros,,0,0,0,,{\pos(1522.5,566.45)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.42,0:19:52.46,OPLetreros,,0,0,0,,{\pos(1522.5,578.2)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.46,0:19:52.50,OPLetreros,,0,0,0,,{\pos(1522.5,590.69)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.50,0:19:52.54,OPLetreros,,0,0,0,,{\pos(1522.5,605.78)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.54,0:19:52.58,OPLetreros,,0,0,0,,{\pos(1522.5,620.93)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.58,0:19:52.62,OPLetreros,,0,0,0,,{\pos(1522.5,638.93)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.62,0:19:52.67,OPLetreros,,0,0,0,,{\pos(1522.5,658.61)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.67,0:19:52.71,OPLetreros,,0,0,0,,{\pos(1522.5,677.59)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.71,0:19:52.75,OPLetreros,,0,0,0,,{\pos(1522.5,699.62)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.75,0:19:52.79,OPLetreros,,0,0,0,,{\pos(1522.5,722.93)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.79,0:19:52.83,OPLetreros,,0,0,0,,{\pos(1522.5,745.21)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.83,0:19:52.87,OPLetreros,,0,0,0,,{\pos(1522.5,770.68)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.87,0:19:52.92,OPLetreros,,0,0,0,,{\pos(1522.5,797.11)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.92,0:19:52.96,OPLetreros,,0,0,0,,{\pos(1522.5,824.45)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:52.96,0:19:53.00,OPLetreros,,0,0,0,,{\pos(1522.5,850.34)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.00,0:19:53.04,OPLetreros,,0,0,0,,{\pos(1522.52,879.41)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.04,0:19:53.08,OPLetreros,,0,0,0,,{\pos(1522.5,909.13)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.08,0:19:53.13,OPLetreros,,0,0,0,,{\pos(1522.5,937)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.13,0:19:53.17,OPLetreros,,0,0,0,,{\pos(1522.5,967.97)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.17,0:19:53.21,OPLetreros,,0,0,0,,{\pos(1522.5,996.98)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.21,0:19:53.25,OPLetreros,,0,0,0,,{\pos(1522.5,1028.95)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.25,0:19:53.29,OPLetreros,,0,0,0,,{\pos(1522.5,1058.69)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.29,0:19:53.33,OPLetreros,,0,0,0,,{\pos(1522.5,1088.68)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.33,0:19:53.38,OPLetreros,,0,0,0,,{\pos(1522.5,1121.78)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
-Dialogue: 1,0:19:53.38,0:19:53.42,OPLetreros,,0,0,0,,{\pos(1522.5,1151.97)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTA DA ILHA
+Dialogue: 0,0:19:49.66,0:19:52.12,OPLetreros,,0,0,0,,{\pos(1522.5,534.5)\fad(900,0)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.12,0:19:52.17,OPLetreros,,0,0,0,,{\pos(1522.5,534.5)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.17,0:19:52.21,OPLetreros,,0,0,0,,{\pos(1522.5,535.52)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.21,0:19:52.25,OPLetreros,,0,0,0,,{\pos(1522.5,538.1)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.25,0:19:52.29,OPLetreros,,0,0,0,,{\pos(1522.5,543.13)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.29,0:19:52.33,OPLetreros,,0,0,0,,{\pos(1522.5,549.14)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.33,0:19:52.37,OPLetreros,,0,0,0,,{\pos(1522.5,557.11)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.37,0:19:52.42,OPLetreros,,0,0,0,,{\pos(1522.5,566.45)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.42,0:19:52.46,OPLetreros,,0,0,0,,{\pos(1522.5,578.2)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.46,0:19:52.50,OPLetreros,,0,0,0,,{\pos(1522.5,590.69)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.50,0:19:52.54,OPLetreros,,0,0,0,,{\pos(1522.5,605.78)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.54,0:19:52.58,OPLetreros,,0,0,0,,{\pos(1522.5,620.93)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.58,0:19:52.62,OPLetreros,,0,0,0,,{\pos(1522.5,638.93)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.62,0:19:52.67,OPLetreros,,0,0,0,,{\pos(1522.5,658.61)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.67,0:19:52.71,OPLetreros,,0,0,0,,{\pos(1522.5,677.59)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.71,0:19:52.75,OPLetreros,,0,0,0,,{\pos(1522.5,699.62)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.75,0:19:52.79,OPLetreros,,0,0,0,,{\pos(1522.5,722.93)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.79,0:19:52.83,OPLetreros,,0,0,0,,{\pos(1522.5,745.21)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.83,0:19:52.87,OPLetreros,,0,0,0,,{\pos(1522.5,770.68)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.87,0:19:52.92,OPLetreros,,0,0,0,,{\pos(1522.5,797.11)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.92,0:19:52.96,OPLetreros,,0,0,0,,{\pos(1522.5,824.45)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:52.96,0:19:53.00,OPLetreros,,0,0,0,,{\pos(1522.5,850.34)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.00,0:19:53.04,OPLetreros,,0,0,0,,{\pos(1522.52,879.41)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.04,0:19:53.08,OPLetreros,,0,0,0,,{\pos(1522.5,909.13)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.08,0:19:53.13,OPLetreros,,0,0,0,,{\pos(1522.5,937)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.13,0:19:53.17,OPLetreros,,0,0,0,,{\pos(1522.5,967.97)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.17,0:19:53.21,OPLetreros,,0,0,0,,{\pos(1522.5,996.98)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.21,0:19:53.25,OPLetreros,,0,0,0,,{\pos(1522.5,1028.95)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.25,0:19:53.29,OPLetreros,,0,0,0,,{\pos(1522.5,1058.69)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.29,0:19:53.33,OPLetreros,,0,0,0,,{\pos(1522.5,1088.68)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.33,0:19:53.38,OPLetreros,,0,0,0,,{\pos(1522.5,1121.78)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
+Dialogue: 1,0:19:53.38,0:19:53.42,OPLetreros,,0,0,0,,{\pos(1522.5,1151.97)\blur0.7\bord0\c&H000102&\alpha&H10&}PORTÃO DA ILHA
 Dialogue: 0,0:19:52.42,0:19:52.46,Captions,,0,0,0,,{\an7\pos(1546.5,-13.065)\blur1\bord0\c&HFEFEFE&\p1}m -211,5 -105 l 214,5 -105 214,5 28,5 -211,5 28,5
 Dialogue: 0,0:19:52.46,0:19:52.50,Captions,,0,0,0,,{\an7\pos(1546.5,1.935)\blur1\bord0\c&HFEFEFE&\p1}m -211,5 -105 l 214,5 -105 214,5 28,5 -211,5 28,5
 Dialogue: 0,0:19:52.50,0:19:52.54,Captions,,0,0,0,,{\an7\pos(1546.5,17.94)\blur1\bord0\c&HFEFEFE&\p1}m -211,5 -105 l 214,5 -105 214,5 28,5 -211,5 28,5

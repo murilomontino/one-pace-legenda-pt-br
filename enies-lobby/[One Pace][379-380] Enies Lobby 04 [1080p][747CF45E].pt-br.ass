@@ -294,9 +294,9 @@ Dialogue: 5,0:18:21.37,0:18:25.68,OP Normal2,302,0,0,0,,Vocês podem morrer todo
 Dialogue: 5,0:18:25.68,0:18:30.25,OP Normal2,303,0,0,0,,Diante da Santa Justiça, toda resistência é inútil.
 Dialogue: 5,0:18:38.40,0:18:40.94,OP Normal2,354,0,0,0,,Ei, o que está acontecendo lá fora?
 Dialogue: 5,0:18:48.02,0:18:49.78,OP Normal2,355,0,0,0,,Algo está vindo!
-Dialogue: 5,0:19:02.08,0:19:02.87,OP Normal2,356,0,0,0,,Nós vamos!
+Dialogue: 5,0:19:02.08,0:19:02.87,OP Normal2,356,0,0,0,,Certo!
 Dialogue: 5,0:19:02.87,0:19:04.24,OP Normal2,356,0,0,0,,Sodoma, Gomorra!
-Dialogue: 5,0:19:04.24,0:19:06.20,OP Normal2,356,0,0,0,,Continue acelerando!
+Dialogue: 5,0:19:04.24,0:19:06.20,OP Normal2,356,0,0,0,,Continuem acelerando!
 Dialogue: 5,0:19:08.33,0:19:10.50,OP Normal2,357,0,0,0,,Merda!  Então são eles!
 Dialogue: 5,0:19:10.50,0:19:13.00,OP Normal2,358,0,0,0,,Eles são os piratas que romperam o Portão da Ilha!
 Dialogue: 5,0:19:13.00,0:19:15.75,OP Normal2,359,0,0,0,,Incêndio! Continue atirando!
@@ -378,7 +378,7 @@ Dialogue: 5,0:24:11.72,0:24:13.01,OP Normal2,446,0,0,0,,Nós vamos.
 Dialogue: 5,0:24:13.97,0:24:16.54,OP Normal2,447,0,0,0,,Mas não tem como chegar...
 Dialogue: 5,0:24:16.54,0:24:19.35,OP Normal2,448,0,0,0,,É um pouco longe, mas posso tentar voar até lá.
 Dialogue: 5,0:24:24.31,0:24:25.72,OP Normal2,449,0,0,0,,Que?
-Dialogue: 5,0:24:25.72,0:24:27.10,OP Normal2,,0,0,0,,Porta Aérea.
+Dialogue: 5,0:24:25.72,0:24:27.10,OP Normal2,,0,0,0,,Door Air.
 Dialogue: 5,0:24:25.61,0:24:27.23,NDTBoard,,0,0,0,,{\clip(0,0,1279,719)\1a&H80&\be1\fad(300,0)\t(0,300,\fscx570)\move(133,65,133,-57,1120,1620)}frio
 Dialogue: 5,0:24:25.61,0:24:27.23,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(60,69,60,-53,1120,1620)}Shi
 Dialogue: 5,0:24:25.61,0:24:27.23,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,1120,1620)}chibukai
@@ -401,9 +401,9 @@ Dialogue: 1,0:01:51.54,0:01:56.30,Title,,0,0,0,,{\pos(633.333,507.333)\fad(800,0
 Dialogue: 0,0:06:25.36,0:06:28.20,OPLetreros,,0,0,0,,{\pos(640,493.333)\fad(350,0)\blur0.533\bord1.333\xshad-0.8\fscx125\fscy125\c&H1A120F&\3c&H1A120F&\1a&HFF&\t(305,350,\1a&H00&)}ENIES LOBBY, ILHA PRINCIPAL
 Dialogue: 1,0:06:25.36,0:06:28.20,OPLetreros,,0,0,0,,{\pos(640,493.333)\fad(350,0)\blur0.533\xshad-0.533\fscx125\fscy125\c&HEAEAE9&\4a&HFF&}ENIES LOBBY, ILHA PRINCIPAL
 Dialogue: 2,0:06:25.36,0:06:28.20,OPLetreros,,0,0,0,,{\pos(640,493.333)\fad(350,0)\blur0.533\xshad-0.533\fscx125\fscy125\c&HEAEAE9&\4a&HFF&}ENIES LOBBY, ILHA PRINCIPAL
-Dialogue: 0,0:07:17.00,0:07:19.63,OPLetreros,,0,0,0,,{\pos(640,430)\fad(550,450)\blur0.533\bord1.333\xshad-0.933\yshad0.333\fscx135\fscy135\1a&HFF&\t(505,550,\1a&H00&)\t(2180,2225,\1a&HFF&)}ILHA PRINCIPAL EM FRENTE À PORTA
-Dialogue: 1,0:07:17.00,0:07:19.63,OPLetreros,,0,0,0,,{\pos(640,430)\fad(550,450)\blur0.533\xshad-0.867\yshad0.333\fscx135\fscy135\c&HEDEDED&\4a&HFF&}ILHA PRINCIPAL EM FRENTE À PORTA
-Dialogue: 2,0:07:17.00,0:07:19.63,OPLetreros,,0,0,0,,{\pos(640,430)\fad(550,450)\blur0.533\xshad-0.867\yshad0.333\fscx135\fscy135\c&HEDEDED&\4a&HFF&}ILHA PRINCIPAL EM FRENTE À PORTA
+Dialogue: 0,0:07:17.00,0:07:19.63,OPLetreros,,0,0,0,,{\pos(640,430)\fad(550,450)\blur0.533\bord1.333\xshad-0.933\yshad0.333\fscx135\fscy135\1a&HFF&\t(505,550,\1a&H00&)\t(2180,2225,\1a&HFF&)}ILHA PRINCIPAL EM FRENTE ÀO PORTÃO
+Dialogue: 1,0:07:17.00,0:07:19.63,OPLetreros,,0,0,0,,{\pos(640,430)\fad(550,450)\blur0.533\xshad-0.867\yshad0.333\fscx135\fscy135\c&HEDEDED&\4a&HFF&}ILHA PRINCIPAL EM FRENTE À PORTÃO
+Dialogue: 2,0:07:17.00,0:07:19.63,OPLetreros,,0,0,0,,{\pos(640,430)\fad(550,450)\blur0.533\xshad-0.867\yshad0.333\fscx135\fscy135\c&HEDEDED&\4a&HFF&}ILHA PRINCIPAL EM FRENTE À PORTÃO
 Dialogue: 0,0:11:31.30,0:11:35.22,OPLetreros,,0,0,0,,{\pos(640,469.333)\fad(400,0)\blur0.533\bord2\fscx115\fscy115\fsp0.667\c&H252728&\3c&H252728&\1a&HFF&\t(355,400,\1a&H00&)}TORRE JUDICIAL ENIES LOBBY
 Dialogue: 1,0:11:31.30,0:11:35.22,OPLetreros,,0,0,0,,{\pos(640,469.333)\fad(400,0)\blur0.533\fscx115\fscy115\fsp0.667\c&HE6E6E6&\4a&HFF&}TORRE JUDICIAL ENIES LOBBY
 Dialogue: 2,0:11:31.30,0:11:35.22,OPLetreros,,0,0,0,,{\pos(640,469.333)\fad(400,0)\blur0.533\fscx115\fscy115\\fsp0.667\c&HE6E6E6&\4a&HFF&}TORRE JUDICIAL ENIES LOBBY

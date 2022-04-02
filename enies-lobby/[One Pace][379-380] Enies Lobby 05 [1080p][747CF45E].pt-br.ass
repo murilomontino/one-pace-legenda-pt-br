@@ -82,7 +82,7 @@ Dialogue: 5,0:04:36.63,0:04:39.67,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(
 Dialogue: 5,0:04:36.63,0:04:39.67,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,2540,3040)}chibukai
 Dialogue: 5,0:04:36.63,0:04:39.67,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,2540,3040)}fansub!
 Dialogue: 5,0:04:36.63,0:04:39.67,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,2540,3040)}Canhão de navio de guerra.
-Dialogue: 5,0:04:43.13,0:04:46.81,OP Normal2,419,0,0,0,,Xingamento!  Faça algo com esses três!
+Dialogue: 5,0:04:43.13,0:04:46.81,OP Normal2,419,0,0,0,,Maldição!  Faça algo com esses três!
 Dialogue: 5,0:04:53.44,0:04:57.74,Recuerdo,420,0,0,0,,Você é bom em lutar, certo?
 Dialogue: 5,0:04:58.34,0:05:00.82,Recuerdo,421,0,0,0,,Você pode vencê-los?
 Dialogue: 5,0:05:00.82,0:05:01.99,Recuerdo,422,0,0,0,,Eu serei capaz!
@@ -232,7 +232,7 @@ Dialogue: 5,0:15:27.74,0:15:33.46,OP Normal2,139,0,0,0,,eles libertariam nossos 
 Dialogue: 5,0:15:33.46,0:15:35.91,OP Normal2,140,0,0,0,,A expectativa de vida de um gigante é de 300 anos.
 Dialogue: 5,0:15:35.91,0:15:37.97,OP Normal2,140,0,0,0,,Então pensamos que cem anos não era muito tempo.
 Dialogue: 5,0:15:37.97,0:15:41.34,OP Normal2,141,0,0,0,,Nessas condições, lutamos há 50 anos.
-Dialogue: 5,0:15:41.34,0:15:45.48,OP Normal2,142,0,0,0,,Mas hoje, os piratas arrombaram a porta.
+Dialogue: 5,0:15:41.34,0:15:45.48,OP Normal2,142,0,0,0,,Mas hoje, os piratas arrombaram o portão.
 Dialogue: 5,0:15:45.48,0:15:48.05,OP Normal2,143,0,0,0,,Nunca pensei que uma coisa dessas fosse acontecer!
 Dialogue: 5,0:15:48.05,0:15:49.51,OP Normal2,143,0,0,0,,Porra!
 Dialogue: 5,0:15:49.51,0:15:54.44,OP Normal2,144,0,0,0,,Por causa disso, nossos chefes passarão o resto de suas vidas na prisão!
@@ -287,7 +287,7 @@ Dialogue: 5,0:19:47.48,0:19:48.55,Denden,49,0,0,0,,É a vovó Kokoro!
 Dialogue: 5,0:19:48.55,0:19:50.11,Denden,50,0,0,0,,O que quer?
 Dialogue: 5,0:19:51.49,0:19:53.75,OP Normal2,51,0,0,0,,Parece que eles ainda estão vivos
 Dialogue: 5,0:19:53.75,0:19:55.92,OP Normal2,,0,0,0,,Tem uma coisa que eu esqueci de te dizer.
-Dialogue: 5,0:19:55.92,0:19:58.84,Denden,56,0,0,0,,Espero que você não esteja muito ocupado.
+Dialogue: 5,0:19:55.92,0:19:58.84,Denden,56,0,0,0,,Espero que você não esteja muito ocupados.
 Dialogue: 5,0:19:58.84,0:20:00.29,Denden,56,0,0,0,,Serei breve, ouça.
 Dialogue: 5,0:20:00.29,0:20:05.35,Denden,57,0,0,0,,No mapa de Paulie, não havia uma rota\Ndo Tribunal para a Torre Judicial, havia?
 Dialogue: 5,0:20:05.35,0:20:08.64,OP Normal2,58,0,0,0,,Você está certo, eu também estava me perguntando isso.
