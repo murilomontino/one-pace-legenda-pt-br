@@ -48,7 +48,7 @@ Style: Pensante,International Playboy,81,&H00C5F8FA,&H0000FFFF,&H003E3E3E,&H803E
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 5,0:01:58.68,0:02:01.29,OP Normal2,,0,0,0,,{\fad(0,200)}Rã!
+Dialogue: 5,0:01:58.68,0:02:01.29,OP Normal2,,0,0,0,,{\fad(0,200)}Sapo!
 Dialogue: 5,0:02:02.35,0:02:05.56,OP Normal2,,0,0,0,,Pare de dizer "gero" como se não fosse nada, idiota!
 Dialogue: 5,0:02:05.56,0:02:09.52,OP Normal2,,0,0,0,,Por sua causa saímos dos trilhos, não é?!
 Dialogue: 5,0:02:10.96,0:02:14.34,Recuerdo,,0,0,0,,Mexa-se!  Vamos bater!
@@ -117,7 +117,7 @@ Dialogue: 5,0:05:31.64,0:05:33.18,OP Normal2,,0,0,0,,Prepare-se para a batalha!
 Dialogue: 5,0:05:36.69,0:05:40.11,OP Normal2,,0,0,0,,Ei!  Tem alguem ai?!
 Dialogue: 5,0:05:40.11,0:05:41.85,OP Normal2,,0,0,0,,Somos da Família Franky!
 Dialogue: 5,0:05:41.85,0:05:43.36,OP Normal2,,0,0,0,,Mostre seu rosto!
-Dialogue: 5,0:05:44.74,0:05:46.53,OP Normal2,,0,0,0,,Ei, alguém está fora!
+Dialogue: 5,0:05:44.74,0:05:46.53,OP Normal2,,0,0,0,,Ei, alguém está saindo!
 Dialogue: 5,0:05:50.40,0:05:51.70,OP Normal2,,0,0,0,,Esta vivo?!
 Dialogue: 5,0:05:52.99,0:05:55.58,OP Normal2,,0,0,0,,De verdade?  É verdade?
 Dialogue: 5,0:05:56.06,0:05:59.04,OP Normal2,,0,0,0,,Sim, foi o que eles disseram.
@@ -187,12 +187,12 @@ Dialogue: 5,0:10:37.03,0:10:39.93,OP Normal2,,0,0,0,,{\alpha&30}Não se aproxime
 Dialogue: 5,0:10:39.93,0:10:41.66,OP Normal2,,0,0,0,,{\alpha&30}Cuidado, este morde!
 Dialogue: 5,0:10:44.39,0:10:46.29,OP Normal2,,0,0,0,,Que homem escandaloso...
 Dialogue: 5,0:10:53.26,0:10:54.99,OP Normal2,,0,0,0,,{\alpha&30}O CP9 é realmente incrível...
-Dialogue: 5,0:10:54.99,0:10:56.77,OP Normal2,,0,0,0,,{\alpha&30}Uau tensão...
-Dialogue: 5,0:10:57.34,0:10:59.88,OP Normal2,,0,0,0,,{\alpha&30}Deve ser Cutty Flame...
+Dialogue: 5,0:10:54.99,0:10:56.77,OP Normal2,,0,0,0,,{\alpha&30}Uau que pressão...
+Dialogue: 5,0:10:57.34,0:10:59.88,OP Normal2,,0,0,0,,{\alpha&30}Deve ser Cutty Flam...
 Dialogue: 5,0:10:59.88,0:11:02.34,OP Normal2,,0,0,0,,{\alpha&30}Então... aquela mulher é...
-Dialogue: 5,0:11:02.80,0:11:04.14,OP Normal2,,0,0,0,,{\alpha&30}Nick Robin!
+Dialogue: 5,0:11:02.80,0:11:04.14,OP Normal2,,0,0,0,,{\alpha&30}Nico Robin!
 Dialogue: 5,0:11:04.14,0:11:06.02,OP Normal2,,0,0,0,,{\alpha&30}Porra, é tão bom!
-Dialogue: 5,0:11:06.62,0:11:08.50,OP Normal2,,0,0,0,,Abra os Portões da Justiça!
+Dialogue: 5,0:11:06.62,0:11:08.50,OP Normal2,,0,0,0,,Abram os Portões da Justiça!
 Dialogue: 5,0:11:29.74,0:11:31.87,OP Normal2,,0,0,0,,O que diabos é isso?!
 Dialogue: 5,0:11:41.36,0:11:43.72,OP Normal2,,0,0,0,,Isso é... uma cachoeira?
 Dialogue: 5,0:11:51.90,0:11:55.01,OP Normal2,33,0,0,0,,{\fad(0,300)}Não consigo ver o fundo!

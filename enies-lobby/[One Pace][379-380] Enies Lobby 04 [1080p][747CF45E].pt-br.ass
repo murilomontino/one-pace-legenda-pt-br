@@ -48,22 +48,22 @@ Dialogue: 5,0:01:56.54,0:01:59.71,OP Normal2,53,0,0,0,,E-Ei!  Eu conheço aquele
 Dialogue: 5,0:01:59.71,0:02:03.18,OP Normal2,54,0,0,0,,Esse é o subordinado do Chapéu\Nde Palha, o caçador de piratas Zoro!
 Dialogue: 5,0:02:04.49,0:02:05.74,OP Normal2,55,0,0,0,,Ele te chamou de subordinado.
 Dialogue: 5,0:02:05.74,0:02:09.56,OP Normal2,56,0,0,0,,O que o torna mais patético, já que você nem foi chamado de "Pirata A".
-Dialogue: 5,0:02:11.11,0:02:12.65,OP Normal2,57,0,0,0,,Em seguida, "B".
+Dialogue: 5,0:02:11.11,0:02:12.65,OP Normal2,57,0,0,0,,Ou, "B".
 Dialogue: 5,0:02:13.52,0:02:17.10,OP Normal2,58,0,0,0,,Desgraçado!  Quando eu receber uma recompensa, a sua será insignificante comparada à minha!
 Dialogue: 5,0:02:17.10,0:02:18.04,OP Normal2,59,0,0,0,,Então C.
 Dialogue: 5,0:02:18.04,0:02:19.83,OP Normal2,60,0,0,0,,Ouça o que eu lhe digo!
 Dialogue: 5,0:02:19.83,0:02:21.81,OP Normal2,61,0,0,0,,Ei, parem vocês dois...
 Dialogue: 5,0:02:21.81,0:02:23.70,OP Normal2,62,0,0,0,,Sogeking, você não vai se juntar a eles?
 Dialogue: 5,0:02:23.70,0:02:25.81,OP Normal2,63,0,0,0,,Isso também faz parte da minha estratégia, Chopper-kun.
-Dialogue: 5,0:02:25.81,0:02:27.86,OP Normal2,64,0,0,0,,Então foi isso...
+Dialogue: 5,0:02:25.81,0:02:27.86,OP Normal2,64,0,0,0,,Então é isso...
 Dialogue: 5,0:02:28.95,0:02:30.39,OP Normal2,65,0,0,0,,Eles têm parceiros no trem!
 Dialogue: 5,0:02:30.39,0:02:31.42,OP Normal2,66,0,0,0,,Eles nos encontraram!
 Dialogue: 5,0:02:30.39,0:02:31.42,Enmedio2,66,0,0,0,,Eles nos encontraram!
 Dialogue: 5,0:02:31.42,0:02:32.75,OP Normal2,67,0,0,0,,Eles ainda devem estar lá dentro!
 Dialogue: 5,0:02:32.75,0:02:34.09,OP Normal2,67,0,0,0,,Destrua-o antes que eles saiam!
 Dialogue: 5,0:02:34.09,0:02:35.21,OP Normal2,68,0,0,0,,Ei, espere!
-Dialogue: 5,0:02:35.21,0:02:36.51,OP Normal2,68,0,0,0,,Nami-san ainda está lá dentro!
-Dialogue: 5,0:02:36.51,0:02:37.88,OP Normal2,69,0,0,0,,Incêndio!
+Dialogue: 5,0:02:35.21,0:02:36.51,OP Normal2,68,0,0,0,,Nami-san ainda está lá ainda!
+Dialogue: 5,0:02:36.51,0:02:37.88,OP Normal2,69,0,0,0,,Fogo!
 Dialogue: 5,0:02:44.81,0:02:47.58,OP Normal2,70,0,0,0,,Aquele cara... Eu vou bater muito nele!
 Dialogue: 5,0:02:47.58,0:02:49.31,OP Normal2,71,0,0,0,,Espere, Pirata A.
 Dialogue: 5,0:02:50.15,0:02:52.53,OP Normal2,72,0,0,0,,Certamente eles não estão mortos.
@@ -115,8 +115,8 @@ Dialogue: 5,0:05:12.58,0:05:14.48,OP Normal2,114,0,0,0,,Obviamente, há algo err
 Dialogue: 5,0:05:14.48,0:05:19.40,OP Normal2,115,0,0,0,,Além disso, Usopp-kun diz que não se lembra de fazer isso para usá-lo assim!
 Dialogue: 5,0:05:19.40,0:05:20.46,OP Normal2,116,0,0,0,,Mas mesmo assim...
 Dialogue: 5,0:05:21.40,0:05:23.51,OP Normal2,117,0,0,0,,Que poder!
-Dialogue: 5,0:05:23.51,0:05:24.72,OP Normal2,117,0,0,0,,Ele derrotou a maioria.
-Dialogue: 5,0:05:28.51,0:05:31.76,OP Normal2,118,0,0,0,,Maldita Nami!  Por que diabos você fez isso?!
+Dialogue: 5,0:05:23.51,0:05:24.72,OP Normal2,117,0,0,0,,Ela derrotou a maioria.
+Dialogue: 5,0:05:28.51,0:05:31.76,OP Normal2,118,0,0,0,,Maldita Nami!  Por que fez isso?!
 Dialogue: 5,0:05:31.76,0:05:33.65,OP Normal2,119,0,0,0,,Peça desculpas, Sogeking!
 Dialogue: 5,0:05:33.65,0:05:35.61,OP Normal2,120,0,0,0,,Você que se desculpa, idiota!
 Dialogue: 5,0:05:35.61,0:05:40.53,Sanji in Love,121,0,0,0,,Nami-san!  Isso me lembra do choque que senti quando te conheci!
@@ -299,7 +299,7 @@ Dialogue: 5,0:19:02.87,0:19:04.24,OP Normal2,356,0,0,0,,Sodoma, Gomorra!
 Dialogue: 5,0:19:04.24,0:19:06.20,OP Normal2,356,0,0,0,,Continuem acelerando!
 Dialogue: 5,0:19:08.33,0:19:10.50,OP Normal2,357,0,0,0,,Merda!  Então são eles!
 Dialogue: 5,0:19:10.50,0:19:13.00,OP Normal2,358,0,0,0,,Eles são os piratas que romperam o Portão da Ilha!
-Dialogue: 5,0:19:13.00,0:19:15.75,OP Normal2,359,0,0,0,,Incêndio! Continue atirando!
+Dialogue: 5,0:19:13.00,0:19:15.75,OP Normal2,359,0,0,0,,Fogo! Continue atirando!
 Dialogue: 5,0:19:17.26,0:19:19.51,OP Normal2,360,0,0,0,,Se você valoriza suas vidas, abram caminho!
 Dialogue: 5,0:19:23.09,0:19:25.76,OP Normal2,361,0,0,0,,Restaurem a formação!
 Dialogue: 5,0:19:28.37,0:19:31.80,OP Normal2,362,0,0,0,,Escória pirata, não sejam presunçosos!
@@ -389,7 +389,7 @@ Dialogue: 5,0:24:40.24,0:24:44.58,OP Normal2,453,0,0,0,,Parece que o relatório 
 Dialogue: 5,0:24:44.58,0:24:47.09,OP Normal2,454,0,0,0,,Ei, como você fez isso?!
 Dialogue: 5,0:24:47.09,0:24:48.17,OP Normal2,455,0,0,0,,Incrível!
 Dialogue: 5,0:24:48.17,0:24:49.05,OP Normal2,,0,0,0,,Foi mágica?!
-Dialogue: 5,0:24:49.05,0:24:53.88,OP Normal2,456,0,0,0,,Já me parecia que cinco baixas\Neram muito poucas para ser verdade...
+Dialogue: 5,0:24:49.05,0:24:53.88,OP Normal2,456,0,0,0,,Já me parecia que quinze baixas\Neram muito poucas para ser verdade...
 Dialogue: 5,0:24:53.88,0:24:56.19,OP Normal2,457,0,0,0,,Você me surpreendeu!
 Dialogue: 5,0:24:56.19,0:25:01.06,OP Normal2,458,0,0,0,,Este é um caso sem precedentes\Nna história do Governo Mundial.
 Dialogue: 5,0:25:01.06,0:25:05.86,OP Normal2,459,0,0,0,,Um único homem fez o seu\Ncaminho para os portões do governo.
