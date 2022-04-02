@@ -185,7 +185,7 @@ Dialogue: 5,0:09:49.39,0:09:51.01,Enmedio2,194,0,0,0,,Ei, cozinheiro.
 Dialogue: 5,0:09:53.30,0:09:54.23,OP Normal2,195,0,0,0,,O que está acontecendo?
 Dialogue: 5,0:09:55.40,0:09:57.49,OP Normal2,196,0,0,0,,Deixo as rédeas para você.
 Dialogue: 5,0:09:59.86,0:10:01.45,OP Normal2,197,0,0,0,,Vocês caras...
-Dialogue: 5,0:10:13.85,0:10:15.88,OP Normal2,198,0,0,0,,Quando vocês se encontrem...
+Dialogue: 5,0:10:13.85,0:10:15.88,OP Normal2,198,0,0,0,,quando se encontrarem...
 Dialogue: 5,0:10:15.88,0:10:18.84,OP Normal2,199,0,0,0,,...com esses caras, deixe-os saber...
 Dialogue: 5,0:10:20.51,0:10:22.81,OP Normal2,200,0,0,0,,...que eles estão demitidos.
 Dialogue: 5,0:10:24.20,0:10:25.81,OP Normal2,201,0,0,0,,Certo.
@@ -220,10 +220,10 @@ Dialogue: 5,0:12:07.53,0:12:11.21,OP Normal2,225,0,0,0,,...seu irmão Iceburg qu
 Dialogue: 5,0:12:11.74,0:12:14.92,OP Normal2,226,0,0,0,,Como aprendiz de Tom, ele uniu todos os estaleiros Water Seven em um,
 Dialogue: 5,0:12:14.92,0:12:19.46,OP Normal2,227,0,0,0,,criando uma empresa poderosa.
 Dialogue: 5,0:12:19.46,0:12:24.00,OP Normal2,228,0,0,0,,Ele até trabalhou para o Governo\NMundial, a quem deveria odiar.
-Dialogue: 5,0:12:24.00,0:12:29.06,OP Normal2,229,0,0,0,,Muito em breve, sua empresa se tornou um fornecedor bem estabelecido para o Governo Mundial.
-Dialogue: 5,0:12:29.86,0:12:33.02,OP Normal2,230,0,0,0,,Ele se tornou presidente dos\Nestaleiros da Galley-La Company...
-Dialogue: 5,0:12:33.02,0:12:35.90,OP Normal2,231,0,0,0,,...e então prefeito da Capital da Water, Water Seven.
-Dialogue: 5,0:12:36.53,0:12:41.69,OP Normal2,232,0,0,0,,Tornou-se uma peça vital para o\NGoverno, da qual ninguém duvidaria.
+Dialogue: 5,0:12:24.00,0:12:29.06,OP Normal2,229,0,0,0,,Rapidamente, sua empresa se tornou um fornecedor para o Governo Mundial.
+Dialogue: 5,0:12:29.86,0:12:33.02,OP Normal2,230,0,0,0,,Ele se tornou presidente dos construtores da Galley-La Company...
+Dialogue: 5,0:12:33.02,0:12:35.90,OP Normal2,231,0,0,0,,...e então prefeito da Capital de Water Seven.
+Dialogue: 5,0:12:36.53,0:12:41.69,OP Normal2,232,0,0,0,,Uma peça vital pro \NGoverno, da qual ninguém duvidaria.
 Dialogue: 5,0:12:41.69,0:12:45.67,OP Normal2,233,0,0,0,,O que significava que não podíamos fazer nada contra ele.
 Dialogue: 5,0:12:47.88,0:12:51.81,Recuerdo,234,0,0,0,,{\fad(0,700)}Maldita seja!  Eu entendo que sua empresa constrói navios para o Governo Mundial!
 Dialogue: 5,0:12:51.81,0:12:53.12,Recuerdo,235,0,0,0,,{PK: Isso tem que ser uma piada!} Você deve estar brincando comigo!
@@ -239,10 +239,10 @@ Dialogue: 5,0:13:28.87,0:13:34.83,OP Normal2,243,0,0,0,,E uma vez assimilado, ad
 Dialogue: 5,0:13:34.83,0:13:38.54,OP Normal2,244,0,0,0,,Bem... meus planos sofreram algumas mudanças...
 Dialogue: 5,0:13:39.04,0:13:40.09,OP Normal2,245,0,0,0,,Mas olhe!
 Dialogue: 5,0:13:40.09,0:13:43.30,OP Normal2,246,0,0,0,,As duas chaves para ressuscitar as armas antigas,
-Dialogue: 5,0:13:43.30,0:13:45.67,OP Normal2,247,0,0,0,,eles estão bem aqui!
+Dialogue: 5,0:13:43.30,0:13:45.67,OP Normal2,247,0,0,0,,elas estão bem aqui!
 Dialogue: 5,0:13:48.67,0:13:49.89,OP Normal2,248,0,0,0,,Voce entende?
 Dialogue: 5,0:13:49.89,0:13:54.31,OP Normal2,249,0,0,0,,Os ventos do mundo inteiro estão soprando a meu favor!
-Dialogue: 5,0:14:01.25,0:14:02.52,OP Normal2,250,0,0,0,,Toma isto!
+Dialogue: 5,0:14:01.25,0:14:02.52,OP Normal2,250,0,0,0,,Tome isto!
 Dialogue: 5,0:14:02.52,0:14:05.36,OP Normal2,250,0,0,0,,Toda a sorte do mundo neste momento está comigo!
 Dialogue: 5,0:14:05.36,0:14:07.65,OP Normal2,250,0,0,0,,Se eu quisesse, agora tenho o poder de dominá-lo!
 Dialogue: 5,0:14:09.07,0:14:13.49,OP Normal2,251,0,0,0,,Por que Aokiji lhe deu autoridade para usar o Buster Call?
@@ -257,16 +257,16 @@ Dialogue: 5,0:15:08.79,0:15:10.97,OP Normal2,266,0,0,0,,É melhor você se prepa
 Dialogue: 5,0:15:10.97,0:15:15.47,OP Normal2,267,0,0,0,,Eu vou te fazer muito mal, vou te usar e te descartar quando estiver satisfeito!
 Dialogue: 5,0:15:15.93,0:15:19.10,OP Normal2,268,0,0,0,,É isso que você merece!
 Dialogue: 5,0:15:24.93,0:15:28.81,OP Normal2,269,0,0,0,,A propósito... temos novidades.
-Dialogue: 5,0:15:29.83,0:15:36.20,OP Normal2,270,0,0,0,,Recebi um relato de que uns idiotas que invadiram este lugar para te levar de volta...
+Dialogue: 5,0:15:29.83,0:15:36.20,OP Normal2,270,0,0,0,,Recebi um relatório de que uns idiotas que invadiram este lugar para te levar de volta...
 Dialogue: 5,0:15:37.67,0:15:38.70,OP Normal2,271,0,0,0,,Não pode ser...
 Dialogue: 5,0:15:38.70,0:15:40.12,OP Normal2,272,0,0,0,,Quieto!
 Dialogue: 5,0:15:40.12,0:15:44.54,OP Normal2,272,0,0,0,,Todos já devem ter sido capturados...
 Dialogue: 5,0:15:44.54,0:15:47.30,OP Normal2,273,0,0,0,,Chapéu de Palha Luffy e sua tripulação.
-Dialogue: 5,0:15:49.15,0:15:51.22,Pensante,274,0,0,0,,O que essas pessoas teimosas estão fazendo aqui?
-Dialogue: 5,0:15:53.61,0:15:59.27,OP Normal2,275,0,0,0,,Eles não são nada comparados\Naos dez mil homens em Enies Lobby.
+Dialogue: 5,0:15:49.15,0:15:51.22,Pensante,274,0,0,0,,Por que são tão teimosos?
+Dialogue: 5,0:15:53.61,0:15:59.27,OP Normal2,275,0,0,0,,São nada comparados\Naos dez mil homens em Enies Lobby.
 Dialogue: 5,0:15:59.27,0:16:03.21,OP Normal2,276,0,0,0,,Bem, é hora de preparar um navio para mandá-los para a prisão.
-Dialogue: 5,0:16:03.21,0:16:05.24,OP Normal2,277,0,0,0,,É perfeito para uma lembrança.
-Dialogue: 5,0:16:05.24,0:16:10.36,OP Normal2,278,0,0,0,,Eu pretendo mandá-los e Cutty Flam para Impel Down.
+Dialogue: 5,0:16:03.21,0:16:05.24,OP Normal2,277,0,0,0,,São um bom presente.
+Dialogue: 5,0:16:05.24,0:16:10.36,OP Normal2,278,0,0,0,,Vou levá-los para Impel Down junto com Cutty Flam.
 Dialogue: 5,0:16:15.95,0:16:17.91,OP Normal2,279,0,0,0,,Espera!  Isso não é o que você prometeu!
 Dialogue: 5,0:16:17.91,0:16:23.33,OP Normal2,280,0,0,0,,{\fad(0,600)}A condição para eu colaborar com\Nvocê era deixá-los escapar em segurança!
 Dialogue: 5,0:16:32.91,0:16:35.71,OP Normal2,281,0,0,0,,Por que você está fazendo tanto barulho?
@@ -277,13 +277,13 @@ Dialogue: 5,0:16:46.84,0:16:49.07,OP Normal2,285,0,0,0,,Sim, é assim.
 Dialogue: 5,0:16:49.07,0:16:51.63,OP Normal2,286,0,0,0,,Onde está o problema?
 Dialogue: 5,0:16:58.60,0:17:04.29,OP Normal2,287,0,0,0,,Eles não partiram da Water Seven em\Nsegurança e depois vieram para cá?
 Dialogue: 5,0:17:05.79,0:17:07.75,OP Normal2,288,0,0,0,,O que você disse?
-Dialogue: 5,0:17:08.61,0:17:12.67,OP Normal2,289,0,0,0,,Não me diga que você vai quebrar nosso acordo por um simples detalhe!
-Dialogue: 5,0:17:13.91,0:17:16.22,OP Normal2,290,0,0,0,,Você caiu.
+Dialogue: 5,0:17:08.61,0:17:12.67,OP Normal2,289,0,0,0,,Não me diga que você vai quebrar nosso acordo por essa lógica distorcida!
+Dialogue: 5,0:17:13.91,0:17:16.22,OP Normal2,290,0,0,0,,Eles são escória sem esperança.
 Dialogue: 5,0:17:16.22,0:17:18.64,OP Normal2,291,0,0,0,,Esses caras não têm nenhum traço de humanidade!
 Dialogue: 5,0:17:19.31,0:17:21.56,OP Normal2,292,0,0,0,,O que você disse?
 Dialogue: 5,0:17:23.34,0:17:25.35,OP Normal2,293,0,0,0,,Cala a boca, seu pedaço de lixo.
 Dialogue: 5,0:17:25.35,0:17:29.73,OP Normal2,294,0,0,0,,Não temos obrigação de cumprir nossas promessas a criminosos como você!
-Dialogue: 5,0:17:30.52,0:17:32.65,OP Normal2,295,0,0,0,,Pegue isso! Pegue isso! Seu desgraçado!
+Dialogue: 5,0:17:30.52,0:17:32.65,OP Normal2,295,0,0,0,,Tome isso! Tome isso! Seu desgraçado!
 Dialogue: 5,0:17:32.66,0:17:34.07,OP Normal2,296,0,0,0,,Você também!
 Dialogue: 5,0:17:35.49,0:17:37.70,OP Normal2,297,0,0,0,,Não seja tão presunçosa!
 Dialogue: 5,0:17:37.70,0:17:43.37,OP Normal2,298,0,0,0,,Enganar piratas e capturá-los é obviamente\No que os marinheiros fazem!
@@ -308,7 +308,7 @@ Dialogue: 0,0:19:45.33,0:19:46.70,OP Normal2,,0,0,0,,Eu vou te comer!\N
 Dialogue: 5,0:19:46.70,0:19:48.59,OP Normal2,364,0,0,0,,{\pos(274,698.667)}Vá para o inferno!
 Dialogue: 5,0:19:49.97,0:19:52.67,OP Normal2,365,0,0,0,,Ele é nosso capitão, sua vontade é forte!
 Dialogue: 5,0:19:52.67,0:19:55.25,OP Normal2,366,0,0,0,,Leve-nos para Luffy, Rei Bull!
-Dialogue: 5,0:19:58.51,0:20:01.05,OP Normal2,304,0,0,0,,Persega-os!  Não o deixe escapar!
+Dialogue: 5,0:19:58.51,0:20:01.05,OP Normal2,304,0,0,0,,Persiga-os!  Não o deixe escapar!
 Dialogue: 5,0:20:01.05,0:20:03.21,OP Normal2,305,0,0,0,,É apenas um inimigo, cerque-o!
 Dialogue: 5,0:20:04.78,0:20:05.64,OP Normal2,306,0,0,0,,Pare!
 Dialogue: 5,0:20:06.46,0:20:08.56,OP Normal2,307,0,0,0,,{\fad(0,300)}Fique de lado!
@@ -340,14 +340,14 @@ Dialogue: 5,0:21:15.71,0:21:17.89,EnmedioArriba,328,0,0,0,,{\1a&HA1&}Ajude-me, e
 Dialogue: 5,0:21:17.89,0:21:18.91,EnmedioArriba,329,0,0,0,,{\1a&HA1&}Isso é assédio sexual.
 Dialogue: 5,0:21:20.52,0:21:23.72,OP Normal2,330,0,0,0,,Temos um relatório sobre isso, chapapa.
 Dialogue: 5,0:21:23.72,0:21:26.89,OP Normal2,331,0,0,0,,O chefe estava tão preocupado que era embaraçoso.
-Dialogue: 5,0:21:27.30,0:21:30.70,OP Normal2,332,0,0,0,,Mas naquela época, o relatório dizia\Nque apenas 5 homens haviam caído.
+Dialogue: 5,0:21:27.30,0:21:30.70,OP Normal2,332,0,0,0,,Mas naquela época, o relatório dizia\Nque apenas 15 homens haviam caído.
 Dialogue: 5,0:21:35.73,0:21:38.10,Pensante,333,0,0,0,,O receptor está fora do gancho.
 Dialogue: 5,0:21:38.54,0:21:41.70,OP Normal2,435,0,0,0,,{\fad(0,300)}C-Comandante!  É horrível!
 Dialogue: 5,0:21:41.70,0:21:42.55,OP Normal2,436,0,0,0,,O que está acontecendo?!
 Dialogue: 5,0:21:42.55,0:21:44.86,OP Normal2,437,0,0,0,,Chapéu de palha Luffy...
 Dialogue: 5,0:21:47.84,0:21:51.23,OP Normal2,438,0,0,0,,O Chapéu de Palha Luffy desapareceu!
-Dialogue: 5,0:21:51.23,0:21:53.04,OP Normal2,439,0,0,0,,Não seja estúpido, como isso vai desaparecer?!
-Dialogue: 5,0:21:53.04,0:21:54.73,OP Normal2,440,0,0,0,,Quantos fuzileiros você acha que estão aqui?!
+Dialogue: 5,0:21:51.23,0:21:53.04,OP Normal2,439,0,0,0,,Não seja estúpido, como isso foi desaparecer?!
+Dialogue: 5,0:21:53.04,0:21:54.73,OP Normal2,440,0,0,0,,Quantos marinheiros você acha que estão aqui?!
 Dialogue: 5,0:21:54.73,0:21:56.46,OP Normal2,441,0,0,0,,Mas... Não está em lugar nenhum!
 Dialogue: 5,0:21:57.12,0:22:00.50,OP Normal2,442,0,0,0,,Espere um minuto... Ele não está dentro do Palácio da Justiça?!
 Dialogue: 5,0:22:00.51,0:22:03.96,OP Normal2,443,0,0,0,,Não!  Nem um inseto passou por aqui!
@@ -374,7 +374,7 @@ Dialogue: 5,0:23:46.33,0:23:48.90,OP Normal2,350,0,0,0,,Dá-me arrepios...
 Dialogue: 5,0:23:49.37,0:23:53.62,OP Normal2,351,0,0,0,,Não há dúvida de que são os\Nassassinos profissionais do Governo.
 Dialogue: 5,0:23:53.62,0:23:58.29,OP Normal2,352,0,0,0,,Meus subordinados são caras muito promissores...
 Dialogue: 5,0:23:58.29,0:24:03.17,OP Normal2,353,0,0,0,,Enquanto eles estiverem aqui, ninguém será capaz de me derrotar!
-Dialogue: 5,0:24:11.72,0:24:13.01,OP Normal2,446,0,0,0,,Nós vamos.
+Dialogue: 5,0:24:11.72,0:24:13.01,OP Normal2,446,0,0,0,,Certo.
 Dialogue: 5,0:24:13.97,0:24:16.54,OP Normal2,447,0,0,0,,Mas não tem como chegar...
 Dialogue: 5,0:24:16.54,0:24:19.35,OP Normal2,448,0,0,0,,É um pouco longe, mas posso tentar voar até lá.
 Dialogue: 5,0:24:24.31,0:24:25.72,OP Normal2,449,0,0,0,,Que?
@@ -384,7 +384,7 @@ Dialogue: 5,0:24:25.61,0:24:27.23,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(
 Dialogue: 5,0:24:25.61,0:24:27.23,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,1120,1620)}chibukai
 Dialogue: 5,0:24:25.61,0:24:27.23,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,1120,1620)}fansub!
 Dialogue: 5,0:24:25.61,0:24:27.23,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,1120,1620)}Porta no ar.
-Dialogue: 5,0:24:37.13,0:24:40.24,OP Normal2,452,0,0,0,,Você é a vaca que estava com o cara com o pombo!
+Dialogue: 5,0:24:37.13,0:24:40.24,OP Normal2,452,0,0,0,,Você é a vaca que estava com o cara do pombo!
 Dialogue: 5,0:24:40.24,0:24:44.58,OP Normal2,453,0,0,0,,Parece que o relatório de danos estava errado.
 Dialogue: 5,0:24:44.58,0:24:47.09,OP Normal2,454,0,0,0,,Ei, como você fez isso?!
 Dialogue: 5,0:24:47.09,0:24:48.17,OP Normal2,455,0,0,0,,Incrível!
