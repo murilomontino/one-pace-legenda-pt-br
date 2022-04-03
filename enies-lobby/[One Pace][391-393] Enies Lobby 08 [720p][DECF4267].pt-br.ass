@@ -47,7 +47,7 @@ Comment: 0,0:01:49.96,0:01:50.01,Default,chptr,0,0,0,,{episódio}
 Comment: 0,0:00:01.94,0:00:01.98,Default,OP,0,0,0,,
 Dialogue: 0,0:01:54.23,0:01:56.60,OP Normal2,,0,0,0,,Eles tiveram que atravessar o Aqua Laguna para chegar aqui.
 Dialogue: 0,0:01:56.60,0:01:58.60,OP Normal2,,0,0,0,,Se você pensar sobre isso, é incrível.
-Dialogue: 0,0:01:59.47,0:02:01.26,OP Normal2,,0,0,0,,Pelo menos eles parecem ter sorte.
+Dialogue: 0,0:01:59.47,0:02:01.26,OP Normal2,,0,0,0,,Pelo menos parecem ter sorte.
 Dialogue: 0,0:02:01.26,0:02:03.59,OP Normal2,,0,0,0,,Desta vez, temos permissão para matá-los.
 Dialogue: 0,0:02:03.59,0:02:06.60,OP Normal2,,0,0,0,,É muito mais fácil quando você não precisa se segurar.
 Dialogue: 0,0:02:07.54,0:02:08.59,OP Normal2,,0,0,0,,Ponte levadiça?
@@ -101,7 +101,7 @@ Dialogue: 0,0:04:46.26,0:04:48.85,OP Normal2,,0,0,0,,Cuidado para não usar um t
 Dialogue: 0,0:05:06.20,0:05:10.09,OP Normal2,,0,0,0,,Você acabou de dizer que Ohara desapareceu dos mapas, não foi?
 Dialogue: 0,0:05:10.09,0:05:13.12,OP Normal2,,0,0,0,,Você acha que uma pessoa só entende o que vê no mapa?
 Dialogue: 0,0:05:13.12,0:05:16.96,OP Normal2,,0,0,0,,É por causa da maneira como eles vêem o mundo...
-Dialogue: 0,0:05:17.48,0:05:20.29,OP Normal2,,0,0,0,,É por isso que eles são capazes de fazer coisas tão desumanas!
+Dialogue: 0,0:05:17.48,0:05:20.29,OP Normal2,,0,0,0,,É por isso que são capazes de fazer coisas tão desumanas!
 Dialogue: 0,0:05:29.73,0:05:31.31,OP Normal2,,0,0,0,,O Buster Call...
 Dialogue: 0,0:05:31.31,0:05:34.02,OP Normal2,,0,0,0,,...é o poder implacável que faz perder toda a esperança.
 Dialogue: 0,0:05:34.85,0:05:37.19,OP Normal2,,0,0,0,,É algo que nunca deve ser usado.
@@ -232,7 +232,7 @@ Dialogue: 0,0:12:12.89,0:12:14.29,Recuerdo,,0,0,0,,Robin...
 Dialogue: 0,0:12:17.00,0:12:18.42,Recuerdo,,0,0,0,,É certo...
 Dialogue: 0,0:12:18.42,0:12:22.97,Recuerdo,,0,0,0,,Você demonstrou conhecimento\Nsuficiente para ser chamaao de erudita.
 Dialogue: 0,0:12:22.97,0:12:26.05,Recuerdo,,0,0,0,,Mas... você ainda é uma garota.
-Dialogue: 0,0:12:26.05,0:12:29.65,Recuerdo,,0,0,0,,Se eles encontrarem você trabalhando conosco, eles a executarão.
+Dialogue: 0,0:12:26.05,0:12:29.65,Recuerdo,,0,0,0,,Se eles encontrarem você trabalhando conosco, a executarão.
 Dialogue: 0,0:12:29.65,0:12:32.69,Recuerdo,,0,0,0,,Já nos preparamos para isso.
 Dialogue: 0,0:12:32.69,0:12:36.81,Recuerdo,,0,0,0,,Há oitocentos anos, quando esta lei do Governo entrou em vigor,
 Dialogue: 0,0:12:36.81,0:12:41.49,Recuerdo,,0,0,0,,o número de estudiosos que deram suas vidas excede as estrelas no céu.
@@ -445,27 +445,27 @@ Dialogue: 0,0:25:01.56,0:25:03.56,Recuerdo,,0,0,0,,Eu não estou mentindo!
 Dialogue: 0,0:25:03.56,0:25:06.94,Recuerdo,,0,0,0,,Você deve ir à cidade e ver se ocorreu algum desastre!
 Dialogue: 0,0:25:06.94,0:25:11.05,Recuerdo,,0,0,0,,Sua mãe pode até ter voltado!
 Dialogue: 0,0:25:19.50,0:25:21.45,Recuerdo,,0,0,0,,{\an8}Já faz muito tempo, gente.
-Dialogue: 0,0:25:21.45,0:25:22.58,Recuerdo,,0,0,0,,esqueça
-Dialogue: 0,0:25:22.58,0:25:23.55,Recuerdo,,0,0,0,,Esqueça-san!
+Dialogue: 0,0:25:21.45,0:25:22.58,Recuerdo,,0,0,0,,Olvia
+Dialogue: 0,0:25:22.58,0:25:23.55,Recuerdo,,0,0,0,,Olvia-san!
 Dialogue: 0,0:25:23.55,0:25:25.75,Recuerdo,,0,0,0,,Foi você que veio a bordo do navio da Marinha?
 Dialogue: 0,0:25:25.75,0:25:27.46,Recuerdo,,0,0,0,,Você não foi capturada pelos fuzileiros navais?
 Dialogue: 0,0:25:35.32,0:25:38.59,Recuerdo,,0,0,0,,Acabei de voltar e já tenho más notícias para você.
 Dialogue: 0,0:25:38.59,0:25:40.35,Recuerdo,,0,0,0,,Mas o que eu lhe disse é verdade.
 Dialogue: 0,0:25:40.35,0:25:44.56,Recuerdo,,0,0,0,,Então, finalmente, o governo se concentrou neste lugar.
-Dialogue: 0,0:25:45.50,0:25:47.01,Recuerdo,,0,0,0,,Eles leram o jornal?
+Dialogue: 0,0:25:45.50,0:25:47.01,Recuerdo,,0,0,0,,Vocês leram o jornal?
 Dialogue: 0,0:25:47.01,0:25:51.87,Recuerdo,,0,0,0,,A equipe que deixou Ohara há seis anos para estudar os Poneglyphs...
 Dialogue: 0,0:25:51.87,0:25:53.74,Recuerdo,,0,0,0,,Seus 33 membros foram mortos.
 Dialogue: 0,0:25:53.74,0:25:56.67,Recuerdo,,0,0,0,,Todos... menos eu.
 Dialogue: 0,0:25:56.67,0:25:59.28,Recuerdo,,0,0,0,,Também fui capturada pelos fuzileiros navais.
-Dialogue: 0,0:25:59.28,0:26:03.91,Recuerdo,,0,0,0,,Eles revistaram os pertences dos meus companheiros mortos.
+Dialogue: 0,0:25:59.28,0:26:03.91,Recuerdo,,0,0,0,,Revistaram os pertences dos meus companheiros mortos.
 Dialogue: 0,0:26:03.91,0:26:07.75,Recuerdo,,0,0,0,,O governo descobriu que éramos de Ohara.
 Dialogue: 0,0:26:08.16,0:26:09.79,Recuerdo,,0,0,0,,Não tenho desculpa.
 Dialogue: 0,0:26:09.79,0:26:13.09,Recuerdo,,0,0,0,,Sou responsável por toda esta ilha estar em perigo.
 Dialogue: 0,0:26:13.09,0:26:14.34,Recuerdo,,0,0,0,,Pare!
 Dialogue: 0,0:26:14.34,0:26:16.86,Recuerdo,,0,0,0,,Não importa de quem é a culpa!
 Dialogue: 0,0:26:16.86,0:26:21.00,Recuerdo,,0,0,0,,Tanto os que foram para o mar como os que aqui ficaram formam a mesma equipa.
-Dialogue: 0,0:26:21.00,0:26:24.35,Recuerdo,,0,0,0,,Não são vocês que suportaram dificuldades?
-Dialogue: 0,0:26:25.38,0:26:27.06,Recuerdo,,0,0,0,,Certamente eles sofreram muito por nós.
+Dialogue: 0,0:26:21.00,0:26:24.35,Recuerdo,,0,0,0,,Não são vocês que suportaram as dificuldades?
+Dialogue: 0,0:26:25.38,0:26:27.06,Recuerdo,,0,0,0,,Certamente vocês sofreram muito por nós.
 Dialogue: 0,0:26:28.81,0:26:30.02,Recuerdo,,0,0,0,,Doutor...
 Dialogue: 0,0:26:30.46,0:26:34.36,Recuerdo,,0,0,0,,Desde o início, o governo\Nvia Ohara como uma ameaça,
 Dialogue: 0,0:26:34.36,0:26:40.16,Recuerdo,,0,0,0,,como os maiores estudiosos do mundo se reuniram aqui para o estudo da história.
@@ -491,10 +491,10 @@ Dialogue: 0,0:27:35.75,0:27:38.21,Recuerdo,,0,0,0,,Há algo mais incomodando voc
 Dialogue: 0,0:27:39.20,0:27:41.43,Recuerdo,,0,0,0,,Mas... eu não deveria vê-la...
 Dialogue: 0,0:27:42.44,0:27:44.35,Recuerdo,,0,0,0,,Decida-se, Olvia!
 Dialogue: 0,0:27:44.35,0:27:46.39,Recuerdo,,0,0,0,,Você vai entrar no barco ou não?
-Dialogue: 0,0:27:46.39,0:27:49.16,Recuerdo,,0,0,0,,Se você quer ficar com sua filha, esqueça.
+Dialogue: 0,0:27:46.39,0:27:49.16,Recuerdo,,0,0,0,,Se você quer ficar com sua filha, Olvia.
 Dialogue: 0,0:27:49.16,0:27:51.10,Recuerdo,,0,0,0,,Se for por causa do trabalho do seu marido, podemos...
 Dialogue: 0,0:27:52.14,0:27:53.61,Recuerdo,,0,0,0,,Não, vamos.
-Dialogue: 0,0:27:53.61,0:27:55.98,Recuerdo,,0,0,0,,Eu sou um estudioso de Ohara!
+Dialogue: 0,0:27:53.61,0:27:55.98,Recuerdo,,0,0,0,,Eu sou uma estudiosa de Ohara!
 Dialogue: 0,0:27:55.98,0:27:59.28,Recuerdo,,0,0,0,,Não posso desistir do desejo de nossos ancestrais!
 Dialogue: 0,0:28:00.25,0:28:01.70,Recuerdo,,0,0,0,,Sinto muito Robin.
 Dialogue: 0,0:28:01.70,0:28:05.63,Recuerdo,,0,0,0,,Assim que eu resolver o quebra-cabeça,\Ntenha certeza de que voltarei.
