@@ -16,8 +16,9 @@ Video File: [One Pace][397-398] Enies Lobby 10 [720p][6C908F32].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 363
-Video Position: 597
+Scroll Position: 335
+Active Line: 341
+Video Position: 30741
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +45,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Abrir}
 Comment: 0,0:01:49.88,0:01:49.88,Default,chptr,0,0,0,,{episódio}
 Comment: 0,0:00:46.11,0:00:46.15,Default,OP,0,0,0,,
-Dialogue: 0,0:01:50.75,0:01:52.55,Recuerdo,,0,0,0,,Pare Saulo!
+Dialogue: 0,0:01:50.75,0:01:52.55,Recuerdo,,0,0,0,,Pare Saul!
 Dialogue: 0,0:01:52.55,0:01:53.96,Recuerdo,,0,0,0,,Prepare-se!
 Dialogue: 0,0:01:53.96,0:01:58.47,Recuerdo,,0,0,0,,Se você se tornar meu inimigo, é melhor estar preparado para as consequências!
 Dialogue: 0,0:02:10.52,0:02:11.94,Recuerdo,,0,0,0,,O que está acontecendo?!
@@ -58,7 +59,7 @@ Dialogue: 0,0:02:29.50,0:02:30.88,Recuerdo,,0,0,0,,Não desista!
 Dialogue: 0,0:02:30.88,0:02:32.34,Recuerdo,,0,0,0,,Temos que resgatar os livros!
 Dialogue: 0,0:02:32.34,0:02:33.84,Recuerdo,,0,0,0,,A história deve ser preservada!
 Dialogue: 0,0:02:35.38,0:02:37.22,Recuerdo,,0,0,0,,Jogue-os pela janela no lago!
-Dialogue: 0,0:02:37.22,0:02:39.09,Recuerdo,,0,0,0,,É melhor deixá-los queimar!
+Dialogue: 0,0:02:37.22,0:02:39.09,Recuerdo,,0,0,0,,É melhor que deixá-los queimar!
 Dialogue: 0,0:02:39.09,0:02:39.72,Recuerdo,,0,0,0,,se apresse!
 Dialogue: 0,0:02:42.93,0:02:44.18,Recuerdo,,0,0,0,,Agora!
 Dialogue: 0,0:02:47.89,0:02:50.10,Recuerdo,,0,0,0,,Saulo, pare!
@@ -66,7 +67,7 @@ Dialogue: 0,0:02:50.10,0:02:51.06,Recuerdo,,0,0,0,,Eles vão te matar!
 Dialogue: 0,0:02:51.06,0:02:54.07,Recuerdo,,0,0,0,,Tire esses textos da biblioteca!
 Dialogue: 0,0:02:54.07,0:02:58.82,Recuerdo,,0,0,0,,Todos que puderem!  Eles têm que guardar até a última palavra!
 Dialogue: 0,0:02:59.98,0:03:03.28,Recuerdo,,0,0,0,,Para que a mensagem de nossos\Nancestrais, há milhares de anos...
-Dialogue: 0,0:03:03.28,0:03:05.37,Recuerdo,,0,0,0,,...pode alcançar o futuro!
+Dialogue: 0,0:03:03.28,0:03:05.37,Recuerdo,,0,0,0,,...possa alcançar o futuro!
 Dialogue: 0,0:03:09.00,0:03:09.54,Recuerdo,,0,0,0,,Robin!
 Dialogue: 0,0:03:09.54,0:03:11.25,Recuerdo,,0,0,0,,O que você está fazendo aí?!
 Dialogue: 0,0:03:11.25,0:03:13.50,Recuerdo,,0,0,0,,Você tem que embarcar no navio de evacuação!
@@ -86,13 +87,13 @@ Dialogue: 0,0:04:21.11,0:04:22.86,Recuerdo,,0,0,0,,Vai monstro!
 Dialogue: 0,0:04:22.86,0:04:24.78,Recuerdo,,0,0,0,,Ei!  Cala a boca, rude!
 Dialogue: 0,0:04:24.78,0:04:26.16,Recuerdo,,0,0,0,,Não... espere...
 Dialogue: 0,0:04:26.16,0:04:29.33,Recuerdo,,0,0,0,,Aquela menina... acho que é filha da Olvia, a mulher que apareceu no jornal agora há pouco.
-Dialogue: 0,0:04:29.33,0:04:30.66,Recuerdo,,0,0,0,,Ela é filha do criminoso?!
+Dialogue: 0,0:04:29.33,0:04:30.66,Recuerdo,,0,0,0,,Ela é filha da criminoasa?!
 Dialogue: 0,0:04:30.66,0:04:32.25,Recuerdo,,0,0,0,,É certo!
 Dialogue: 0,0:04:32.25,0:04:35.29,Recuerdo,,0,0,0,,Se o deixarmos entrar no navio, eles também nos atacarão!
 Dialogue: 0,0:04:35.29,0:04:36.25,Recuerdo,,0,0,0,,Não sejas estúpido!
 Dialogue: 0,0:04:36.25,0:04:37.21,Recuerdo,,0,0,0,,É apenas uma menina!
 Dialogue: 0,0:04:37.21,0:04:38.63,Recuerdo,,0,0,0,,O que você está esperando para carregá-lo!
-Dialogue: 0,0:04:38.63,0:04:41.67,EnmedioArriba,,0,0,0,,Para o navio de evacuação!  Não deixe aquele pirralho embarcar!
+Dialogue: 0,0:04:38.63,0:04:41.67,EnmedioArriba,,0,0,0,,Pare o navio de evacuação!  Não deixe aquela pirralha embarcar!
 Dialogue: 0,0:04:42.72,0:04:45.55,Recuerdo,,0,0,0,,Ela pode ser apenas uma menina, mas já é uma arqueóloga.
 Dialogue: 0,0:04:45.55,0:04:47.68,Recuerdo,,0,0,0,,É um dos alvos do ataque!
 Dialogue: 0,0:04:47.68,0:04:49.26,Recuerdo,,0,0,0,,Chefe Spandine!
@@ -106,7 +107,7 @@ Dialogue: 0,0:05:02.19,0:05:03.49,Recuerdo,,0,0,0,,Fala serio?!
 Dialogue: 0,0:05:03.49,0:05:06.11,Recuerdo,,0,0,0,,Acho que não precisamos mais\Nperguntar a Olvia onde ela está!
 Dialogue: 0,0:05:06.11,0:05:07.11,Recuerdo,,0,0,0,,Atire, atire!
 Dialogue: 0,0:05:07.11,0:05:07.99,Recuerdo,,0,0,0,,Acabe com ele!
-Dialogue: 0,0:05:11.12,0:05:13.91,Recuerdo,,0,0,0,,Partidário do Bloco de Gelo!
+Dialogue: 0,0:05:11.12,0:05:13.91,Recuerdo,,0,0,0,,Ice Block!{\fad(150,150)}
 Dialogue: 0,0:05:10.91,0:05:14.41,NDTBoard,,0,0,0,,{\clip(0,0,1279,719)\1a&H80&\be1\fad(300,0)\t(0,300,\fscx570)\move(133,65,133,-57,3000,3500)}frio
 Dialogue: 0,0:05:10.91,0:05:14.41,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(60,69,60,-53,3000,3500)}Shi
 Dialogue: 0,0:05:10.91,0:05:14.41,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,3000,3500)}chibukai
@@ -124,7 +125,7 @@ Dialogue: 0,0:05:45.28,0:05:47.03,Recuerdo,,0,0,0,,É ridículo!
 Dialogue: 0,0:05:47.03,0:05:48.66,Recuerdo,,0,0,0,,Eu sei que você sabe o que está acontecendo!
 Dialogue: 0,0:05:48.66,0:05:50.03,Recuerdo,,0,0,0,,Isso é por exemplo!
 Dialogue: 0,0:05:50.03,0:05:53.45,Recuerdo,,0,0,0,,Eles vão destruir Ohara só por isso!
-Dialogue: 0,0:05:53.45,0:05:57.16,Recuerdo,,0,0,0,,Se é para o bem do mundo, então faça.
+Dialogue: 0,0:05:53.45,0:05:57.16,Recuerdo,,0,0,0,,Se é para o bem do mundo, então não pode ser evitado.
 Dialogue: 0,0:05:57.16,0:06:00.29,Recuerdo,,0,0,0,,Esses estudiosos estavam infringindo a lei, pura e simplesmente.
 Dialogue: 0,0:06:00.29,0:06:04.38,Recuerdo,,0,0,0,,A "justiça" pode assumir diferentes formas, dependendo das circunstâncias.
 Dialogue: 0,0:06:04.38,0:06:07.47,Recuerdo,,0,0,0,,Portanto, não vou negar seu senso de "justiça".
@@ -147,7 +148,7 @@ Dialogue: 0,0:06:55.06,0:06:56.77,Recuerdo,,0,0,0,,Estamos indo, Robin!
 Dialogue: 0,0:06:56.77,0:06:59.44,Recuerdo,,0,0,0,,É muito mais forte do que você pode imaginar!
 Dialogue: 0,0:06:59.44,0:07:01.08,Recuerdo,,0,0,0,,Saul tenta escapar!
 Dialogue: 0,0:07:01.08,0:07:03.36,Recuerdo,,0,0,0,,Ele leva um dos estudiosos!
-Dialogue: 0,0:07:05.90,0:07:08.03,Recuerdo,,0,0,0,,Cápsula do Tempo de Gelo!
+Dialogue: 0,0:07:05.90,0:07:08.03,Recuerdo,,0,0,0,,Ice Time Capsule!{\fad(150,150)}
 Dialogue: 0,0:07:05.48,0:07:08.65,NDTBoard,,0,0,0,,{\clip(0,0,1279,719)\1a&H80&\be1\fad(300,0)\t(0,300,\fscx570)\move(133,65,133,-57,2670,3170)}frio
 Dialogue: 0,0:07:05.48,0:07:08.65,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(60,69,60,-53,2670,3170)}Shi
 Dialogue: 0,0:07:05.48,0:07:08.65,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,2670,3170)}chibukai
@@ -163,31 +164,31 @@ Dialogue: 0,0:07:31.59,0:07:34.68,Recuerdo,,0,0,0,,Este é o meu fim.
 Dialogue: 0,0:07:34.68,0:07:35.84,Recuerdo,,0,0,0,,Ele me pegou!
 Dialogue: 0,0:07:36.52,0:07:37.43,Recuerdo,,0,0,0,,Vá embora!
 Dialogue: 0,0:07:37.43,0:07:40.02,Recuerdo,,0,0,0,,Não!  Ninguém está esperando por mim no mar!
-Dialogue: 0,0:07:40.02,0:07:42.35,Recuerdo,,0,0,0,,Ouça este Robin...
-Dialogue: 0,0:07:43.16,0:07:48.36,Recuerdo,,0,0,0,,Você pode estar sozinho agora, mas um dia encontrará amigos!
+Dialogue: 0,0:07:40.02,0:07:42.35,Recuerdo,,0,0,0,,Ouça Robin...
+Dialogue: 0,0:07:43.16,0:07:48.36,Recuerdo,,0,0,0,,Você pode estar sozinha agora, mas um dia encontrará amigos!
 Dialogue: 0,0:07:51.70,0:07:52.99,Recuerdo,,0,0,0,,Amigos?
 Dialogue: 0,0:07:52.99,0:07:56.12,Recuerdo,,0,0,0,,Sim, o mar é extremamente vasto.
 Dialogue: 0,0:07:56.12,0:07:58.82,Recuerdo,,0,0,0,,Tenho certeza que um dia...
-Dialogue: 0,0:07:58.82,0:08:02.00,Recuerdo,,0,0,0,,...você encontrará amigos que lutarão para protegê-lo!
+Dialogue: 0,0:07:58.82,0:08:02.00,Recuerdo,,0,0,0,,...você encontrará amigos que lutarão para protegê-la!
 Dialogue: 0,0:08:02.00,0:08:06.59,Recuerdo,,0,0,0,,{\fad(0,200)}Ninguém nasce neste mundo completamente sozinho!
-Dialogue: 0,0:08:09.80,0:08:11.92,Recuerdo,,0,0,0,,Corre Robin!
+Dialogue: 0,0:08:09.80,0:08:11.92,Recuerdo,,0,0,0,,Corra Robin!
 Dialogue: 0,0:08:11.92,0:08:13.41,Recuerdo,,0,0,0,,E não olhe para trás!
 Dialogue: 0,0:08:13.41,0:08:15.80,Recuerdo,,0,0,0,,Por mais difícil que seja a vida, lembre-se do que eu te ensinei!
 Dialogue: 0,0:08:15.80,0:08:17.56,Recuerdo,,0,0,0,,Você tem que rir assim!
-Dialogue: 0,0:08:17.56,0:08:19.22,Recuerdo,,0,0,0,,Paulo, cuidado!
-Dialogue: 0,0:08:22.18,0:08:23.89,Recuerdo,,0,0,0,,Hora do Gelo.
+Dialogue: 0,0:08:17.56,0:08:19.22,Recuerdo,,0,0,0,,Saul, cuidado!
+Dialogue: 0,0:08:22.18,0:08:23.89,Recuerdo,,0,0,0,,Ice Time.
 Dialogue: 0,0:08:21.77,0:08:24.27,NDTBoard,,0,0,0,,{\clip(0,0,1279,719)\1a&H80&\be1\fad(300,0)\t(0,300,\fscx570)\move(133,65,133,-57,2000,2500)}frio
 Dialogue: 0,0:08:21.77,0:08:24.27,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(60,69,60,-53,2000,2500)}Shi
 Dialogue: 0,0:08:21.77,0:08:24.27,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,2000,2500)}chibukai
 Dialogue: 0,0:08:21.77,0:08:24.27,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,2000,2500)}fansub!
 Dialogue: 0,0:08:21.77,0:08:24.27,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,2000,2500)}Era do Gelo.
-Dialogue: 0,0:08:26.19,0:08:27.48,Recuerdo,,0,0,0,,Saulo!
-Dialogue: 0,0:08:28.82,0:08:34.86,Recuerdo,,0,0,0,,Vá encontrar seus amigos esperando\Npor você em algum lugar no mar, Robin!
+Dialogue: 0,0:08:26.19,0:08:27.48,Recuerdo,,0,0,0,,Saul!
+Dialogue: 0,0:08:28.82,0:08:34.86,Recuerdo,,0,0,0,,Vá encontrar seus amigos que estão esperando\Npor você em algum lugar no mar, Robin!
 Dialogue: 0,0:08:38.74,0:08:42.33,Pensante,,0,0,0,,Viva junto com eles...
 Dialogue: 0,0:08:55.80,0:08:57.09,Recuerdo,,0,0,0,,Este é o fim!
 Dialogue: 0,0:08:57.09,0:09:00.63,Pensante,,0,0,0,,Esta é também a história que a humanidade escolheu...
 Dialogue: 0,0:09:01.56,0:09:04.64,Pensante,,0,0,0,,Nós, os humanos insensíveis.
-Dialogue: 0,0:09:05.35,0:09:07.61,Pensante,,0,0,0,,desculpa Robson...
+Dialogue: 0,0:09:05.35,0:09:07.61,Pensante,,0,0,0,,desculpa Robin...
 Dialogue: 0,0:09:10.04,0:09:12.54,Pensante,,0,0,0,,Eu não poderia nem te deixar...
 Dialogue: 0,0:09:14.76,0:09:16.74,Pensante,,0,0,0,,... algumas palavras como mãe.
 Dialogue: 0,0:09:16.74,0:09:18.99,Recuerdo,,0,0,0,,A árvore do conhecimento...
@@ -197,7 +198,7 @@ Dialogue: 0,0:09:30.42,0:09:32.88,Recuerdo,,0,0,0,,...às vezes pode deixar um h
 Dialogue: 0,0:09:32.88,0:09:36.41,Recuerdo,,0,0,0,,Eu decidi deixar você escapar da ilha.
 Dialogue: 0,0:09:36.41,0:09:40.30,Recuerdo,,0,0,0,,Para ver o que essa semente se\Ntorna... que Saul queria proteger.
 Dialogue: 0,0:09:40.30,0:09:43.77,Recuerdo,,0,0,0,,Você é livre para odiar quem quiser,
-Dialogue: 0,0:09:43.77,0:09:47.41,Recuerdo,,0,0,0,,Mas, por enquanto, você deveria estar agradecido por ainda estar vivo.
+Dialogue: 0,0:09:43.77,0:09:47.41,Recuerdo,,0,0,0,,Mas, por enquanto, você deveria estar agradecida por ainda estar viva.
 Dialogue: 0,0:09:47.41,0:09:49.40,Recuerdo,,0,0,0,,Tente viver no anonimato.
 Dialogue: 0,0:09:50.41,0:09:52.78,Recuerdo,,0,0,0,,Eu marquei um caminho de gelo no mar.
 Dialogue: 0,0:09:52.78,0:09:57.24,Recuerdo,,0,0,0,,Se você o seguir com este pequeno barco, chegará à terra.
@@ -207,23 +208,23 @@ Dialogue: 0,0:10:03.33,0:10:08.29,Recuerdo,,0,0,0,,Se você fizer alguma coisa, 
 Dialogue: 0,0:10:08.80,0:10:11.09,Recuerdo,,0,0,0,,Minha mãe ainda está na ilha!
 Dialogue: 0,0:10:11.09,0:10:13.55,Recuerdo,,0,0,0,,Ninguém sobreviverá.
 Dialogue: 0,0:10:13.55,0:10:14.80,Recuerdo,,0,0,0,,Se é muito doloroso e você quer morrer...
-Dialogue: 0,0:10:14.80,0:10:17.01,Recuerdo,,0,0,0,,...que será sua decisão.
+Dialogue: 0,0:10:14.80,0:10:17.01,Recuerdo,,0,0,0,,...que seja sua decisão.
 Dialogue: 0,0:10:18.32,0:10:20.72,Recuerdo,,0,0,0,,{\fad(0,200)}Esta é a maior biblioteca do mundo.
 Dialogue: 0,0:10:21.87,0:10:23.22,Recuerdo,,0,0,0,,{\fad(0,200)}Você gosta de livros?
-Dialogue: 0,0:10:23.22,0:10:25.98,Recuerdo,,0,0,0,,{\fad(0,200)}Hoje é aniversário do Robin!
-Dialogue: 0,0:10:25.98,0:10:29.10,Recuerdo,,0,0,0,,{\fad(0,200)}Parabéns Robson!
-Dialogue: 0,0:10:25.98,0:10:29.10,Enmedio2,,0,0,0,,{\fad(0,200)}Parabéns Robson!
-Dialogue: 0,0:10:29.10,0:10:30.77,Recuerdo,,0,0,0,,{\fad(0,200)}Seja orgulhoso Robin!
+Dialogue: 0,0:10:23.22,0:10:25.98,Recuerdo,,0,0,0,,{\fad(0,200)}Hoje é aniversário da Robin!
+Dialogue: 0,0:10:25.98,0:10:29.10,Recuerdo,,0,0,0,,{\fad(0,200)}Parabéns Robin!
+Dialogue: 0,0:10:25.98,0:10:29.10,Enmedio2,,0,0,0,,{\fad(0,200)}Parabéns Robin!
+Dialogue: 0,0:10:29.10,0:10:30.77,Recuerdo,,0,0,0,,{\fad(0,200)}Seja orgulhosa Robin!
 Dialogue: 0,0:10:30.77,0:10:32.69,Recuerdo,,0,0,0,,{\fad(0,200)}Ohara é um lugar maravilhoso!
 Dialogue: 0,0:10:32.69,0:10:35.69,Recuerdo,,0,0,0,,{\fad(0,200)}Não podemos desistir!
 Dialogue: 0,0:10:35.69,0:10:38.24,Recuerdo,,0,0,0,,{\fad(0,200)}Não perdemos a fé no futuro!
 Dialogue: 0,0:10:38.49,0:10:40.24,Recuerdo,,0,0,0,,{\fad(0,200)}Você precisa rir!
-Dialogue: 0,0:10:40.24,0:10:42.62,Recuerdo,,0,0,0,,{\fad(0,200)}Faça as pessoas rirem mesmo quando te machucarem!
+Dialogue: 0,0:10:40.24,0:10:42.62,Recuerdo,,0,0,0,, Quando estiver com dificuldades, apenas ria.
 Dialogue: 0,0:10:43.25,0:10:45.58,Recuerdo,,0,0,0,,{\fad(0,200)}Rir quando te machucam é estúpido...
 Dialogue: 0,0:10:45.58,0:10:47.78,Recuerdo,,0,0,0,,{\fad(0,200)}Acredite, não é!
 Dialogue: 0,0:11:40.82,0:11:46.39,Recuerdo,,0,0,0,,{\fad(0,200)}Vá encontrar seus amigos esperando\Npor você em algum lugar no mar, Robin!
 Dialogue: 0,0:12:03.91,0:12:05.65,Recuerdo,,0,0,0,,Sobreviventes?
-Dialogue: 0,0:12:05.65,0:12:07.20,Recuerdo,,0,0,0,,Claro que eles não são.
+Dialogue: 0,0:12:05.65,0:12:07.20,Recuerdo,,0,0,0,,Claro que eles não estão.
 Dialogue: 0,0:12:09.51,0:12:10.91,Recuerdo,,0,0,0,,Ei, olhe para este lago!
 Dialogue: 0,0:12:12.48,0:12:13.92,Recuerdo,,0,0,0,,T-Esses são...
 Dialogue: 0,0:12:19.96,0:12:22.64,Recuerdo,,0,0,0,,Há livros suficientes para encher o lago.
@@ -233,23 +234,23 @@ Dialogue: 0,0:12:26.60,0:12:28.83,Recuerdo,,0,0,0,,Sem dúvida é ela.
 Dialogue: 0,0:12:28.83,0:12:30.02,Recuerdo,,0,0,0,,Onde ela estava?
 Dialogue: 0,0:12:30.02,0:12:30.84,Recuerdo,,0,0,0,,Ela foi capturada?
 Dialogue: 0,0:12:30.84,0:12:31.85,Recuerdo,,0,0,0,,Não!
-Dialogue: 0,0:12:31.85,0:12:33.78,Recuerdo,,0,0,0,,Seguimos sua liderança em "uma garota misteriosa",
+Dialogue: 0,0:12:31.85,0:12:33.78,Recuerdo,,0,0,0,,Não senhor! Estávamos procurando uma garota suspeita, conforme solicitado...
 Dialogue: 0,0:12:33.78,0:12:36.86,Recuerdo,,0,0,0,,Nós a encontramos em um navio de passageiros,\Nsaindo de uma ilha a nordeste de Ohara.
-Dialogue: 0,0:12:36.86,0:12:40.61,Recuerdo,,0,0,0,,Mas perdemos o rastro dele novamente depois de um curto período de tempo...
-Dialogue: 0,0:12:41.61,0:12:43.78,Recuerdo,,0,0,0,,Ele tem uma sorte diabólica...
-Dialogue: 0,0:12:43.78,0:12:47.07,Recuerdo,,0,0,0,,Naquela ocasião, eu pude ver aquele pirralho...
-Dialogue: 0,0:12:47.07,0:12:51.70,Recuerdo,,0,0,0,,Ele estava fugindo das chamas que\Ncobriam Ohara em um pequeno barco!
-Dialogue: 0,0:12:52.49,0:12:56.88,Recuerdo,,0,0,0,,Mas quando tentei ir atrás dela, o leme\Ncongelou como se estivesse congelado.
+Dialogue: 0,0:12:36.86,0:12:40.61,Recuerdo,,0,0,0,,Mas perdemos o rastro dela novamente depois de um curto período de tempo...
+Dialogue: 0,0:12:41.61,0:12:43.78,Recuerdo,,0,0,0,,Ela tem uma sorte diabólica...
+Dialogue: 0,0:12:43.78,0:12:47.07,Recuerdo,,0,0,0,,Naquela ocasião, eu pude ver aquela pirralha...
+Dialogue: 0,0:12:47.07,0:12:51.70,Recuerdo,,0,0,0,,Ela estava fugindo das chamas que\Ncobriam Ohara em um pequeno barco!
+Dialogue: 0,0:12:52.49,0:12:56.88,Recuerdo,,0,0,0,,Mas quando tentei ir atrás dela, o leme\Nparou como se estivesse congelado.
 Dialogue: 0,0:12:57.62,0:13:00.80,Recuerdo,,0,0,0,,Saul deve tê-la libertado em seus últimos momentos!
 Dialogue: 0,0:13:02.57,0:13:04.80,Recuerdo,,0,0,0,,Embora seja jovem, sua existência é uma ameaça.
-Dialogue: 0,0:13:04.80,0:13:08.22,Recuerdo,,0,0,0,,Mais sabendo que ele pode decifrar os Poneglyphs.
+Dialogue: 0,0:13:04.80,0:13:08.22,Recuerdo,,0,0,0,,Ainda mais sabendo que ela pode decifrar os Poneglyphs.
 Dialogue: 0,0:13:08.98,0:13:10.56,Recuerdo,,0,0,0,,Não importa como eles fazem isso!
 Dialogue: 0,0:13:10.56,0:13:15.19,Recuerdo,,0,0,0,,Se não a capturarmos logo, todos\Nos nossos esforços terão sido em vão.
 Dialogue: 0,0:13:19.66,0:13:21.55,Recuerdo,,0,0,0,,$ 79.000.000?!
 Dialogue: 0,0:13:21.55,0:13:24.40,Recuerdo,,0,0,0,,Como pode uma menina de oito anos valer tanto dinheiro?!
 Dialogue: 0,0:13:24.40,0:13:29.62,Recuerdo,,0,0,0,,Ela deveria ser uma sobrevivente dos demônios de Ohara que planejavam destruir o mundo.
 Dialogue: 0,0:13:29.62,0:13:31.63,Recuerdo,,0,0,0,,De Ohara você diz?!
-Dialogue: 0,0:13:31.63,0:13:36.46,Recuerdo,,0,0,0,,Não sei o que ele fez, mas dizem que\Nafundou seis navios de guerra da Marinha.
+Dialogue: 0,0:13:31.63,0:13:36.46,Recuerdo,,0,0,0,,Não sei o que ela fez, mas dizem que\Nafundou seis navios de guerra da Marinha.
 Dialogue: 0,0:13:36.46,0:13:38.29,Recuerdo,,0,0,0,,É por isso que eles oferecem uma recompensa tão grande...
 Dialogue: 0,0:13:38.29,0:13:42.09,Recuerdo,,0,0,0,,Tanto o Governo Mundial quanto o Quartel-General da Marinha estão atrás dela!
 Dialogue: 0,0:13:42.66,0:13:46.72,Recuerdo,,0,0,0,,Continua com as crenças daqueles\Nestudiosos que foram executados.
@@ -263,25 +264,25 @@ Dialogue: 0,0:14:06.86,0:14:09.41,Recuerdo,,0,0,0,,Vamos, dá-me o meu dinheiro!
 Dialogue: 0,0:14:09.41,0:14:10.83,Recuerdo,,0,0,0,,Eu não os dei a você?!
 Dialogue: 0,0:14:11.55,0:14:14.33,Recuerdo,,0,0,0,,Ela trabalha duro apesar de ser pequena.
 Dialogue: 0,0:14:16.42,0:14:17.25,Recuerdo,,0,0,0,,O que está acontecendo?!
-Dialogue: 0,0:14:17.25,0:14:19.06,Recuerdo,,0,0,0,,Você ainda está acordado?
+Dialogue: 0,0:14:17.25,0:14:19.06,Recuerdo,,0,0,0,,Você ainda está acordada?
 Dialogue: 0,0:14:19.06,0:14:20.97,Recuerdo,,0,0,0,,Amanhã temos que acordar cedo para trabalhar.
 Dialogue: 0,0:14:20.97,0:14:22.16,Recuerdo,,0,0,0,,É melhor você dormir.
 Dialogue: 0,0:14:22.16,0:14:23.00,Recuerdo,,0,0,0,,sim.
 Dialogue: 0,0:14:23.77,0:14:24.80,Recuerdo,,0,0,0,,Ela é uma boa garota.
 Dialogue: 0,0:14:24.80,0:14:27.01,Recuerdo,,0,0,0,,Mas se deixarmos ficar estaremos nos condenando.
 Dialogue: 0,0:14:27.01,0:14:29.93,Recuerdo,,0,0,0,,Além do mais, olhe para sua recompensa!
-Dialogue: 0,0:14:30.93,0:14:33.43,Recuerdo,,0,0,0,,Querida, ele não está no quarto!
+Dialogue: 0,0:14:30.93,0:14:33.43,Recuerdo,,0,0,0,,Querida, ela não está no quarto!
 Dialogue: 0,0:14:33.43,0:14:34.43,Recuerdo,,0,0,0,,Merda!
-Dialogue: 0,0:14:34.43,0:14:36.64,Recuerdo,,0,0,0,,Aquele pirralho deve ter nos ouvido!
+Dialogue: 0,0:14:34.43,0:14:36.64,Recuerdo,,0,0,0,,Aquela pirralha deve ter nos ouvido!
 Dialogue: 0,0:14:43.20,0:14:44.40,Recuerdo,,0,0,0,,Sinto muito.
 Dialogue: 0,0:14:44.40,0:14:45.65,Recuerdo,,0,0,0,,Eu não tenho comida.
 Dialogue: 0,0:14:51.41,0:14:54.79,Recuerdo,,0,0,0,,Já ouvi falar de você, Nico Robin.
 Dialogue: 0,0:14:54.79,0:14:57.45,Recuerdo,,0,0,0,,Eu também sou um homem procurado!
-Dialogue: 0,0:14:57.45,0:15:00.62,Recuerdo,,0,0,0,,Eu vou alimentá-lo se você fizer alguns trabalhos estranhos para mim.
+Dialogue: 0,0:14:57.45,0:15:00.62,Recuerdo,,0,0,0,,Eu vou alimentá-la se você fizer alguns trabalhos estranhos para mim.
 Dialogue: 0,0:15:03.45,0:15:04.25,Recuerdo,,0,0,0,,Capitão!
 Dialogue: 0,0:15:04.25,0:15:05.46,Recuerdo,,0,0,0,,É o quartel-general da Marinha!
 Dialogue: 0,0:15:05.46,0:15:06.76,Recuerdo,,0,0,0,,Onde está Robin?!
-Dialogue: 0,0:15:06.76,0:15:08.42,Recuerdo,,0,0,0,,Vamos entregá-lo!
+Dialogue: 0,0:15:06.76,0:15:08.42,Recuerdo,,0,0,0,,Vamos entregá-la!
 Dialogue: 0,0:15:08.42,0:15:09.13,Recuerdo,,0,0,0,,Maldita seja!
 Dialogue: 0,0:15:09.13,0:15:11.09,Recuerdo,,0,0,0,,Essa praga é amaldiçoada!
 Dialogue: 0,0:15:14.51,0:15:16.56,Recuerdo,,0,0,0,,Sua vida é um crime!
@@ -301,7 +302,7 @@ Dialogue: 0,0:15:43.33,0:15:46.92,Recuerdo,,0,0,0,,Nico Robin, gostaria de empre
 Dialogue: 0,0:15:48.92,0:15:51.93,Recuerdo,,0,0,0,,Você pode ler os Poneglyphs, estou certo?
 Dialogue: 0,0:15:55.60,0:15:57.31,OP Normal2,,0,0,0,,Aqui e agora...
 Dialogue: 0,0:15:58.14,0:16:00.65,OP Normal2,,0,0,0,,Se você invocar o Buster Call,
-Dialogue: 0,0:16:00.65,0:16:03.48,OP Normal2,,0,0,0,,eles vão destruir todos os Enies Lobby...
+Dialogue: 0,0:16:00.65,0:16:03.48,OP Normal2,,0,0,0,,eles vão destruir toda a Enies Lobby...
 Dialogue: 0,0:16:07.17,0:16:10.07,OP Normal2,,0,0,0,,...junto com todos vocês.
 Dialogue: 0,0:16:10.07,0:16:12.28,OP Normal2,,0,0,0,,Que tipo de bobagem você está dizendo?!
 Dialogue: 0,0:16:12.28,0:16:15.20,OP Normal2,,0,0,0,,Como poderíamos ser feridos por um ataque aliado?
@@ -310,7 +311,7 @@ Dialogue: 0,0:16:17.87,0:16:19.50,OP Normal2,,0,0,0,,Vinte anos atrás...
 Dialogue: 0,0:16:19.50,0:16:21.12,OP Normal2,,0,0,0,,... eles tiraram tudo de mim.
 Dialogue: 0,0:16:22.13,0:16:24.83,OP Normal2,,0,0,0,,Tiraram a vida de tantos...
 Dialogue: 0,0:16:25.49,0:16:27.46,OP Normal2,,0,0,0,,...com um único ataque.
-Dialogue: 0,0:16:27.46,0:16:28.96,OP Normal2,,0,0,0,,O Chamado do Buster!
+Dialogue: 0,0:16:27.46,0:16:28.96,OP Normal2,,0,0,0,,O Buster Call!
 Dialogue: 0,0:16:29.85,0:16:35.68,OP Normal2,,0,0,0,,E este ataque... será dirigido,\Ncontra meus queridos companheiros.
 Dialogue: 0,0:16:35.68,0:16:38.60,OP Normal2,,0,0,0,,Quanto mais eu quero ficar ao seu lado,
 Dialogue: 0,0:16:39.35,0:16:43.17,OP Normal2,,0,0,0,,as garras do meu destino mais forte os apertam!
@@ -320,10 +321,10 @@ Dialogue: 0,0:16:50.90,0:16:53.78,OP Normal2,,0,0,0,,O próprio mundo e esta esc
 Dialogue: 0,0:16:53.78,0:16:57.11,OP Normal2,,0,0,0,,Primeiro Aokiji e agora isso!
 Dialogue: 0,0:16:57.11,0:16:59.74,OP Normal2,,0,0,0,,Já é a segunda vez que isso acontece comigo!
 Dialogue: 0,0:16:59.74,0:17:04.71,OP Normal2,,0,0,0,,Como eles estão aqui, isso vai se repetir para sempre...
-Dialogue: 0,0:17:07.22,0:17:09.25,OP Normal2,,0,0,0,,Eles podem me ver como um fardo!
-Dialogue: 0,0:17:09.25,0:17:12.44,OP Normal2,,0,0,0,,Eles vão me trair e me deixar para trás!
+Dialogue: 0,0:17:07.22,0:17:09.25,OP Normal2,,0,0,0,,Vocês podem me ver como um fardo!
+Dialogue: 0,0:17:09.25,0:17:12.44,OP Normal2,,0,0,0,,Vão me trair e me deixar para trás!
 Dialogue: 0,0:17:12.44,0:17:14.63,OP Normal2,,0,0,0,,E isso é o que eu mais temo nesta vida!
-Dialogue: 0,0:17:14.63,0:17:17.47,OP Normal2,,0,0,0,,É por isso que eu não queria que eles viessem me salvar!
+Dialogue: 0,0:17:14.63,0:17:17.47,OP Normal2,,0,0,0,,É por isso que eu não queria que vocês viessem me salvar!
 Dialogue: 0,0:17:17.47,0:17:19.39,OP Normal2,,0,0,0,,Algum dia eu vou morrer!
 Dialogue: 0,0:17:19.39,0:17:22.89,OP Normal2,,0,0,0,,E eu quero que esse dia seja aqui e agora!
 Dialogue: 0,0:17:26.94,0:17:28.22,OP Normal2,,0,0,0,,Robin...
@@ -342,7 +343,7 @@ Dialogue: 0,0:18:04.14,0:18:09.10,OP Normal2,,0,0,0,,Você não percebe o quão\
 Dialogue: 0,0:18:10.28,0:18:15.57,OP Normal2,,0,0,0,,Você não entende o quão terrível e poderosa é a organização que está atrás dessa mulher?!
 Dialogue: 0,0:18:15.57,0:18:18.99,OP Normal2,,0,0,0,,Eu sei exatamente quem é o inimigo de Robin...
 Dialogue: 0,0:18:19.60,0:18:20.57,OP Normal2,,0,0,0,,Sogeking.
-Dialogue: 0,0:18:22.57,0:18:24.75,OP Normal2,,0,0,0,,Eu quero que você acabe com essa bandeira.
+Dialogue: 0,0:18:22.57,0:18:24.75,OP Normal2,,0,0,0,,Acabe com essa bandeira.
 Dialogue: 0,0:18:24.75,0:18:26.33,OP Normal2,,0,0,0,,Entendido.
 Dialogue: 0,0:18:28.12,0:18:30.50,OP Normal2,,0,0,0,,Minha nova arma, o Grande Estilingue.
 Dialogue: 0,0:18:30.50,0:18:31.59,OP Normal2,,0,0,0,,O nome dele é Kabuto!
@@ -355,34 +356,34 @@ Dialogue: 0,0:18:34.55,0:18:37.97,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(3
 Dialogue: 0,0:18:34.55,0:18:37.97,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,2920,3420)}Ataque mortal, estrela Firebird.
 Dialogue: 0,0:18:46.56,0:18:47.64,OP Normal2,,0,0,0,,Não pode ser!
 Dialogue: 0,0:18:50.98,0:18:52.40,OP Normal2,,0,0,0,,Feito.
-Dialogue: 0,0:18:56.28,0:18:57.99,OP Normal2,,0,0,0,,Eles... eles têm.
+Dialogue: 0,0:18:56.28,0:18:57.99,OP Normal2,,0,0,0,,Eles... eles fizeram.
 Dialogue: 0,0:18:57.99,0:19:01.99,OP Normal2,,0,0,0,,Você está ciente do que significa atacar essa bandeira?!
-Dialogue: 0,0:19:02.77,0:19:04.16,OP Normal2,,0,0,0,,Os piratas têm...
+Dialogue: 0,0:19:02.77,0:19:04.16,OP Normal2,,0,0,0,,Os piratas estam...
 Dialogue: 0,0:19:04.16,0:19:07.95,OP Normal2,,0,0,0,,Eles declararam guerra ao Governo Mundial!
-Dialogue: 0,0:19:08.51,0:19:10.22,OP Normal2,,0,0,0,,Eles são loucos?!
+Dialogue: 0,0:19:08.51,0:19:10.22,OP Normal2,,0,0,0,,Vocês são loucos?!
 Dialogue: 0,0:19:10.22,0:19:13.67,OP Normal2,,0,0,0,,Você acha que pode sobreviver se enfrentar o mundo inteiro?!
-Dialogue: 0,0:19:13.67,0:19:18.55,OP Normal2,,0,0,0,,{\fad(0,500)}Você disse isso!
+Dialogue: 0,0:19:13.67,0:19:18.55,OP Normal2,,0,0,0,,{\fad(0,500)}Quer Apostar!
 Dialogue: 0,0:19:28.67,0:19:30.01,OP Normal2,,0,0,0,,{\fad(0,500)}Robin!
 Dialogue: 0,0:19:31.54,0:19:34.39,OP Normal2,,0,0,0,,Eu não ouvi isso da sua própria boca ainda!
-Dialogue: 0,0:19:38.89,0:19:42.36,OP Normal2,,0,0,0,,{\fad(0,200)}{alpha&HFF}{t(0,1140,alpha&H00)}Diga-me, {r}{alpha&HFF}{t(1340,3270,alpha&H00)}"Eu quero viver"!
+Dialogue: 0,0:19:38.89,0:19:42.36,OP Normal2,,0,0,0,,{\fad(0,200)}{alpha&HFF}{t(0,1140,alpha&H00)}Diga, {r}{alpha&HFF}{t(1340,3270,alpha&H00)}que quer viver!
 Dialogue: 0,0:19:45.76,0:19:47.29,OP Normal2,,0,0,0,,Robin...
 Dialogue: 0,0:19:51.21,0:19:52.51,OP Normal2,,0,0,0,,Robin!
 Dialogue: 0,0:19:54.80,0:19:56.67,Pensante,,0,0,0,,Viver?!
-Dialogue: 0,0:19:56.68,0:20:00.59,Recuerdo,,0,0,0,,{\fad(0,200)}Não podemos deixar você ficar vivo, Robin!
+Dialogue: 0,0:19:56.68,0:20:00.59,Recuerdo,,0,0,0,,{\fad(0,200)}Não podemos deixar você ficar viva, Robin!
 Dialogue: 0,0:20:00.60,0:20:04.80,Recuerdo,,0,0,0,,{\fad(0,200)}Sua própria existência é um crime, Robin!
 Dialogue: 0,0:20:06.49,0:20:09.81,Pensante,,0,0,0,,Achei que era proibido...
 Dialogue: 0,0:20:11.77,0:20:15.73,Pensante,,0,0,0,,Ninguém nunca tinha me dado isso antes...
 Dialogue: 0,0:20:16.27,0:20:18.40,Recuerdo,,0,0,0,,{\fad(0,900)}Eu quero morrer!
 Dialogue: 0,0:20:18.53,0:20:20.40,Recuerdo,,0,0,0,,{\fad(200,200)}O mar é extremamente vasto.
 Dialogue: 0,0:20:21.15,0:20:22.96,Recuerdo,,0,0,0,,{\fad(200,200)}Tenho certeza que um dia...
-Dialogue: 0,0:20:22.96,0:20:27.33,Recuerdo,,0,0,0,,{\fad(0,200)}...você encontrará companheiros que lutarão para protegê-lo!
-Dialogue: 0,0:20:34.34,0:20:36.08,Recuerdo,,0,0,0,,{\fad(0,200)}Você tem que confiar em Luffy!
+Dialogue: 0,0:20:22.96,0:20:27.33,Recuerdo,,0,0,0,,{\fad(0,200)}...você encontrará companheiros que lutarão para protegê-la!
+Dialogue: 0,0:20:34.34,0:20:36.08,Recuerdo,,0,0,0,,{\fad(0,200)}Você tem que confiar no Luffy!
 Dialogue: 0,0:20:38.39,0:20:43.26,Pensante,,0,0,0,,Mas... se eu puder ter um raio de esperança...
 Dialogue: 0,0:20:44.85,0:20:46.26,Pensante,,0,0,0,,Então...
-Dialogue: 0,0:20:48.95,0:20:51.14,OP Normal2,,0,0,0,,{\fad(0,800)}{alpha&HFF}{t(0,510,alpha&H00)}Quero {r}{alpha&HFF}{t(510,1210,alpha&H00)}viver!
-Dialogue: 0,0:20:51.14,0:20:55.65,OP Normal2,,0,0,0,,{\fad(0,950)}{alpha&HFF}{t(0.1450,alpha&H00)}Leve-me {r}{alpha&HFF}{t(1770,4120,alpha&H00)}com você!
+Dialogue: 0,0:20:48.95,0:20:51.14,OP Normal2,,0,0,0,,{\fad(0,800)}{alpha&HFF}{t(0,510,alpha&H00)}Eu Quero {r}{alpha&HFF}{t(510,1210,alpha&H00)}viver!
+Dialogue: 0,0:20:51.14,0:20:55.65,OP Normal2,,0,0,0,,{\fad(0,950)}{alpha&HFF}{t(0.1450,alpha&H00)}Me levem {r}{alpha&HFF}{t(1770,4120,alpha&H00)}com vocês para o mar!
 Dialogue: 0,0:21:19.38,0:21:22.13,OP Normal2,,0,0,0,,Eu amo vocês, caras!
-Dialogue: 0,0:21:22.13,0:21:23.80,OP Normal2,,0,0,0,,Xingamento!
+Dialogue: 0,0:21:22.13,0:21:23.80,OP Normal2,,0,0,0,,Maldição!
 Dialogue: 0,0:21:25.47,0:21:26.55,OP Normal2,,0,0,0,,Vamos la!
 Dialogue: 0,0:00:00.50,0:00:02.50,Credits-207+,,0,0,0,,{\pos(216.667,86.667)\fad(600,600)\fs35}Editar{fs43.333}FeesoGalaxy 9000
 Dialogue: 0,0:00:02.50,0:00:04.50,Credits-207+,,0,0,0,,{\pos(216.667,86.667)\fad(600,600)\fs35}Gráficos{fs43.333}Datenshi
