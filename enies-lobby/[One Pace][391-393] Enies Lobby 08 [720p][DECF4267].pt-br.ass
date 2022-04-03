@@ -16,9 +16,9 @@ Video File: ../../[One Pace][391-393] Enies Lobby 08 [720p][DECF4267].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 24
-Active Line: 3
-Video Position: 6847
+Scroll Position: 498
+Active Line: 504
+Video Position: 108901
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,18 +67,18 @@ Dialogue: 0,0:02:49.76,0:02:56.32,Pensante,,0,0,0,,Se por algum motivo eles fore
 Dialogue: 0,0:02:59.05,0:03:00.84,OP Normal2,,0,0,0,,Malditos piratas ridículos!
 Dialogue: 0,0:03:00.84,0:03:06.29,OP Normal2,,0,0,0,,Faça o que fizer, nada vai mudar!
 Dialogue: 0,0:03:06.29,0:03:11.40,OP Normal2,,0,0,0,,Sinta o poder do melhor grupo de assassinos, o CP9.
-Dialogue: 0,0:03:11.40,0:03:16.20,OP Normal2,,0,0,0,,Sinta o peso da Porta da Justiça, que\Nnão pode ser aberta com força humana.
+Dialogue: 0,0:03:11.40,0:03:16.20,OP Normal2,,0,0,0,,Sinta o peso do Portão da Justiça, que\Nnão pode ser aberta com força humana.
 Dialogue: 0,0:03:16.20,0:03:17.60,OP Normal2,,0,0,0,,Mas...
 Dialogue: 0,0:03:17.60,0:03:18.92,OP Normal2,,0,0,0,,...em primeiro lugar...
 Dialogue: 0,0:03:19.76,0:03:25.60,OP Normal2,,0,0,0,,...sinta o poder do Golden Den Den Mushi, que me dá autoridade para invocar o Buster Call.
 Dialogue: 0,0:03:26.49,0:03:28.02,OP Normal2,,0,0,0,,O Buster Call?
-Dialogue: 0,0:03:28.02,0:03:30.29,OP Normal2,,0,0,0,,Assim é.
+Dialogue: 0,0:03:28.02,0:03:30.29,OP Normal2,,0,0,0,,Sim.
 Dialogue: 0,0:03:30.29,0:03:32.65,OP Normal2,,0,0,0,,Assim como há 20 anos.
 Dialogue: 0,0:03:32.65,0:03:37.61,OP Normal2,,0,0,0,,Este mesmo poder destruiu sua terra natal, Nico Robin.
 Dialogue: 0,0:03:37.61,0:03:39.61,OP Normal2,,0,0,0,,A palavra Ohara...
 Dialogue: 0,0:03:39.61,0:03:42.95,OP Normal2,,0,0,0,,...desapareceu dos mapas no ano seguinte, certo?
 Dialogue: 0,0:03:42.95,0:03:45.63,OP Normal2,,0,0,0,,A terra natal de Robin?
-Dialogue: 0,0:03:45.63,0:03:47.54,OP Normal2,,0,0,0,,Aquela merda mascarada...
+Dialogue: 0,0:03:45.63,0:03:47.54,OP Normal2,,0,0,0,,Aquele merda mascarada...
 Dialogue: 0,0:03:48.31,0:03:52.75,Recuerdo,,0,0,0,,{\fad(0,853)}Não tenho para onde ir e para onde voltar.
 Dialogue: 0,0:03:53.40,0:03:54.71,OP Normal2,,0,0,0,,Pare!
 Dialogue: 0,0:03:54.71,0:03:56.13,OP Normal2,,0,0,0,,Qualquer coisa menos isso!
@@ -102,16 +102,16 @@ Dialogue: 0,0:05:06.20,0:05:10.09,OP Normal2,,0,0,0,,Você acabou de dizer que O
 Dialogue: 0,0:05:10.09,0:05:13.12,OP Normal2,,0,0,0,,Você acha que uma pessoa só entende o que vê no mapa?
 Dialogue: 0,0:05:13.12,0:05:16.96,OP Normal2,,0,0,0,,É por causa da maneira como eles vêem o mundo...
 Dialogue: 0,0:05:17.48,0:05:20.29,OP Normal2,,0,0,0,,É por isso que eles são capazes de fazer coisas tão desumanas!
-Dialogue: 0,0:05:29.73,0:05:31.31,OP Normal2,,0,0,0,,La Buster Call...
+Dialogue: 0,0:05:29.73,0:05:31.31,OP Normal2,,0,0,0,,O Buster Call...
 Dialogue: 0,0:05:31.31,0:05:34.02,OP Normal2,,0,0,0,,...é o poder implacável que faz perder toda a esperança.
 Dialogue: 0,0:05:34.85,0:05:37.19,OP Normal2,,0,0,0,,É algo que nunca deve ser usado.
 Dialogue: 0,0:05:37.85,0:05:39.06,OP Normal2,,0,0,0,,Nunca...
 Dialogue: 0,0:05:39.06,0:05:40.56,OP Normal2,,0,0,0,,Qualquer coisa menos isso!
-Dialogue: 0,0:05:52.84,0:05:54.14,Recuerdo,,0,0,0,,Há Robin!
-Dialogue: 0,0:05:54.14,0:05:55.76,Recuerdo,,0,0,0,,{\an8}Depois dela!
+Dialogue: 0,0:05:52.84,0:05:54.14,Recuerdo,,0,0,0,,Robin pensa rápido!
+Dialogue: 0,0:05:54.14,0:05:55.76,Recuerdo,,0,0,0,,{\an8}Olha o tomate!
 Dialogue: 0,0:05:57.46,0:05:58.37,Recuerdo,,0,0,0,,{\an8}Oh...
-Dialogue: 0,0:05:59.01,0:06:00.95,Recuerdo,,0,0,0,,Eu dei!
-Dialogue: 0,0:06:00.95,0:06:03.03,Recuerdo,,0,0,0,,Ouve!  Monstro!
+Dialogue: 0,0:05:59.01,0:06:00.95,Recuerdo,,0,0,0,,Acertei!
+Dialogue: 0,0:06:00.95,0:06:03.03,Recuerdo,,0,0,0,,Certo!  Monstro!
 Dialogue: 0,0:06:03.03,0:06:04.80,Recuerdo,,0,0,0,,Você é horrível!
 Dialogue: 0,0:06:05.28,0:06:07.93,Recuerdo,,0,0,0,,{\pos(540,698.667)}Monstro!
 Dialogue: 0,0:06:06.51,0:06:07.93,Recuerdo,,0,0,0,,{\pos(744.667,698.667)}Monstro!
@@ -119,7 +119,7 @@ Dialogue: 0,0:06:07.93,0:06:10.26,Recuerdo,,0,0,0,,{\pos(540,698.667)}Monstro!
 Dialogue: 0,0:06:09.34,0:06:10.26,Recuerdo,,0,0,0,,{\pos(744.667,698.667)}Monstro!
 Dialogue: 0,0:06:13.72,0:06:17.66,Recuerdo,,0,0,0,,Um monstro me atacou!
 Dialogue: 0,0:06:17.66,0:06:19.85,Recuerdo,,0,0,0,,Ela é teimosa!
-Dialogue: 0,0:06:19.85,0:06:21.61,Recuerdo,,0,0,0,,Você se lembra de mim!
+Dialogue: 0,0:06:19.85,0:06:21.61,Recuerdo,,0,0,0,,Vou lembrar disso!
 Dialogue: 0,0:06:46.24,0:06:47.30,Recuerdo,,0,0,0,,Ei você.
 Dialogue: 0,0:06:51.22,0:06:55.60,Recuerdo,,0,0,0,,Meu filho veio chorando e disse que você bateu nele sem motivo.
 Dialogue: 0,0:06:55.60,0:06:58.80,Recuerdo,,0,0,0,,Fique longe deles.
@@ -139,7 +139,7 @@ Dialogue: 0,0:07:25.04,0:07:26.71,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(3
 Dialogue: 0,0:07:25.04,0:07:26.71,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,1210,1670)}Omelete de arroz.
 Dialogue: 0,0:07:27.59,0:07:29.55,Recuerdo,,0,0,0,,Você realmente gosta de omurice!
 Dialogue: 0,0:07:29.55,0:07:30.34,Recuerdo,,0,0,0,,Sim!
-Dialogue: 0,0:07:30.34,0:07:32.93,Recuerdo,,0,0,0,,Então eu vou ter que fazer muito.
+Dialogue: 0,0:07:30.34,0:07:32.93,Recuerdo,,0,0,0,,Então eu vou ter que fazer muitas.
 Dialogue: 0,0:07:32.93,0:07:34.31,Recuerdo,,0,0,0,,Excelente!
 Dialogue: 0,0:07:42.91,0:07:44.65,Recuerdo,,0,0,0,,Estou em casa agora.
 Dialogue: 0,0:07:44.65,0:07:47.08,Recuerdo,,0,0,0,,Desculpe o atraso.
@@ -152,7 +152,7 @@ Dialogue: 0,0:08:07.21,0:08:09.26,Recuerdo,,0,0,0,,...sem ninguém para nos inco
 Dialogue: 0,0:08:09.26,0:08:13.70,Recuerdo,,0,0,0,,Há um pouco de pão sobrando, então você pode comê-lo para o jantar.
 Dialogue: 0,0:08:14.30,0:08:17.71,Recuerdo,,0,0,0,,{\fad(0,300)}Certifique-se de não usar muita geléia.
 Dialogue: 0,0:08:17.71,0:08:21.02,Recuerdo,,0,0,0,,{\fad(0,300)}Quando você terminar o jantar e antes de voltarmos...
-Dialogue: 0,0:08:21.02,0:08:23.56,Recuerdo,,0,0,0,,{\fad(0,300)}Pegue o cabide...
+Dialogue: 0,0:08:21.02,0:08:23.56,Recuerdo,,0,0,0,,{\fad(0,300)}Lave a louça...
 Dialogue: 0,0:08:23.56,0:08:28.69,Recuerdo,,0,0,0,,{\fad(0,300)}... e certifique-se de ir para a cama no segundo andar antes que fique tarde.
 Dialogue: 0,0:08:36.28,0:08:39.31,Recuerdo,,0,0,0,,{\fad(0,300)}Ei ei!  O que tem para o jantar hoje?
 Dialogue: 0,0:08:39.31,0:08:40.79,Recuerdo,,0,0,0,,{\fad(0,300)}O que você gosta?
@@ -160,10 +160,10 @@ Dialogue: 0,0:08:40.79,0:08:43.46,Recuerdo,,0,0,0,,{\fad(0,300)}eu gostaria... e
 Dialogue: 0,0:08:43.46,0:08:45.04,Recuerdo,,0,0,0,,{\fad(0,300)}Omurice!
 Dialogue: 0,0:08:45.93,0:08:47.88,Recuerdo,,0,0,0,,{\fad(0,300)}Você realmente gosta de omurice!
 Dialogue: 0,0:08:47.88,0:08:48.72,Recuerdo,,0,0,0,,{\fad(0,300)}Sim!
-Dialogue: 0,0:08:48.72,0:08:50.88,Recuerdo,,0,0,0,,{\fad(0,300)}Então eu vou ter que fazer muito.
+Dialogue: 0,0:08:48.72,0:08:50.88,Recuerdo,,0,0,0,,{\fad(0,300)}Então eu vou ter que fazer muitas.
 Dialogue: 0,0:08:50.88,0:08:52.57,Recuerdo,,0,0,0,,{\fad(0,300)}Excelente!
 Dialogue: 0,0:09:12.19,0:09:15.36,Recuerdo,,0,0,0,,Aí está, é Robin.
-Dialogue: 0,0:09:15.36,0:09:17.28,Recuerdo,,0,0,0,,Parece que ele veio nos devolver um livro.
+Dialogue: 0,0:09:15.36,0:09:17.28,Recuerdo,,0,0,0,,Parece que ela veio nos devolver um livro.
 Dialogue: 0,0:09:17.28,0:09:19.12,Recuerdo,,0,0,0,,Todos para suas posições!
 Dialogue: 0,0:09:23.76,0:09:25.08,Recuerdo,,0,0,0,,Boa noite!
 Dialogue: 0,0:09:25.08,0:09:28.13,Recuerdo,,0,0,0,,Doutor Clover, o livro que me emprestou...
@@ -173,23 +173,23 @@ Dialogue: 0,0:09:24.96,0:09:28.67,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(30
 Dialogue: 0,0:09:24.96,0:09:28.67,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,3210,3710)}fansub!
 Dialogue: 0,0:09:24.96,0:09:28.67,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,3210,3710)}Trevo significa trevo.
 Dialogue: 0,0:09:32.30,0:09:33.96,Recuerdo,,0,0,0,,Um dois...
-Dialogue: 0,0:09:33.96,0:09:37.68,Recuerdo,,0,0,0,,Robson, parabéns!
-Dialogue: 0,0:09:33.96,0:09:37.68,Enmedio2,,0,0,0,,Robson, parabéns!
+Dialogue: 0,0:09:33.96,0:09:37.68,Recuerdo,,0,0,0,,Robin, parabéns!
+Dialogue: 0,0:09:33.96,0:09:37.68,Enmedio2,,0,0,0,,Robin, parabéns!
 Dialogue: 0,0:09:37.68,0:09:39.66,Recuerdo,,0,0,0,,Grande Robin!
-Dialogue: 0,0:09:39.66,0:09:40.84,Recuerdo,,0,0,0,,Digno de um gênio!
+Dialogue: 0,0:09:39.66,0:09:40.84,Recuerdo,,0,0,0,,Digna de uma gênia!
 Dialogue: 0,0:09:40.84,0:09:43.34,Recuerdo,,0,0,0,,Temos um bolo!  Um pastel!
 Dialogue: 0,0:09:43.34,0:09:44.43,Recuerdo,,0,0,0,,Robin.
 Dialogue: 0,0:09:44.43,0:09:47.00,Recuerdo,,0,0,0,,No exame para o doutorado em\Narqueologia que você fez outro dia...
 Dialogue: 0,0:09:47.00,0:09:49.08,Recuerdo,,0,0,0,,Você conseguiu o registro!
-Dialogue: 0,0:09:49.08,0:09:52.36,Recuerdo,,0,0,0,,A partir de hoje, você já pode se chamar arqueólogo!
-Dialogue: 0,0:09:52.95,0:09:58.45,Recuerdo,,0,0,0,,A partir de agora, você é nosso companheiro e colaborará em nossos estudos.
-Dialogue: 0,0:09:58.45,0:10:01.45,Recuerdo,,0,0,0,,Aqui, este é o distintivo que o credencia como acadêmico.
+Dialogue: 0,0:09:49.08,0:09:52.36,Recuerdo,,0,0,0,,A partir de hoje, você já pode se chamar  de arqueóloga!
+Dialogue: 0,0:09:52.95,0:09:58.45,Recuerdo,,0,0,0,,A partir de agora, você é nossa companheira e colaborará em nossos estudos.
+Dialogue: 0,0:09:58.45,0:10:01.45,Recuerdo,,0,0,0,,Aqui, este é o distintivo que o credencia como acadêmica.
 Dialogue: 0,0:10:01.45,0:10:03.25,Recuerdo,,0,0,0,,Aqui está, Robin.
 Dialogue: 0,0:10:04.08,0:10:05.61,Recuerdo,,0,0,0,,Bom trabalho Robin.
 Dialogue: 0,0:10:05.61,0:10:07.19,Recuerdo,,0,0,0,,Parabéns!
 Dialogue: 0,0:10:08.63,0:10:10.92,Recuerdo,,0,0,0,,{\an8}Está tudo bem, Robin.
 Dialogue: 0,0:10:10.92,0:10:13.84,Recuerdo,,0,0,0,,{\an8}Vamos aprender o que significa ser um arqueólogo!
-Dialogue: 0,0:10:13.84,0:10:16.34,Recuerdo,,0,0,0,,Sim, Dra. Clover!
+Dialogue: 0,0:10:13.84,0:10:16.34,Recuerdo,,0,0,0,,Sim, Dr. Clover!
 Dialogue: 0,0:10:17.03,0:10:20.55,Recuerdo,,0,0,0,,O conhecimento reside no passado.
 Dialogue: 0,0:10:20.55,0:10:22.47,Recuerdo,,0,0,0,,Todas essas obras literárias...
 Dialogue: 0,0:10:22.47,0:10:25.52,Recuerdo,,0,0,0,,...percorreram um longo caminho para chegar aqui.
@@ -223,31 +223,31 @@ Dialogue: 0,0:11:45.30,0:11:47.35,Recuerdo,,0,0,0,,O que tudo isso significa?
 Dialogue: 0,0:11:47.35,0:11:50.02,Recuerdo,,0,0,0,,Você está dizendo que esteve nos espionando o tempo todo?
 Dialogue: 0,0:11:50.97,0:11:52.56,Recuerdo,,0,0,0,,Responda-me Robin!
 Dialogue: 0,0:11:53.96,0:11:55.25,Recuerdo,,0,0,0,,É que...
-Dialogue: 0,0:11:56.40,0:12:00.15,Recuerdo,,0,0,0,,Mesmo que eu pedisse abertamente,\Neles não me deixariam participar!
+Dialogue: 0,0:11:56.40,0:12:00.15,Recuerdo,,0,0,0,,Mesmo que eu pedisse abertamente,\Nvocês não me deixariam participar!
 Dialogue: 0,0:12:01.34,0:12:02.61,Recuerdo,,0,0,0,,Eu fiz isso por causa disso...
-Dialogue: 0,0:12:02.61,0:12:05.20,Recuerdo,,0,0,0,,Eu pensei que ao me tornar um arqueólogo de verdade...
+Dialogue: 0,0:12:02.61,0:12:05.20,Recuerdo,,0,0,0,,Eu pensei que ao me tornar uma arqueóloga de verdade...
 Dialogue: 0,0:12:05.20,0:12:08.37,Recuerdo,,0,0,0,,...seria aceito como membro do grupo de pesquisa.
 Dialogue: 0,0:12:09.04,0:12:11.79,Recuerdo,,0,0,0,,Por isso tentei tanto...
 Dialogue: 0,0:12:12.89,0:12:14.29,Recuerdo,,0,0,0,,Robin...
 Dialogue: 0,0:12:17.00,0:12:18.42,Recuerdo,,0,0,0,,É certo...
-Dialogue: 0,0:12:18.42,0:12:22.97,Recuerdo,,0,0,0,,Você demonstrou conhecimento\Nsuficiente para ser chamado de erudito.
+Dialogue: 0,0:12:18.42,0:12:22.97,Recuerdo,,0,0,0,,Você demonstrou conhecimento\Nsuficiente para ser chamaao de erudita.
 Dialogue: 0,0:12:22.97,0:12:26.05,Recuerdo,,0,0,0,,Mas... você ainda é uma garota.
-Dialogue: 0,0:12:26.05,0:12:29.65,Recuerdo,,0,0,0,,Se eles encontrarem você trabalhando conosco, eles o executarão.
+Dialogue: 0,0:12:26.05,0:12:29.65,Recuerdo,,0,0,0,,Se eles encontrarem você trabalhando conosco, eles a executarão.
 Dialogue: 0,0:12:29.65,0:12:32.69,Recuerdo,,0,0,0,,Já nos preparamos para isso.
 Dialogue: 0,0:12:32.69,0:12:36.81,Recuerdo,,0,0,0,,Há oitocentos anos, quando esta lei do Governo entrou em vigor,
 Dialogue: 0,0:12:36.81,0:12:41.49,Recuerdo,,0,0,0,,o número de estudiosos que deram suas vidas excede as estrelas no céu.
 Dialogue: 0,0:12:42.17,0:12:43.57,Recuerdo,,0,0,0,,Este é o momento.
 Dialogue: 0,0:12:43.57,0:12:44.66,Recuerdo,,0,0,0,,Acho que deveria te contar.
 Dialogue: 0,0:12:45.15,0:12:49.16,Recuerdo,,0,0,0,,Os únicos na história que\Nconseguiram decifrar os textos...
-Dialogue: 0,0:12:49.16,0:12:51.87,Recuerdo,,0,0,0,,...nós fomos o Ohara.
+Dialogue: 0,0:12:49.16,0:12:51.87,Recuerdo,,0,0,0,,...fomos nós de Ohara.
 Dialogue: 0,0:12:51.87,0:12:55.33,Recuerdo,,0,0,0,,Não há como voltar atrás agora.
 Dialogue: 0,0:12:55.79,0:12:57.59,Recuerdo,,0,0,0,,Juro pela Árvore do Conhecimento...
 Dialogue: 0,0:12:57.59,0:12:59.67,Recuerdo,,0,0,0,,...que se você voltar para o porão...
 Dialogue: 0,0:12:59.67,0:13:04.55,Recuerdo,,0,0,0,,...Eu vou banir você do laboratório e da biblioteca!
 Dialogue: 0,0:13:04.55,0:13:06.18,Recuerdo,,0,0,0,,Entendido?
 Dialogue: 0,0:13:09.96,0:13:11.02,Recuerdo,,0,0,0,,Robin!
-Dialogue: 0,0:13:11.99,0:13:15.63,Recuerdo,,0,0,0,,Ele continua a seguir os passos de sua mãe.
-Dialogue: 0,0:13:15.63,0:13:19.19,Recuerdo,,0,0,0,,Ele ainda não sabe nada sobre o incidente no outro dia.
+Dialogue: 0,0:13:11.99,0:13:15.63,Recuerdo,,0,0,0,,Ela continua a seguir os passos de sua mãe.
+Dialogue: 0,0:13:15.63,0:13:19.19,Recuerdo,,0,0,0,,Ela ainda não sabe nada sobre o incidente no outro dia.
 Dialogue: 0,0:13:20.38,0:13:24.15,Recuerdo,,0,0,0,,A mãe de Robin, Olvia, foi capturada.
 Dialogue: 0,0:13:24.15,0:13:27.87,Recuerdo,,0,0,0,,Todos sabemos seu destino.
 Dialogue: 0,0:14:17.80,0:14:19.83,Recuerdo,,0,0,0,,Água Água...
@@ -264,13 +264,13 @@ Dialogue: 0,0:14:51.26,0:14:53.66,Recuerdo,,0,0,0,,De tudo isso, você me salvou
 Dialogue: 0,0:14:53.66,0:14:54.93,Recuerdo,,0,0,0,,Obrigado.
 Dialogue: 0,0:14:54.93,0:14:57.83,Recuerdo,,0,0,0,,Deve haver uma cidade por aqui.
 Dialogue: 0,0:14:57.83,0:14:59.54,Recuerdo,,0,0,0,,sim.
-Dialogue: 0,0:14:59.54,0:15:01.51,Recuerdo,,0,0,0,,Já vejo...
-Dialogue: 0,0:15:03.38,0:15:07.80,Recuerdo,,0,0,0,,Se alguma coisa, eu preferiria ter naufragado em uma ilha deserta ou algo assim.
+Dialogue: 0,0:14:59.54,0:15:01.51,Recuerdo,,0,0,0,,Entendi...
+Dialogue: 0,0:15:03.38,0:15:07.80,Recuerdo,,0,0,0,,Eu preferiria ter naufragado em uma ilha deserta ou algo assim.
 Dialogue: 0,0:15:15.53,0:15:18.98,Recuerdo,,0,0,0,,Mesmo se você ficar, nada vai acontecer com você.
-Dialogue: 0,0:15:19.53,0:15:20.48,Recuerdo,,0,0,0,,Eu tenho...
+Dialogue: 0,0:15:19.53,0:15:20.48,Recuerdo,,0,0,0,,Eu estou...
 Dialogue: 0,0:15:20.48,0:15:22.90,Recuerdo,,0,0,0,,Estou com uma perna machucada.
-Dialogue: 0,0:15:22.90,0:15:24.65,Recuerdo,,0,0,0,,Então não vou poder me mudar daqui.
-Dialogue: 0,0:15:25.37,0:15:30.11,Recuerdo,,0,0,0,,Quando puder, farei uma jangada ou algo assim e sairei.
+Dialogue: 0,0:15:22.90,0:15:24.65,Recuerdo,,0,0,0,,Então não vou poder sair daqui.
+Dialogue: 0,0:15:25.37,0:15:30.11,Recuerdo,,0,0,0,,Quando puder, farei uma jangada ou algo assim e partirei.
 Dialogue: 0,0:15:30.11,0:15:33.91,Recuerdo,,0,0,0,,É a primeira vez que vê um gigante?
 Dialogue: 0,0:15:33.91,0:15:35.08,Recuerdo,,0,0,0,,sim.
 Dialogue: 0,0:15:35.85,0:15:41.35,Recuerdo,,0,0,0,,Para sua informação, não sou como\Naqueles bárbaros gigantes de Elbaf.
@@ -292,9 +292,9 @@ Dialogue: 0,0:16:44.07,0:16:45.60,Recuerdo,,0,0,0,,Você está rindo?
 Dialogue: 0,0:16:45.60,0:16:48.84,Recuerdo,,0,0,0,,Você é uma garota muito engraçada!
 Dialogue: 0,0:16:53.01,0:16:54.45,Recuerdo,,0,0,0,,Que maneira estranha de rir!
 Dialogue: 0,0:16:57.63,0:17:02.55,Recuerdo,,0,0,0,,Há anos me dizem que minha risada é ridícula.
-Dialogue: 0,0:17:02.55,0:17:05.58,Recuerdo,,0,0,0,,Você é muito fofo quando ri, não acha?
+Dialogue: 0,0:17:02.55,0:17:05.58,Recuerdo,,0,0,0,,Você é muito fofa quando ri, não acha?
 Dialogue: 0,0:17:06.35,0:17:08.79,Recuerdo,,0,0,0,,Você deveria rir mais vezes!
-Dialogue: 0,0:17:11.05,0:17:13.67,Recuerdo,,0,0,0,,Meu nome é Saulo.
+Dialogue: 0,0:17:11.05,0:17:13.67,Recuerdo,,0,0,0,,Meu nome é Saul.
 Dialogue: 0,0:17:13.67,0:17:15.97,Recuerdo,,0,0,0,,Jaguar D.Saul.
 Dialogue: 0,0:17:16.61,0:17:17.97,Recuerdo,,0,0,0,,"D."?
 Dialogue: 0,0:17:17.97,0:17:19.22,Recuerdo,,0,0,0,,sim.
@@ -302,12 +302,12 @@ Dialogue: 0,0:17:19.22,0:17:21.14,Recuerdo,,0,0,0,,Na verdade não sei o motivo 
 Dialogue: 0,0:17:21.14,0:17:25.21,Recuerdo,,0,0,0,,Mas todos no meu clã usam.
 Dialogue: 0,0:17:25.21,0:17:26.44,Recuerdo,,0,0,0,,Qual é o seu nome?
 Dialogue: 0,0:17:26.44,0:17:27.92,Recuerdo,,0,0,0,,Robin.
-Dialogue: 0,0:17:27.92,0:17:28.94,Recuerdo,,0,0,0,,Já vejo.
+Dialogue: 0,0:17:27.92,0:17:28.94,Recuerdo,,0,0,0,,Entendi.
 Dialogue: 0,0:17:28.94,0:17:33.50,Recuerdo,,0,0,0,,Robin, a verdade é que algumas pessoas estão me procurando.
 Dialogue: 0,0:17:33.50,0:17:35.95,Recuerdo,,0,0,0,,Se eles descobrirem, estarei em apuros.
 Dialogue: 0,0:17:35.95,0:17:37.20,Recuerdo,,0,0,0,,Eu já disse que não vou contar.
 Dialogue: 0,0:17:49.15,0:17:50.81,Recuerdo,,0,0,0,,Delicioso!
-Dialogue: 0,0:17:50.81,0:17:52.30,Recuerdo,,0,0,0,,Aqui você tem mais.
+Dialogue: 0,0:17:50.81,0:17:52.30,Recuerdo,,0,0,0,,Aqui mais um.
 Dialogue: 0,0:17:55.50,0:17:57.26,Recuerdo,,0,0,0,,Estou feliz que você se importa comigo.
 Dialogue: 0,0:17:57.26,0:17:58.60,Recuerdo,,0,0,0,,Você come o resto.
 Dialogue: 0,0:17:59.45,0:18:01.89,Recuerdo,,0,0,0,,Eu já estou cheio.
@@ -320,16 +320,16 @@ Dialogue: 0,0:18:21.81,0:18:25.88,Recuerdo,,0,0,0,,Você passa o dia inteiro me 
 Dialogue: 0,0:18:25.88,0:18:27.98,Recuerdo,,0,0,0,,Seus amigos e familiares vão acabar suspeitando de algo.
 Dialogue: 0,0:18:30.36,0:18:31.63,Recuerdo,,0,0,0,,Eu não tenho pais.
 Dialogue: 0,0:18:32.28,0:18:36.56,Recuerdo,,0,0,0,,Tenho mãe, mas ela me abandonou para ir ao mar investigar.
-Dialogue: 0,0:18:36.56,0:18:38.50,Recuerdo,,0,0,0,,Eu nem me lembro do rosto dele.
-Dialogue: 0,0:18:39.77,0:18:42.44,Recuerdo,,0,0,0,,Eu gosto de arqueólogos...
+Dialogue: 0,0:18:36.56,0:18:38.50,Recuerdo,,0,0,0,,Eu nem me lembro do rosto dela.
+Dialogue: 0,0:18:39.77,0:18:42.44,Recuerdo,,0,0,0,,Eu gosto dos arqueólogos...
 Dialogue: 0,0:18:42.44,0:18:45.64,Recuerdo,,0,0,0,,...mas não me deixam pesquisar com eles, então não faço parte do grupo.
 Dialogue: 0,0:18:45.64,0:18:47.81,Recuerdo,,0,0,0,,Quanto às crianças da aldeia...
-Dialogue: 0,0:18:47.81,0:18:50.77,Recuerdo,,0,0,0,,... eles dizem que eu sou um monstro,\Nentão eles não querem brincar comigo.
-Dialogue: 0,0:18:53.27,0:18:56.88,Recuerdo,,0,0,0,,Então você é um possuidor das habilidades.
+Dialogue: 0,0:18:47.81,0:18:50.77,Recuerdo,,0,0,0,,... elas dizem que eu sou um monstro,\Nentão não querem brincar comigo.
+Dialogue: 0,0:18:53.27,0:18:56.88,Recuerdo,,0,0,0,,Então você é um usuário de akuma.
 Dialogue: 0,0:18:57.62,0:18:58.86,Recuerdo,,0,0,0,,Não te assusta?
 Dialogue: 0,0:18:58.86,0:19:02.35,Recuerdo,,0,0,0,,Já naveguei na Grand Line.
-Dialogue: 0,0:19:02.35,0:19:05.16,Recuerdo,,0,0,0,,Já vi muitos possuidores como você lá.
-Dialogue: 0,0:19:06.12,0:19:07.77,Recuerdo,,0,0,0,,Já vejo...
+Dialogue: 0,0:19:02.35,0:19:05.16,Recuerdo,,0,0,0,,Já vi muitos usuários como você lá.
+Dialogue: 0,0:19:06.12,0:19:07.77,Recuerdo,,0,0,0,,Entendi...
 Dialogue: 0,0:19:07.77,0:19:09.16,Recuerdo,,0,0,0,,Te invejo.
 Dialogue: 0,0:19:09.16,0:19:11.54,Recuerdo,,0,0,0,,Parece muito útil!
 Dialogue: 0,0:19:18.77,0:19:20.51,Recuerdo,,0,0,0,,É realmente uma risada ridícula.
@@ -341,7 +341,7 @@ Dialogue: 0,0:19:31.27,0:19:33.11,Recuerdo,,0,0,0,,Se você me perguntar, eu vou
 Dialogue: 0,0:19:33.11,0:19:35.44,Recuerdo,,0,0,0,,...você ri porque está feliz.
 Dialogue: 0,0:19:35.44,0:19:39.82,Recuerdo,,0,0,0,,O que significa que rir faz você feliz.
 Dialogue: 0,0:19:40.54,0:19:41.45,Recuerdo,,0,0,0,,Você verá...
-Dialogue: 0,0:19:41.45,0:19:44.22,Recuerdo,,0,0,0,,Embora você seja pequeno, parece que você sofre muito.
+Dialogue: 0,0:19:41.45,0:19:44.22,Recuerdo,,0,0,0,,Embora você seja pequena, parece que você sofre muito.
 Dialogue: 0,0:19:44.22,0:19:45.70,Recuerdo,,0,0,0,,Você precisa rir!
 Dialogue: 0,0:19:45.70,0:19:47.91,Recuerdo,,0,0,0,,Você deve rir mesmo quando se machucar!
 Dialogue: 0,0:19:48.61,0:19:50.82,Recuerdo,,0,0,0,,Rir quando te machucam é estúpido...
@@ -389,25 +389,26 @@ Dialogue: 0,0:22:23.34,0:22:24.94,Recuerdo,,0,0,0,,O mar?
 Dialogue: 0,0:22:24.94,0:22:27.50,Recuerdo,,0,0,0,,Você gostaria de sair para o mar também, Robin?
 Dialogue: 0,0:22:27.50,0:22:28.32,Recuerdo,,0,0,0,,sim.
 Dialogue: 0,0:22:29.30,0:22:33.29,Recuerdo,,0,0,0,,Minha mãe sempre esteve ocupada\Ncom suas pesquisas arqueológicas.
-Dialogue: 0,0:22:33.29,0:22:36.62,Recuerdo,,0,0,0,,Mas um dia ele voltará a esta ilha.
-Dialogue: 0,0:22:36.62,0:22:39.58,Recuerdo,,0,0,0,,Então vou pedir-lhe que me leve com ela para o alto mar.
-Dialogue: 0,0:22:39.58,0:22:44.55,Recuerdo,,0,0,0,,Eu tenho estudado, e finalmente consegui me tornar um arqueólogo.
-Dialogue: 0,0:22:44.55,0:22:46.55,Recuerdo,,0,0,0,,Um arqueólogo...
-Dialogue: 0,0:22:46.55,0:22:48.38,Recuerdo,,0,0,0,,Mas se você é apenas uma garota.
+Dialogue: 0,0:22:33.29,0:22:36.62,Recuerdo,,0,0,0,,Mas um dia ela voltará a esta ilha.
+Dialogue: 0,0:22:36.62,0:22:39.58,Recuerdo,,0,0,0,,Então vou pedir que me leve com ela para o mar.
+Dialogue: 0,0:22:39.58,0:22:44.55,Recuerdo,,0,0,0,,Eu tenho estudado, e finalmente consegui me tornar uma arqueóloga.
+Dialogue: 0,0:22:44.55,0:22:46.55,Recuerdo,,0,0,0,,Uma arqueóloga...
+Dialogue: 0,0:22:46.55,0:22:48.38,Recuerdo,,0,0,0,,Mas você é apenas uma criança.
 Dialogue: 0,0:22:48.94,0:22:49.76,Recuerdo,,0,0,0,,sim.
-Dialogue: 0,0:22:50.35,0:22:56.08,Recuerdo,,0,0,0,,Mas você ainda se lembra do rosto de sua mãe?
+Dialogue: 0,0:22:50.35,0:22:56.08,Recuerdo,,0,0,0,,Você ainda se lembra do rosto de sua mãe?
 Dialogue: 0,0:22:56.08,0:22:57.14,Recuerdo,,0,0,0,,Não.
 Dialogue: 0,0:22:57.14,0:22:58.69,Recuerdo,,0,0,0,,Mas é minha mãe...
 Dialogue: 0,0:22:59.85,0:23:01.65,Recuerdo,,0,0,0,,Eu quero me encontrar com ela.
-Dialogue: 0,0:23:04.05,0:23:05.61,Recuerdo,,0,0,0,,Sabe de uma coisa, Saulo?
+Dialogue: 0,0:23:04.05,0:23:05.61,Recuerdo,,0,0,0,,Sabe de uma coisa, Saul?
 Dialogue: 0,0:23:06.18,0:23:10.61,Recuerdo,,0,0,0,,Há uma lacuna de cem anos na história que ninguém conhece.
-Dialogue: 0,0:23:10.61,0:23:15.01,Recuerdo,,0,0,0,,Sim, esses são os "cem anos de branco".
-Dialogue: 0,0:23:15.01,0:23:19.37,Recuerdo,,0,0,0,,Estou interessado nele, mas o governo proíbe investigá-lo.
+Dialogue: 0,0:23:10.61,0:23:15.01,Recuerdo,,0,0,0,,Sim. Chama-se Século Perdido.
+Dialogue: 0,0:23:15.01,0:23:19.37,Recuerdo,,0,0,0,,Estou interessado nele, mas o governo proíbe de investigá-lo.
 Dialogue: 0,0:23:19.37,0:23:20.71,Recuerdo,,0,0,0,,sim.
 Dialogue: 0,0:23:20.71,0:23:24.95,Recuerdo,,0,0,0,,Disseram-me que minha mãe viaja pelo mundo em busca dele.
 Dialogue: 0,0:23:24.95,0:23:27.09,Recuerdo,,0,0,0,,Mas não conte a ninguém.
 Dialogue: 0,0:23:27.09,0:23:28.84,Recuerdo,,0,0,0,,Afinal, é um crime.
-Dialogue: 0,0:23:30.11,0:23:35.60,Recuerdo,,0,0,0,,Você não quer dizer que ele está procurando por aquelas runas de pedra chamadas Poneglyphs?
+Dialogue: 0,0:23:30.11,0:23:30.12,Recuerdo,,0,0,0,,Você não quer dizer que ela está procurando por aquelas runas de pedra chamadas Poneglyphs?
+Dialogue: 0,0:23:30.12,0:23:35.60,Recuerdo,,0,0,0,,Você não quer dizer que ela está procurando por aquelas runas de pedra chamadas Poneglyphs?
 Dialogue: 0,0:23:36.52,0:23:38.22,Recuerdo,,0,0,0,,Você conhece os Poneglyphs?
 Dialogue: 0,0:23:38.22,0:23:39.77,Recuerdo,,0,0,0,,Não importa!
 Dialogue: 0,0:23:39.77,0:23:40.98,Recuerdo,,0,0,0,,Ouça-me, Robin.
@@ -417,7 +418,7 @@ Dialogue: 0,0:23:50.96,0:23:52.03,Recuerdo,,0,0,0,,O que aconteceu?
 Dialogue: 0,0:23:52.03,0:23:56.45,Recuerdo,,0,0,0,,Robin, você se lembra do nome da sua mãe?
 Dialogue: 0,0:23:56.97,0:23:57.95,Recuerdo,,0,0,0,,Olvia.
 Dialogue: 0,0:23:59.88,0:24:02.00,Recuerdo,,0,0,0,,Seu nome é Nico Olvia.
-Dialogue: 0,0:24:09.07,0:24:10.30,Recuerdo,,0,0,0,,Saulo?
+Dialogue: 0,0:24:09.07,0:24:10.30,Recuerdo,,0,0,0,,Saul?
 Dialogue: 0,0:24:10.30,0:24:14.26,Pensante,,0,0,0,,Robin é... filha de Olvia.
 Dialogue: 0,0:24:14.75,0:24:17.22,Recuerdo,,0,0,0,,Não pode ser...
 Dialogue: 0,0:24:17.22,0:24:19.83,Recuerdo,,0,0,0,,Esta ilha é Ohara?!
@@ -428,18 +429,18 @@ Dialogue: 0,0:24:24.19,0:24:28.57,Recuerdo,,0,0,0,,{\fad(0,1000)}Como exatamente
 Dialogue: 0,0:24:29.18,0:24:30.99,Recuerdo,,0,0,0,,Não há tempo para isso!
 Dialogue: 0,0:24:31.58,0:24:32.36,Recuerdo,,0,0,0,,Robin!
 Dialogue: 0,0:24:32.36,0:24:32.82,Recuerdo,,0,0,0,,Que?
-Dialogue: 0,0:24:32.82,0:24:36.90,Recuerdo,,0,0,0,,Isso pode chocá-lo, mas você tem que ouvir.
+Dialogue: 0,0:24:32.82,0:24:36.90,Recuerdo,,0,0,0,,Isso pode chocá-la, mas você tem que ouvir.
 Dialogue: 0,0:24:36.90,0:24:41.20,Recuerdo,,0,0,0,,Há navios da Marinha indo\Npara esta ilha agora mesmo!
 Dialogue: 0,0:24:41.76,0:24:43.64,Recuerdo,,0,0,0,,A Marinha... por quê?
 Dialogue: 0,0:24:43.64,0:24:46.54,Recuerdo,,0,0,0,,Eles vêm para eliminar os estudiosos desta ilha!
-Dialogue: 0,0:24:48.25,0:24:49.80,Recuerdo,,0,0,0,,Excluí-los?
-Dialogue: 0,0:24:50.51,0:24:52.98,Recuerdo,,0,0,0,,Não deves...
+Dialogue: 0,0:24:48.25,0:24:49.80,Recuerdo,,0,0,0,,Elimina-los?
+Dialogue: 0,0:24:50.51,0:24:52.98,Recuerdo,,0,0,0,,Não conte...
 Dialogue: 0,0:24:52.98,0:24:53.90,Recuerdo,,0,0,0,,Você está mentindo.
-Dialogue: 0,0:24:53.90,0:24:57.01,Recuerdo,,0,0,0,,...diga ao governo...
+Dialogue: 0,0:24:53.90,0:24:57.01,Recuerdo,,0,0,0,,...ao governo...
 Dialogue: 0,0:24:56.30,0:24:57.26,Enmedio2,,0,0,0,,É mentira.
-Dialogue: 0,0:24:57.01,0:24:58.39,Recuerdo,,0,0,0,,Que você é um estudioso!
+Dialogue: 0,0:24:57.01,0:24:58.39,Recuerdo,,0,0,0,,Que você é uma estudiosa!
 Dialogue: 0,0:24:58.81,0:25:00.10,Recuerdo,,0,0,0,,É tudo mentira!
-Dialogue: 0,0:25:00.10,0:25:01.56,Recuerdo,,0,0,0,,É certo!
+Dialogue: 0,0:25:00.10,0:25:01.56,Recuerdo,,0,0,0,,É verdade!
 Dialogue: 0,0:25:01.56,0:25:03.56,Recuerdo,,0,0,0,,Eu não estou mentindo!
 Dialogue: 0,0:25:03.56,0:25:06.94,Recuerdo,,0,0,0,,Você deve ir à cidade e ver se ocorreu algum desastre!
 Dialogue: 0,0:25:06.94,0:25:11.05,Recuerdo,,0,0,0,,Sua mãe pode até ter voltado!
@@ -447,20 +448,20 @@ Dialogue: 0,0:25:19.50,0:25:21.45,Recuerdo,,0,0,0,,{\an8}Já faz muito tempo, ge
 Dialogue: 0,0:25:21.45,0:25:22.58,Recuerdo,,0,0,0,,esqueça
 Dialogue: 0,0:25:22.58,0:25:23.55,Recuerdo,,0,0,0,,Esqueça-san!
 Dialogue: 0,0:25:23.55,0:25:25.75,Recuerdo,,0,0,0,,Foi você que veio a bordo do navio da Marinha?
-Dialogue: 0,0:25:25.75,0:25:27.46,Recuerdo,,0,0,0,,Você não foi capturado pelos fuzileiros navais?
+Dialogue: 0,0:25:25.75,0:25:27.46,Recuerdo,,0,0,0,,Você não foi capturada pelos fuzileiros navais?
 Dialogue: 0,0:25:35.32,0:25:38.59,Recuerdo,,0,0,0,,Acabei de voltar e já tenho más notícias para você.
 Dialogue: 0,0:25:38.59,0:25:40.35,Recuerdo,,0,0,0,,Mas o que eu lhe disse é verdade.
 Dialogue: 0,0:25:40.35,0:25:44.56,Recuerdo,,0,0,0,,Então, finalmente, o governo se concentrou neste lugar.
 Dialogue: 0,0:25:45.50,0:25:47.01,Recuerdo,,0,0,0,,Eles leram o jornal?
 Dialogue: 0,0:25:47.01,0:25:51.87,Recuerdo,,0,0,0,,A equipe que deixou Ohara há seis anos para estudar os Poneglyphs...
-Dialogue: 0,0:25:51.87,0:25:53.74,Recuerdo,,0,0,0,,Seus 33 membros foram eliminados.
+Dialogue: 0,0:25:51.87,0:25:53.74,Recuerdo,,0,0,0,,Seus 33 membros foram mortos.
 Dialogue: 0,0:25:53.74,0:25:56.67,Recuerdo,,0,0,0,,Todos... menos eu.
-Dialogue: 0,0:25:56.67,0:25:59.28,Recuerdo,,0,0,0,,Também fui capturado pelos fuzileiros navais.
+Dialogue: 0,0:25:56.67,0:25:59.28,Recuerdo,,0,0,0,,Também fui capturada pelos fuzileiros navais.
 Dialogue: 0,0:25:59.28,0:26:03.91,Recuerdo,,0,0,0,,Eles revistaram os pertences dos meus companheiros mortos.
 Dialogue: 0,0:26:03.91,0:26:07.75,Recuerdo,,0,0,0,,O governo descobriu que éramos de Ohara.
 Dialogue: 0,0:26:08.16,0:26:09.79,Recuerdo,,0,0,0,,Não tenho desculpa.
 Dialogue: 0,0:26:09.79,0:26:13.09,Recuerdo,,0,0,0,,Sou responsável por toda esta ilha estar em perigo.
-Dialogue: 0,0:26:13.09,0:26:14.34,Recuerdo,,0,0,0,,Você desiste?!
+Dialogue: 0,0:26:13.09,0:26:14.34,Recuerdo,,0,0,0,,Pare!
 Dialogue: 0,0:26:14.34,0:26:16.86,Recuerdo,,0,0,0,,Não importa de quem é a culpa!
 Dialogue: 0,0:26:16.86,0:26:21.00,Recuerdo,,0,0,0,,Tanto os que foram para o mar como os que aqui ficaram formam a mesma equipa.
 Dialogue: 0,0:26:21.00,0:26:24.35,Recuerdo,,0,0,0,,Não são vocês que suportaram dificuldades?
@@ -474,7 +475,7 @@ Dialogue: 0,0:26:46.08,0:26:50.46,Recuerdo,,0,0,0,,Sim, mas conseguimos obter\Ne
 Dialogue: 0,0:26:50.46,0:26:54.75,Recuerdo,,0,0,0,,Qualquer um que se intitula um\Nestudioso em Ohara será eliminado!
 Dialogue: 0,0:26:54.75,0:26:58.51,Recuerdo,,0,0,0,,É por isso que devemos nos apressar para fugir de Ohara!
 Dialogue: 0,0:26:58.51,0:27:00.54,Recuerdo,,0,0,0,,Tem razão.
-Dialogue: 0,0:27:00.54,0:27:05.47,Recuerdo,,0,0,0,,Parece-me que desta vez não\Nconseguiremos fugir à investigação.
+Dialogue: 0,0:27:00.54,0:27:05.47,Recuerdo,,0,0,0,,Parece-me que desta vez não\Npoderemos continuar à investigação.
 Dialogue: 0,0:27:05.47,0:27:09.56,Recuerdo,,0,0,0,,Acho que o governo veio para nos matar.
 Dialogue: 0,0:27:09.56,0:27:10.90,Recuerdo,,0,0,0,,Então se apresse!
 Dialogue: 0,0:27:10.90,0:27:12.90,Recuerdo,,0,0,0,,Mas você sabe, Olvia.
@@ -499,16 +500,16 @@ Dialogue: 0,0:28:00.25,0:28:01.70,Recuerdo,,0,0,0,,Sinto muito Robin.
 Dialogue: 0,0:28:01.70,0:28:05.63,Recuerdo,,0,0,0,,Assim que eu resolver o quebra-cabeça,\Ntenha certeza de que voltarei.
 Dialogue: 0,0:28:11.16,0:28:13.33,Recuerdo,,0,0,0,,Onde está a mamãe?
 Dialogue: 0,0:28:13.33,0:28:15.00,Recuerdo,,0,0,0,,Onde está minha mãe?
-Dialogue: 0,0:28:15.00,0:28:16.00,Recuerdo,,0,0,0,,Onde ele foi?
+Dialogue: 0,0:28:15.00,0:28:16.00,Recuerdo,,0,0,0,,Onde ela foi?
 Dialogue: 0,0:28:16.00,0:28:18.30,Recuerdo,,0,0,0,,Sua mãe foi trabalhar...
-Dialogue: 0,0:28:18.30,0:28:19.84,Recuerdo,,0,0,0,,Ele foi para o mar!
+Dialogue: 0,0:28:18.30,0:28:19.84,Recuerdo,,0,0,0,,Ela foi para o mar!
 Dialogue: 0,0:28:19.84,0:28:21.19,Recuerdo,,0,0,0,,Você vai ficar aqui por um tempo.
 Dialogue: 0,0:28:21.19,0:28:22.80,Recuerdo,,0,0,0,,Cala a boca de uma vez!
 Dialogue: 0,0:28:22.80,0:28:24.27,Recuerdo,,0,0,0,,Se você não calar a boca eu te dou uma surra!
 Dialogue: 0,0:28:24.27,0:28:26.32,Recuerdo,,0,0,0,,Ei, ei, deixe-a em paz, ela só tem dois anos.
 Dialogue: 0,0:28:26.32,0:28:28.14,Recuerdo,,0,0,0,,Nossa filha também tem dois anos.
 Dialogue: 0,0:28:28.14,0:28:30.70,Recuerdo,,0,0,0,,Eu não me importo se ela é filha de sua irmã,
-Dialogue: 0,0:28:30.70,0:28:34.06,Recuerdo,,0,0,0,,o que passou pela sua cabeça para trazê-lo?
+Dialogue: 0,0:28:30.70,0:28:34.06,Recuerdo,,0,0,0,,o que passou pela sua cabeça para trazê-la?
 Dialogue: 0,0:28:37.16,0:28:38.23,Recuerdo,,0,0,0,,Quem anda ai?
 Dialogue: 0,0:28:38.23,0:28:40.13,Recuerdo,,0,0,0,,Fique onde está!
 Dialogue: 0,0:28:41.78,0:28:42.99,Recuerdo,,0,0,0,,Bom é isso...
@@ -518,7 +519,7 @@ Dialogue: 0,0:28:51.50,0:28:54.96,Recuerdo,,0,0,0,,Me avise quando quiser ler um
 Dialogue: 0,0:28:54.96,0:28:57.92,Recuerdo,,0,0,0,,Mas não tenho dinheiro.
 Dialogue: 0,0:28:57.92,0:29:00.00,Recuerdo,,0,0,0,,Você não precisa de dinheiro.
 Dialogue: 0,0:29:00.00,0:29:02.42,Recuerdo,,0,0,0,,Você pode ler o quanto quiser de graça.
-Dialogue: 0,0:29:02.42,0:29:03.34,Recuerdo,,0,0,0,,Livre?
+Dialogue: 0,0:29:02.42,0:29:03.34,Recuerdo,,0,0,0,,De Graça?
 Dialogue: 0,0:29:03.34,0:29:06.99,Recuerdo,,0,0,0,,Sim, esta é a maior biblioteca do mundo.
 Dialogue: 0,0:29:06.99,0:29:08.10,Recuerdo,,0,0,0,,O maior do mundo?
 Dialogue: 0,0:29:08.10,0:29:08.95,Recuerdo,,0,0,0,,Assim é.
@@ -526,26 +527,26 @@ Dialogue: 0,0:29:08.95,0:29:11.89,Recuerdo,,0,0,0,,Aliás, você não é filha d
 Dialogue: 0,0:29:13.01,0:29:14.35,Recuerdo,,0,0,0,,Você gosta de livros?
 Dialogue: 0,0:29:17.72,0:29:20.76,Recuerdo,,0,0,0,,Ela se parece muito com você quando você era pequena.
 Dialogue: 0,0:29:20.76,0:29:23.32,Recuerdo,,0,0,0,,Esse tipo de gênio não é comum.
-Dialogue: 0,0:29:24.58,0:29:27.28,Recuerdo,,0,0,0,,Se ele está feliz... então...
+Dialogue: 0,0:29:24.58,0:29:27.28,Recuerdo,,0,0,0,,Se ela está feliz... então...
 Dialogue: 0,0:29:28.42,0:29:31.45,Recuerdo,,0,0,0,,Agora que tomei esse caminho,\Ntenho que me separar dela.
-Dialogue: 0,0:29:31.45,0:29:35.37,Recuerdo,,0,0,0,,Não posso deixá-la se tornar filha de um criminoso.
+Dialogue: 0,0:29:31.45,0:29:35.37,Recuerdo,,0,0,0,,Não posso deixá-la se tornar filha de uma criminosa.
 Dialogue: 0,0:29:35.37,0:29:37.08,Recuerdo,,0,0,0,,Doutor Trevo!
 Dialogue: 0,0:29:37.08,0:29:39.13,Recuerdo,,0,0,0,,Desta vez é um navio com a bandeira do Governo Mundial!
 Dialogue: 0,0:29:39.13,0:29:43.22,Recuerdo,,0,0,0,,Um navio do governo chegando ao West Blue?
 Dialogue: 0,0:29:43.22,0:29:44.63,Recuerdo,,0,0,0,,É certo...
 Dialogue: 0,0:29:44.63,0:29:47.01,Recuerdo,,0,0,0,,As coisas estão ficando feias.
 Dialogue: 0,0:29:48.97,0:29:50.99,Recuerdo,,0,0,0,,me escute bem
-Dialogue: 0,0:29:50.99,0:29:53.98,Recuerdo,,0,0,0,,Eu não sou o parceiro deles, eles nem me conhecem.
-Dialogue: 0,0:29:55.98,0:29:58.73,Recuerdo,,0,0,0,,Não esqueça!
-Dialogue: 0,0:29:58.73,0:29:59.65,Recuerdo,,0,0,0,,Passe o que passar!
-Dialogue: 0,0:29:59.65,0:30:01.48,Recuerdo,,0,0,0,,Esqueça espere!
-Dialogue: 0,0:30:01.48,0:30:02.57,Recuerdo,,0,0,0,,Que pensas fazer?!
+Dialogue: 0,0:29:50.99,0:29:53.98,Recuerdo,,0,0,0,,Vocês e eu não somos nem companheiros\N nem conhecidos.
+Dialogue: 0,0:29:55.98,0:29:58.73,Recuerdo,,0,0,0,,Tenha isso em mente... 
+Dialogue: 0,0:29:58.73,0:29:59.65,Recuerdo,,0,0,0,,não importa o que aconteça!
+Dialogue: 0,0:29:59.65,0:30:01.48,Recuerdo,,0,0,0,,Espere, Olvia! 
+Dialogue: 0,0:30:01.48,0:30:02.57,Recuerdo,,0,0,0,,O que você vai fazer?!
 Dialogue: 0,0:30:02.57,0:30:05.85,Recuerdo,,0,0,0,,Certo, diga a eles que estamos aqui.
 Dialogue: 0,0:30:07.24,0:30:08.45,Recuerdo,,0,0,0,,Vamos vamos VAMOS!
-Dialogue: 0,0:30:08.45,0:30:09.53,Recuerdo,,0,0,0,,Se apresse!
+Dialogue: 0,0:30:08.45,0:30:09.53,Recuerdo,,0,0,0,,Se apressem!
 Dialogue: 0,0:30:10.03,0:30:12.49,Recuerdo,,0,0,0,,A situação vai ficar difícil.
 Dialogue: 0,0:30:13.85,0:30:16.83,Recuerdo,,0,0,0,,Espero ser promovido por isso.
-Dialogue: 0,0:30:16.83,0:30:20.71,Recuerdo,,0,0,0,,Ouça, prenda todos que são\Nconhecidos por serem eruditos.
+Dialogue: 0,0:30:16.83,0:30:20.71,Recuerdo,,0,0,0,,Ouça, prenda todos que são\Nconhecidos por serem estudiosos.
 Dialogue: 0,0:30:20.71,0:30:21.46,Recuerdo,,0,0,0,,Sim!
 Dialogue: 0,0:30:20.71,0:30:21.46,Enmedio2,,0,0,0,,Sim!
 Dialogue: 0,0:30:21.46,0:30:23.34,Recuerdo,,0,0,0,,O que está acontecendo?!
