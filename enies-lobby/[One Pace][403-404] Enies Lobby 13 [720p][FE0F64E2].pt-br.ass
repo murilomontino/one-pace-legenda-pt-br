@@ -16,9 +16,9 @@ Video File: ../../[One Pace][403-404] Enies Lobby 13 [720p][FE0F64E2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 254
-Active Line: 393
-Video Position: 34874
+Scroll Position: 255
+Active Line: 257
+Video Position: 24068
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -297,21 +297,21 @@ Dialogue: 5,0:16:34.97,0:16:36.68,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(30
 Dialogue: 5,0:16:34.97,0:16:36.68,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,1210,1710)}fansub!
 Dialogue: 5,0:16:34.97,0:16:36.68,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,1210,1710)}Bestial Majestade.
 Dialogue: 5,0:16:40.10,0:16:42.23,OP Normal2,,0,0,0,,Chapapa...
-Dialogue: 5,0:16:43.81,0:16:46.61,OP Normal2,,0,0,0,,Aquele soco fraco não fez nada comigo.
-Dialogue: 5,0:16:48.02,0:16:49.19,OP Normal2,,0,0,0,,Forte...
+Dialogue: 5,0:16:43.81,0:16:46.61,OP Normal2,,0,0,0,,Aquele soco patético não fez nada comigo.
+Dialogue: 5,0:16:48.02,0:16:49.19,OP Normal2,,0,0,0,,Strong...
 Dialogue: 5,0:16:49.65,0:16:50.68,OP Normal2,,0,0,0,,Tekkai!
-Dialogue: 5,0:16:50.68,0:16:52.55,OP Normal2,,0,0,0,,...Martelo!
-Dialogue: 5,0:16:57.62,0:17:01.04,OP Normal2,,0,0,0,,Seus golpes são fracos.
+Dialogue: 5,0:16:50.68,0:16:52.55,OP Normal2,,0,0,0,,...Hammer!
+Dialogue: 5,0:16:57.62,0:17:01.04,OP Normal2,,0,0,0,,Seus golpes são patéticos.
 Dialogue: 5,0:17:01.04,0:17:02.66,OP Normal2,,0,0,0,,Dugongo!
-Dialogue: 5,0:17:18.14,0:17:21.60,OP Normal2,,0,0,0,,O seu realmente foi um soco fraco.
-Dialogue: 5,0:17:22.64,0:17:27.02,OP Normal2,,0,0,0,,Não, o seu foi um soco fraco.
+Dialogue: 5,0:17:18.14,0:17:21.60,OP Normal2,,0,0,0,,Foi um soco patético.
+Dialogue: 5,0:17:22.64,0:17:27.02,OP Normal2,,0,0,0,,Não, o seu foi um soco patético.
 Dialogue: 5,0:17:27.02,0:17:29.99,OP Normal2,,0,0,0,,Então o seu foi um soco engraçado.
-Dialogue: 5,0:17:29.99,0:17:33.39,OP Normal2,,0,0,0,,Então sua cueca é uma tanga macia.
-Dialogue: 5,0:17:34.65,0:17:36.07,OP Normal2,,0,0,0,,Cueca?
+Dialogue: 5,0:17:29.99,0:17:33.39,OP Normal2,,0,0,0,,Então sua cueca é uma tanga.
+Dialogue: 5,0:17:34.65,0:17:36.07,OP Normal2,,0,0,0,,Tanga?
 Dialogue: 5,0:17:36.07,0:17:37.95,OP Normal2,,0,0,0,,Isso não é um soco!
 Dialogue: 5,0:17:37.95,0:17:39.95,OP Normal2,,0,0,0,,Bem, parece-me uma tanga!
-Dialogue: 5,0:17:39.95,0:17:41.91,OP Normal2,,0,0,0,,Sutiã estúpido!
-Dialogue: 5,0:17:41.91,0:17:43.87,OP Normal2,,0,0,0,,Cala a boca, meia!
+Dialogue: 5,0:17:39.95,0:17:41.91,OP Normal2,,0,0,0,,Seu sutiã maldito!!
+Dialogue: 5,0:17:41.91,0:17:43.87,OP Normal2,,0,0,0,,Cala a boca, meias!
 Dialogue: 5,0:17:43.87,0:17:44.90,OP Normal2,,0,0,0,,Aprenda a falar!
 Dialogue: 5,0:17:44.90,0:17:45.62,OP Normal2,,0,0,0,,Desgraçado!
 Dialogue: 5,0:17:45.62,0:17:46.50,OP Normal2,,0,0,0,,Correia!
@@ -332,108 +332,89 @@ Dialogue: 5,0:18:35.92,0:18:38.76,OP Normal2,,0,0,0,,Você terminou!
 Dialogue: 5,0:18:39.09,0:18:39.97,OP Normal2,,0,0,0,,Yo-yo-
 Dialogue: 5,0:18:41.05,0:18:42.05,OP Normal2,,0,0,0,,Maldito seja!
 Dialogue: 5,0:18:43.72,0:18:45.02,OP Normal2,,0,0,0,,Bem, eu consegui prendê-lo!
-Dialogue: 5,0:18:45.72,0:18:47.52,OP Normal2,,0,0,0,,Trancar!  Kumadori!
-Dialogue: 5,0:18:48.83,0:18:50.73,OP Normal2,,0,0,0,,Eu fiz isso!  Eu prendi ele!
+Dialogue: 5,0:18:45.72,0:18:47.52,OP Normal2,,0,0,0,,Trancou!  Kumadori!
+Dialogue: 5,0:18:48.83,0:18:50.73,OP Normal2,,0,0,0,,Eu consegui!  Prendi ele!
 Dialogue: 5,0:18:50.73,0:18:52.09,OP Normal2,,0,0,0,,Maldito seja!
 Dialogue: 5,0:18:52.09,0:18:53.73,OP Normal2,,0,0,0,,Ei, espere um minuto, gorila!
 Dialogue: 5,0:18:53.73,0:18:56.11,OP Normal2,,0,0,0,,Eu preciso pegar algo da geladeira!
-Dialogue: 5,0:18:56.11,0:18:58.72,OP Normal2,,0,0,0,,Um CP9 e o tarado!
+Dialogue: 5,0:18:56.11,0:18:58.72,OP Normal2,,0,0,0,,Um CP9 e um tarado!
 Dialogue: 5,0:18:58.72,0:19:00.98,OP Normal2,,0,0,0,,Eu sou Franky e estou do seu lado!
-Dialogue: 5,0:19:00.98,0:19:02.24,OP Normal2,,0,0,0,,E quem é o gorila?!
-Dialogue: 5,0:19:02.24,0:19:03.62,OP Normal2,,0,0,0,,Muito tarde!
-Dialogue: 5,0:19:03.62,0:19:04.53,OP Normal2,,0,0,0,,Escute!
-Dialogue: 5,0:19:04.53,0:19:08.20,OP Normal2,,0,0,0,,Assim como Luffy, eu não te perdoei.
-Dialogue: 5,0:19:08.20,0:19:10.46,OP Normal2,,0,0,0,,A razão pela qual o Usopp nos deixou foi...
-Dialogue: 5,0:19:12.25,0:19:14.58,OP Normal2,,0,0,0,,Foi por sua causa!
-Dialogue: 5,0:19:14.58,0:19:16.24,OP Normal2,,0,0,0,,Devolva o Usopp!
-Dialogue: 5,0:19:16.24,0:19:19.26,OP Normal2,,0,0,0,,Vocês estavam com ele mais cedo.
-Dialogue: 5,0:19:19.69,0:19:21.76,OP Normal2,,0,0,0,,Isso não é mais importante!
-Dialogue: 5,0:19:21.76,0:19:23.76,OP Normal2,,0,0,0,,Você não quer salvar Nico Robin?!
-Dialogue: 5,0:19:23.76,0:19:25.14,OP Normal2,,0,0,0,,Eu quero~!
-Dialogue: 5,0:19:25.14,0:19:26.72,OP Normal2,,0,0,0,,Robin~!
-Dialogue: 5,0:19:26.72,0:19:30.76,OP Normal2,,0,0,0,,Então pegue três Colas da geladeira e dê para mim!
-Dialogue: 5,0:19:30.76,0:19:33.39,OP Normal2,,0,0,0,,Com eles posso recarregar minhas energias!
-Dialogue: 5,0:19:33.39,0:19:37.36,OP Normal2,,0,0,0,,Para que eu possa derrubar todos aqueles caras e pegar suas chaves de volta!
-Dialogue: 5,0:19:37.36,0:19:39.84,OP Normal2,,0,0,0,,Que tipo de idiota fica mais forte com Colas?
-Dialogue: 5,0:19:39.84,0:19:41.68,OP Normal2,,0,0,0,,Calado!  Eu sou assim!
-Dialogue: 5,0:19:43.62,0:19:45.28,OP Normal2,,0,0,0,,Vocês caras...
-Dialogue: 5,0:19:45.28,0:19:47.54,OP Normal2,,0,0,0,,Por quanto tempo você planeja continuar com sua comédia?
-Dialogue: 5,0:19:48.63,0:19:51.92,OP Normal2,,0,0,0,,E além disso, você não sabe que não é certo começar a beber no meio de uma batalha?
-Dialogue: 5,0:19:51.92,0:19:53.84,OP Normal2,,0,0,0,,Isso é indelicado!
-Dialogue: 5,0:19:54.54,0:19:56.29,OP Normal2,,0,0,0,,Dugongo Ougi
-Dialogue: 5,0:19:54.54,0:20:01.04,NDTBoard,,0,0,0,,{\clip(0,0,1279,719)\1a&H80&\be1\fad(300,0)\t(0,300,\fscx570)\move(133,65,133,-57,6000,6500)}frio
-Dialogue: 5,0:19:54.54,0:20:01.04,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(60,69,60,-53,6000,6500)}Shi
-Dialogue: 5,0:19:54.54,0:20:01.04,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,6000,6500)}chibukai
-Dialogue: 5,0:19:54.54,0:20:01.04,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,6000,6500)}fansub!
-Dialogue: 5,0:19:54.54,0:20:01.04,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,6000,6500)}Técnica Secreta da Majestade Bestial: Espancamento de Coruja.
-Dialogue: 5,0:19:59.42,0:20:01.04,OP Normal2,,0,0,0,,Fukurou Dataki
-Dialogue: 5,0:20:04.09,0:20:05.64,OP Normal2,,0,0,0,,Chapapapapapa!
-Dialogue: 5,0:20:07.10,0:20:09.06,OP Normal2,,0,0,0,,Beans Left!{\fad(150,150)}
-Dialogue: 5,0:20:16.73,0:20:18.57,OP Normal2,,0,0,0,,O que seria isso?!
-Dialogue: 5,0:20:22.24,0:20:23.57,OP Normal2,,0,0,0,,Isso não está indo bem!
-Dialogue: 5,0:20:23.57,0:20:25.66,OP Normal2,,0,0,0,,Isso mesmo, ele está do nosso lado agora.
-Dialogue: 5,0:20:25.66,0:20:27.74,OP Normal2,,0,0,0,,É melhor eu fazer o que me pediu para fazer.
-Dialogue: 5,0:20:30.04,0:20:33.37,OP Normal2,,0,0,0,,Se eu abrir apenas por um instante, ele não será capaz de sair.
-Dialogue: 0,0:20:34.25,0:20:35.20,OP Normal2,,0,0,0,,Aberto!
-Dialogue: 5,0:20:35.20,0:20:36.15,OP Normal2,,0,0,0,,Yoyoi!
-Dialogue: 5,0:20:36.15,0:20:40.80,OP Normal2,,0,0,0,,A porta foi aberta!
-Dialogue: 5,0:20:41.69,0:20:42.42,OP Normal2,,0,0,0,,Certo!
-Dialogue: 5,0:20:42.85,0:20:44.35,OP Normal2,,0,0,0,,Franky!
-Dialogue: 5,0:20:45.51,0:20:46.80,OP Normal2,,0,0,0,,Você me salvou!
-Dialogue: 5,0:20:53.94,0:20:57.90,OP Normal2,,0,0,0,,fresco!
-Dialogue: 5,0:20:59.82,0:21:01.32,OP Normal2,,0,0,0,,Mas que...?
-Dialogue: 5,0:21:03.82,0:21:04.99,OP Normal2,,0,0,0,,Fresco é muito melhor!
-Dialogue: 5,0:21:04.99,0:21:06.24,OP Normal2,,0,0,0,,Soco Oyasai!
-Dialogue: 5,0:21:04.86,0:21:07.49,NDTBoard,,0,0,0,,{\clip(0,0,1279,719)\1a&H80&\be1\fad(300,0)\t(0,300,\fscx570)\move(133,65,133,-57,2130,2630)}frio
-Dialogue: 5,0:21:04.86,0:21:07.49,NDTSkull,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(60,69,60,-53,2130,2630)}Shi
-Dialogue: 5,0:21:04.86,0:21:07.49,NDTHat,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,2130,2630)}chibukai
-Dialogue: 5,0:21:04.86,0:21:07.49,NDTHat2,,0,0,0,,{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,2130,2630)}fansub!
-Dialogue: 5,0:21:04.86,0:21:07.49,NDTText,,0,0,0,,{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,2130,2630)}Soco de Legumes.
-Dialogue: 5,0:21:06.28,0:21:07.12,OP Normal2,,0,0,0,,Levar!
-Dialogue: 5,0:21:07.64,0:21:08.24,OP Normal2,,0,0,0,,dugongo
-Dialogue: 5,0:21:11.12,0:21:13.46,OP Normal2,,0,0,0,,Isso era suco de vegetais!
-Dialogue: 5,0:21:13.46,0:21:16.92,OP Normal2,,0,0,0,,Quem está priorizando a saúde por aqui, seu safado?!
-Dialogue: 5,0:21:16.92,0:21:19.00,OP Normal2,,0,0,0,,Eu quero Cola!
-Dialogue: 5,0:21:19.00,0:21:21.88,OP Normal2,,0,0,0,,Você não estava apenas com sede?
-Dialogue: 0,0:21:22.01,0:21:22.80,OP Normal2,,0,0,0,,Yoyoi!
-Dialogue: 5,0:21:22.80,0:21:24.39,OP Normal2,,0,0,0,,A porta!
-Dialogue: 5,0:21:24.84,0:21:25.64,OP Normal2,,0,0,0,,Levar!
-Dialogue: 5,0:21:25.64,0:21:27.14,OP Normal2,,0,0,0,,Obrigado!
-Dialogue: 5,0:21:30.10,0:21:34.06,OP Normal2,,0,0,0,,Isso é o que eu chamo de sentir-se bem!
-Dialogue: 5,0:21:34.68,0:21:37.02,OP Normal2,,0,0,0,,Agora...
-Dialogue: 5,0:21:37.02,0:21:38.75,OP Normal2,,0,0,0,,Eu vou sentar aqui!
-Dialogue: 5,0:21:38.75,0:21:42.11,OP Normal2,,0,0,0,,Quão difícil é o trabalho no campo hoje.
-Dialogue: 5,0:21:42.11,0:21:44.99,OP Normal2,,0,0,0,,Vamos descansar um pouco e parar de lutar!
-Dialogue: 5,0:21:44.99,0:21:47.61,OP Normal2,,0,0,0,,Vamos tomar um chá!
-Dialogue: 5,0:21:47.61,0:21:49.12,OP Normal2,,0,0,0,,Nada como um bom chá...
-Dialogue: 5,0:21:49.53,0:21:52.54,OP Normal2,,0,0,0,,...o que não te fortalece em nada, idiota!
-Dialogue: 5,0:21:53.88,0:21:55.83,Pensante,,0,0,0,,É gracioso.
-Dialogue: 5,0:21:55.83,0:21:57.05,OP Normal2,,0,0,0,,Escute!
-Dialogue: 5,0:21:57.05,0:22:00.59,OP Normal2,,0,0,0,,O que há com essa cara de "O que aconteceria se ele bebesse outra coisa"?!
-Dialogue: 5,0:22:00.59,0:22:01.50,OP Normal2,,0,0,0,,Maldito seja!
-Dialogue: 5,0:22:02.30,0:22:04.34,OP Normal2,,0,0,0,,Esta é sua última chance, rena!
-Dialogue: 5,0:22:04.72,0:22:06.68,OP Normal2,,0,0,0,,Não é uma questão de como você se sente?
-Dialogue: 5,0:22:06.68,0:22:07.80,OP Normal2,,0,0,0,,Apenas me dê Cola!
-Dialogue: 5,0:22:09.89,0:22:10.93,Pensante,,0,0,0,,Isso é Cola!
-Dialogue: 5,0:22:10.93,0:22:12.89,Pensante,,0,0,0,,Não há dúvida, é cola!
-Dialogue: 5,0:22:13.31,0:22:14.56,OP Normal2,,0,0,0,,Você é meu salvador!
-Dialogue: 5,0:22:17.31,0:22:21.36,OP Normal2,,0,0,0,,Não sei o que está acontecendo, mas\Nnão vou deixar você fazer o que quer!
-Dialogue: 5,0:22:21.36,0:22:22.40,OP Normal2,,0,0,0,,Rankyaku!
-Dialogue: 5,0:22:24.19,0:22:25.32,OP Normal2,,0,0,0,,Franky!
-Dialogue: 5,0:22:35.79,0:22:39.67,OP Normal2,,0,0,0,,{\fad(0,300)}Super!
-Dialogue: 0,0:23:03.65,0:23:05.23,OP Normal2,,0,0,0,,Chapapa...
-Dialogue: 5,0:23:05.23,0:23:06.48,OP Normal2,,0,0,0,,O que está acontecendo?
-Dialogue: 5,0:23:06.48,0:23:10.07,OP Normal2,,0,0,0,,Como se você fosse mudar só\Nporque bebeu um refrigerante.
-Dialogue: 5,0:23:12.07,0:23:13.66,OP Normal2,,0,0,0,,Levante sua guarda. {.}
-Dialogue: 0,0:23:13.66,0:23:14.68,OP Normal2,,0,0,0,,{.Chapa?} Que tolo.
-Dialogue: 5,0:23:14.68,0:23:15.94,OP Normal2,,0,0,0,,Idiota!
-Dialogue: 5,0:23:15.94,0:23:19.04,OP Normal2,,0,0,0,,Você vai me acertar com outro de seus socos fracos?
-Dialogue: 5,0:23:19.56,0:23:21.70,OP Normal2,,0,0,0,,Strong...
-Dialogue: 5,0:23:21.70,0:23:23.86,OP Normal2,,0,0,0,,...Hammer!
-Dialogue: 5,0:23:41.73,0:23:43.77,OP Normal2,,0,0,0,,Incrível!
-Dialogue: 5,0:24:04.00,0:24:06.89,OP Normal2,,0,0,0,,Você vai ter que me desculpar.
-Dialogue: 5,0:24:06.89,0:24:08.80,OP Normal2,,0,0,0,,Até agora, meus socos...
-Dialogue: 5,0:24:09.43,0:24:11.92,OP Normal2,,0,0,0,,...foram fracos, você estava certo.
+Dialogue: 0,0:19:01.84,0:19:02.99,OP Normal2,,0,0,0,,Quem você chamou de gorila?!
+Dialogue: 0,0:19:02.99,0:19:03.74,OP Normal2,,0,0,0,,Você é muito lento!
+Dialogue: 0,0:19:04.49,0:19:05.48,OP Normal2,,0,0,0,,Escute.
+Dialogue: 0,0:19:05.48,0:19:09.07,OP Normal2,,0,0,0,,Assim como Luffy, eu\Nainda não te perdoei.
+Dialogue: 0,0:19:09.07,0:19:11.32,OP Normal2,,0,0,0,,A razão pela qual o Usopp nos deixou...
+Dialogue: 0,0:19:13.17,0:19:15.43,OP Normal2,,0,0,0,,A culpa é toda sua!  {.}
+Dialogue: 0,0:19:15.43,0:19:17.09,OP Normal2,,0,0,0,,Devolva-nos o Usopp!
+Dialogue: 0,0:19:17.09,0:19:20.13,OP Normal2,,0,0,0,,Como eu disse, vocês\Nestiveram com ele mais cedo.
+Dialogue: 0,0:19:20.13,0:19:22.64,OP Normal2,,0,0,0,,Isso não é importante agora!
+Dialogue: 0,0:19:22.64,0:19:24.64,OP Normal2,,0,0,0,,Você não quer salvar Nico Robin?!
+Dialogue: 0,0:19:24.64,0:19:27.60,OP Normal2,,0,0,0,,Eu quero!  Robin!
+Dialogue: 0,0:19:27.60,0:19:31.68,OP Normal2,,0,0,0,,Então pegue três garrafas de\Nrefrigerante Cola daquela geladeira e me dê!
+Dialogue: 0,0:19:31.68,0:19:33.97,OP Normal2,,0,0,0,,Com cola, eu fico no máximo!
+Dialogue: 0,0:19:33.97,0:19:38.28,OP Normal2,,0,0,0,,Vou cuidar desses caras em\Num instante e pegar suas chaves!
+Dialogue: 0,0:19:38.28,0:19:40.69,OP Normal2,,0,0,0,,Que tipo de idiota \Nfica mais forte com cola?
+Dialogue: 0,0:19:40.69,0:19:42.45,OP Normal2,,0,0,0,,Calado!  Sou assim!
+Dialogue: 0,0:19:44.50,0:19:46.18,OP Normal2,,0,0,0,,Quanto tempo...
+Dialogue: 0,0:19:46.18,0:19:49.53,OP Normal2,,0,0,0,,você está planejando\Nmanter o ato de comédia?! {.}
+Dialogue: 0,0:19:49.53,0:19:52.89,OP Normal2,,0,0,0,,Além disso, você está tentando fazer uma\Npausa para o chá durante uma briga? {.}
+Dialogue: 0,0:19:52.89,0:19:54.80,OP Normal2,,0,0,0,,Que rude!
+Dialogue: 0,0:19:55.42,0:19:57.19,OP Normal2,,0,0,0,,Dugongo resistente: {.}{fad(150,150)}
+Dialogue: 0,0:20:00.29,0:20:01.76,OP Normal2,,0,0,0,,Debulha de coruja!{fad(150,150)}
+Dialogue: 0,0:20:04.89,0:20:06.50,OP Normal2,,0,0,0,,{.Chapapapapa!}
+Dialogue: 0,0:20:08.00,0:20:09.94,OP Normal2,,0,0,0,,Left Bean!{fad(150,150)}
+Dialogue: 0,0:20:17.63,0:20:19.76,OP Normal2,,0,0,0,,O que é que foi isso?!
+Dialogue: 0,0:20:23.11,0:20:24.45,OP Normal2,,0,0,0,,Ahh!  Isso é terrível!
+Dialogue: 0,0:20:24.45,0:20:26.70,OP Normal2,,0,0,0,,Isso mesmo! Ele está\Ndo nosso lado agora!
+Dialogue: 0,0:20:26.70,0:20:27.66,OP Normal2,,0,0,0,,Vou fazer o que me disse.
+Dialogue: 0,0:20:30.92,0:20:33.81,OP Normal2,,0,0,0,,Se eu abrir a porta e fechá-la em menos de um segundo, ele não pode sair!  {.}
+Dialogue: 0,0:20:36.12,0:20:37.32,OP Normal2,,0,0,0,,{.Yoyoi!}
+Dialogue: 0,0:20:37.00,0:20:42.17,OP Normal2,,0,0,0,,A porta abriu...
+Dialogue: 0,0:20:42.66,0:20:43.63,OP Normal2,,0,0,0,,Tudo bem!
+Dialogue: 0,0:20:43.63,0:20:44.92,OP Normal2,,0,0,0,,Franky!
+Dialogue: 0,0:20:46.28,0:20:47.72,OP Normal2,,0,0,0,,Você salvou minha vida!  {.}
+Dialogue: 0,0:20:54.81,0:20:58.77,OP Normal2,,0,0,0,,Fresco!
+Dialogue: 0,0:21:00.28,0:21:02.24,OP Normal2,,0,0,0,,O que...?
+Dialogue: 0,0:21:04.71,0:21:08.03,OP Normal2,,0,0,0,,Frescura é o mais importante!Ponche\Nde Legumes! Pegue isso!
+Dialogue: 0,0:21:08.56,0:21:09.16,OP Normal2,,0,0,0,,Dugongo resistente.{fad(150,150)}
+Dialogue: 0,0:21:12.00,0:21:14.33,OP Normal2,,0,0,0,,Ei!  Isso era suco de vegetais!
+Dialogue: 0,0:21:15.61,0:21:17.83,OP Normal2,,0,0,0,,Quem está priorizando a saúde por aqui, seu safado?!  {.}
+Dialogue: 0,0:21:17.83,0:21:19.92,OP Normal2,,0,0,0,,É coca!
+Dialogue: 0,0:21:19.92,0:21:21.80,OP Normal2,,0,0,0,,Oh, então não era porque ele estava com sede.
+Dialogue: 0,0:21:23.68,0:21:25.76,OP Normal2,,0,0,0,,{.Yoyoi!} A porta...
+Dialogue: 0,0:21:25.76,0:21:26.79,OP Normal2,,0,0,0,,Aqui está!
+Dialogue: 0,0:21:26.79,0:21:28.01,OP Normal2,,0,0,0,,Obrigado!
+Dialogue: 0,0:21:31.01,0:21:34.98,OP Normal2,,0,0,0,,Estou me sentindo bem!
+Dialogue: 0,0:21:35.56,0:21:37.94,OP Normal2,,0,0,0,,Certo,
+Dialogue: 0,0:21:37.94,0:21:39.69,OP Normal2,,0,0,0,,deixe-me descansar.  {.}
+Dialogue: 0,0:21:39.69,0:21:42.98,OP Normal2,,0,0,0,,Meu trabalho no campo\Nestá feito por enquanto.
+Dialogue: 0,0:21:42.98,0:21:44.58,OP Normal2,,0,0,0,,Pare de ficar tão chateado.
+Dialogue: 0,0:21:44.58,0:21:46.36,OP Normal2,,0,0,0,,Não lute.
+Dialogue: 0,0:21:46.36,0:21:48.49,OP Normal2,,0,0,0,,Por que você não toma um chá?
+Dialogue: 0,0:21:48.49,0:21:49.99,OP Normal2,,0,0,0,,Chá não...
+Dialogue: 0,0:21:50.41,0:21:53.45,OP Normal2,,0,0,0,,me dê energia!  Seu idiota!  {.}
+Dialogue: 0,0:21:54.70,0:21:56.75,OP Normal2,,0,0,0,,Ele é engraçado
+Dialogue: 0,0:21:56.98,0:21:57.84,OP Normal2,,0,0,0,,Ei!
+Dialogue: 0,0:21:57.84,0:22:02.39,OP Normal2,,0,0,0,,O que há com aquele olhar de “eu me pergunto\No que acontece com outras bebidas”?!
+Dialogue: 0,0:22:03.17,0:22:05.45,OP Normal2,,0,0,0,,Esta será a última vez, sua rena maldita!
+Dialogue: 0,0:22:05.45,0:22:07.55,OP Normal2,,0,0,0,,Então não depende de\Ncomo você está se sentindo?
+Dialogue: 0,0:22:07.55,0:22:08.72,OP Normal2,,0,0,0,,Eu só preciso de cola!
+Dialogue: 0,0:22:10.77,0:22:13.81,OP Normal2,,0,0,0,,É isso!  Sem dúvida!  {.}
+Dialogue: 0,0:22:14.18,0:22:15.43,OP Normal2,,0,0,0,,Obrigado!
+Dialogue: 0,0:22:18.18,0:22:22.23,OP Normal2,,0,0,0,,Eu não sei qual é o problema, mas eu\Nnão vou deixar você fazer do seu jeito!
+Dialogue: 0,0:22:22.23,0:22:23.27,OP Normal2,,0,0,0,,Tempest Kick!{fad(150,150)}
+Dialogue: 0,0:22:25.11,0:22:26.24,OP Normal2,,0,0,0,,Franky!
+Dialogue: 0,0:22:36.70,0:22:40.55,OP Normal2,,0,0,0,,Super!
+Dialogue: 0,0:23:06.10,0:23:07.36,OP Normal2,,0,0,0,,{.Chapapa...} Qual é o negócio?
+Dialogue: 0,0:23:07.36,0:23:09.99,OP Normal2,,0,0,0,,Não é como se beber refrigerante\Nfizesse diferença ou algo assim.
+Dialogue: 0,0:23:12.95,0:23:14.53,OP Normal2,,0,0,0,,Levante sua guarda.  {.}
+Dialogue: 0,0:23:15.73,0:23:16.89,OP Normal2,,0,0,0,,{.Chapa?} Que tolo.
+Dialogue: 0,0:23:16.89,0:23:19.91,OP Normal2,,0,0,0,,Você vai dar\Noutro soco patético?
+Dialogue: 0,0:23:20.41,0:23:23.67,OP Normal2,,0,0,0,,Forte... Martelo!{fad(150,150)}
+Dialogue: 0,0:23:41.19,0:23:44.69,OP Normal2,,0,0,0,,Uau!  Incrível!
+Dialogue: 0,0:24:04.05,0:24:05.72,OP Normal2,,0,0,0,,Desculpe.
+Dialogue: 0,0:24:06.02,0:24:09.07,OP Normal2,,0,0,0,,Meus socos anteriores foram...
+Dialogue: 0,0:24:09.07,0:24:11.55,OP Normal2,,0,0,0,,de fato patéticos.  {.}
 Dialogue: 0,0:00:00.06,0:00:04.73,OPLetreros,,0,0,0,,{\fad(400,0)\blur0.533\bord1.733\fscx175\fscy175\c&H222123&\3c&H222123&\1a&HFF&\t(355,400,\1a&H00&)\pos(640,704.667)}SALA DE KALIFASANJI VS. KALIFA
 Dialogue: 1,0:00:00.06,0:00:04.73,OPLetreros,,0,0,0,,{\fad(400,0)\blur0.533\bord0\fscx175\fscy175\4a&HFF&\pos(640,704.667)}SALA DE KALIFASANJI VS. KALIFA
 Dialogue: 0,0:05:01.32,0:05:05.70,Title-207+,,0,0,0,,{\pos(640,504.667)\fad(440,0)\blur0.533\bord1.933\fscx124\fscy124\c&H0C0C09&\3c&H0C0C09&\1a&HFF&\t(395,440,\1a&H00&)}Senhor Cavalaria
