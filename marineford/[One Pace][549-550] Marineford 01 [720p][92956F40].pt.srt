@@ -4480,7 +4480,7 @@ porque não queremos perder o que nos importa.
 
 1117
 00:03:11,440 --> 00:03:16,460
-{\be1}Que você veio foi o destino.
+{\be1}Você ter vindo foi o destino.
 
 1118
 00:03:18,720 --> 00:03:22,110
@@ -4540,7 +4540,7 @@ porque não queremos perder o que nos importa.
 
 1132
 00:04:24,730 --> 00:04:27,500
-{\be1}{an8}Inazuma é melhor deixar a aventura.
+{\be1}{an8}Será melhor que Inazuma abandone a aventura.
 
 1133
 00:04:27,500 --> 00:04:31,070
@@ -4557,7 +4557,7 @@ mencionar os efeitos colaterais intensos.
 
 1136
 00:04:50,480 --> 00:04:55,980
-{\be1}O ideal, e menos doloroso para ele, é esperar que ele se recupere normalmente.
+{\be1}O ideal, e menos doloroso para ele, é esperar que se recupere normalmente.
 
 1137
 00:04:55,980 --> 00:05:00,460
@@ -4574,15 +4574,15 @@ Newkama do Exército Revolucionário.
 
 1140
 00:05:17,010 --> 00:05:20,680
-{\be1}Venha para pensar sobre isso, ele não era um cara mau.
+{\be1}Parando para pensar sobre isso, ele não era um cara mau.
 
 1141
 00:05:22,060 --> 00:05:24,340
-{\be1}Finalmente nos reunimos...
+{\be1}Quando finalmente nos reunimos...
 
 1142
 00:05:24,340 --> 00:05:26,810
-{\be1}...e acabou me salvando novamente.
+{\be1}...acabou me salvando novamente.
 
 1143
 00:05:31,590 --> 00:05:32,910
@@ -4590,7 +4590,7 @@ Newkama do Exército Revolucionário.
 
 1144
 00:05:32,910 --> 00:05:33,810
-{\be1}Bom!
+{\be1}Bon!
 
 1145
 00:05:33,810 --> 00:05:34,920
@@ -4598,11 +4598,11 @@ Newkama do Exército Revolucionário.
 
 1146
 00:05:34,920 --> 00:05:38,530
-{\be1}{fad(0,300)}Bom-chan!
+{\be1}{fad(0,300)}Bon-chan!
 
 1147
 00:05:34,920 --> 00:05:38,530
-{\be1}{fad(0,300)}Bom-chan!
+{\be1}{fad(0,300)}Bon-chan!
 
 1148
 00:05:39,860 --> 00:05:44,140
@@ -4611,7 +4611,7 @@ Newkama do Exército Revolucionário.
 1149
 00:05:44,780 --> 00:05:47,820
 {\be1}Ele era um cara bom, mas agora
-ele está morto e não há nada a fazer.
+está morto e não há nada a fazer.
 
 1150
 00:05:47,820 --> 00:05:50,500
@@ -4623,11 +4623,11 @@ ele está morto e não há nada a fazer.
 
 1152
 00:05:55,190 --> 00:05:58,730
-{\be1}Ou se quiser, podemos fazer um funeral para o Sr. 2.
+{\be1}Ou se quiser, podemos fazer um funeral para o Mr. 2.
 
 1153
 00:06:02,690 --> 00:06:05,370
-{\be1}Vou deixar você passar este!
+{\be1}Vou deixar esta passar!
 
 1154
 00:06:06,660 --> 00:06:11,160
@@ -4635,7 +4635,7 @@ ele está morto e não há nada a fazer.
 
 1155
 00:06:11,160 --> 00:06:13,540
-{\be1}Quem você está chamando de nariz?!
+{\be1}Quem você está chamando de nariz grande?!
 
 1156
 00:06:13,540 --> 00:06:17,050
@@ -4643,7 +4643,7 @@ ele está morto e não há nada a fazer.
 
 1157
 00:06:17,050 --> 00:06:21,270
-{\be1}Bem, você tem uma cara pegajosa, pegajosa e estúpida!
+{\be1}Bem, você tem uma cara pegajosa, esticada e estúpida!
 
 1158
 00:06:21,270 --> 00:06:22,760
@@ -4651,7 +4651,7 @@ ele está morto e não há nada a fazer.
 
 1159
 00:06:23,490 --> 00:06:26,310
-{\be1}Faça o que você quiser.
+{\be1}Apenas faça o que quiser.
 
 1160
 00:06:31,850 --> 00:06:39,870
@@ -4664,7 +4664,7 @@ os peixes era exclusiva das sereias.
 
 1162
 00:06:42,990 --> 00:06:46,830
-{\be1}É estranho que os homens-peixe se dêem bem com os peixes?
+{\be1}É estranho que os homens-peixe se dêem bem com as crituras do mar?
 
 1163
 00:06:47,550 --> 00:06:50,250
@@ -4744,16 +4744,16 @@ os peixes era exclusiva das sereias.
 
 1182
 00:07:47,200 --> 00:07:52,490
-{\be1}Eu costumava ser um Shichibukai, mas esse título acabou!
+{\be1}Eu costumava ser um Shichibukai, mas eu abandonei esse título!
 
 1183
 00:07:52,490 --> 00:07:56,250
-{\be1}Vamos desencadear o inferno na Sede!
+{\be1}Vamos desencadear o inferno no QG da Marinha!
 
 1184
 00:07:56,250 --> 00:08:03,010
 {\be1}Devemos salvar Ace-san para que os esforços
-do Crossdresser-kun não sejam em vão!
+dos Okamas-kun's não sejam em vão!
 
 1185
 00:08:03,290 --> 00:08:04,630
@@ -4761,7 +4761,7 @@ do Crossdresser-kun não sejam em vão!
 
 1186
 00:08:04,630 --> 00:08:06,810
-{\be1}{pos(372,700)}Sede?
+{\be1}{pos(372,700)}QG da Marinha?
 
 1187
 00:08:06,810 --> 00:08:08,980
@@ -4789,7 +4789,7 @@ do Crossdresser-kun não sejam em vão!
 
 1193
 00:08:22,570 --> 00:08:26,400
-{\be1}Ouve!  Como a Sede?!
+{\be1}Ei! O que você quer dizer com QG da Marinha?!
 
 1194
 00:08:26,400 --> 00:08:30,730
@@ -4798,7 +4798,7 @@ indo para o Quartel-General da Marinha?!
 
 1195
 00:08:30,730 --> 00:08:35,570
-{\be1}Eles sabem sobre a guerra entre a Marinha e os Piratas do Barba Branca, certo?
+{\be1}Vocês sabem sobre a guerra entre a Marinha e os Piratas do Barba Branca, certo?
 
 1196
 00:08:36,260 --> 00:08:37,540
@@ -4822,11 +4822,11 @@ indo para o Quartel-General da Marinha?!
 
 1201
 00:08:44,080 --> 00:08:50,830
-{\be1}Agora que passamos dos Portões da Justiça, os únicos destinos possíveis são Enies Lobby ou Sede.
+{\be1}Agora que passamos dos Portões da Justiça, os únicos destinos possíveis são Enies Lobby ou o Quartel.
 
 1202
 00:08:49,700 --> 00:08:54,370
-{\fad(1000,1000)\pos(205,585)\fs25}Sede da Marinha (Marineford)
+{\fad(1000,1000)\pos(205,585)\fs25}Quartel General da Marinha (Marineford)
 
 1203
 00:08:49,700 --> 00:08:54,370
@@ -4856,7 +4856,7 @@ para nos juntarmos a essa batalha.
 
 1209
 00:09:04,930 --> 00:09:08,330
-{\be1}Sim!  Agora a batalha começa!
+{\be1}Sim!  Agora a batalha real começa!
 
 1210
 00:09:08,330 --> 00:09:11,170
@@ -4864,7 +4864,7 @@ para nos juntarmos a essa batalha.
 
 1211
 00:09:08,330 --> 00:09:11,170
-{\be1}Sim, claro, a batalha começa agora...
+{\be1}"Sim, claro, a batalha começa agora..."
 
 1212
 00:09:11,170 --> 00:09:14,130
@@ -4916,7 +4916,7 @@ para nos juntarmos a essa batalha.
 
 1224
 00:09:32,500 --> 00:09:39,630
-{\be1}Uma guerra entre os fuzileiros navais e os Shichibukai contra
+{\be1}Uma guerra entre os marinheiros e os Shichibukai contra
 os Piratas do Barba Branca será pior que o próprio inferno!
 
 1225
@@ -4941,11 +4941,11 @@ os Piratas do Barba Branca será pior que o próprio inferno!
 
 1230
 00:10:37,540 --> 00:10:39,030
-{\be1}Respondidas!
+{\be1}Ele respondeu!
 
 1231
 00:10:37,540 --> 00:10:39,030
-{\be1}Respondidas!
+{\be1}Ele respondeu!
 
 1232
 00:10:39,030 --> 00:10:41,030
@@ -4953,7 +4953,7 @@ os Piratas do Barba Branca será pior que o próprio inferno!
 
 1233
 00:10:41,030 --> 00:10:42,760
-{\be1}Eu sou Luffy.
+{\be1}Eu sou o Luffy.
 
 1234
 00:10:42,760 --> 00:10:44,530
@@ -5076,7 +5076,7 @@ tenha passado despercebido até este incidente.
 
 1263
 00:12:08,580 --> 00:12:12,040
-{\be1}Ainda temos que encontrar uma conexão entre você e Fire Fist Ace,
+{\be1}Ainda temos que encontrar uma conexão entre você e Ace, o Punho de Fogo,
 
 1264
 00:12:12,040 --> 00:12:17,370
@@ -5088,7 +5088,7 @@ tenha passado despercebido até este incidente.
 
 1266
 00:12:22,260 --> 00:12:27,520
-{\be1}...e duzentos outros fugitivos estão a bordo daquele navio.
+{\be1}...e duzentos outros fugitivos estão a bordo deste navio.
 
 1267
 00:12:27,520 --> 00:12:29,370
@@ -5100,7 +5100,7 @@ tenha passado despercebido até este incidente.
 
 1269
 00:12:32,590 --> 00:12:35,460
-{\be1}Eles não serão capazes de chegar a Marineford...
+{\be1}Vocês não serão capazes de chegar a Marineford...
 
 1270
 00:12:35,460 --> 00:12:39,050
@@ -5112,7 +5112,7 @@ tenha passado despercebido até este incidente.
 
 1272
 00:12:45,140 --> 00:12:47,250
-{\be1}É melhor eles se demitirem.
+{\be1}É melhor vocês se entregarem.
 
 1273
 00:12:47,250 --> 00:12:48,110
@@ -5173,7 +5173,7 @@ governo não vai parar de me perseguir!
 
 1287
 00:13:36,660 --> 00:13:39,270
-{\be1}Uau, eu não acho que eu tinha uma história assim.
+{\be1}Uau, eu não sabia que você tinha uma história assim.
 
 1288
 00:13:39,270 --> 00:13:41,260
@@ -5214,7 +5214,7 @@ já deve ter ouvido falar do pirata Buggy.
 
 1297
 00:14:08,350 --> 00:14:09,400
-{\be1}Conheces?
+{\be1}Conhece?
 
 1298
 00:14:09,530 --> 00:14:13,180
@@ -5348,7 +5348,7 @@ recompensas mais altas que as minhas!
 
 1330
 00:15:42,120 --> 00:15:43,160
-{\be1}Posso fazer-lo!
+{\be1}Posso conseguir!
 
 1331
 00:15:43,160 --> 00:15:47,900
@@ -5404,7 +5404,7 @@ recompensas mais altas que as minhas!
 
 1344
 00:16:42,350 --> 00:16:45,730
-{\be1}Você deixa suas emoções tomarem conta de você.
+{\be1}Vocês deixam suas emoções tomarem conta de você.
 
 1345
 00:16:45,730 --> 00:16:48,040
@@ -5554,7 +5554,7 @@ Branca, e com ela, o controle do mundo!
 
 1381
 00:19:16,810 --> 00:19:19,680
-{\be1}Você acha que vai aparecer?
+{\be1}Você acha que ele vai aparecer?
 
 1382
 00:19:20,900 --> 00:19:26,160
@@ -5579,7 +5579,7 @@ Marinha, para vigiar, foram afundados...
 
 1387
 00:20:10,060 --> 00:20:11,150
-{\be1}Sobe.
+{\be1}Suba.
 
 1388
 00:20:32,930 --> 00:20:35,220
@@ -5607,7 +5607,7 @@ Marinha, para vigiar, foram afundados...
 
 1394
 00:21:35,390 --> 00:21:39,790
-{\bord1.5\fs45\pos(640,700)\fad(700,0)}AZUL SUL
+{\bord1.5\fs45\pos(640,700)\fad(700,0)}EAST BLUE
 
 1395
 00:21:40,960 --> 00:21:43,250
@@ -5627,7 +5627,7 @@ Marinha, para vigiar, foram afundados...
 
 1399
 00:21:52,520 --> 00:21:54,300
-{\be1}Assim você acha?
+{\be1}Você acha?
 
 1400
 00:21:54,300 --> 00:21:57,640
@@ -5644,7 +5644,7 @@ seu nome apareceu nas grandes notícias.
 
 1403
 00:22:04,670 --> 00:22:09,720
-{\fad(900,0)\fs50\pos(640,700)}AZUL LESTE
+{\fad(900,0)\fs50\pos(640,700)}WEST BLUE
 
 1404
 00:22:10,430 --> 00:22:13,140
@@ -5656,7 +5656,7 @@ seu nome apareceu nas grandes notícias.
 
 1406
 00:22:17,190 --> 00:22:21,450
-{\be1}Quem vencer, haverá muitas mortes.
+{\be1}Independentemente de quem vença, haverá muitas baixas.
 
 1407
 00:22:25,300 --> 00:22:31,940
@@ -5665,15 +5665,15 @@ a execução transcorra sem incidentes.
 
 1408
 00:22:32,660 --> 00:22:35,840
-{\bord1.5\fs45\pos(640,700)\fad(700,0)}AZUL NORTE
+{\bord1.5\fs45\pos(640,700)\fad(700,0)}NORTH BLUE
 
 1409
 00:22:38,740 --> 00:22:42,150
-{\be1}Ouve!  Eu quero um pouco de álcool, cara!
+{\be1}Ei! Ei!  Eu quero um pouco de álcool, velho!
 
 1410
 00:22:42,150 --> 00:22:44,860
-{\be1}Acha que vou abrir em um dia desses?!
+{\be1}Você acha que vou abrir em um dia desses?!
 
 1411
 00:22:44,860 --> 00:22:47,800
@@ -5717,7 +5717,7 @@ a execução transcorra sem incidentes.
 
 1421
 00:23:21,870 --> 00:23:25,790
-{\bord1.5\fs55\pos(640,708)\fad(700,0)\fscx105}LINHA GRANDE
+{\bord1.5\fs55\pos(640,708)\fad(700,0)\fscx105}GRAND LINE
 
 1422
 00:23:22,450 --> 00:23:25,790
@@ -5761,7 +5761,7 @@ a execução transcorra sem incidentes.
 
 1432
 00:24:02,820 --> 00:24:04,470
-{\be1}Você!  Ir em frente!
+{\be1}Você! Siga em frente!
 
 1433
 00:24:13,240 --> 00:24:15,490
@@ -5798,7 +5798,7 @@ poderiam decidir o resultado da guerra,
 
 1441
 00:24:57,210 --> 00:24:59,790
-{\be1}o Ouka Shichibukai.
+{\be1}os Grandes Shichibukais.
 
 1442
 00:25:00,600 --> 00:25:06,960
@@ -5810,7 +5810,7 @@ poderiam decidir o resultado da guerra,
 
 1444
 00:25:14,480 --> 00:25:17,480
-{\bord1.5\fs32\fad(500,0)\fscx105\pos(640,478)}ALmirante da Marinha
+{\bord1.5\fs32\fad(500,0)\fscx105\pos(640,478)}Almirante da Marinha
 
 1445
 00:25:14,480 --> 00:25:17,480
@@ -5862,11 +5862,11 @@ poderiam decidir o resultado da guerra,
 
 1457
 00:25:58,450 --> 00:26:00,070
-{\be1}Eu vejo eles!
+{\be1}Eu vejo!
 
 1458
 00:26:00,070 --> 00:26:02,880
-{\be1}Ouve!  Jinbe!
+{\be1}Heey!  Jinbe!
 
 1459
 00:26:02,880 --> 00:26:06,080
@@ -5874,7 +5874,7 @@ poderiam decidir o resultado da guerra,
 
 1460
 00:26:06,080 --> 00:26:07,420
-{\be1}Estamos aqui rápido!
+{\be1}Chegamos aqui rápido!
 
 1461
 00:26:07,420 --> 00:26:09,410
@@ -5918,15 +5918,15 @@ poderiam decidir o resultado da guerra,
 
 1471
 00:26:43,490 --> 00:26:46,860
-{\be1}Ei, olhe!  Há Fire Fist Ace!
+{\be1}Ei, olhe! Ace, o Punho de Fogo!
 
 1472
 00:26:50,160 --> 00:26:57,540
-{\be1}Esse é... o homem que pode causar uma guerra que mudaria o mundo!
+{\be1}Esse é... o homem que pode causar uma guerra que mudará o mundo!
 
 1473
 00:27:01,140 --> 00:27:06,550
-{\be1}Você também tem o destino do mundo em suas mãos!
+{\be1}Ele também tem o destino do mundo em suas mãos!
 
 1474
 00:27:33,210 --> 00:27:34,730
@@ -5946,7 +5946,7 @@ poderiam decidir o resultado da guerra,
 
 1478
 00:27:46,110 --> 00:27:47,470
-{\be1}Retroceda um pouco.
+{\be1}Afastem-se um pouco.
 
 1479
 00:27:47,470 --> 00:27:48,390
@@ -6056,7 +6056,7 @@ mas não conseguimos encontrá-lo.
 
 1505
 00:29:31,210 --> 00:29:38,040
-{\be1}Ele enganou nossos olhos...!  Não, os olhos do mundo inteiro!
+{\be1}Ela enganou nossos olhos...!  Não, os olhos do mundo inteiro!
 
 1506
 00:29:38,040 --> 00:29:41,670
@@ -6076,7 +6076,7 @@ mas não conseguimos encontrá-lo.
 
 1510
 00:30:02,120 --> 00:30:04,120
-{\be1}Que diz?
+{\be1}O que está dizendo?
 
 1511
 00:30:04,120 --> 00:30:10,300
@@ -6088,7 +6088,7 @@ mas não conseguimos encontrá-lo.
 
 1513
 00:30:17,200 --> 00:30:22,250
-{\be1}...um menino nasceu com o sangue do homem mais malvado do mundo em suas veias.
+{\be1}...um menino nasceu com o sangue do homem mais perigoso do mundo em suas veias.
 
 1514
 00:30:25,670 --> 00:30:27,380
