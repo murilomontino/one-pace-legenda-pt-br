@@ -1,0 +1,1376 @@
+﻿1
+00:00:01,260 --> 00:00:03,930
+Vamos!  Brilhando!  Corra!  Para sempre!
+
+2
+00:00:03,930 --> 00:00:06,700
+Continue avançando!
+
+3
+00:00:06,700 --> 00:00:09,630
+O vínculo que nos
+une nunca se romperá e
+
+4
+00:00:09,630 --> 00:00:12,670
+sua luz brilhará no
+final de nossos sonhos.
+
+5
+00:00:12,670 --> 00:00:15,340
+Acordar!  Acordar!  Acordar!  Acorde batimento cardíaco!
+
+6
+00:00:15,340 --> 00:00:18,300
+Nós somos um!  Vá em frente!
+
+7
+00:00:23,670 --> 00:00:28,070
+A liberdade é a nossa única bússola de que precisamos.  -Nos somos melhores amigos-
+
+8
+00:00:23,750 --> 00:00:28,070
+{\pos(766,524)}Tradução e tempo
+inicial { fs40} Yibis
+
+9
+00:00:28,070 --> 00:00:34,580
+Seremos nós que traçaremos nosso próprio caminho.
+
+10
+00:00:28,160 --> 00:00:32,160
+{\pos(806,360)}Tempo { fs40} Sewil Galaxy 9000
+
+11
+00:00:34,580 --> 00:00:39,000
+Passamos todos os nossos dias nos movendo a toda velocidade, -Vá para o leste, vá para o oeste-
+
+12
+00:00:34,660 --> 00:00:37,600
+{\pos(260,384)}Verificação de qualidade {
+fs40} Sewil Galaxy 9000 Halee
+
+13
+00:00:39,000 --> 00:00:45,410
+cada dia traz algo novo e não deixamos nada inacabado.
+
+14
+00:00:39,020 --> 00:00:42,640
+{\pos(784,396)}Trilha sonora { fs40} Halee
+
+15
+00:00:45,650 --> 00:00:51,200
+Cada prova que superamos traz uma chance de emoção.  (Não posso ficar)
+
+16
+00:00:45,870 --> 00:00:48,560
+{\pos(188,495)}Edição de vídeo { fs40} Sewil
+
+17
+00:00:45,870 --> 00:00:48,560
+{\pos(188,385)}Provedor Raw { fs40} GS-Raws
+
+18
+00:00:51,200 --> 00:00:56,050
+Amanhã e cada dia depois será aquecido, intenso.
+
+19
+00:00:56,050 --> 00:00:59,920
+Uma cadeia de emoções!
+
+20
+00:00:59,920 --> 00:01:02,490
+Isso está certo!  Brilhando!  Corrida!  Para sempre!
+
+21
+00:01:02,490 --> 00:01:05,230
+Confie na sua curiosidade,
+siga o seu coração e siga
+
+22
+00:01:05,230 --> 00:01:10,700
+o seu objetivo, é disso
+que se trata a aventura!
+
+23
+00:01:10,700 --> 00:01:13,400
+Vamos brilhar!  Corrida!  Para sempre!
+
+24
+00:01:13,400 --> 00:01:16,120
+Abra o gráfico dos seus sonhos!
+
+25
+00:01:16,120 --> 00:01:19,170
+Há um poder escondido
+no vínculo entre nós, ele
+
+26
+00:01:19,170 --> 00:01:22,290
+nos ajudará a agarrar o
+fim dos nossos sonhos.
+
+27
+00:01:22,290 --> 00:01:24,960
+Nunca!  Nunca!  Nunca!  Nunca pare!
+
+28
+00:01:24,960 --> 00:01:30,160
+Nós somos um!  Vá em frente!
+
+29
+00:01:31,570 --> 00:01:35,460
+Que conclusão chocante!
+
+30
+00:01:36,450 --> 00:01:39,620
+Ainda havia cerca de vinte
+lutadores,
+
+31
+00:01:39,620 --> 00:01:42,880
+mas todos eles foram
+nocauteados misteriosamente!
+
+32
+00:01:43,680 --> 00:01:48,620
+Isso nunca aconteceu em toda a história do Coliseu Corrida!
+
+33
+00:01:51,130 --> 00:01:53,130
+Mas no centro do ringue,
+
+34
+00:01:53,780 --> 00:01:57,600
+Eu posso ver a sombra de alguém se levantando!
+
+35
+00:01:58,290 --> 00:02:00,970
+Este é o vencedor?!
+
+36
+00:02:01,320 --> 00:02:04,600
+É este o lutador que fez isso?!
+
+37
+00:02:12,440 --> 00:02:13,430
+O que { fscx250} - { r}
+
+38
+00:02:21,130 --> 00:02:25,460
+R-Rebecca?!
+
+39
+00:02:25,460 --> 00:02:29,040
+Rebecca é a única de pé!
+
+40
+00:02:34,320 --> 00:02:39,300
+Todos os renomados lutadores do 
+Bloco D, os favoritos para vitória...
+
+41
+00:02:39,300 --> 00:02:42,710
+continuam no chão!
+
+42
+00:02:42,710 --> 00:02:48,310
+O quarto finalista no torneio de batalha do Corrida Coliseu é...
+
+43
+00:02:48,310 --> 00:02:54,630
+a descendente do vergonhoso Rei Riku de Dressrosa, a gladiadora prisioneira...
+
+44
+00:02:54,630 --> 00:02:57,620
+Rebecca!
+
+45
+00:02:58,660 --> 00:03:00,100
+Até parece!
+
+46
+00:03:00,100 --> 00:03:02,680
+Que tipo de truque você usou, Rebecca?!
+
+47
+00:03:02,680 --> 00:03:05,230
+Desqualifiquem-na!
+
+48
+00:03:06,070 --> 00:03:08,800
+{\fad(504,0)}Alojamento de gladiadores prisioneiros
+
+49
+00:03:06,220 --> 00:03:08,800
+Você conseguiu, Rebecca!
+
+50
+00:03:08,800 --> 00:03:11,230
+O que aconteceu?
+
+51
+00:03:11,230 --> 00:03:13,890
+Quem se importa como ela fez isso?
+
+52
+00:03:13,890 --> 00:03:16,270
+O importante é que Rebecca venceu!
+
+53
+00:03:18,110 --> 00:03:22,150
+O que diabos foi isso?! O que aquela garota fez com Cavendish-sama?!
+
+54
+00:03:22,150 --> 00:03:26,690
+Não há como o Almirante Orlumbus perder para aquela garotinha!
+
+55
+00:03:30,210 --> 00:03:32,170
+Vento cortante?
+
+56
+00:03:32,170 --> 00:03:34,700
+Sim, o Vento Cortante de Rommel.
+
+57
+00:03:34,700 --> 00:03:36,930
+Aposto que nunca ouviram falar...
+
+58
+00:03:37,870 --> 00:03:41,550
+sobre a misteriosa tragédia que uma vez se abateu sobre o reino de Rommel...
+
+59
+00:03:50,540 --> 00:03:57,200
+Dizem que ventos capazes de cortar pessoas sopravam todas as noites. Um conto bizarro.
+
+60
+00:03:57,200 --> 00:04:00,740
+A Marinha foi enviada imediatamente, mas...
+
+61
+00:04:04,100 --> 00:04:07,930
+alguns Marinheiros também foram mortos por aquele vento.
+
+62
+00:04:12,120 --> 00:04:15,540
+Só o que se descobriu no final foi...
+
+63
+00:04:17,000 --> 00:04:23,450
+que o vento era, na verdade, um homem que se autodenominava Hakuba.
+
+64
+00:04:25,260 --> 00:04:29,410
+Ainda não conseguimos capturá-lo.
+
+65
+00:04:29,410 --> 00:04:35,790
+Mesmo depois de deixar o Reino Rommel, Hakuba continuou causando problemas em outros lugares.
+
+66
+00:04:37,370 --> 00:04:43,540
+Onde quer que Hakuba apareça,
+um certo pirata está sempre lá.
+
+67
+00:04:43,540 --> 00:04:44,260
+O que?
+
+68
+00:04:59,520 --> 00:05:02,730
+Você acha que pode escapar de mim, garota?!
+
+69
+00:05:11,530 --> 00:05:12,710
+Saia do meu caminho!
+
+70
+00:05:19,330 --> 00:05:21,230
+Há algo estranho nele.
+
+71
+00:05:24,480 --> 00:05:25,270
+Ele dormiu?!  {Xemnas: alteração pós-controle de qualidade, mudou isso para melhor se adequar ao que estava sendo mostrado quando ele estava acordado momentos antes.}
+
+72
+00:06:25,520 --> 00:06:27,600
+S-sonambulismo?
+
+73
+00:06:27,600 --> 00:06:29,200
+Sim.
+
+74
+00:06:29,200 --> 00:06:36,210
+Hakuba é na verdade uma personalidade alternativa que só aparece quando Cavendish está dormindo.
+
+75
+00:06:36,210 --> 00:06:39,220
+Por causa dos crimes que Hakuba cometeu,
+
+76
+00:06:39,220 --> 00:06:43,420
+Cavendish foi expulso para o mar e teve que se tornar um pirata.
+
+77
+00:06:43,420 --> 00:06:45,740
+Ele é bastante infeliz, então.
+
+78
+00:06:45,740 --> 00:06:47,650
+Não sinta pena dele!
+
+79
+00:06:47,650 --> 00:06:51,000
+Cavendish gosta de sua situação.
+
+80
+00:06:51,000 --> 00:06:53,610
+Tenha pena dele, e ele simplesmente o atacará enquanto você estiver com a guarda baixa.
+
+81
+00:06:54,420 --> 00:06:57,880
+Ele já é um exímio espadachim,
+
+82
+00:06:57,880 --> 00:07:01,720
+mas Hakuba é duas vezes mais forte.
+
+83
+00:07:01,720 --> 00:07:06,660
+Dito isso, o fato de ele dormir sempre que sua outra personalidade emerge...
+
+84
+00:07:06,660 --> 00:07:11,630
+o tornou inadequado para esta batalha total, suponho.
+
+85
+00:07:15,410 --> 00:07:17,730
+Não há como Rebecca ter vencido!
+
+86
+00:07:17,730 --> 00:07:20,150
+Ela deve ter usado uma pistola ou algo assim!
+
+87
+00:07:22,750 --> 00:07:26,660
+Ela venceu sem derrubar um único oponente.
+
+88
+00:07:26,660 --> 00:07:28,690
+É um estilo de luta respeitável.
+
+89
+00:07:28,690 --> 00:07:33,040
+Além disso, ela foi a única que evitou a espada de Hakuba.
+
+90
+00:07:33,040 --> 00:07:34,980
+Você não pode simplesmente atribuir isso à pura sorte.
+
+91
+00:07:37,300 --> 00:07:40,130
+Independentemente de suas circunstâncias de vida,
+
+92
+00:07:40,130 --> 00:07:42,670
+Eu não vou deixá-la ficar com o Fruto das Chamas.
+
+93
+00:07:45,180 --> 00:07:49,340
+Eles realmente me deixaram esperando! Agora eu finalmente posso lutar!
+
+94
+00:07:52,570 --> 00:07:57,460
+{\fad(1000,0)}Palácio Real de Dressrosa
+
+95
+00:07:59,580 --> 00:08:01,360
+Você viu aquilo?
+
+96
+00:08:01,900 --> 00:08:06,200
+Sua neta com certeza tem sorte.
+
+97
+00:08:07,930 --> 00:08:12,920
+Ainda assim, não posso acreditar que você e sua neta competiram no torneio,
+
+98
+00:08:13,730 --> 00:08:16,370
+Rei Riku.
+
+99
+00:08:16,370 --> 00:08:22,880
+Para um ex-rei procurar uma Akuma no Mi, você deve realmente se sentir encurralado.
+
+100
+00:08:26,700 --> 00:08:28,860
+Rebecca...
+
+101
+00:08:28,860 --> 00:08:34,460
+E devo dizer, sua família com certeza está me causando problemas sem fim hoje.
+
+102
+00:08:34,460 --> 00:08:37,800
+Até Violet me traiu.
+
+103
+00:08:37,800 --> 00:08:40,130
+Existe algum tipo de aniversário hoje?
+
+104
+00:08:41,540 --> 00:08:43,740
+Parece que você não percebe...
+
+105
+00:08:45,680 --> 00:08:48,190
+o que suas ações desta manhã significaram para nós.
+
+106
+00:08:48,610 --> 00:08:56,310
+Com relação ao anúncio mundial de Doflamingo renunciando a seu
+trono e título como um Shichibukai... {Copiar de 642}
+
+107
+00:08:56,810 --> 00:08:58,650
+Isso foi um erro.
+
+108
+00:08:58,650 --> 00:09:00,080
+A informação estava incorreta. {End copy-paste from 642}
+
+109
+00:09:01,100 --> 00:09:04,120
+Eu simplesmente tive que lutar.
+
+110
+00:09:04,120 --> 00:09:05,520
+Isso é tudo.
+
+111
+00:09:07,640 --> 00:09:12,560
+Entendo. Então é por isso que você agiu.
+
+112
+00:09:12,560 --> 00:09:15,700
+Mas isso não explica Viola.
+
+113
+00:09:15,700 --> 00:09:20,450
+Ao contrário de você, ela é astuta.
+
+114
+00:09:20,450 --> 00:09:23,340
+Ela nunca deixaria suas emoções dominarem sua razão.
+
+115
+00:09:24,360 --> 00:09:26,950
+Ela deve ter feito uma aposta.
+
+116
+00:09:26,950 --> 00:09:31,180
+O promissor recém-chegado que ousou me desafiar...
+
+117
+00:09:31,180 --> 00:09:36,220
+O Shichibukai, Trafalgar Law.
+
+118
+00:09:40,060 --> 00:09:45,400
+E o homem dessa poderosa linhagem, que causou tanto rebuliço há dois anos...
+
+119
+00:09:45,660 --> 00:09:47,980
+Monkey D. Luffy.
+
+120
+00:09:47,980 --> 00:09:54,140
+Essa mulher espera que sua aliança pirata seja o suficiente para me derrubar.
+
+121
+00:09:56,110 --> 00:10:00,140
+Mas Law já está fora de
+combate,
+
+122
+00:10:00,140 --> 00:10:06,320
+e quando Luffy do Chapéu de Palha deixar o Coliseu, ele não será mais humano.
+
+123
+00:10:06,760 --> 00:10:11,020
+Quanto aos outros Chapéus de Palha...
+
+124
+00:10:11,410 --> 00:10:17,660
+Ouvi dizer que o Cyborg Franky está atacando a Casa dos Brinquedos por conta própria.
+
+125
+00:10:20,260 --> 00:10:23,670
+Resta saber se ele pode derrotar meus Executivos.
+
+126
+00:10:29,170 --> 00:10:31,120
+As outras peças em jogo seriam...
+
+127
+00:10:31,120 --> 00:10:39,640
+O Caçador de Piratas Zoro, Kin'emon "Fogo de Raposa", Nico Robin e Sogeking.
+
+128
+00:10:40,980 --> 00:10:45,930
+Mas eles nem mesmo vão chegar ao subsolo.
+
+129
+00:10:45,930 --> 00:10:50,190
+Sou novo e não sei nada aqui, por favor, poderia me ensinar.
+
+130
+00:10:50,520 --> 00:10:53,670
+{\fad(256,0)}Junto ao Planalto do Rei
+
+131
+00:10:56,800 --> 00:10:58,800
+O elevador está à frente.
+
+132
+00:10:59,120 --> 00:11:02,310
+{\pos(927.2,451.6)}Luffy
+
+133
+00:10:59,120 --> 00:11:02,310
+{\pos(923.2,605.6)}na carpa
+
+134
+00:11:02,740 --> 00:11:05,940
+{\pos(291.2,453.2)}Zoro
+
+135
+00:11:02,740 --> 00:11:05,940
+{\pos(291.2,593.2)}no gato
+
+136
+00:11:06,390 --> 00:11:09,460
+{\pos(382.4,173)}Kin'emon
+
+137
+00:11:06,390 --> 00:11:09,460
+{\pos(204.4,277)}no sapo
+
+138
+00:11:10,040 --> 00:11:11,820
+Ouçam, todos vocês.
+
+139
+00:11:12,340 --> 00:11:14,330
+O palácio real, onde fica Doflamingo
+
+140
+00:11:14,330 --> 00:11:15,520
+a Casa dos Brinquedos,
+
+141
+00:11:15,520 --> 00:11:20,760
+e o porto comercial ilegal onde fica a fábrica da Smile, estão todos conectados.
+
+142
+00:11:20,760 --> 00:11:25,160
+Então, se entrarmos no palácio real teremos acesso à Casa dos Brinquedos e à fábrica?
+
+143
+00:11:25,160 --> 00:11:26,530
+Exatamente!
+
+144
+00:11:26,970 --> 00:11:32,690
+Para chegar na fábrica, normalmente precisa passar pelo palácio ou pela Casa dos brinquedos,
+
+145
+00:11:32,690 --> 00:11:38,180
+mas meus aliados devem ter se infiltrado por uma passagem secreta que cavamos.
+
+146
+00:11:38,180 --> 00:11:41,400
+Precisamos chegar ao palácio real primeiro.
+
+147
+00:11:41,400 --> 00:11:44,020
+Muito bem, eu entendo.
+
+148
+00:11:44,020 --> 00:11:45,970
+Mas devo dizer, mesmo vendo uma bem na minha frente,
+
+149
+00:11:45,970 --> 00:11:49,170
+Mal posso acreditar que pessoas tão pequenas possam existir.
+
+150
+00:11:49,170 --> 00:11:52,220
+Sim, ela parece um brinquedo! É tão legal!
+
+151
+00:11:52,220 --> 00:11:57,800
+Normalmente não devemos nos mostrar a nenhum humano fora da família real.
+
+152
+00:11:57,800 --> 00:12:01,440
+Vocês, Piratas do Chapéu de Palha, também conhecidos como Usolanders, são a única exceção!
+
+153
+00:12:01,440 --> 00:12:03,170
+Usolanders?
+
+154
+00:12:03,970 --> 00:12:07,210
+A operação SOP já está em andamento.
+
+155
+00:12:07,210 --> 00:12:09,170
+Vejam, aí está!
+
+156
+00:12:10,810 --> 00:12:15,110
+O elevador que leva até a entrada do palácio real.
+
+157
+00:12:15,110 --> 00:12:19,770
+Você terá que mostrar um passe aos guardas se quiser pegar o elevador...
+
+158
+00:12:19,770 --> 00:12:20,880
+Vamos logo descer a porrada.
+
+159
+00:12:20,880 --> 00:12:22,220
+Você não pode!
+
+160
+00:12:22,620 --> 00:12:26,390
+Se você fizer isso, você causará confusão e atrairá mais inimigos!
+
+161
+00:12:28,570 --> 00:12:30,460
+Tem alguém ali.
+
+162
+00:12:31,000 --> 00:12:32,030
+Quem é você?
+
+163
+00:12:32,030 --> 00:12:34,000
+Luffy do Chapéu de Palha, suponho?
+
+164
+00:12:34,000 --> 00:12:35,180
+Sim, sou eu.
+
+165
+00:12:35,180 --> 00:12:36,130
+<i>Não responda!</i>
+
+166
+00:12:36,540 --> 00:12:38,200
+Estive esperando por você.
+
+167
+00:12:38,200 --> 00:12:40,510
+Vou te levar para dentro do palácio.
+
+168
+00:12:46,010 --> 00:12:49,530
+Agora tudo o que resta é a final!
+
+169
+00:12:49,530 --> 00:12:50,680
+Contudo...
+
+170
+00:12:50,680 --> 00:12:57,460
+Os quatro executivos que participariam da final, infelizmente, não poderão fazê-lo.  {Halee: devemos colocar "infelizmente" no início da frase (com uma vírgula, é claro)?}
+
+171
+00:13:00,860 --> 00:13:03,800
+Mas não se preocupem!
+
+172
+00:13:03,800 --> 00:13:06,930
+Porque o herói do nosso Coliseu...
+
+173
+00:13:07,330 --> 00:13:10,740
+o próprio Sr. Diamante...
+
+174
+00:13:10,740 --> 00:13:14,710
+foi selecionado para lutar no lugar deles!
+
+175
+00:13:15,280 --> 00:13:17,300
+Diamante!
+
+176
+00:13:17,300 --> 00:13:19,330
+Diamante-sama!
+
+177
+00:13:24,500 --> 00:13:25,500
+Para a ala médica!
+
+178
+00:13:25,500 --> 00:13:27,150
+Depressa!
+
+179
+00:13:34,330 --> 00:13:35,760
+Lucy!
+
+180
+00:13:35,760 --> 00:13:38,460
+Eu também estou na final!
+
+181
+00:13:39,180 --> 00:13:40,160
+Lucy?
+
+182
+00:13:41,370 --> 00:13:43,070
+Você não é ele.
+
+183
+00:13:43,070 --> 00:13:44,150
+Ei, você!
+
+184
+00:13:44,150 --> 00:13:46,440
+Mostre algum respeito, este homem é...
+
+185
+00:13:48,760 --> 00:13:50,580
+Você é Rebecca, certo?
+
+186
+00:13:51,740 --> 00:13:54,610
+Eu sei da sua história.
+
+187
+00:13:55,650 --> 00:14:01,390
+As coisas vão ficar caóticas por aqui, mas não vou te machucar.
+
+188
+00:14:08,090 --> 00:14:11,430
+Tudo por fora é apenas fachada...
+
+189
+00:14:12,410 --> 00:14:14,800
+este país de várias maneiras...
+
+190
+00:14:14,800 --> 00:14:18,100
+me lembra aquele em que crescemos.
+
+191
+00:14:21,080 --> 00:14:25,830
+{\fad(680,0)}Planalto Real
+
+192
+00:14:23,270 --> 00:14:25,830
+Eu tenho o passe de entrada do elevador.
+
+193
+00:14:26,100 --> 00:14:28,730
+{\fad(357,357)}Elevador que leva aos portões do palácio
+
+194
+00:14:26,570 --> 00:14:31,250
+Este elevador pode levá-los aos portões do palácio,
+
+195
+00:14:31,250 --> 00:14:35,720
+mas se vocês forem descobertos,
+está tudo acabado.
+
+196
+00:14:36,480 --> 00:14:38,210
+E o mais importante...
+
+197
+00:14:38,210 --> 00:14:39,410
+Mais importante?
+
+198
+00:14:41,380 --> 00:14:42,570
+Vocês são muito esquisitos.
+
+199
+00:14:42,570 --> 00:14:43,960
+Isso foi desnecessário!
+
+200
+00:14:43,960 --> 00:14:46,800
+Você não é a mulher que estava com nosso cozinheiro antes?  {Cecil: Esta é a primeira vez que Zoro se refere a Sanji sem um insulto?  XD}
+
+201
+00:14:46,800 --> 00:14:47,750
+Sanji?
+
+202
+00:14:48,180 --> 00:14:49,100
+Perna Negra. {Copiar e colar de 652}
+
+203
+00:14:50,650 --> 00:14:53,010
+Minha preciosa Violet-chan! {Fim de copiar e colar de 652}
+
+204
+00:14:53,540 --> 00:14:56,220
+Ele saiu para salvar seu navio, e então...
+
+205
+00:14:56,220 --> 00:14:58,380
+Nós sabemos o resto.
+
+206
+00:14:58,380 --> 00:15:01,050
+Foi você quem disse a ele que o Sunny estava em perigo?
+
+207
+00:15:01,050 --> 00:15:05,810
+E será que foi quem você deu a Sanji-dono o mapa da Casa dos Brinquedos que ele me passou?
+
+208
+00:15:05,810 --> 00:15:07,730
+Sim, fui eu.
+
+209
+00:15:07,730 --> 00:15:09,470
+Por que você faria uma coisa dessas?
+
+210
+00:15:09,880 --> 00:15:13,220
+Eu era uma das subordinados de Doflamingo.
+
+211
+00:15:13,220 --> 00:15:15,300
+O que?! Do Mingo?!
+
+212
+00:15:15,300 --> 00:15:19,200
+Ela estava fingindo trabalhar para Doflamingo!
+
+213
+00:15:22,480 --> 00:15:23,670
+Wicca!
+
+214
+00:15:24,600 --> 00:15:26,700
+Você lembra de mim?
+
+215
+00:15:27,060 --> 00:15:29,540
+Você se esqueceu dos meus poderes?  {Ainda assim, ela não sabia que Wicca estava com a fantasia de Zoro?} {Cecil: Puta merda, isso é verdade !!}
+
+216
+00:15:29,540 --> 00:15:32,970
+Eu tenho te observado o tempo todo.
+
+217
+00:15:32,970 --> 00:15:38,560
+Eu sei que você se juntou ao Soldado de uma perna só que criou Rebecca depois que minha irmã morreu,
+
+218
+00:15:38,560 --> 00:15:42,000
+e que vocês estão prestes a começar uma revolução.
+
+219
+00:15:42,820 --> 00:15:44,690
+Eu vi tudo!  {Então, seus poderes de clarividência também permitem que ela OUÇA as coisas que está espionando?  Quer dizer, eu tenho que presumir porque senão seria um pouco estranho ela saber os detalhes do plano deles.  -Estrelas do mar}
+
+220
+00:15:45,910 --> 00:15:48,830
+Obrigado por acreditar no meu pai.
+
+221
+00:15:53,800 --> 00:15:56,400
+Viola-sama!
+
+222
+00:15:58,020 --> 00:15:58,900
+O que?!
+
+223
+00:15:58,900 --> 00:16:01,520
+Você é filha do rei?!
+
+224
+00:16:04,700 --> 00:16:06,180
+Isso é passado.
+
+225
+00:16:07,120 --> 00:16:10,500
+Então, se Rebecca é a neta do rei...
+
+226
+00:16:10,500 --> 00:16:11,420
+Você é a mãe dela?!
+
+227
+00:16:11,420 --> 00:16:13,620
+Rebecca é minha sobrinha.
+
+228
+00:16:16,720 --> 00:16:20,390
+Ela é filha da minha irmã, Scarlett.
+
+229
+00:16:23,840 --> 00:16:25,240
+Esta poderia ser...
+
+230
+00:16:25,240 --> 00:16:27,500
+Uma passagem secreta?
+
+231
+00:16:27,500 --> 00:16:30,300
+Você sempre foi uma ninja?!
+
+232
+00:16:36,170 --> 00:16:39,480
+Esta é uma passagem de emergência conhecida apenas pela família real Riku.
+
+233
+00:16:40,060 --> 00:16:42,680
+Nem mesmo Doflamingo conhece este lugar.
+
+234
+00:16:49,890 --> 00:16:52,220
+O que poderia ser essa cesta gigante?
+
+235
+00:16:52,560 --> 00:16:55,330
+É uma alavanca para transportar coisas pesadas. Veja.
+
+236
+00:16:56,210 --> 00:16:59,800
+Vai até o topo.
+
+237
+00:17:00,240 --> 00:17:02,170
+Há escadas também. {Ok, sério, Kin'emon tem andado por aí com Legolas do Senhor dos Anéis ultimamente?  Porque ele com certeza parece ter adquirido um talento especial para afirmar o que é flagrantemente óbvio.  -Estrelas do mar}
+
+238
+00:17:02,580 --> 00:17:07,980
+Essas escadas o levarão à Torre Rampart, onde estão os portões do palácio.
+
+239
+00:17:12,740 --> 00:17:17,440
+Luffy. Por que você não pega esse pedregulho e vai pro topo?
+
+240
+00:17:17,440 --> 00:17:20,050
+Oh, essa é uma ideia inspirada.
+
+241
+00:17:20,740 --> 00:17:26,890
+Ele pode agarrar a corrente no topo e descer com ela, e nós subiremos rapidamente.
+
+242
+00:17:27,340 --> 00:17:28,770
+Isso é impossível.
+
+243
+00:17:37,330 --> 00:17:38,180
+Beleza!
+
+244
+00:17:38,180 --> 00:17:39,660
+Vou andando!
+
+245
+00:17:41,290 --> 00:17:42,860
+Depressa, Luffy!
+
+246
+00:17:42,860 --> 00:17:45,480
+Suba a bordo, mulher ninja.
+
+247
+00:17:45,480 --> 00:17:47,650
+O que?!
+
+248
+00:17:48,130 --> 00:17:51,520
+{\fad(405,0)}Casa dos brinquedos
+
+249
+00:17:52,540 --> 00:17:54,900
+Vocês são um saco!
+
+250
+00:17:56,890 --> 00:17:58,970
+{\fad(150,150)}Franky...
+
+251
+00:18:02,330 --> 00:18:04,030
+{\fad(150,150)}Rocket...
+
+252
+00:18:05,380 --> 00:18:06,210
+{\fad(150,150)}Ombro...
+
+253
+00:18:07,240 --> 00:18:09,520
+{\fad(150,150)}Launcher!
+
+254
+00:18:13,100 --> 00:18:14,600
+Corre!
+
+255
+00:18:14,600 --> 00:18:15,970
+Ele cara tem um parafuso a menos!
+
+256
+00:18:15,970 --> 00:18:19,340
+Que tipo de louco coloca uma pistola na cabeça que não atira?
+
+257
+00:18:27,050 --> 00:18:29,480
+Señor! Por favor, fuja!
+
+258
+00:18:30,590 --> 00:18:32,790
+Use seu poder para mergulhar no chão!
+
+259
+00:18:33,220 --> 00:18:35,540
+Não é hora de escovar os dentes com uma escova de sapatos!
+
+260
+00:18:35,540 --> 00:18:37,030
+<i>O que?</i>
+
+261
+00:18:37,030 --> 00:18:38,450
+Não pode ser... {devemos fazer isso "Eu não consigo nem..." ^^}
+
+262
+00:18:38,450 --> 00:18:40,330
+Como ele é durão!
+
+263
+00:18:41,770 --> 00:18:43,760
+Señor!
+
+264
+00:18:43,760 --> 00:18:45,920
+Isto é horrível!
+
+265
+00:18:46,210 --> 00:18:48,120
+<i>Señor Pink!</i>
+
+266
+00:18:48,120 --> 00:18:50,110
+<i>Señor!</i>
+
+267
+00:18:50,110 --> 00:18:52,410
+Por que ele não usou seu poder para escapar?
+
+268
+00:18:53,560 --> 00:18:57,550
+Não fiquem com a ideia errada, pirralhos.
+
+269
+00:19:01,040 --> 00:19:06,320
+Meu poder da Fruta da Natação, que me permite nadar livremente pelo chão e pelas paredes...
+
+270
+00:19:08,640 --> 00:19:12,610
+...não é para eu fugir dos meus inimigos.
+
+271
+00:19:15,960 --> 00:19:17,670
+Eu...
+
+272
+00:19:22,130 --> 00:19:25,490
+nado quando eu quiser.
+
+273
+00:19:27,590 --> 00:19:31,520
+<i>Isso é liberdade!</i>
+
+274
+00:19:32,730 --> 00:19:33,920
+Ele é tão rebelde!
+
+275
+00:19:35,020 --> 00:19:39,020
+Ele está coberto de sangue, e tenho certeza de que seus ossos estão quebrados, e ainda...
+
+276
+00:19:39,020 --> 00:19:41,430
+Ele está desinfetando suas feridas com conhaque!
+
+277
+00:19:41,430 --> 00:19:43,330
+Não é isso!
+
+278
+00:19:43,940 --> 00:19:49,730
+Señor, a razão pela qual você arriscou sua vida para enfrentar aquele ataque...
+
+279
+00:19:51,100 --> 00:19:56,160
+foi porque você sabia que tinha um amigo desprotegido atrás de você, não é?!
+
+280
+00:19:56,160 --> 00:19:58,440
+Meu estômago dói - <i> in.</i>
+
+281
+00:19:59,900 --> 00:20:01,810
+Señor!
+
+282
+00:20:01,810 --> 00:20:03,780
+Meu coração parece que vai explodir!
+
+283
+00:20:04,860 --> 00:20:07,810
+Isso foi há muito tempo. Eu não falo do passado.
+
+284
+00:20:07,810 --> 00:20:10,120
+<i>Segure-me, Señor!</i>
+
+285
+00:20:10,120 --> 00:20:12,020
+Ei, Vise, você pode ficar de pé?
+
+286
+00:20:12,020 --> 00:20:14,860
+Estou bem - <i> in </i>!
+
+287
+00:20:14,860 --> 00:20:17,330
+Que cara durão.
+
+288
+00:20:20,830 --> 00:20:21,680
+{\fad(150,150)}Ton Ton!
+
+289
+00:20:26,200 --> 00:20:28,520
+Meu estômago dói - <i> in.</i>
+
+290
+00:20:28,810 --> 00:20:31,440
+{\an8}Errei de novo - <i> in.</i>
+
+291
+00:20:29,100 --> 00:20:34,110
+{\fad(519,0)}Família Donquixote (Exército Diamante {
+fnA  fs42} ♦ { fn  fs42} Executivo) Machvise
+
+292
+00:20:31,440 --> 00:20:34,110
+{\an8}Você é bem escorregadio - <i> in.</i>
+
+293
+00:20:34,110 --> 00:20:37,100
+Cale-se! Quem <i>super</i>-inferno é você?!
+
+294
+00:20:37,100 --> 00:20:38,730
+Parado!
+
+295
+00:20:39,770 --> 00:20:43,050
+Cyborg Franky, dos Piratas do Chapéu de Palha!
+
+296
+00:20:47,740 --> 00:20:51,130
+A Marinha cercou completamente a Casa dos Brinquedos!
+
+297
+00:20:51,130 --> 00:20:53,740
+O que a Marinha está fazendo aqui?
+
+298
+00:20:53,740 --> 00:20:56,930
+O que? Você não sabia - <i> in </i>?
+
+299
+00:20:57,500 --> 00:20:59,940
+Lá vem mais encrenca.
+
+300
+00:21:00,460 --> 00:21:05,130
+{\fad(657,0)}O Palácio Real
+
+301
+00:21:02,140 --> 00:21:05,130
+A Marinha fez seu movimento.  {Cecil: "The Suit Chamber? Podemos obter um TL ligeiramente diferente?} {Xemnas: Parece estranho, mas representa os 4 naipes nos trunfos e não sei em que mais poderíamos mudar.}
+
+302
+00:21:05,130 --> 00:21:10,950
+Você tomou a decisão correta, Fujitora.
+
+303
+00:21:08,290 --> 00:21:10,950
+{\fad(387,0)}Salão dos Naipes
+
+304
+00:21:13,950 --> 00:21:18,970
+Não é como se eu estivesse do seu lado.
+
+305
+00:21:18,970 --> 00:21:25,830
+Além dos Chapéus de Palha, há outras forças suspeitas agindo neste país.
+
+306
+00:21:25,830 --> 00:21:28,100
+Não tenho escolha a não ser agir.
+
+307
+00:21:30,570 --> 00:21:37,760
+Meus homens devem lutar para reduzir ao mínimo o número de vítimas civis.
+
+308
+00:21:38,940 --> 00:21:46,220
+Se o Chapéu de Palha estiver realmente atrás de sua cabeça, ele provavelmente causaria um grande dano no processo.
+
+309
+00:21:47,850 --> 00:21:53,090
+Nesse caso, evitar isso é minha justiça.
+
+310
+00:21:53,090 --> 00:21:57,430
+Quanto a você... Eu cuidarei de você mais tarde.
+
+311
+00:21:57,890 --> 00:22:00,800
+O que você disse?
+
+312
+00:22:00,800 --> 00:22:05,740
+Posso ser um novato escolhido através do alistamento mundial,
+
+313
+00:22:05,740 --> 00:22:11,590
+mas desde que fui indicado ao posto de Almirante, há algo que quero fazer.
+
+314
+00:22:11,590 --> 00:22:17,680
+Quero eliminar completamente o sistema dos Sete Shichibukai.
+
+315
+00:22:18,240 --> 00:22:23,200
+Houve um pirata que tentou dominar um certo reino no passado. {Cecil: Será que ele quer dizer Arabasta?}
+
+316
+00:22:23,200 --> 00:22:29,030
+Se ele tivesse conseguido, tenho certeza de que aquela terra teria se tornado tão sombria quanto esta.
+
+317
+00:22:29,030 --> 00:22:31,930
+E quanto ao equilíbrio entre os três grandes poderes?
+
+318
+00:22:31,930 --> 00:22:36,120
+Quem sabe? Não há como saber sem realmente destruí-los antes.
+
+319
+00:22:36,120 --> 00:22:37,400
+Então...
+
+320
+00:22:37,860 --> 00:22:40,220
+Se você continuar empilhando crimes...
+
+321
+00:22:47,460 --> 00:22:51,880
+sua recompensa vai aumentar, Senhor Demônio Celestial.
+
+322
+00:22:53,080 --> 00:22:57,290
+Eu sinto que você está me dizendo para matá-lo enquanto tenho chance.
+
+323
+00:22:57,290 --> 00:23:02,360
+Não se precipite. Vamos tentar ser aliados, por enquanto.
+
+324
+00:23:04,530 --> 00:23:07,530
+Estou dizendo que protegerei seu reino.
+
+325
+00:23:08,130 --> 00:23:12,220
+Qualquer sujeira possa vir a ser exposta neste país em um futuro próximo...
+
+326
+00:23:12,220 --> 00:23:18,480
+Eu não vou conseguir ver, então você não precisa se preocupar.
+
+327
+00:23:18,480 --> 00:23:22,950
+Este ano teremos a Conferência Mundial, a <i>Reverie</i>, com os países do Governo Mundial.  {Bem, finalmente eles reconheceram o nome da reunião.  Sério, essa coisa foi mencionada com bastante frequência durante a Ilha dos Tritões, mas nenhuma vez foi mencionada como algo diferente de "a reunião do conselho mundial".  Mesmo que o nome "Reverie" tenha sido estabelecido no mangá na primeira vez que foi citado.  -Starfish} {Cecil: No mangá aqui, eles chamam apenas de Devaneio.}
+
+328
+00:23:26,340 --> 00:23:30,240
+Para melhor ou pior, o mundo mudará.
+
+329
+00:23:32,320 --> 00:23:36,590
+E finalmente o torneio de batalha do Coliseu Corrida...
+
+330
+00:23:37,440 --> 00:23:40,580
+chega a sua rodada final!
+
+331
+00:23:49,050 --> 00:23:50,840
+Cheguei a tempo!
+
+332
+00:23:55,100 --> 00:24:00,080
+O país inteiro está de olho no que vai acontecer nesta arena!
+
+333
+00:24:02,190 --> 00:24:05,820
+Agora todos nós esperamos os cinco competidores entrarem na arena!
+
+334
+00:24:12,280 --> 00:24:13,900
+Aí é onde a diversão começa.
+
+335
+00:24:14,690 --> 00:24:17,880
+Bem! Vamos lá, Marincolosseo!
+
+336
+00:24:17,880 --> 00:24:21,240
+É o Bartolomeo! De onde você tirou um nome tão estúpido?
+
+337
+00:24:23,870 --> 00:24:27,240
+Agora, o primeiro a entrar é...
+
+338
+00:24:32,620 --> 00:24:34,250
+É ele!
+
+339
+00:24:34,640 --> 00:24:41,020
+A estrela em ascensão deste torneio, o nosso Lucy, chegou!
+
+340
+00:24:47,060 --> 00:24:50,820
+Observe-me, Ace!
+
