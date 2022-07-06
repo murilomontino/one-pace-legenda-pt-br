@@ -1,0 +1,1701 @@
+﻿1
+00:00:00,000 --> 00:00:00,000
+!retime("start2syl",-800+($if-1)*80, 0)!{an5move(!$scenter-math.random(-40,-10)!,!$middle-math. random(70,90)!,$scenter,$smiddle,0,500)fad(700,0)t(0,400,1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+2
+00:00:15,270 --> 00:00:15,270
+!retime("postsyl",-$dur,1400-$dur)!{an5pos($center,$middle)t(0,33,3c&HFFFFFF&bord7blur3)t(33,$dur ,bord11a&HFF&blur1)fad(0,800)}
+
+3
+00:00:00,000 --> 00:00:00,000
+!retime("start2syl",-800+($if-1)*80, 0)!{an5move(!$scenter-math.random(-40,-10)!,!$middle-math. random(70,90)!,$scenter,$smiddle,0,500)fad(700,0)t(0,400,1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+4
+00:00:15,270 --> 00:00:15,270
+!retime("postsyl",-$dur,1400-$dur)!{an5pos($center,$middle)t(0,33,3c&HFFFFFF&bord7blur3)t(33,$dur ,bord11a&HFF&blur1)fad(0,800)}
+
+5
+00:00:00,000 --> 00:00:00,000
+!retime("start2syl",-800+($if-1)*80, 0)!{an5move(!$scenter-math.random(-40,-10)!,!$middle-math. random(70,90)!,$scenter,$smiddle,0,500)fad(700,0)t(0,400,1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+6
+00:00:15,270 --> 00:00:15,270
+!retime("postsyl",-$dur,1400-$dur)!{an5pos($center,$middle)t(0,33,3c&HFFFFFF&bord7blur3)t(33,$dur ,bord11a&HFF&blur1)fad(0,800)}
+
+7
+00:00:00,000 --> 00:00:00,000
+função char_counter2(ref) ci2[ref] = ci2[ref] + 1;  retornar "" fim
+
+8
+00:00:00,000 --> 00:00:00,000
+função phong(ref) ci[ref]=ci[ref]-1;  retornar "" fim;  ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 ,0,0,0,0,0,0,0,0,0};  cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+
+9
+00:00:00,000 --> 00:00:00,000
+!retime("linha",-(ci[1]-1)*15,-300-(ci[1]-1)*10)!!phong(1)!{an5move(!$scenter- math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)fad(700,300)t(0,400,1vc(&HFFFFFF&,&HFFFFFF& ,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+10
+00:01:43,460 --> 00:01:45,460
+
+
+11
+00:01:45,460 --> 00:01:50,700
+Toda vez que olho para o céu depois da chuva,
+
+12
+00:01:50,700 --> 00:01:56,200
+Lembro-me da época em que eu era apenas um bebê chorão.
+
+13
+00:01:56,200 --> 00:02:03,940
+Eu estava desesperadamente seguindo os passos de alguém,
+
+14
+00:02:04,010 --> 00:02:06,910
+enquanto pensava "quero ser mais forte".
+
+15
+00:02:06,910 --> 00:02:12,120
+Agora que meus "obrigados" se perderam no vento,
+
+16
+00:02:12,280 --> 00:02:17,290
+posso ficar mais forte?
+
+17
+00:02:17,490 --> 00:02:22,960
+Eu ainda não consigo encontrar a resposta,
+
+18
+00:02:23,090 --> 00:02:28,470
+Então vou seguir em frente.
+
+19
+00:02:28,630 --> 00:02:31,100
+Venha, vamos.
+
+20
+00:02:31,100 --> 00:02:34,310
+Nós nunca vamos parar.
+
+21
+00:02:34,310 --> 00:02:39,540
+Não vamos perder com o passar do tempo.
+
+22
+00:02:39,540 --> 00:02:45,180
+Continuaremos subindo, de novo e de novo;
+
+23
+00:02:45,180 --> 00:02:50,820
+porque não queremos perder o que nos importa.
+
+24
+00:02:50,820 --> 00:02:55,930
+Eu posso ouvir uma voz na minha cabeça
+
+25
+00:02:55,930 --> 00:03:01,330
+que sempre, sempre me incentiva a seguir em frente.
+
+26
+00:03:01,330 --> 00:03:06,470
+Mesmo que a chuva prematura fique no meu caminho,
+
+27
+00:03:06,470 --> 00:03:11,410
+Eu não vou tentar escapar.
+
+28
+00:03:14,510 --> 00:03:16,850
+Venha, vamos.
+
+29
+00:03:16,850 --> 00:03:20,150
+Nós nunca vamos parar.
+
+30
+00:03:20,150 --> 00:03:25,420
+Não vamos perder com o passar do tempo.
+
+31
+00:03:25,420 --> 00:03:31,060
+Continuaremos subindo, de novo e de novo;
+
+32
+00:03:31,060 --> 00:03:36,430
+porque não queremos perder o que nos importa.
+
+33
+00:03:36,430 --> 00:03:42,140
+Para o futuro eu acredito...
+
+34
+00:00:35,450 --> 00:00:39,310
+mau = { "&H24CFF5&", "&H0C3AE8&", "&H2355EA&" }
+
+35
+00:00:00,000 --> 00:00:00,000
+fumaça = { "m 20 0 b 44 0 38 29 20 28 b -1 28 0 0 20 0 ", "m 15 0 b 32 0 28 21 15 20 b 1 20 1 0 15 0 ", "m 12 0 b 25 0 22 13 12 13 b 2 13 2 0 12 0 "}
+
+36
+00:00:35,450 --> 00:00:39,310
+!retime("syl",0.700+($si-1)*20)!{blur10an5bord0c!mau[math.random(3)]!fscx60fscy60move($scenter,$ smiddle,!$scenter+math.random(-70,70)!,!$smiddle+math.random(-50,50)!)fad(0,1000)t(0,$dur,fscx90 fscy90)p1}!smoke[math.random(3)]!
+
+37
+00:00:00,000 --> 00:00:00,000
+função char_counter(ref) ci[ref] = ci[ref] + 1;  retornar "" fim
+
+38
+00:00:00,000 --> 00:00:00,000
+ci = { 0,0 };  cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+
+39
+00:00:00,000 --> 00:00:00,000
+temperatura = {}
+
+40
+00:00:35,450 --> 00:00:39,310
+!retime("syl",-25.500)!{an5fad(0,300)pos($scenter,$smiddle)blur51c&H4169EC&fscx120fscy120t(0,25,bord2blur0)t (25 ,$dur,3c&HFFFFFF&fscx100fscy100bord2blur0)}
+
+41
+00:00:35,450 --> 00:00:39,310
+!char_counter(2)!!retime("start2syl",-900+(ci[2]-1)*5,0)!{an5bord0blur10fscx!math.random(150,250)!fscy! math.random(150,250)!c&H0C3AE8&3c&HFFFFFF&pos($scenter,$smiddle)fad(230,0)t(0,300,blur0fscx100fscy100)t(200,400,bord2}
+
+42
+00:00:00,000 --> 00:00:00,000
+!retime("start2syl",-800+($if-1)*80, 0)!{an5move(!$scenter-math.random(-40,-10)!,!$middle-math. random(70,90)!,$scenter,$smiddle,0,500)fad(700,0)t(0,400,1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+43
+00:00:00,000 --> 00:00:00,000
+!retime("start2syl",-800+($if-1)*80, 0)!{an5move(!$scenter-math.random(-40,-10)!,!$middle-math. random(70,90)!,$scenter,$smiddle,0,500)fad(700,0)t(0,400,1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+44
+00:00:00,000 --> 00:00:00,000
+!retime("start2syl",-800+($if-1)*80, 0)!{an5move(!$scenter-math.random(-40,-10)!,!$middle-math. random(70,90)!,$scenter,$smiddle,0,500)fad(700,0)t(0,400,1vc(&HFFFFFF&,&HFFFFFF&,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+45
+00:00:00,000 --> 00:00:00,000
+função char_counter2(ref) ci2[ref] = ci2[ref] + 1;  retornar "" fim
+
+46
+00:00:00,000 --> 00:00:00,000
+função phong(ref) ci[ref]=ci[ref]-1;  retornar "" fim;  ci={40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 ,0,0,0,0,0,0,0,0,0};  cn= _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+
+47
+00:00:00,000 --> 00:00:00,000
+!retime("linha",-(ci[1]-1)*15,-300-(ci[1]-1)*10)!!phong(1)!{an5move(!$scenter- math.random(-40,-10)!,!$middle-math.random(70,90)!,$scenter,$smiddle,0,500)fad(700,300)t(0,400,1vc(&HFFFFFF&,&HFFFFFF& ,&H6A0A5C&,&H3E0235&)fscx100fscy100)}
+
+48
+00:00:00,000 --> 00:00:00,000
+fumaça = { "m 20 0 b 44 0 38 29 20 28 b -1 28 0 0 20 0 ", "m 15 0 b 32 0 28 21 15 20 b 1 20 1 0 15 0 ", "m 12 0 b 25 0 22 13 12 13 b 2 13 2 0 12 0 "}
+
+49
+00:00:00,000 --> 00:00:00,000
+função char_counter(ref) ci[ref] = ci[ref] + 1;  retornar "" fim
+
+50
+00:00:00,000 --> 00:00:00,000
+ci = { 0,0 };  cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+
+51
+00:00:00,000 --> 00:00:00,000
+temperatura = {}
+
+52
+00:00:06,870 --> 00:00:10,320
+{\be1}Um recém-nascido não tem pecados.
+
+53
+00:00:10,900 --> 00:00:12,150
+{\be1}Garp...
+
+54
+00:00:13,490 --> 00:00:15,690
+{\be1}{fad(0.300)}Cuide do meu filho.
+
+55
+00:00:15,270 --> 00:00:15,270
+!retime("postsyl",-$dur,1400-$dur)!{an5pos($center,$middle)t(0,33,3c&HFFFFFF&bord7blur3)t(33,$dur ,bord11a&HFF&blur1)fad(0,800)}
+
+56
+00:00:15,270 --> 00:00:15,270
+!retime("postsyl",-$dur,1400-$dur)!{an5pos($center,$middle)t(0,33,3c&HFFFFFF&bord7blur3)t(33,$dur ,bord11a&HFF&blur1)fad(0,800)}
+
+57
+00:00:15,270 --> 00:00:15,270
+!retime("postsyl",-$dur,1400-$dur)!{an5pos($center,$middle)t(0,33,3c&HFFFFFF&bord7blur3)t(33,$dur ,bord11a&HFF&blur1)fad(0,800)}
+
+58
+00:00:18,020 --> 00:00:20,800
+{\be1}Seu pai é...
+
+59
+00:00:20,800 --> 00:00:25,470
+{\be1}...o Rei dos Piratas, Gold Roger!
+
+60
+00:00:35,450 --> 00:00:39,310
+mau = { "&H24CFF5&", "&H0C3AE8&", "&H2355EA&" }
+
+61
+00:00:35,450 --> 00:00:39,310
+!retime("syl",0.700+($si-1)*20)!{blur10an5bord0c!mau[math.random(3)]!fscx60fscy60move($scenter,$ smiddle,!$scenter+math.random(-70,70)!,!$smiddle+math.random(-50,50)!)fad(0,1000)t(0,$dur,fscx90 fscy90)p1}!smoke[math.random(3)]!
+
+62
+00:00:35,450 --> 00:00:39,310
+!retime("syl",-25.500)!{an5fad(0,300)pos($scenter,$smiddle)blur51c&H4169EC&fscx120fscy120t(0,25,bord2blur0)t (25 ,$dur,3c&HFFFFFF&fscx100fscy100bord2blur0)}
+
+63
+00:00:35,450 --> 00:00:39,310
+!char_counter(2)!!retime("start2syl",-900+(ci[2]-1)*5,0)!{an5bord0blur10fscx!math.random(150,250)!fscy! math.random(150,250)!c&H0C3AE8&3c&HFFFFFF&pos($scenter,$smiddle)fad(230,0)t(0,300,blur0fscx100fscy100)t(200,400,bord2}
+
+64
+00:00:38,740 --> 00:00:43,290
+{\be1}Ace, o punho de Fogo... é filho de Gold Roger?!
+
+65
+00:00:48,670 --> 00:00:51,060
+{\be1}É uma grande noticia!
+
+66
+00:00:51,060 --> 00:00:52,350
+{\be1}Ligue para o escritório imediatamente!
+
+67
+00:00:52,350 --> 00:00:54,350
+{\be1}Publicaremos as novidades agora mesmo!
+
+68
+00:00:56,060 --> 00:00:57,870
+{\be1}Então ele ainda está vivo...
+
+69
+00:01:00,830 --> 00:01:02,520
+{\be1}...o...
+
+70
+00:01:10,180 --> 00:01:12,980
+{\be1}O sangue do Rei dos Piratas continua vivo!
+
+71
+00:01:43,460 --> 00:01:45,460
+
+
+72
+00:01:44,710 --> 00:01:50,830
+{\be1\fad(700,300)}Toda vez que olho para o céu depois da chuva,
+
+73
+00:03:51,500 --> 00:03:56,300
+{\fad(1000,1000)}Ace e Barba Branca
+
+74
+00:04:04,560 --> 00:04:07,860
+{\be1}Então, ele não é irmão de sangue de Luffy.
+
+75
+00:04:14,090 --> 00:04:16,200
+{\be1}O filho de...
+
+76
+00:04:16,200 --> 00:04:18,200
+{\be1}...Roger?
+
+77
+00:04:23,610 --> 00:04:26,500
+{\be1}Então ele tinha um filho vivo.
+
+78
+00:04:26,500 --> 00:04:27,910
+{\be1}É um milagre que ele tenha sobrevivido.
+
+79
+00:04:27,910 --> 00:04:32,640
+{\be1}Todos os parentes de Roger
+sofreram o mesmo castigo!
+
+80
+00:04:32,640 --> 00:04:38,390
+{\be1}A-Já que ele é irmão do Luffy-san,
+pensei que Dragon fosse o pai dele...
+
+81
+00:04:38,390 --> 00:04:41,490
+{\be1}Também achei!  O que está acontecendo?
+
+82
+00:04:41,490 --> 00:04:44,130
+{\be1}Isso significa que eles não são irmãos de verdade?
+
+83
+00:04:47,690 --> 00:04:50,370
+{\be1}Dá para acreditar, Garp?
+
+84
+00:04:50,370 --> 00:04:52,930
+{\be1}Uma criança está prestes a nascer...
+
+85
+00:04:52,930 --> 00:04:54,070
+{\be1}Meu filho.
+
+86
+00:04:56,980 --> 00:05:01,160
+{\be1}Embora eu tenha medo de que quando eu nascer, eu não esteja mais vivo.
+
+87
+00:05:03,890 --> 00:05:07,090
+{\be1}E por que você diz a um marinheiro?
+
+88
+00:05:07,090 --> 00:05:08,140
+{\be1}Roger!
+
+89
+00:05:08,140 --> 00:05:13,960
+{\be1}A mãe dessa criança e qualquer mulher
+relacionada a você, sem dúvida, serão executadas!
+
+90
+00:05:17,060 --> 00:05:19,230
+{\be1}É por isso que estou lhe dizendo.
+
+91
+00:05:23,200 --> 00:05:28,310
+{\be1}O governo certamente vai descobrir
+onde eu estava no ano passado.
+
+92
+00:05:28,310 --> 00:05:31,420
+{\be1}Eles vão encontrá-la e matá-la.
+
+93
+00:05:31,420 --> 00:05:35,550
+{\be1}Mas, um recém-nascido não tem pecados.
+
+94
+00:05:36,550 --> 00:05:37,920
+{\be1}Garp!
+
+95
+00:05:37,920 --> 00:05:42,540
+{\be1}Você e eu quase nos matamos inúmeras vezes.
+
+96
+00:05:43,010 --> 00:05:48,200
+{\be1}Eu confio em você como um membro da minha tripulação!
+
+97
+00:05:58,930 --> 00:06:00,870
+{\be1}Proteja-o para mim.
+
+98
+00:06:02,280 --> 00:06:04,940
+{\be1}Não venha dizer essa porcaria egoísta pra mim!
+
+99
+00:06:05,480 --> 00:06:08,650
+{\be1}Não, eu sei que você vai!
+
+100
+00:06:15,840 --> 00:06:20,500
+{\be1\fad(0,300)}Cuide do meu filho!
+
+101
+00:06:46,020 --> 00:06:49,090
+{\be1}Tem certeza que é esta ilha?
+
+102
+00:06:49,090 --> 00:06:54,680
+{\be1}Temos testemunhas que viram um pirata parecido com Roger...
+
+103
+00:06:54,680 --> 00:06:56,710
+{\be1}... em uma atitude muito paternal.
+
+104
+00:06:56,710 --> 00:06:59,590
+{\be1}A era Roger acabou.
+
+105
+00:06:59,590 --> 00:07:02,040
+{\be1}Devemos erradicar todos os vestígios de seu sangue.
+
+106
+00:07:02,040 --> 00:07:08,440
+{\be1}Investigaremos todas as crianças nascidas durante os dez meses após a sua prisão.
+
+107
+00:07:15,210 --> 00:07:17,500
+{\be1}E também todas as grávidas.
+
+108
+00:07:20,720 --> 00:07:23,460
+{\be1}Mate todas as mães suspeitas.
+
+109
+00:08:12,870 --> 00:08:14,960
+{\be1\fad(200,0)}Cinco crianças nasceram este mês.
+
+110
+00:08:24,910 --> 00:08:26,440
+{\be1\fad(200,0)}Espera-se que nasçam no próximo mês...
+
+111
+00:08:36,830 --> 00:08:38,030
+{\be1}{fad(0.200)}Ainda não.
+
+112
+00:08:42,130 --> 00:08:44,310
+{\be1}{fad(0,200)}Você ainda não pode nascer.
+
+113
+00:08:49,180 --> 00:08:50,920
+{\be1}Sinto muito.
+
+114
+00:08:53,010 --> 00:08:54,340
+{\be1}Ainda não.
+
+115
+00:08:57,850 --> 00:08:59,420
+{\be1}Ainda não.
+
+116
+00:09:02,790 --> 00:09:05,860
+{\be1}Ainda não... ainda não...
+
+117
+00:09:23,740 --> 00:09:26,400
+{\be1}Se for uma menina, o nome dela será Ann.
+
+118
+00:09:27,580 --> 00:09:30,930
+{\be1}Se for um menino, Ace.
+
+119
+00:09:31,980 --> 00:09:34,720
+{\be1}É o que ele decidiu.
+
+120
+00:09:37,420 --> 00:09:40,460
+{\be1}Esse garoto se chama Gol D. Ace.
+
+121
+00:09:50,900 --> 00:09:53,870
+{\be1}Ele é nosso filho.
+
+122
+00:09:59,060 --> 00:09:59,960
+{\be1}Rouge!
+
+123
+00:09:59,960 --> 00:10:02,280
+{\be1}Rouge!  Resista!
+
+124
+00:10:10,450 --> 00:10:12,690
+{\be1}Dadan, cuide dele!
+
+125
+00:10:14,220 --> 00:10:15,630
+{\be1}Não pode ser...!
+
+126
+00:10:17,730 --> 00:10:19,370
+{\be1}De quem ele é filho?
+
+127
+00:10:23,370 --> 00:10:24,520
+{\be1}Dadan?
+
+128
+00:10:24,520 --> 00:10:25,870
+{\be1}Sim.
+
+129
+00:10:25,870 --> 00:10:27,920
+{\be1}A partir de hoje, você vai morar aqui.
+
+130
+00:10:27,920 --> 00:10:29,970
+{\be1}Ei?
+
+131
+00:10:29,970 --> 00:10:32,470
+{\be1}Você vai morar com esses caras.
+
+132
+00:10:32,470 --> 00:10:33,610
+{\be1}Tente se dar bem com eles.
+
+133
+00:10:39,610 --> 00:10:41,320
+{\be1}Por mais irritante que seja,
+
+134
+00:10:41,320 --> 00:10:46,000
+{\be1}eu e Luffy carregamos sangue de um criminoso de renome nas veias.
+
+135
+00:10:46,000 --> 00:10:49,490
+{\be1}Apesar de ter uma dívida com
+minha mãe e ter o nome Portgas...
+
+136
+00:10:49,490 --> 00:10:53,460
+{\be1}Mesmo assim, nego carregar o sangue
+de um pai tão miserável quanto o meu.
+
+137
+00:10:55,550 --> 00:10:56,700
+{\be1}Velho...
+
+138
+00:10:57,100 --> 00:10:59,370
+{\be1}Meu pai é...
+
+139
+00:11:02,270 --> 00:11:04,800
+{\be1}...Barba Branca e mais ninguém.
+
+140
+00:11:08,550 --> 00:11:09,910
+{\be1}Garp...
+
+141
+00:11:11,000 --> 00:11:12,780
+{\be1}Já se passaram dois anos, certo?
+
+142
+00:11:12,780 --> 00:11:17,830
+{\be1}Desde que você adotou o nome de sua mãe, você formou os Piratas Spade...
+
+143
+00:11:17,830 --> 00:11:23,260
+{\be1}...e partiu para os mares com força e velocidade formidáveis.
+
+144
+00:11:23,260 --> 00:11:26,430
+{\be1}Foi então que percebemos...
+
+145
+00:11:26,430 --> 00:11:30,400
+{\be1}...que o sangue de Roger ainda estava vivo!
+
+146
+00:11:36,590 --> 00:11:42,020
+{\be1}Mas Barba Branca percebeu a mesma coisa que nós,
+
+147
+00:11:42,020 --> 00:11:45,640
+{\be1}decidiu criar você para ser o próximo Rei dos Piratas...
+
+148
+00:11:45,640 --> 00:11:49,700
+{\be1}...e deixou o filho de seu antigo rival entrar em seu navio!
+
+149
+00:11:51,320 --> 00:11:53,120
+{\be1}Errado!
+
+150
+00:11:53,120 --> 00:11:56,520
+{\be1}Entrei naquele navio para que o velho pudesse se tornar o Rei dos Piratas!
+
+151
+00:11:56,520 --> 00:11:58,940
+{\be1}Você é o único que acredita nisso!
+
+152
+00:11:59,830 --> 00:12:03,310
+{\be1}Isso nos fez ter que agir com muito cuidado.
+
+153
+00:12:03,310 --> 00:12:06,400
+{\be1}Você estava sob a proteção do Barba Branca!
+
+154
+00:12:07,140 --> 00:12:13,510
+{\be1}Mas se te deixássemos em paz, você começaria a seguir seus instintos e mirar no topo da próxima geração de piratas.
+
+155
+00:12:13,510 --> 00:12:18,770
+{\be1}É por isso que sua execução é de grande importância.
+
+156
+00:12:21,510 --> 00:12:25,670
+{\be1}Mesmo que isso signifique declarar guerra ao Barba Branca!
+
+157
+00:12:34,970 --> 00:12:36,470
+{\be1}Almirante de Frota Sengoku!
+
+158
+00:12:36,470 --> 00:12:38,000
+{\be1}Venho informar-vos!
+
+159
+00:12:38,000 --> 00:12:41,310
+{\be1}Os Portões da Justiça estão se
+abrindo, mas ninguém deu a ordem!
+
+160
+00:12:41,310 --> 00:12:44,270
+{\be1}Também não podemos entrar em contato com a sala de máquinas!
+
+161
+00:12:44,270 --> 00:12:45,440
+{\be1}O que disse?!
+
+162
+00:12:58,620 --> 00:13:00,800
+{\be1}Eles foram abertas!
+
+163
+00:13:00,800 --> 00:13:02,560
+{\be1}O que está acontecendo?!
+
+164
+00:13:02,560 --> 00:13:06,360
+{\be1}Os Portões da Justiça se abriram sozinhos!
+
+165
+00:13:06,360 --> 00:13:10,140
+{\be1}Embora os marinheiros tenham dito que nunca abririam!
+
+166
+00:13:12,370 --> 00:13:15,710
+{\be1}Abrem a partir da sala de máquinas em Marineford.
+
+167
+00:13:15,710 --> 00:13:17,030
+{\be1}Quem teria feito isso?
+
+168
+00:13:20,280 --> 00:13:24,140
+{\be1}Aqui vem!  É hora!
+
+169
+00:13:24,140 --> 00:13:27,500
+{\be1}C-Capitão Buggy, não me diga...!
+
+170
+00:13:28,600 --> 00:13:29,950
+{\be1}A hora chegou!
+
+171
+00:13:29,950 --> 00:13:31,800
+{\be1}Não me diga que você...!
+
+172
+00:13:31,800 --> 00:13:34,560
+{\be1}Eu não tinha percebido que ele era um enviado divino!
+
+173
+00:13:34,560 --> 00:13:36,270
+{\be1}Sério?!  Buggy?!
+
+174
+00:13:36,270 --> 00:13:39,660
+{\be1}Claro que não é verdade!  Deve ser um truque!
+
+175
+00:13:39,660 --> 00:13:44,140
+{\be1}É verdade... Quem terá aberto os portões?
+
+176
+00:13:44,640 --> 00:13:49,070
+{\be1}Não!  O próprio céu vai querer me fazer o Rei dos Piratas?!
+
+177
+00:13:54,590 --> 00:13:56,420
+{\be1}Aqui estão!
+
+178
+00:13:56,420 --> 00:13:58,720
+{\be1}Todas as tropas!  Prepare-se para a batalha!
+
+179
+00:14:06,690 --> 00:14:09,680
+{\be1}Eles apareceram tão de repente!  Mas de onde eles vêm?!
+
+180
+00:14:20,790 --> 00:14:23,480
+{\be1}É uma enorme frota de navios piratas!
+
+181
+00:14:23,480 --> 00:14:26,150
+{\be1}Onde está Barba Branca?  Encontre-o!
+
+182
+00:14:27,450 --> 00:14:29,180
+{\be1}Douma, o Cavaleiro Errante!
+
+183
+00:14:29,180 --> 00:14:30,450
+{\be1}McGuy, o Senhor do Relâmpago!
+
+184
+00:14:31,220 --> 00:14:32,780
+{\be1}Os irmãos DeCalvan!
+
+185
+00:14:33,420 --> 00:14:35,020
+{\be1}Squard, a Grande Aranha do Redemoinho!
+
+186
+00:14:35,590 --> 00:14:40,210
+{\be1}Eles são todos piratas famosos do Novo Mundo!
+
+187
+00:14:41,480 --> 00:14:43,600
+{\be1}São 43 navios!
+
+188
+00:14:43,600 --> 00:14:46,470
+{\be1}Ainda não consigo ver o Barba Branca ou seus comandantes...
+
+189
+00:14:46,470 --> 00:14:50,370
+{\be1}Mas esses piratas estão definitivamente ligados a ele!
+
+190
+00:14:50,370 --> 00:14:52,100
+{\be1}Você pode ver Ace-chan?
+
+191
+00:14:52,100 --> 00:14:54,780
+{\be1}Ai está!  Ace!
+
+192
+00:14:58,360 --> 00:15:01,400
+{\be1}Não se assuste com isso!  Eles são patéticos!
+
+193
+00:15:03,420 --> 00:15:05,320
+{\be1}Rapazes...!
+
+194
+00:15:05,320 --> 00:15:06,850
+{\be1}Vamos atacá-los?
+
+195
+00:15:06,850 --> 00:15:08,230
+{\be1}Não, esperem.
+
+196
+00:15:08,230 --> 00:15:10,450
+{\be1}Barba Branca deve estar por aqui!
+
+197
+00:15:10,450 --> 00:15:12,440
+{\be1}Você deve estar esperando o momento certo.
+
+198
+00:15:12,440 --> 00:15:13,980
+{\be1}Observe a superfície da água!
+
+199
+00:15:15,930 --> 00:15:19,030
+{\be1}Agora fica interessante! Emocionante!
+
+200
+00:15:19,030 --> 00:15:21,100
+{\be1}Apareça imediatamente, Barba Branca!
+
+201
+00:15:39,590 --> 00:15:40,920
+{\be1}Não pode ser!
+
+202
+00:15:47,040 --> 00:15:48,390
+{\be1}De onde vem?
+
+203
+00:15:49,790 --> 00:15:53,730
+{\be1}Uau, você escolheu um lugar incrível para aparecer!
+
+204
+00:15:53,730 --> 00:15:55,650
+{\be1}Nós nunca consideramos isso.
+
+205
+00:16:06,250 --> 00:16:08,490
+{\be1}Há uma sombra no fundo da baía!
+
+206
+00:16:08,490 --> 00:16:09,650
+{\be1}Não pode ser!
+
+207
+00:16:19,450 --> 00:16:21,140
+{\be1}Então foi isso que eles fizeram.
+
+208
+00:16:21,140 --> 00:16:26,580
+{\be1}Eles revestiram toda a sua frota e vieram pelo fundo do mar!
+
+209
+00:16:42,620 --> 00:16:45,250
+{\be1}É Moby Dick!
+
+210
+00:17:01,070 --> 00:17:04,600
+{\be1}Mais três navios do Barba Branca apareceram!
+
+211
+00:17:08,840 --> 00:17:11,460
+{\be1}Eles se infiltraram na baía!
+
+212
+00:17:13,740 --> 00:17:15,410
+{\be1}I-Isso é...
+
+213
+00:17:15,410 --> 00:17:17,950
+{\be1}...o comandante da Primeira Divisão, Marco!
+
+214
+00:17:19,560 --> 00:17:23,760
+{\be1}Todos os quatorze comandantes estão aqui!
+
+215
+00:17:51,080 --> 00:17:54,220
+{\be1}Quantas décadas se passaram, Sengoku?
+
+216
+00:17:54,720 --> 00:17:56,750
+{\be1}Barba branca!
+
+217
+00:17:56,750 --> 00:17:59,160
+{\be1}Presumo que meu filho amado...
+
+218
+00:18:00,030 --> 00:18:02,330
+{\be1}...ainda esteja bem?
+
+219
+00:18:14,000 --> 00:18:17,690
+{\be1}Como ele pôde entrar tão facilmente...?!
+
+220
+00:18:23,480 --> 00:18:24,870
+{\be1}Atravessamos os portões!
+
+221
+00:18:24,870 --> 00:18:31,330
+{\be1}Agora me pergunto se o pai de vocês dois vai aparecer.
+
+222
+00:18:31,330 --> 00:18:32,460
+{\be1}De vocês?
+
+223
+00:18:32,460 --> 00:18:37,260
+{\be1}Já que seu filho está prestes a ser executado,
+Dragon certamente fará alguma coisa!
+
+224
+00:18:37,260 --> 00:18:40,260
+{\be1}Ah, Ace e eu não somos filhos do mesmo pai.
+
+225
+00:18:41,730 --> 00:18:44,450
+{\be1}Meu pai é Dragon,
+
+226
+00:18:44,450 --> 00:18:47,470
+{\be1}mas o de Ace é Gold Roger.
+
+227
+00:18:47,470 --> 00:18:48,340
+{\be1}O que?!
+
+228
+00:18:49,240 --> 00:18:52,300
+{\be1}É incrível, mas ouvi dizer que eles nunca se conheceram.
+
+229
+00:18:52,300 --> 00:18:55,110
+{\be1}Mas Ace fica bravo sempre que digo isso.
+
+230
+00:18:55,110 --> 00:18:56,390
+{\be1}O que?!
+
+231
+00:18:55,110 --> 00:18:56,390
+{\be1}O que?!
+
+232
+00:18:56,390 --> 00:18:58,470
+{\be1}Oh, é suposto ser um segredo.
+
+233
+00:18:58,470 --> 00:19:01,490
+{\be1}O que?!
+
+234
+00:18:58,470 --> 00:19:01,490
+{\be1}O que?!
+
+235
+00:19:13,230 --> 00:19:16,330
+{\be1}Espere um pouco mais, Ace.
+
+236
+00:19:22,310 --> 00:19:24,400
+{\be1}Velho!
+
+237
+00:19:43,590 --> 00:19:45,270
+{\be1}O-o quê?
+
+238
+00:19:45,270 --> 00:19:46,630
+{\be1}O ar está rachando?!
+
+239
+00:19:57,860 --> 00:19:59,970
+{\be1}Que tipo de explosão é essa?!
+
+240
+00:19:59,970 --> 00:20:02,610
+{\be1}Isto não é bom!  Olha o tamanho dessa onda!
+
+241
+00:20:02,610 --> 00:20:06,520
+{\be1}Um maremoto?!  Pode agitar os mares?!
+
+242
+00:20:06,520 --> 00:20:08,720
+{\be1}Tem um por aqui também!
+
+243
+00:20:08,720 --> 00:20:10,750
+{\be1}Esse é o poder do Barba Branca?!
+
+244
+00:20:14,090 --> 00:20:16,190
+{\be1}{fad(0,200)}Vou em frente!
+
+245
+00:20:21,270 --> 00:20:23,270
+{\be1}Cuide-se, Ace!
+
+246
+00:20:23,270 --> 00:20:25,970
+{\be1}Certo!  Até mais, Luffy!
+
+247
+00:20:25,970 --> 00:20:26,910
+{\be1}Sim!
+
+248
+00:20:26,910 --> 00:20:31,710
+{\be1}Quando eu for para o mar daqui
+a três anos, terei ficado mais forte!
+
+249
+00:20:31,710 --> 00:20:32,820
+{\be1}Sim!
+
+250
+00:20:34,350 --> 00:20:36,850
+{\be1}Ace!
+
+251
+00:20:45,640 --> 00:20:47,760
+{\be1}Vamos causar alguns problemas!
+
+252
+00:20:49,680 --> 00:20:52,860
+{\be1}Aquele pirralho...!  Ele se tornou um pirata?!
+
+253
+00:20:52,860 --> 00:20:56,130
+{\be1}Um navio pirata!  Não conheço essa bandeira!
+
+254
+00:21:02,940 --> 00:21:06,640
+{\be1}Esse é um pirata que ficou muito forte ultimamente.
+
+255
+00:21:06,640 --> 00:21:09,100
+{\be1}D?  De onde vem?!
+
+256
+00:21:09,100 --> 00:21:14,490
+{\be1}Não temos certeza de suas origens, mas ele é
+um novato com uma habilidade do tipo Logia.
+
+257
+00:21:16,510 --> 00:21:20,470
+{\be1}Há um pirralho muito interessante na Grand Line.
+
+258
+00:21:20,470 --> 00:21:23,290
+{\be1}Parece que ele se recusou a se juntar ao Shichibukai.
+
+259
+00:21:23,290 --> 00:21:27,750
+{\be1}Mas quantos anos ele tem? É apenas uma criança...
+
+260
+00:21:27,750 --> 00:21:31,430
+{\be1}Por que os jovens estão sempre com tanta pressa?
+
+261
+00:21:31,800 --> 00:21:34,340
+{\be1}Você está falando sério, capitão?!
+
+262
+00:21:34,340 --> 00:21:36,010
+{\be1}Eu quero conhecê-lo, não importa o quê!
+
+263
+00:21:36,340 --> 00:21:38,180
+{\be1}Shanks, o ruivo!
+
+264
+00:21:39,240 --> 00:21:41,580
+{\be1}Os Piratas Spade?
+
+265
+00:21:42,080 --> 00:21:47,190
+{\be1}Os famosos Super Rookies... vieram me cumprimentar?
+
+266
+00:21:47,190 --> 00:21:49,840
+{\be1}Não, não é nada disso!
+
+267
+00:21:49,840 --> 00:21:53,690
+{\be1}Você salvou a vida do meu irmãozinho. 
+Ele vivia falando sobre isso
+
+268
+00:21:53,690 --> 00:21:56,130
+{\be1}Eu só queria conhecê-lo para dizer obrigado.
+
+269
+00:21:56,130 --> 00:21:57,290
+{\be1}Luffy?!
+
+270
+00:21:58,270 --> 00:22:00,060
+{\be1}Eu não sabia que ele tinha um irmão!
+
+271
+00:22:00,060 --> 00:22:03,070
+{\be1}Já vejo!  Que bom que veio!
+
+272
+00:22:03,070 --> 00:22:05,700
+{\be1}Me diga mais!
+
+273
+00:22:05,700 --> 00:22:07,600
+{\be1}Vamos fazer uma festa!
+
+274
+00:22:12,080 --> 00:22:15,480
+{\be1}Hei grandão!  Eu quero conhecer o Barba Branca!
+
+275
+00:22:15,480 --> 00:22:20,610
+{\be1}Não permitirei que uma criança tão violenta veja o velho!
+
+276
+00:22:20,610 --> 00:22:22,750
+{\be1}Capitão!  Ele é o Jinbe!
+
+277
+00:22:22,750 --> 00:22:25,610
+{\be1}Sim?  Aquele que é um Shichibukai?
+
+278
+00:22:25,610 --> 00:22:28,280
+{\be1}Isso me dará mais prestígio.
+
+279
+00:22:28,280 --> 00:22:32,170
+{\be1}Talvez ele não seja um membro dos Piratas do Barba Branca,
+
+280
+00:22:32,170 --> 00:22:35,060
+{\be1}Mas me sinto compelido, então vou enfrentar você.
+
+281
+00:22:44,990 --> 00:22:49,250
+{\be1}Cinco dias se passaram e eles ainda estão lutando!
+
+282
+00:22:49,250 --> 00:22:51,170
+{\be1}Eles podem morrer a qualquer momento!
+
+283
+00:23:03,290 --> 00:23:06,010
+{\be1}Ace!
+
+284
+00:23:13,740 --> 00:23:15,640
+{\be1}O que é isso?!
+
+285
+00:23:16,140 --> 00:23:20,510
+{\be1}Onde está aquele que quer minha cabeça?
+
+286
+00:23:23,110 --> 00:23:27,420
+{\be1}Vou conceder-lhe a honra de me enfrentar!
+
+287
+00:23:28,520 --> 00:23:30,820
+{\be1}São os Piratas do Barba Branca!
+
+288
+00:23:31,690 --> 00:23:34,790
+{\be1}Eu mesmo cuidarei disso.
+
+289
+00:23:43,340 --> 00:23:44,800
+{\be1}Rapazes!
+
+290
+00:23:46,020 --> 00:23:48,490
+{\be1}Flame Fence!
+
+291
+00:23:49,680 --> 00:23:52,660
+{\be1}Capitão!  Capitão Ace! O que você está fazendo?!
+
+292
+00:23:52,660 --> 00:23:54,210
+{\be1}Corram, rapazes!
+
+293
+00:23:54,210 --> 00:23:56,080
+{\be1}Capitão!
+
+294
+00:23:57,850 --> 00:24:01,520
+{\be1}O que?  Você se acovardou?
+
+295
+00:24:01,520 --> 00:24:03,570
+{\be1}Deixe meus companheiros escaparem.
+
+296
+00:24:03,570 --> 00:24:06,590
+{\be1}Em troca disso... eu não vou fugir!
+
+297
+00:24:07,490 --> 00:24:10,930
+{\be1}Que pirralho arrogante!
+
+298
+00:24:22,380 --> 00:24:23,780
+{\be1}Eu...
+
+299
+00:24:26,280 --> 00:24:28,050
+{\be1}Você ainda pode se levantar?
+
+300
+00:24:30,480 --> 00:24:34,610
+{\be1}Seria uma pena se você morresse aqui, pirralho.
+
+301
+00:24:34,610 --> 00:24:36,430
+{\be1}Se você ainda quer lutar,
+
+302
+00:24:36,430 --> 00:24:41,260
+{\be1}então use meu nome, e lute
+neste mar o quanto quiser!
+
+303
+00:24:45,900 --> 00:24:47,870
+{\be1}Torne-se meu filho!
+
+304
+00:24:48,700 --> 00:24:50,920
+{\be1}Não fale besteiras!
+
+305
+00:24:56,750 --> 00:25:00,000
+{\be1}Eu sou o Comandante da Quarta Divisão, Thatch!
+
+306
+00:25:00,500 --> 00:25:02,400
+{\be1}Já que você será nosso parceiro,
+
+307
+00:25:03,870 --> 00:25:05,150
+{\be1}Vamos tentar nos dar bem.
+
+308
+00:25:05,150 --> 00:25:06,770
+{\be1}Calado!
+
+309
+00:25:08,900 --> 00:25:10,990
+{\be1}Uau, você acordou de mal humor.
+
+310
+00:25:10,990 --> 00:25:12,210
+{\be1}Ah sim.
+
+311
+00:25:12,210 --> 00:25:14,870
+{\be1}Você quer saber o que aconteceu depois que você desmaiou?
+
+312
+00:25:15,470 --> 00:25:21,870
+{\be1}Seus companheiros de equipe vieram atrás de você, então demos a eles o que eles mereciam.
+
+313
+00:25:21,870 --> 00:25:24,360
+{\be1}Mas eles não estão mortos
+
+314
+00:25:24,360 --> 00:25:26,890
+{\be1}mas a bordo.
+
+315
+00:25:26,890 --> 00:25:30,500
+{\be1}Vocês têm certeza de que estão me deixando andar assim, sem me algemar nem nada?
+
+316
+00:25:30,500 --> 00:25:33,710
+{\be1}algemar você?  Desnecessário!
+
+317
+00:25:55,790 --> 00:25:58,450
+{\be1}Ei, ei, o que você pensa que está fazendo?
+
+318
+00:25:58,450 --> 00:26:01,200
+{\be1}Você não pode ver que horas são?
+
+319
+00:26:15,410 --> 00:26:17,400
+{\be1}Ei, ele caiu no mar!
+
+320
+00:26:17,400 --> 00:26:18,600
+{\be1}Não pode nadar!
+
+321
+00:26:18,600 --> 00:26:20,260
+{\be1}Alguém vá salvá-lo!
+
+322
+00:26:22,730 --> 00:26:24,830
+{\be1}Todos os dias ele tenta.
+
+323
+00:26:24,830 --> 00:26:27,180
+{\be1}É realmente persistente.
+
+324
+00:26:28,890 --> 00:26:30,220
+{\be1}Já vão mais de uma centena de vezes, certo?
+
+325
+00:26:30,220 --> 00:26:31,500
+{\be1}Com certeza que sim.
+
+326
+00:26:48,390 --> 00:26:49,650
+{\be1}Diga-me...
+
+327
+00:26:50,840 --> 00:26:53,860
+{\be1}Por que vocês o chamam de pai?
+
+328
+00:26:56,130 --> 00:27:00,590
+{\be1}Porque ele nos chama de filhos.
+
+329
+00:27:01,430 --> 00:27:04,970
+{\be1}Para o resto do mundo, somos todos párias.
+
+330
+00:27:05,860 --> 00:27:07,860
+{\be1}Isso nos deixa felizes.
+
+331
+00:27:07,860 --> 00:27:12,210
+{\be1}É só uma palavra, mas nos deixa felizes!
+
+332
+00:27:20,410 --> 00:27:24,720
+{\be1}Ei, por quanto tempo mais você vai continuar arriscando sua vida assim?
+
+333
+00:27:25,670 --> 00:27:27,530
+{\be1}Decida-se de uma vez!
+
+334
+00:27:28,130 --> 00:27:31,400
+{\be1}Você não será capaz de vencer o velho em sua condição atual.
+
+335
+00:27:32,450 --> 00:27:35,560
+{\be1}Você vai sair do navio e começar de novo...
+
+336
+00:27:36,820 --> 00:27:38,560
+{\be1}...ou você vai ficar aqui...
+
+337
+00:27:40,860 --> 00:27:43,660
+{\be1}...e aceitar a bandeira do Barba Branca?
+
+338
+00:27:50,980 --> 00:27:52,840
+{\be1}Você é Douma, certo?
+
+339
+00:27:56,940 --> 00:28:00,230
+{\be1}Ace fez isso de novo!
+
+340
+00:28:00,230 --> 00:28:03,260
+{\be1}Ele acabou de fazer a tripulação de Douma se render!
+
+341
+00:28:03,260 --> 00:28:05,730
+{\be1}Você quer que eu seja o comandante da Segunda Divisão?
+
+342
+00:28:05,730 --> 00:28:08,800
+{\be1}Estamos sem um há muito tempo.
+
+343
+00:28:08,800 --> 00:28:10,700
+{\be1}Os outros vão aceitá-lo!
+
+344
+00:28:12,970 --> 00:28:15,550
+{\be1}Mas você é um veterano aqui, certo?
+
+345
+00:28:15,550 --> 00:28:17,550
+{\be1}Está tudo bem?
+
+346
+00:28:18,640 --> 00:28:20,830
+{\be1}Claro, não se preocupe.
+
+347
+00:28:20,830 --> 00:28:23,850
+{\be1}Eu não aspiro a isso.
+
+348
+00:28:25,120 --> 00:28:28,190
+{\be1}Vá em frente, Comandante Ace!
+
+349
+00:28:32,920 --> 00:28:35,350
+{\be1}A sério?  Que surpresa!
+
+350
+00:28:35,350 --> 00:28:36,930
+{\be1}Então é isso.
+
+351
+00:28:39,420 --> 00:28:42,180
+{\be1}Mas você não age como Roger...
+
+352
+00:28:43,660 --> 00:28:45,760
+{\be1}Vocês não eram inimigos?
+
+353
+00:28:45,760 --> 00:28:47,150
+{\be1}Não vai me expulsar?
+
+354
+00:28:47,150 --> 00:28:53,860
+{\be1}Quando você disse que tinha algo importante
+a dizer, pensei que era algo mais sério...
+
+355
+00:28:53,860 --> 00:28:57,880
+{\be1}Não importa quem foram seus
+pais, somos todos filhos do mar.
+
+356
+00:29:07,950 --> 00:29:11,190
+{\be1}{fad(200,0)}Parece que outro cara incrível se juntou ao Barba Branca.
+
+357
+00:29:11,190 --> 00:29:13,500
+{\be1}Dizem que é muito forte!
+
+358
+00:29:31,310 --> 00:29:34,220
+{\be1}Pare Ace!  Vá com calma!
+
+359
+00:29:34,220 --> 00:29:37,170
+{\be1}O velho disse que desta vez vamos abrir uma exceção!
+
+360
+00:29:37,170 --> 00:29:38,890
+{\be1}Não vá atrás do Teach!
+
+361
+00:29:38,890 --> 00:29:41,990
+{\be1}Solte!  Ele era um membro da minha divisão!
+
+362
+00:29:41,990 --> 00:29:46,450
+{\be1}Se eu deixar pra lá, Thatch não vai descansar em paz!
+
+363
+00:29:47,020 --> 00:29:48,170
+{\be1}Ace...
+
+364
+00:29:50,160 --> 00:29:53,800
+{\be1}Deixe ir desta vez.
+
+365
+00:29:53,800 --> 00:29:57,130
+{\be1}Eu tenho um mau pressentimento.
+
+366
+00:29:57,130 --> 00:30:00,340
+{\be1}Ele matou um parceiro e escapou!
+
+367
+00:30:00,530 --> 00:30:03,180
+{\be1}Depois de viver sob sua proteção por tantos anos,
+
+368
+00:30:03,180 --> 00:30:05,550
+{\be1}ele riu na sua cara!
+
+369
+00:30:07,650 --> 00:30:10,500
+{\be1}E pior ainda, ele manchou o nome de seu pai.
+
+370
+00:30:10,500 --> 00:30:12,790
+{\be1}Você acha que eu posso ignorá-lo?
+
+371
+00:30:12,980 --> 00:30:15,530
+{\be1}Eu vou consertar isso!
+
+372
+00:30:20,930 --> 00:30:23,220
+{\be1}Ei, espere!  Volte Ace!
+
+373
+00:30:24,690 --> 00:30:26,000
+{\be1}Ace!
+
+374
+00:30:35,760 --> 00:30:37,470
+{\be1}Velho...
+
+375
+00:30:38,940 --> 00:30:40,140
+{\be1}Rapazes...
+
+376
+00:30:43,390 --> 00:30:46,370
+{\be1}Fui embora ignorando seu conselho!
+
+377
+00:30:46,370 --> 00:30:48,760
+{\be1}Por que não me abandoram?!
+
+378
+00:30:48,760 --> 00:30:50,990
+{\be1}{fad(0,200)}Isso aconteceu porque eu sou teimoso!
+
+379
+00:30:53,750 --> 00:30:54,730
+{\be1}Não...
+
+380
+00:30:57,770 --> 00:31:01,570
+{\be1}Fui eu que te dei a ordem,
+
+381
+00:31:02,770 --> 00:31:04,960
+{\be1}meu filho.
+
+382
+00:31:08,660 --> 00:31:11,410
+{\be1}É mentira!  Não seja ridículo!
+
+383
+00:31:11,410 --> 00:31:13,990
+{\be1}Você tentou me impedir, mas eu...!
+
+384
+00:31:13,990 --> 00:31:16,750
+{\be1}Eu disse para você ir!
+
+385
+00:31:22,260 --> 00:31:27,430
+{\be1}Eu me lembro perfeitamente que eu
+disse para você ir buscá-lo, certo, Marco?
+
+386
+00:31:27,600 --> 00:31:30,200
+{\be1}Sim, alto e claro.
+
+387
+00:31:30,200 --> 00:31:33,010
+{\be1}Você passou por momentos difíceis, Ace.
+
+388
+00:31:33,010 --> 00:31:36,670
+{\be1}Nestes mares, todos sabem muito bem...
+
+389
+00:31:37,840 --> 00:31:40,210
+{\be1}...o que acontece quando alguém...
+
+390
+00:31:40,210 --> 00:31:44,560
+{\be1}... fere um de nossos companheiros.
+
+391
+00:31:46,370 --> 00:31:51,410
+{\be1}Quem te machucar não sairá vivo, Ace!
+
+392
+00:31:51,410 --> 00:31:53,390
+{\be1}Espere!  Nós vamos resgatá-lo imediatamente!
+
+393
+00:31:59,660 --> 00:32:02,730
+{\be1}Preparem-se, marinheiros!
+
+394
+00:32:09,010 --> 00:32:11,910
+{\be1}Ele reuniu um grupo impressionante, hein?
+
+395
+00:32:11,910 --> 00:32:15,000
+{\be1}E você diz isso agora?
+
+396
+00:32:16,100 --> 00:32:18,250
+{\be1}Eu não gosto disso.
+
+397
+00:32:26,240 --> 00:32:28,560
+{\be1}E esse tremor?!
+
+398
+00:32:28,560 --> 00:32:30,290
+{\be1}Aqui vem.
+
+399
+00:32:30,290 --> 00:32:33,260
+{\be1}O maremoto que ele causou mais cedo...
+
+400
+00:32:33,260 --> 00:32:36,070
+{\be1}... vai voltar como um tsunami!
+
+401
+00:32:42,370 --> 00:32:44,940
+{\be1}Edward Newgate, também conhecido como Barba Branca,
+
+402
+00:32:44,940 --> 00:32:48,950
+{\be1}tem o poder de causar terremotos,
+comeu a fruta Gura Gura!
+
+403
+00:32:44,940 --> 00:32:48,950
+{\clip(0,0,1279,719)\1a&H80&\be1\fad(300,0)\t(0,300,\fscx570)\move(133,65,133,-57,3490,3990)}legal
+
+404
+00:32:44,940 --> 00:32:48,950
+{\clip(0,0,1279,719)\be1\fad(300,0)\move(60,69,60,-53,3490,3990)}Shi
+
+405
+00:32:44,940 --> 00:32:48,950
+{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,3490,3990)}chibukai
+
+406
+00:32:44,940 --> 00:32:48,950
+{\clip(0,0,1279,719)\be1\fad(300,0)\move(58,72,58,-50,3490,3990)}fansub!
+
+407
+00:32:44,940 --> 00:32:48,950
+{\clip(0,0,1279,719)\alpha&HFF&\t(300,600,\alpha&H00&)\move(650,35,650,-81,3490,3990)}Gura Gura: Onomatopeia de tremor.
+
+408
+00:32:52,150 --> 00:32:53,620
+{\be1}O que é isso?!
+
+409
+00:32:53,620 --> 00:32:55,620
+{\be1}É um enorme tsunami!
+
+410
+00:32:55,620 --> 00:33:00,410
+{\be1}Podemos superá-los em número, mas não
+assuma que isso garante nossa vitória...
+
+411
+00:33:00,410 --> 00:33:04,550
+{\be1}É possível que os perdedores sejam nós!
+
+412
+00:33:04,550 --> 00:33:06,100
+{\be1}Esse homem...
+
+413
+00:33:07,200 --> 00:33:10,370
+{\be1}...tem o poder de destruir o mundo inteiro!
+
+414
+00:33:19,540 --> 00:33:21,310
+{\be1}A guerra...
+
+415
+00:33:21,310 --> 00:33:22,740
+{\be1}...vai começar!
+
+416
+00:33:25,850 --> 00:33:27,720
+{\be1}Vamos lá!
+
+417
+00:33:25,850 --> 00:33:27,720
+{\be1}Vamos lá!
+
+418
+00:33:37,290 --> 00:33:43,300
+{\be1}De um lado, quarenta e sete navios piratas do Novo Mundo liderados por Barba Branca.
+
+419
+00:33:43,300 --> 00:33:49,110
+{\be1}Do outro, as duas grandes forças do Governo: A Marinha e os Shichibukai.
+
+420
+00:33:50,040 --> 00:33:53,350
+{\be1}Não importa quem ganhar ou quem perder,
+
+421
+00:33:53,350 --> 00:33:55,860
+{\be1}uma nova era está prestes a começar.
+
